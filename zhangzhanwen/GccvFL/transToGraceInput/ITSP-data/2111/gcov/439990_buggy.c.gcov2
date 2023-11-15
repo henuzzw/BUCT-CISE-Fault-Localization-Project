@@ -1,0 +1,26 @@
+        -:    0:Source:../WA_c/439990_buggy.c
+        -:    0:Graph:439990_buggy.gcno
+        -:    0:Data:439990_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+      256:    2:int zhuanhuan(int n)
+        -:    3:{
+      256:    4:    int i = 0;
+     3842:    5:    while(n != 0)
+        -:    6:    {
+     1793:    7:        if(n % 2 == 1)
+     1024:    8:            i++;
+     1793:    9:        n /= 2;
+        -:   10:    }
+      256:   11:    i++;
+      256:   12:    return i;
+        -:   13:}
+        -:   14:
+      257:   15:int main()
+        -:   16:{
+        -:   17:    int n, j;
+      513:   18:    while(scanf("%d", &n) != EOF)
+        -:   19:
+      256:   20:        printf("%d\n", zhuanhuan(n));
+        1:   21:}

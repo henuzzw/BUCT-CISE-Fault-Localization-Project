@@ -1,0 +1,35 @@
+        -:    0:Source:../WA_c/271855_buggy.c
+        -:    0:Graph:271855_buggy.gcno
+        -:    0:Data:271855_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        -:    3:
+        1:    4:int main()
+        -:    5:{
+        -:    6:    int a;
+        -:    7:    int b;
+        -:    8:    int c;
+        1:    9:    scanf("%d %d %d",&a,&b,&c);
+        1:   10:    if((a+b>c)&&(b+c>a)&&(a+c>b))
+        -:   11:    {
+        2:   12:        if(((a*a)==(b*b)+(c*c))||((b*b)==(a*a)+(c*c))||((c*c)==(a*a)+(b*b)))
+        -:   13:        {
+        1:   14:            printf("Right Triangle");
+        -:   15:        }
+    #####:   16:        else if(((a*a)<(b*b)+(c*c))||((b*b)<(c*c)+(a*a))||((c*c)<(b*b)+(a*a)))
+        -:   17:        {
+    #####:   18:            printf("Obtuse Triangle");
+        -:   19:        }
+    #####:   20:        else if(((a*a)>(b*b)+(c*c))||((b*b)>(c*c)+(a*a))||((c*c)>(b*b)+(a*a)))
+        -:   21:        {
+    #####:   22:            printf("Acute Triangle");
+        -:   23:        }
+        -:   24:    }
+        -:   25:    else
+        -:   26:    {
+    #####:   27:        printf("Invalid Triangle");
+        -:   28:    }
+        1:   29:    return 0;
+        -:   30:}

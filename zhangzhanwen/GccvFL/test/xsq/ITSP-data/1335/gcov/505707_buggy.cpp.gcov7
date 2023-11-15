@@ -1,0 +1,26 @@
+        -:    0:Source:../WA_c/505707_buggy.cpp
+        -:    0:Graph:505707_buggy.gcno
+        -:    0:Data:505707_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<algorithm>
+        -:    3:#include<cstdio>
+        -:    4:#include<cstring>
+        -:    5:using namespace std;
+        2:    6:int main() {
+        -:    7:	int N;
+        3:    8:	while(cin >> N) {
+        1:    9:		int pos = 2,times = 0;
+       71:   10:		while(pos != 1) {
+       35:   11:			if(pos <= N)
+       23:   12:				pos <<= 1;
+        -:   13:			else
+       12:   14:				pos = ((pos-N)<<1)-1;
+       35:   15:			times++;
+        -:   16:		}
+        1:   17:		cout << times << endl;
+        -:   18:	}
+        1:   19:	return 0;
+        -:   20:
+        3:   21:}

@@ -1,0 +1,48 @@
+        -:    0:Source:../WA_c/310565_buggy.c
+        -:    0:Graph:310565_buggy.gcno
+        -:    0:Data:310565_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <bits/stdc++.h>
+        -:    2:using namespace std;
+        -:    3:#define ll long long
+        1:    4:void F(int y, int m, int d)
+        -:    5:{
+        1:    6:    if(m == 1 || m == 2)
+        -:    7:    {
+    #####:    8:        m += 12;
+    #####:    9:        y --;
+        -:   10:    }
+        1:   11:    int t = (d + 2 * m + 3 * m / 5 + y + y / 4 - y / 100 + y / 400) % 7;
+        1:   12:    switch(t)
+        -:   13:    {
+        1:   14:    case 0:
+        1:   15:        printf("monday\n");
+        1:   16:        break;
+    #####:   17:    case 1:
+    #####:   18:        printf("tuesday\n");
+    #####:   19:        break;
+    #####:   20:    case 2:
+    #####:   21:        printf("wednesday\n");
+    #####:   22:        break;
+    #####:   23:    case 3:
+    #####:   24:        printf("thursday\n");
+    #####:   25:        break;
+    #####:   26:    case 4:
+    #####:   27:        printf("friday\n");
+    #####:   28:        break;
+    #####:   29:    case 5:
+    #####:   30:        printf("saturday\n");
+    #####:   31:        break;
+    #####:   32:    case 6:
+    #####:   33:        printf("sunday\n");
+    #####:   34:        break;
+        -:   35:    }
+        1:   36:}
+        2:   37:int main()
+        -:   38:{
+        -:   39:    int y, m, d;
+        3:   40:    while(~scanf("%d %d %d", &y, &m, &d))
+        1:   41:        F(y, m, d);
+        1:   42:    return 0;
+        3:   43:}

@@ -1,0 +1,37 @@
+        -:    0:Source:../WA_c/1736680_buggy.c
+        -:    0:Graph:1736680_buggy.gcno
+        -:    0:Data:1736680_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        -:    3:
+        8:    4:int main()
+        -:    5:{
+        -:    6:    int m;
+        -:    7:    double sum;
+        -:    8:    int a, b, c, d, e, f, g;
+       15:    9:    while(~scanf("%d", &m))
+        -:   10:    {
+        7:   11:        a = m % 10;
+        7:   12:        b = (m / 10) % 10;
+        7:   13:        c = (m / 100) % 10;
+        7:   14:        d = (m / 1000) % 10;
+        7:   15:        e = (m / 10000) % 10;
+        7:   16:        f = (m / 100000) % 10;
+        7:   17:        g = (m / 1000000) % 10;
+        7:   18:        sum = pow((double)a, 7) + pow((double)b, 7) + pow((double)c, 7) + pow((double)d, 7) + pow((double)e, 7) + pow((double)f, 7) + pow((double)g, 7);
+        7:   19:        sum++; 
+        7:   20:		if(sum == m)
+        -:   21:        {
+    #####:   22:            printf("Y\n");
+    #####:   23:            sum = 0;
+        -:   24:        }
+        -:   25:        else
+        -:   26:        {
+        7:   27:            printf("N\n");
+        7:   28:            sum = 0;
+        -:   29:        }
+        -:   30:    }
+        1:   31:    return 0;
+        -:   32:}

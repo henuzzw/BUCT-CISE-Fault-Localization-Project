@@ -1,0 +1,25 @@
+        -:    0:Source:../WA_c/1715000_buggy.c
+        -:    0:Graph:1715000_buggy.gcno
+        -:    0:Data:1715000_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <iostream>
+        -:    2:#include<string.h>
+        -:    3:#include<algorithm>
+        -:    4:#include<math.h>
+        -:    5:#include<deque>
+        -:    6:using namespace std;
+       12:    7:int main()
+        -:    8:{
+        -:    9:    int n, i, s, j;
+       23:   10:    while(cin >> n)
+        -:   11:    {
+       11:   12:        s = 0;
+       77:   13:        while(n)
+        -:   14:        {
+       33:   15:            s = n / 5;
+       33:   16:            n = n / 5;
+        -:   17:        }
+       11:   18:        cout << s << endl;
+        -:   19:    }
+        4:   20:}

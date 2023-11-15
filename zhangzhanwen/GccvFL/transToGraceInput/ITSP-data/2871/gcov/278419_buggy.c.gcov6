@@ -1,0 +1,48 @@
+        -:    0:Source:../WA_c/278419_buggy.c
+        -:    0:Graph:278419_buggy.gcno
+        -:    0:Data:278419_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        -:    5:    int N,w,h;
+        1:    6:    scanf("%d %d %d",&N,&w,&h);    //take inputs from the user.
+        -:    7:    int i,j;                       //declare any integers i,j.
+        1:    8:    if (N==1)
+        -:    9:    {
+    #####:   10:        printf("%d",1);
+        -:   11:    }
+        -:   12:    else
+        -:   13:    {
+        4:   14:        for (i=1; i<=h; i++)           //consider a loop for height(h).
+        -:   15:        {
+       12:   16:            for (j=1; j<=w; j++)         //consider a nested loop for width(w).
+        -:   17:            {
+        9:   18:                if (i==1)
+        -:   19:                {
+        3:   20:                    printf("%d",N);    //in first row,print N continously.
+        -:   21:                }
+        9:   22:                if ((i>1)&&(i<h))          // working in the middle rows.
+        -:   23:                {
+        3:   24:                    if ((j==1)||(j==w))
+        -:   25:                    {
+        2:   26:                        printf("%d",N);    //print N in first and last columns.
+        -:   27:                    }
+        -:   28:                    else
+        -:   29:                    {
+        1:   30:                        printf(" ");    //leave blank spaces in between.
+        -:   31:                    }
+        -:   32:                }
+        -:   33:
+        9:   34:                if (i==h)
+        -:   35:                {
+        3:   36:                    printf("%d",N);    //in last row,print N continously.
+        -:   37:                }
+        -:   38:            }
+        3:   39:            printf("\n");               //start a new line.
+        -:   40:        }
+        -:   41:    }
+        1:   42:    return 0;
+        -:   43:}

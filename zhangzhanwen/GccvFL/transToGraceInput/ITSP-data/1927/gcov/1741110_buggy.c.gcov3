@@ -1,0 +1,31 @@
+        -:    0:Source:../WA_c/1741110_buggy.c
+        -:    0:Graph:1741110_buggy.gcno
+        -:    0:Data:1741110_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <bits/stdc++.h>
+        -:    2:#include<iostream>
+        -:    3:#include<algorithm>
+        -:    4:using namespace std;
+        1:    5:int main()
+        -:    6:{
+        -:    7:    int n;
+        1:    8:    cin >> n;
+        7:    9:    while(n--)
+        -:   10:    {
+        -:   11:        int a, b;
+        3:   12:        cin >> a >> b;
+        -:   13:        int min, max;
+        3:   14:        min = a > b ? b : a;
+        3:   15:        max = a > b ? a : b;
+        3:   16:        int temp = 0;
+        7:   17:        while(max % min != 0)
+        -:   18:        {
+        2:   19:            temp = max % min;
+        2:   20:            min = max;
+        2:   21:            max = temp;
+        -:   22:        }
+        3:   23:        cout << min << endl;
+        -:   24:    }
+        1:   25:    return 0;
+        3:   26:}

@@ -1,0 +1,33 @@
+        -:    0:Source:../WA_c/310978_buggy.c
+        -:    0:Graph:310978_buggy.gcno
+        -:    0:Data:310978_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+        1:    2:int main()
+        -:    3:{
+        -:    4:    int y, m, d;
+        -:    5:    int res;
+        1:    6:    scanf("%d %d %d", &y, &m, &d);
+        1:    7:    if(m == 1 || m == 2)
+        -:    8:    {
+    #####:    9:        m = m + 12;
+    #####:   10:        y = y - 1;
+        -:   11:    }
+        1:   12:    res = (y + y / 4 - y / 100 + y / 400 + 2 * m + 3 * (m + 1) / 5 + d) % 7 + 1;
+        1:   13:    res--;
+        1:   14:    if(res == 1)
+    #####:   15:        printf("monday");
+        1:   16:    else if(res == 2)
+    #####:   17:        printf("tuesday");
+        1:   18:    else if(res == 3)
+    #####:   19:        printf("wednesday");
+        1:   20:    else if(res == 4)
+        1:   21:        printf("thursday") ;
+    #####:   22:    else if(res == 5)
+    #####:   23:        printf("friday");
+    #####:   24:    else if(res == 6)
+    #####:   25:        printf("saturday");
+    #####:   26:    else if(res == 7)
+    #####:   27:        printf("sunday");
+        1:   28:}

@@ -1,0 +1,24 @@
+        -:    0:Source:../WA_c/270151_buggy.c
+        -:    0:Graph:270151_buggy.gcno
+        -:    0:Data:270151_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        -:    5:    float a1,b1,a2,b2; /*a1,b1,a2,b2 are variables of the given line */
+        1:    6:    scanf("%f%f%f%f",&a1,&b1,&a2,&b2);/* values of a1,a2,b1,b2 are given by user */
+        1:    7:    float X=(b2-b1)/((b1*a2)-(a1*b2));/* x-coordinate of intersection point*/
+        1:    8:    float Y=(a2-a1)/((b1*a2)-(a1*b2));/*y-coordinate of intersection point*/
+        1:    9:    if (a1*b2==b1*a2)        /*condition for no intersection*/
+        -:   10:    {
+        1:   11:        printf("INF");   /*if above boolean exp is true*/
+        -:   12:    }
+        -:   13:    else
+        -:   14:    {
+    #####:   15:        printf("(%.3f,%.3f)",X,Y);   /*if above boolean exp is false*/
+        -:   16:    }
+        -:   17:
+        1:   18:    return 0;
+        -:   19:}

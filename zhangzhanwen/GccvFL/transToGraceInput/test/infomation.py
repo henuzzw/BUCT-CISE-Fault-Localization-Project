@@ -1,0 +1,120 @@
+{
+    '.in': ['2810.1.in', '2810.2.in', '2810.3.in', '2810.4.in'],
+    '.out': ['2810.1.out', '2810.2.out', '2810.3.out', '2810.4.out'],
+    'AC': [
+        {'cata': './ITSP-data/2810/AC_c/270010_correct.c', 'cata2': 'AC_c', 'name': '270010_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270011_correct.c', 'cata2': 'AC_c', 'name': '270011_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270022_correct.c', 'cata2': 'AC_c', 'name': '270022_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270025_correct.c', 'cata2': 'AC_c', 'name': '270025_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270048_correct.c', 'cata2': 'AC_c', 'name': '270048_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270052_correct.c', 'cata2': 'AC_c', 'name': '270052_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270053_correct.c', 'cata2': 'AC_c', 'name': '270053_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270054_correct.c', 'cata2': 'AC_c', 'name': '270054_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270057_correct.c', 'cata2': 'AC_c', 'name': '270057_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270068_correct.c', 'cata2': 'AC_c', 'name': '270068_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270081_correct.c', 'cata2': 'AC_c', 'name': '270081_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270083_correct.c', 'cata2': 'AC_c', 'name': '270083_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270084_correct.c', 'cata2': 'AC_c', 'name': '270084_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270090_correct.c', 'cata2': 'AC_c', 'name': '270090_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270100_correct.c', 'cata2': 'AC_c', 'name': '270100_correct.c'},
+        {'cata': './ITSP-data/2810/AC_c/270104_correct.c', 'cata2': 'AC_c', 'name': '270104_correct.c'}
+    ],
+    'WA': [
+        {'cata': './ITSP-data/2810/WA_c/270010_buggy.c', 'cata2': 'WA_c', 'name': '270010_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270011_buggy.c', 'cata2': 'WA_c', 'name': '270011_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270022_buggy.c', 'cata2': 'WA_c', 'name': '270022_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270025_buggy.c', 'cata2': 'WA_c', 'name': '270025_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270048_buggy.c', 'cata2': 'WA_c', 'name': '270048_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270052_buggy.c', 'cata2': 'WA_c', 'name': '270052_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270053_buggy.c', 'cata2': 'WA_c', 'name': '270053_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270054_buggy.c', 'cata2': 'WA_c', 'name': '270054_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270057_buggy.c', 'cata2': 'WA_c', 'name': '270057_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270068_buggy.c', 'cata2': 'WA_c', 'name': '270068_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270081_buggy.c', 'cata2': 'WA_c', 'name': '270081_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270083_buggy.c', 'cata2': 'WA_c', 'name': '270083_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270084_buggy.c', 'cata2': 'WA_c', 'name': '270084_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270090_buggy.c', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270100_buggy.c', 'cata2': 'WA_c', 'name': '270100_buggy.c'},
+        {'cata': './ITSP-data/2810/WA_c/270104_buggy.c', 'cata2': 'WA_c', 'name': '270104_buggy.c'}
+    ],
+    'gcov': [
+        [
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+        ], [
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+        ], [
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+            {'cata': './ITSP-data/2810/gcov/270090_buggy.c.124', 'cata2': 'WA_c', 'name': '270090_buggy.c'},
+        ],
+
+    ],
+    'path': './ITSP-data/2810',
+    'code': '2810',
+    'pwd': '/home/zhangzhanwen/transtoGraceInput',
+
+}
+
+[
+    (('        1', '   13', 'int main()\n'),
+     [('        1', '   13', 'int main()\n'), ('        -', '   14', '{\n'),
+      ('        -', '   15', '    float a,b,area;\n'),
+      ('        1', '   16', '    scanf("%f %f",&a, &b);\n'),
+      ('        1', '   17', '    area=.5*a*b;\n'),
+      ('        1', '   18', '    if (area>0)\n'),
+      ('        -', '   19', '    {\n'),
+      ('        1', '   20', '        printf("The area of (%.4f,%.4f), (%.4f,0) and (0,%.4f) is %.4f.",a,b,a,b,area);\n'),
+      ('        -', '   21', '    }\n'),
+      ('        -', '   22', '    else\n'),
+      ('        -', '   23', '    {\n'),
+      ('    #####', '   24', '        printf("The area of (%.4f,%.4f), (%.4f,0) and (0,%.4f) is %.4f.",a,b,a,b,-area);\n'),
+      ('        -', '   25', '    }\n'),
+      ('        -', '   26', '\n'),
+      ('        -', '   27', '\n'),
+      ('        1', '   28', '    return 0;\n'),
+      ('        -', '   29', '}\n')
+      ],
+     12,
+     28)
+
+    (('    #####', '   30', 'int foo(int x,int y) {\n'),
+     [('    #####', '   30', 'int foo(int x,int y) {\n'),
+      ('    #####', '   31', '    if (x > y) {\n'),
+      ('    #####', '   32', '        return x;\n'),
+      ('        -', '   33', '    } else {\n'),
+      ('    #####', '   34', '        return y;\n'),
+      ('        -', '   35', '    }\n'),
+      ('        -', '   36', '}\n')],
+     29, 35)
+    (('    #####', '   37', 'int main2()\n'), [('    #####', '   37', 'int main2()\n'), ('        -', '   38', '{\n'),
+                                               ('        -', '   39', '    //to determine sign of a number\n'),
+                                               ('        -', '   40', '    float n;\n'),
+                                               ('    #####', '   41', '    scanf("%f",&n);\n'),
+                                               ('    #####', '   42', '    if(n>0)\n'),
+                                               ('        -', '   43', '    {\n'),
+                                               ('    #####', '   44', '        printf("%.4f is positive,%n");//number is positive\n'),
+                                               ('        -', '   45', '    }\n'),
+                                               ('        -', '   46', '    else\n'),
+                                               ('        -', '   47', '    {\n'),
+                                               ('    #####', '   48', '        if (n==0)\n'),
+                                               ('        -', '   49', '        {\n'),
+                                               ('    #####', '   50', '            printf("input is zero");//number is 0\n'),
+                                               ('        -', '   51', '        }\n'),
+                                               ('        -', '   52', '        else\n'),
+                                               ('        -', '   53', '        {\n'),
+                                               ('    #####', '   54', '            printf("%.4f is negative,%n");\n'),
+                                               ('        -', '   55', '        }\n'),
+                                               ('        -', '   56', '    }//number is negative\n'),
+                                               ('        -', '   57', '\n'), ('    #####', '   58', '    return 0;\n'),
+                                               ('        -', '   59', '}\n')], 36, 58)
+
+    (('    #####', '   60', 'double bar(double a, double b, double c) {\n'),
+     [('    #####', '   60', 'double bar(double a, double b, double c) {\n'),
+      ('    #####', '   61', '    double d = a * b + c;\n'), ('    #####', '   62', '    return d;\n'),
+      ('        -', '   63', '}\n')], 59, 62)
+
+]

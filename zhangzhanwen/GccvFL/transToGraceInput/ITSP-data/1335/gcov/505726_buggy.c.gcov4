@@ -1,0 +1,20 @@
+        -:    0:Source:../WA_c/505726_buggy.c
+        -:    0:Graph:505726_buggy.gcno
+        -:    0:Data:505726_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:using namespace std;
+        1:    3:int main() {
+        -:    4:	int num,i,p,sum;
+        1:    5:	cin>>num;
+        1:    6:	p=2*num+1;
+        6:    7:	for(i=1,sum=1;; i++) {
+       11:    8:		sum=(sum*2)%p;
+        6:    9:		if(sum==1)
+        1:   10:			break;
+        -:   11:	}
+        1:   12:	i--;
+        1:   13:	cout<<i<<endl;
+        1:   14:	return 0;
+        3:   15:}

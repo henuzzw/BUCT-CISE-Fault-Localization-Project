@@ -1,0 +1,39 @@
+        -:    0:Source:../WA_c/310327_buggy.c
+        -:    0:Graph:310327_buggy.gcno
+        -:    0:Data:310327_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<iostream>
+        -:    3:using namespace std;
+        1:    4:int CaculateWeekDay(int y, int m, int d)
+        -:    5:{
+        1:    6:    if(m == 1 || m == 2)
+        -:    7:    {
+    #####:    8:        m += 12;
+    #####:    9:        y--;
+        -:   10:    }
+        1:   11:    int iWeek = (d + 2 * m + 3 * (m + 1) / 5 + y + y / 4 - y / 100 + y / 400) % 77;
+        1:   12:    return iWeek;
+        -:   13:}
+        1:   14:int main()
+        -:   15:{
+        -:   16:    int y, m, d, w;
+        1:   17:    cin >> y >> m >> d;
+        1:   18:    w = CaculateWeekDay(y, m, d);
+        1:   19:    if(w == 0)
+    #####:   20:        printf("monday");
+        1:   21:    if(w == 1)
+        1:   22:        printf("tuesday");
+        1:   23:    if(w == 2)
+    #####:   24:        printf("wednesday");
+        1:   25:    if(w == 3)
+    #####:   26:        printf("thursday");
+        1:   27:    if(w == 4)
+    #####:   28:        printf("friday");
+        1:   29:    if(w == 5)
+    #####:   30:        printf("saturday");
+        1:   31:    if(w == 6)
+    #####:   32:        printf("sunday");
+        -:   33:
+        4:   34:}

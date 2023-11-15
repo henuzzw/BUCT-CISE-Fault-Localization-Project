@@ -1,0 +1,48 @@
+        -:    0:Source:../WA_c/183306_buggy.c
+        -:    0:Graph:183306_buggy.gcno
+        -:    0:Data:183306_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:using namespace std;
+        -:    3:void CaculateWeekDay(int y, int m, int d);
+        1:    4:int main()
+        -:    5:{
+        -:    6:    int year, month, day;
+        1:    7:    cin >> year >> month >> day;
+        1:    8:    CaculateWeekDay(year, month, day);
+        1:    9:    return 0;
+        -:   10:}
+        1:   11:void CaculateWeekDay(int y, int m, int d)
+        -:   12:{
+        1:   13:    if(m == 1 || m == 2)
+        -:   14:    {
+        1:   15:        m += 12;
+        1:   16:        y--;
+        -:   17:    }
+        1:   18:    int iWeek = (d + 2 * m + 3 * (m + 1) / 5 + y + y / 4 - y / 100 + y / 400 +1) % 7 ;
+        1:   19:    switch(iWeek)
+        -:   20:    {
+    #####:   21:    case 0:
+    #####:   22:        cout << "monday" << endl;
+    #####:   23:        break;
+    #####:   24:    case 1:
+    #####:   25:        cout << "tuesday" << endl;
+    #####:   26:        break;
+    #####:   27:    case 2:
+    #####:   28:        cout << "wednesday" << endl;
+    #####:   29:        break;
+    #####:   30:    case 3:
+    #####:   31:        cout << "thursday" << endl;
+    #####:   32:        break;
+    #####:   33:    case 4:
+    #####:   34:        cout << "friday" << endl;
+    #####:   35:        break;
+    #####:   36:    case 5:
+    #####:   37:        cout << "saturday" << endl;
+    #####:   38:        break;
+        1:   39:    case 6:
+        1:   40:        cout << "sunday" << endl;
+        1:   41:        break;
+        -:   42:    }
+        4:   43:}

@@ -1,0 +1,30 @@
+        -:    0:Source:../WA_c/1064685_buggy.c
+        -:    0:Graph:1064685_buggy.gcno
+        -:    0:Data:1064685_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<bits/stdc++.h>
+        -:    2:using namespace std;
+        1:    3:int main()
+        -:    4:{
+        -:    5:    int a;
+        1:    6:    int count = 0;
+        7:    7:    while (cin >> a && a)
+        -:    8:    {
+        -:    9:        int x, y;
+        3:   10:        count = 0;
+        -:   11:        
+       17:   12:        while (a >= 3)
+        -:   13:        {
+        7:   14:            x = a / 3;
+        7:   15:            y = a % 3;
+        7:   16:            a = x + y;
+        7:   17:            count += x;
+        -:   18:        }
+        3:   19:        count++;
+        3:   20:        if (a == 2)
+        1:   21:            cout << count + 1 << endl;
+        -:   22:        else
+        2:   23:            cout << count << endl;
+        -:   24:    }
+        4:   25:}

@@ -1,0 +1,26 @@
+        -:    0:Source:../WA_c/1063116_buggy.c
+        -:    0:Graph:1063116_buggy.gcno
+        -:    0:Data:1063116_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<bits/stdc++.h>
+        -:    2:#define ll long long
+        -:    3:using namespace std;
+        4:    4:int main()
+        -:    5:{
+        -:    6:    int n;
+        7:    7:    while(cin >> n)
+        -:    8:    {
+        4:    9:        if(n == 0) break;
+        3:   10:        int num = 0;
+       17:   11:        while(n >= 3)
+        -:   12:        {
+        7:   13:            num += n / 3;
+        7:   14:            n = n / 3 + n % 3;
+        -:   15:        }
+        3:   16:        if(n == 2) num++;
+        3:   17:        num++; 
+        3:   18:        cout << num << endl;
+        -:   19:    }
+        1:   20:    return 0;
+        3:   21:}

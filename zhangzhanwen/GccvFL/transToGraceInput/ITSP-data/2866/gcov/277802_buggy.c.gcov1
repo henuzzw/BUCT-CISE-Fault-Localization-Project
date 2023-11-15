@@ -1,0 +1,56 @@
+        -:    0:Source:../WA_c/277802_buggy.c
+        -:    0:Graph:277802_buggy.gcno
+        -:    0:Data:277802_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+      172:    3:int check_prime(int num)//defining the fuction
+        -:    4:{
+      172:    5:    int i=1,div;//declaring the variable
+      172:    6:    div=num%i;
+      172:    7:    while(i<=num-1)//loop
+        -:    8:    {
+      172:    9:        div=num%i;
+        -:   10:
+      172:   11:        if(div==0)//condition
+        -:   12:        {
+      172:   13:            return 0 ;
+        -:   14:        }
+        -:   15:        else
+        -:   16:        {
+    #####:   17:            i=i+1;    //incrementation
+        -:   18:        }
+        -:   19:    }
+    #####:   20:    return 1;
+        -:   21:}
+        -:   22:
+        -:   23:
+        1:   24:int main()//main function
+        -:   25:{
+        1:   26:    int n,check1,check2,x=2,y=0;//declaring the variable
+        1:   27:    scanf("%d",&n);
+        -:   28:
+        -:   29:
+      173:   30:    while(x<=n-2)//loop
+        -:   31:    {
+       86:   32:        check1=check_prime(x);
+       86:   33:        check2=check_prime(n-x);
+       86:   34:        if(check1==1&&check2==1)
+        -:   35:        {
+    #####:   36:            y=1;
+    #####:   37:            printf("Yes");
+    #####:   38:            break;
+        -:   39:        }
+       86:   40:        x=x+1;
+        -:   41:    }
+        1:   42:    if(y==0)//condition
+        -:   43:    {
+        1:   44:        printf("No");
+        -:   45:    }
+        -:   46:
+        -:   47:
+        -:   48:
+        -:   49:
+        1:   50:    return 0;
+        -:   51:}

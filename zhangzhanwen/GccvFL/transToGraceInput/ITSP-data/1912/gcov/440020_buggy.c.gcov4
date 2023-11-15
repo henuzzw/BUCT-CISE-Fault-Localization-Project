@@ -1,0 +1,28 @@
+        -:    0:Source:../WA_c/440020_buggy.c
+        -:    0:Graph:440020_buggy.gcno
+        -:    0:Data:440020_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+       13:    2:int main()
+        -:    3:{
+        -:    4:    char a, b;
+        -:    5:    int n;
+        -:    6:    int i, j;
+       25:    7:    while(scanf("%c", &a) != EOF)
+        -:    8:    {
+       12:    9:        n = a - 65;
+       24:   10:        for(i = 0; i < n; i++)
+        -:   11:        {
+       12:   12:            b = a;
+       49:   13:            for(j = 0; j <= i; j++)
+        -:   14:            {
+       37:   15:                printf("%c", b);
+       37:   16:                b = b - 1;
+        -:   17:            }
+       12:   18:            printf("\n");
+       12:   19:            if(i == n - 1)	printf("\n");
+        -:   20:        }
+        -:   21:    }
+        1:   22:    return 0;
+        -:   23:}

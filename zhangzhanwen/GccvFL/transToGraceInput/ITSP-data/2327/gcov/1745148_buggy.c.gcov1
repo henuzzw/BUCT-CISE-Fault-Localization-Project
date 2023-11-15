@@ -1,0 +1,29 @@
+        -:    0:Source:../WA_c/1745148_buggy.c
+        -:    0:Graph:1745148_buggy.gcno
+        -:    0:Data:1745148_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        3:    2:int main()
+        -:    3:{
+        -:    4:    int a;
+        5:    5:    while(scanf("%d", &a) != EOF)
+        -:    6:    {
+        -:    7:        int m, n, sum;
+        2:    8:        sum = 0;
+        2:    9:        m = a;
+       30:   10:        while(m > 0)
+        -:   11:        {
+       14:   12:            n = m % 10;
+       14:   13:            sum = sum + n * n * n * n * n * n * n;
+       14:   14:            m = m / 10;
+        -:   15:        }
+        2:   16:        sum--;
+        2:   17:        if(a == sum)
+    #####:   18:            printf("Y\n");
+        -:   19:        else
+        2:   20:            printf("N\n");
+        -:   21:
+        -:   22:    }
+        1:   23:    return 0;
+        -:   24:}

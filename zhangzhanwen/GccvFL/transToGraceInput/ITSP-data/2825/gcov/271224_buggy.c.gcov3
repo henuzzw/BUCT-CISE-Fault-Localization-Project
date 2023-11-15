@@ -1,0 +1,32 @@
+        -:    0:Source:../WA_c/271224_buggy.c
+        -:    0:Graph:271224_buggy.gcno
+        -:    0:Data:271224_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        1:    3:int main()
+        -:    4:{
+        -:    5:    float x,y,r;
+        -:    6:    float x1;
+        -:    7:    float y1;
+        -:    8:    float h;
+        -:    9:    float g;
+        1:   10:    scanf("%f %f %f %f %f",&x,&y,&r,&x1,&y1);/*input*/
+        1:   11:    h=(x1-x)*(x1-x)+(y1-y)*(y1-y);
+        1:   12:    g=sqrt(h);/*distance formula*/
+        1:   13:    printf("%f demo\n",g);
+        1:   14:    if(g<r)/*condition for point to be inside the circle*/
+        -:   15:    {
+    #####:   16:        printf("Point is inside the Circle.");
+        -:   17:    }
+        1:   18:    else if(g==r)/*condition for point to be on the circle*/
+        -:   19:    {
+        1:   20:        printf("Point is on the Circle.");
+        -:   21:    }
+        -:   22:    else
+        -:   23:    {
+    #####:   24:        printf("Point is outside the Circle.");
+        -:   25:    }
+        1:   26:    return 0;
+        -:   27:}

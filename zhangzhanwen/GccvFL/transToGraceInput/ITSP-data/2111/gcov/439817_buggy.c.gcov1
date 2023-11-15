@@ -1,0 +1,24 @@
+        -:    0:Source:../WA_c/439817_buggy.c
+        -:    0:Graph:439817_buggy.gcno
+        -:    0:Data:439817_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main()
+        -:    3:{
+        1:    4:    int n, i, j, x, m = 0, a;
+        7:    5:    while(scanf("%d", &a) != EOF)
+        -:    6:    {
+        3:    7:        x = a;
+        3:    8:        m = 0;
+        3:    9:        for(; x > 3; x = x / 2)
+        -:   10:        {
+    #####:   11:            if(x % 2 == 1)
+    #####:   12:                m++;
+        -:   13:        }
+        3:   14:        if(x == 3) m++;
+        3:   15:        if(x == 2) m++;
+        3:   16:        if(x == 1) m++;
+        3:   17:        printf("%d\n", m);
+        -:   18:    }
+        1:   19:}

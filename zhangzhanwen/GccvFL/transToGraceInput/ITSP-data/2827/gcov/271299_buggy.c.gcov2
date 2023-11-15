@@ -1,0 +1,39 @@
+        -:    0:Source:../WA_c/271299_buggy.c
+        -:    0:Graph:271299_buggy.gcno
+        -:    0:Data:271299_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        -:    3:
+        1:    4:int main()
+        -:    5:{
+        -:    6:    float x1,y1,x2,y2,x3,y3;
+        -:    7:
+        1:    8:    scanf("%f %f %f %f %f %f",&x1,&y1,&x2,&y2,&x3,&y3);
+        -:    9:
+        -:   10:    // (xi,yi), where i=1,2,3, are the coordinates of three points
+        -:   11:    // we have to check whether these three points lie on a line
+        -:   12:
+        1:   13:    float distance_1=sqrtf(((x1-x2)*(x1-x2))+((y1-y2)*(y1-y2)));
+        -:   14:
+        1:   15:    float distance_2=sqrtf(((x2-x3)*(x2-x3))+((y2-y3)*(y2-y3)));
+        -:   16:
+        1:   17:    float distance_3=sqrtf(((x3-x1)*(x3-x1))+((y3-y1)*(y3-y1)));
+        -:   18:
+        -:   19:    // distance(1) is the distance between (x1,y1) and (x2,y2)
+        -:   20:    // distance(2) is the distance between (x2,y2) and (x3,y3)
+        -:   21:    // distance(3) is the distance between (x1,y1) and (x3,y3)
+        -:   22:
+        1:   23:    if (distance_1+distance_2==distance_3)
+        -:   24:    {
+        -:   25:
+    #####:   26:        printf("All the points are on same line.");
+        -:   27:    }
+        -:   28:    else
+        -:   29:    {
+        1:   30:        printf("All points are not on same line.");
+        -:   31:    }
+        -:   32:
+        1:   33:    return 0;
+        -:   34:}

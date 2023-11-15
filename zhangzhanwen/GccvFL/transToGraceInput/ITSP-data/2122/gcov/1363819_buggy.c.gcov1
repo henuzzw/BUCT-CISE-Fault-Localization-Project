@@ -1,0 +1,36 @@
+        -:    0:Source:../WA_c/1363819_buggy.c
+        -:    0:Graph:1363819_buggy.gcno
+        -:    0:Data:1363819_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<bits/stdc++.h>
+        -:    2:using namespace std;
+        -:    3:
+        3:    4:int main()
+        -:    5:{
+        -:    6:    long long n;
+        5:    7:    while(~scanf("%lld", &n))
+        -:    8:    {
+        2:    9:        long long x = ceil(sqrt((double)n));
+        2:   10:        x /= 2;
+        2:   11:        long long p1 = pow(1 + 2 * x, 2), p2 = p1 - x * 2, p3 = p2 - x * 2, p4 = p3 - x * 2, p5 = p4 - x * 2 + 1;
+        2:   12:        p1++;
+        2:   13:        if(n <= p1 && n >= p2)
+        -:   14:        {
+        1:   15:            cout << "(" << -x << "," << -x + (n - p2) << ")" << endl;
+        -:   16:        }
+        2:   17:        if(n < p2 && n >= p3)
+        -:   18:        {
+    #####:   19:            cout << "(" << x - (n - p3) << "," << -x << ")" << endl;
+        -:   20:        }
+        2:   21:        if(n < p3 && n >= p4)
+        -:   22:        {
+    #####:   23:            cout << "(" << x << "," << x - (n - p4) << ")" << endl;
+        -:   24:        }
+        2:   25:        if(n < p4 && n >= p5)
+        -:   26:        {
+        1:   27:            cout << "(" << -x + 1 + (n - p5) << "," << x << ")" << endl;
+        -:   28:        }
+        -:   29:    }
+        -:   30:
+        4:   31:}

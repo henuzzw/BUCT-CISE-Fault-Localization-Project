@@ -1,0 +1,4 @@
+1741110_buggy.c
+1741110_correct.c
+20,21
+max和min计算异常

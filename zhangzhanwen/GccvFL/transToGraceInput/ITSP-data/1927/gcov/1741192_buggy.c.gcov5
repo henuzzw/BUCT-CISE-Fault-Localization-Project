@@ -1,0 +1,31 @@
+        -:    0:Source:../WA_c/1741192_buggy.c
+        -:    0:Graph:1741192_buggy.gcno
+        -:    0:Data:1741192_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:using namespace std;
+        -:    3:#include<stack>
+        -:    4:#include<string.h>
+        1:    5:int main()
+        -:    6:{
+        -:    7:    int n;
+        1:    8:    cin >> n;
+        4:    9:    for(int i = 0; i < n; i++)
+        -:   10:    {
+        -:   11:        int a, b;
+        -:   12:        int c;
+        3:   13:        cin >> a >> b;
+        3:   14:        if(a >= b)
+        1:   15:            c = a, b =c, a = b;
+        3:   16:        int d = 1;
+       23:   17:        while(d != 0)
+        -:   18:        {
+       10:   19:            d = b % a;
+       10:   20:            b = a;
+       10:   21:            a = d;
+        -:   22:        }
+        3:   23:        cout << b << endl;
+        -:   24:
+        -:   25:    }
+        4:   26:}

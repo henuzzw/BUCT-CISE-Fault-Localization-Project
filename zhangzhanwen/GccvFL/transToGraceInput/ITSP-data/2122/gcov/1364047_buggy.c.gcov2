@@ -1,0 +1,53 @@
+        -:    0:Source:../WA_c/1364047_buggy.c
+        -:    0:Graph:1364047_buggy.gcno
+        -:    0:Data:1364047_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<bits/stdc++.h>
+        -:    2:using namespace std;
+       97:    3:void print(int x, int y)
+        -:    4:{
+       97:    5:    printf("(%d,%d)\n", x, y);
+       97:    6:}
+       98:    7:int main()
+        -:    8:{
+        -:    9:    int n;
+      195:   10:    while(scanf("%d", &n) != EOF)
+        -:   11:    {
+       97:   12:        int i = sqrt(n);
+       97:   13:        int now = n - i * i;
+       97:   14:        if(i % 2 == 0)
+        -:   15:        {
+       44:   16:            int x = i / 2, y = -1 * i / 2 + 1;
+       44:   17:            x++;
+       44:   18:            if(i * i == n)
+        -:   19:            {
+    #####:   20:                print(x, y);
+        -:   21:            }
+       44:   22:            else if(now > i + 1)
+        -:   23:            {
+       30:   24:                print(-x, y + (now - (i + 1) - 1));
+        -:   25:            }
+        -:   26:            else
+        -:   27:            {
+       14:   28:                print(x - now + 1, y - 1);
+        -:   29:            }
+        -:   30:        }
+        -:   31:        else
+        -:   32:        {
+       53:   33:            int x = -1 * i / 2, y = i / 2;
+       53:   34:            if(i * i == n)
+        -:   35:            {
+        9:   36:                print(x, y);
+        -:   37:            }
+       44:   38:            else if(now > i + 1)
+        -:   39:            {
+       14:   40:                print(-(x - 1), y - (now - (i + 1)) + 1);
+        -:   41:            }
+        -:   42:            else
+        -:   43:            {
+       30:   44:                print(x + now - 1, y + 1);
+        -:   45:            }
+        -:   46:        }
+        -:   47:    }
+        4:   48:}

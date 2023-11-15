@@ -1,0 +1,4 @@
+553817_buggy.c
+553817_correct.c
+6
+counter初始化错误

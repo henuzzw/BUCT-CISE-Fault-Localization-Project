@@ -1,0 +1,24 @@
+        -:    0:Source:../WA_c/448265_buggy.c
+        -:    0:Graph:448265_buggy.gcno
+        -:    0:Data:448265_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:using namespace std;
+        5:    3:int main()
+        -:    4:{
+        -:    5:    char a;
+        -:    6:    int i, k, j;
+        9:    7:    while (cin >> a)
+        -:    8:    {
+        4:    9:        k = a - 'A' + 1;
+       24:   10:        for (i = 0; i <= k; i++)
+        -:   11:        {
+       93:   12:            for (j = k; j >= k - i; j--)
+       73:   13:                cout << (char)('A' + j);
+       20:   14:            cout << endl;
+        -:   15:        }
+        4:   16:        cout << endl;
+        -:   17:    }
+        1:   18:    return 0;
+        3:   19:}

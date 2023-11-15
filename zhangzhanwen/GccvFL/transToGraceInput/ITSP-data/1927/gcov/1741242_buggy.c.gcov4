@@ -1,0 +1,30 @@
+        -:    0:Source:../WA_c/1741242_buggy.c
+        -:    0:Graph:1741242_buggy.gcno
+        -:    0:Data:1741242_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <iostream>
+        -:    2:#include <algorithm>
+        -:    3:#include <map>
+        -:    4:#include <vector>
+        -:    5:#include <set>
+        -:    6:using namespace std;
+       30:    7:int gcd(int a, int b)
+        -:    8:{
+       30:    9:    if(b) return gcd(b, a % b);
+        3:   10:    else return a;
+        -:   11:}
+        1:   12:signed main()
+        -:   13:{
+        -:   14:    int t;
+        1:   15:    cin >> t;
+        7:   16:    while(t--)
+        -:   17:    {
+        -:   18:        int a, b;
+        3:   19:        int ans = 0;
+        3:   20:        cin >> a >> b;
+        3:   21:        ans = gcd(a, b);
+        3:   22:        ans--;
+        3:   23:        cout << ans << endl;
+        -:   24:    }
+        4:   25:}

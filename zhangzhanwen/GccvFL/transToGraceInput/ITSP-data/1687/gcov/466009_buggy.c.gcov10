@@ -1,0 +1,24 @@
+        -:    0:Source:../WA_c/466009_buggy.c
+        -:    0:Graph:466009_buggy.gcno
+        -:    0:Data:466009_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<algorithm>
+        -:    3:using namespace std;
+       96:    4:int gcd(int a, int b)
+        -:    5:{
+       96:    6:    if(b == 0) return a;
+       86:    7:    return gcd(b, a % b);
+        -:    8:}
+        1:    9:int main()
+        -:   10:{
+        -:   11:    int m, n, i, t, j, k;
+        1:   12:    scanf("%d", &t);
+       21:   13:    while(t--)
+        -:   14:    {
+       10:   15:        scanf("%d%d", &m, &n);
+       10:   16:        k = gcd(m, n) + 1;
+       10:   17:        printf("%d\n", (m + n) / k);
+        -:   18:    }
+        1:   19:}

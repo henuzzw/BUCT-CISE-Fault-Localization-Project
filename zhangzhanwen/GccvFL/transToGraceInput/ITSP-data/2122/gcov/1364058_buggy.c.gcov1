@@ -1,0 +1,53 @@
+        -:    0:Source:../WA_c/1364058_buggy.c
+        -:    0:Graph:1364058_buggy.gcno
+        -:    0:Data:1364058_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <bits/stdc++.h>
+        -:    2:using namespace std;
+        -:    3:typedef long long ll;
+        -:    4:ll n;
+        3:    5:int main()
+        -:    6:{
+        5:    7:    while (scanf("%lld", &n) != EOF)
+        -:    8:    {
+        2:    9:        ll t = sqrt(n);
+        2:   10:        t++;
+        2:   11:        if (t & 1)
+        -:   12:        {
+        1:   13:            int tt = n - t * t;
+        1:   14:            int x = t / 2, y = t / 2;
+        1:   15:            if (tt == 0)
+        -:   16:            {
+    #####:   17:                printf("(%d,%d)\n", -y, x);
+        -:   18:            }
+        1:   19:            else if (tt > 0 && tt <= t + 1)
+        -:   20:            {
+    #####:   21:                printf("(%d,%d)\n", -(y - (tt - 1)), x + 1);
+        -:   22:            }
+        -:   23:            else
+        -:   24:            {
+        1:   25:                printf("(%d,%d)\n", y + 1, x - (tt - t - 2));
+        -:   26:            }
+        -:   27:        }
+        -:   28:        else
+        -:   29:        {
+        1:   30:            int tt = n - t * t;
+        1:   31:            int x = -(t / 2) + 1, y = -(t / 2);
+        1:   32:            if (tt == 0)
+        -:   33:            {
+    #####:   34:                printf("(%d,%d)\n", -y, x);
+        -:   35:            }
+        1:   36:            else if (tt > 0 && tt <= t + 1)
+        -:   37:            {
+    #####:   38:                printf("(%d,%d)\n", -(y + (tt - 1)), x - 1);
+        -:   39:            }
+        -:   40:            else
+        -:   41:            {
+        1:   42:                printf("(%d,%d)\n", y, x + (tt - t - 2));
+        -:   43:            }
+        -:   44:        }
+        -:   45:    }
+        -:   46:
+        1:   47:    return 0;
+        3:   48:}

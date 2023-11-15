@@ -1,0 +1,39 @@
+        -:    0:Source:../WA_c/466073_buggy.c
+        -:    0:Graph:466073_buggy.gcno
+        -:    0:Data:466073_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        -:    3:#include<string.h>
+        1:    4:int main()
+        -:    5:{
+        1:    6:    int k, n, m, l, p = 1, i, o;
+        1:    7:    scanf("%d", &k);
+       11:    8:    for(i = 0; i < k; i++)
+        -:    9:    {
+       10:   10:        p = 1;
+       10:   11:        scanf("%d%d", &m, &n);
+       10:   12:        o = m + n + 1;
+       10:   13:        if(m == n)
+    #####:   14:            printf("2\n");
+       10:   15:        if(n > m)
+        -:   16:        {
+        3:   17:            l = n;
+        3:   18:            n = m;
+        3:   19:            m = l;
+        -:   20:        }
+      878:   21:        while(p)
+        -:   22:        {
+      434:   23:            p = m - n;
+      434:   24:            if(p > n)
+      342:   25:                m = p;
+        -:   26:            else
+        -:   27:            {
+       92:   28:                m = n;
+       92:   29:                n = p;
+        -:   30:            }
+        -:   31:        }
+       10:   32:        printf("%d\n", o / m);
+        -:   33:    }
+        1:   34:}

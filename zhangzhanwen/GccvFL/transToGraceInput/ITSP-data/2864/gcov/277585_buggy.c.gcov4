@@ -1,0 +1,37 @@
+        -:    0:Source:../WA_c/277585_buggy.c
+        -:    0:Graph:277585_buggy.gcno
+        -:    0:Data:277585_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+       35:    3:int check_prime(int num)
+        -:    4:{
+        -:    5:    int i;
+      343:    6:    for(i=2; i<num; i=i+1)
+        -:    7:    {
+      335:    8:        if (num%i==0)
+        -:    9:        {
+       27:   10:            return 0;
+        -:   11:        }
+        -:   12:    }
+        8:   13:    return 1;
+        -:   14:}
+        1:   15:int main()
+        -:   16:{
+        -:   17:    int n1,n2,a;
+        1:   18:    scanf("%d%d",&n1,&n2);
+        1:   19:    a=n1;
+       71:   20:    while((a>=n1)&&(a<=n2))
+        -:   21:    {
+        -:   22:        int m;
+       35:   23:        m=check_prime(a);
+       35:   24:        if (m==1)
+        -:   25:        {
+        8:   26:            printf("%d ",a);
+        -:   27:        }
+       35:   28:        a=a+1;
+        -:   29:    }
+        -:   30:
+        1:   31:    return 0;
+        -:   32:}

@@ -1,0 +1,27 @@
+        -:    0:Source:../WA_c/447872_buggy.c
+        -:    0:Graph:447872_buggy.gcno
+        -:    0:Data:447872_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        5:    2:int main()
+        -:    3:{
+        -:    4:    char m, sum;
+        -:    5:    int i, n, j;
+        9:    6:    while(scanf("%s", &m) != EOF)
+        -:    7:    {
+        4:    8:        n = m - 'A' + 1;
+       20:    9:        for(i = 1; i <= n; i++)
+        -:   10:        {
+       69:   11:            for(j = 1; j <= i; j++)
+        -:   12:            {
+       53:   13:                sum = m - j;
+       53:   14:                printf("%c", sum);
+        -:   15:            }
+       16:   16:            printf("\n");
+        -:   17:
+        -:   18:        }
+        4:   19:        printf("\n");
+        -:   20:    }
+        1:   21:    return 0;
+        -:   22:}

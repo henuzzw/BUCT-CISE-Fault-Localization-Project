@@ -1,0 +1,35 @@
+        -:    0:Source:../WA_c/1437179_buggy.c
+        -:    0:Graph:1437179_buggy.gcno
+        -:    0:Data:1437179_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+        -:    2:#include <stdlib.h>
+        -:    3:#include <math.h>
+        -:    4:#include <iostream>
+        -:    5:using namespace std;
+        1:    6:int main()
+        -:    7:{
+        1:    8:    int n = 0;
+       61:    9:    while(scanf("%d", &n) != EOF)
+        -:   10:    {
+       30:   11:        int count = 0;
+       30:   12:        int ans = 1;
+     2265:   13:        for(int i = 1; i <= n; i++)
+        -:   14:        {
+     2235:   15:            ans *= i;
+     3255:   16:            while(ans % 10 == 0)
+        -:   17:            {
+      510:   18:                count++;
+      510:   19:                ans /= 10;
+        -:   20:            }
+     2235:   21:            if(ans / 10000)
+        -:   22:            {
+     1760:   23:                int ret = ans / 10000;
+     1760:   24:                ans -= ret * 10000;
+        -:   25:            }
+        -:   26:        }
+       30:   27:        count--;
+       30:   28:        printf("%d\n", count);
+        -:   29:    }
+        4:   30:}

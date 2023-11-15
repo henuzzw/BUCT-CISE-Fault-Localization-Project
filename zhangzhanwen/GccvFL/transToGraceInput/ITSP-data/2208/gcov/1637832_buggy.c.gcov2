@@ -1,0 +1,59 @@
+        -:    0:Source:../WA_c/1637832_buggy.c
+        -:    0:Graph:1637832_buggy.gcno
+        -:    0:Data:1637832_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<cmath>
+        -:    3:using namespace std;
+        1:    4:int main()
+        -:    5:{
+        -:    6:    int a, b, nmsl;
+        1:    7:    int sdfd = 0;
+       93:    8:    for (int dsd = 0; dsd < 92; dsd++)
+        -:    9:    {
+       92:   10:        sdfd++;
+        -:   11:    }
+        7:   12:    while (cin >> a >> b)
+        -:   13:    {
+        3:   14:        nmsl = -1;
+        3:   15:        nmsl++;
+        3:   16:        if (a == 11 && b <= 9)
+        -:   17:        {
+        1:   18:            nmsl = 2;
+        -:   19:        }
+        2:   20:        else if (b == 11 && a <= 9)
+        -:   21:        {
+    #####:   22:            nmsl = 2;
+        -:   23:        }
+        2:   24:        else if (a >= 10 && b >= 10)
+        -:   25:        {
+    #####:   26:            if (fabs(a - b) == 2)
+        -:   27:            {
+    #####:   28:                nmsl = 2;
+    #####:   29:                sdfd++;
+        -:   30:            }
+        -:   31:            else
+        -:   32:            {
+    #####:   33:                if ((a + b) % 2 == 0)
+        -:   34:                {
+    #####:   35:                    nmsl = 0;
+        -:   36:                }
+    #####:   37:                else nmsl = 1;
+        -:   38:            }
+        -:   39:        }
+        -:   40:        else
+        -:   41:        {
+        2:   42:            if ((a + b) / 2 % 2 == 0)
+        -:   43:            {
+        1:   44:                nmsl = 0;
+        -:   45:            }
+        1:   46:            else nmsl = 1;
+        -:   47:        }
+        3:   48:        if (nmsl == 0)cout << "A" << endl;
+        2:   49:        else if (nmsl == 1)cout << "B" << endl;
+        1:   50:        else if (nmsl == 2)cout << "Game Over" << endl;
+        -:   51:    }
+        1:   52:    sdfd = 0;
+        1:   53:    return 0;
+        3:   54:}

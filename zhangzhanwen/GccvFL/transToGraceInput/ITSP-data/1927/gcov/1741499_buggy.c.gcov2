@@ -1,0 +1,27 @@
+        -:    0:Source:../WA_c/1741499_buggy.c
+        -:    0:Graph:1741499_buggy.gcno
+        -:    0:Data:-
+        -:    0:Runs:0
+        -:    0:Programs:0
+        -:    1:#include <cstdio>
+        -:    2:#include <iostream>
+        -:    3:#include <bits/stdc++.h>
+        -:    4:using namespace std;
+    #####:    5:int ea(int m, int n)
+        -:    6:{
+    #####:    7:    int a = n % m + 1;
+    #####:    8:    if(a == 0) return m;
+        -:    9:    else
+    #####:   10:        return ea(a, m);
+        -:   11:}
+    #####:   12:int main()
+        -:   13:{
+        -:   14:    int t;
+        -:   15:    long long int m, n;
+    #####:   16:    cin >> t;
+    #####:   17:    for(int i = 0; i < t; i++)
+        -:   18:    {
+    #####:   19:        cin >> m >> n;
+    #####:   20:        cout << ea(m, n) << endl;
+        -:   21:    }
+    #####:   22:}

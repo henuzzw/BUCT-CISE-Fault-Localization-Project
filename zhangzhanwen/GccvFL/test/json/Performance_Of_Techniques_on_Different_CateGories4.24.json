@@ -1,0 +1,578 @@
+{
+  "GNNStu.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 10
+      },
+      {
+        "type": "top3",
+        "val": 17
+      },
+      {
+        "type": "top5",
+        "val": 18
+      },
+      {
+        "type": "top10",
+        "val": 21
+      },
+      {
+        "type": "EXAM",
+        "val": 1.558078594599847
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.06774254759129769
+      }
+    ]
+  },
+  "Grace.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 3
+      },
+      {
+        "type": "top3",
+        "val": 10
+      },
+      {
+        "type": "top5",
+        "val": 12
+      },
+      {
+        "type": "top10",
+        "val": 16
+      },
+      {
+        "type": "EXAM",
+        "val": 4.15673058378242
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.1807274166861922
+      }
+    ]
+  },
+  "SBFL(Dstar)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 1
+      },
+      {
+        "type": "top10",
+        "val": 4
+      },
+      {
+        "type": "EXAM",
+        "val": 19.88001767423952
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.8643485945321531
+      }
+    ]
+  },
+  "SBFL(Jaccard)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 6
+      },
+      {
+        "type": "EXAM",
+        "val": 10.308920613481261
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4482139397165766
+      }
+    ]
+  },
+  "SBFL(Ochiai)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 6
+      },
+      {
+        "type": "EXAM",
+        "val": 10.308920613481261
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4482139397165766
+      }
+    ]
+  },
+  "SBFL(Op2)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 6
+      },
+      {
+        "type": "EXAM",
+        "val": 8.887119665613964
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.38639650720060714
+      }
+    ]
+  },
+  "SBFL(Tarantula)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 0
+      },
+      {
+        "type": "EXAM",
+        "val": 15.909722914487002
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.6917270832385654
+      }
+    ]
+  },
+  "VFL(Dstar)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 1
+      },
+      {
+        "type": "top5",
+        "val": 7
+      },
+      {
+        "type": "top10",
+        "val": 8
+      },
+      {
+        "type": "EXAM",
+        "val": 7.850982911158125
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.34134708309383155
+      }
+    ]
+  },
+  "VFL(Jaccard)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 5
+      },
+      {
+        "type": "top10",
+        "val": 10
+      },
+      {
+        "type": "EXAM",
+        "val": 6.815934430359516
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.29634497523302245
+      }
+    ]
+  },
+  "VFL(Ochiai)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 5
+      },
+      {
+        "type": "top10",
+        "val": 10
+      },
+      {
+        "type": "EXAM",
+        "val": 6.732601097026183
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2927217868272254
+      }
+    ]
+  },
+  "VFL(Op2)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 5
+      },
+      {
+        "type": "top10",
+        "val": 10
+      },
+      {
+        "type": "EXAM",
+        "val": 5.697451018037241
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2477152616537931
+      }
+    ]
+  },
+  "VFL(Tarantula)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 4
+      },
+      {
+        "type": "top10",
+        "val": 9
+      },
+      {
+        "type": "EXAM",
+        "val": 6.937026215724993
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.30160983546630404
+      }
+    ]
+  },
+  "VSBFL(Dstar)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 1
+      },
+      {
+        "type": "top3",
+        "val": 2
+      },
+      {
+        "type": "top5",
+        "val": 3
+      },
+      {
+        "type": "top10",
+        "val": 8
+      },
+      {
+        "type": "EXAM",
+        "val": 10.001925148066796
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.43486631078551286
+      }
+    ]
+  },
+  "VSBFL(Jaccard)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 9
+      },
+      {
+        "type": "top5",
+        "val": 9
+      },
+      {
+        "type": "top10",
+        "val": 13
+      },
+      {
+        "type": "EXAM",
+        "val": 7.285550341275868
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.31676305831634205
+      }
+    ]
+  },
+  "VSBFL(Ochiai)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 9
+      },
+      {
+        "type": "top5",
+        "val": 9
+      },
+      {
+        "type": "top10",
+        "val": 14
+      },
+      {
+        "type": "EXAM",
+        "val": 7.261160097373429
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.31570261292927954
+      }
+    ]
+  },
+  "VSBFL(Op2)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 9
+      },
+      {
+        "type": "top5",
+        "val": 9
+      },
+      {
+        "type": "top10",
+        "val": 14
+      },
+      {
+        "type": "EXAM",
+        "val": 6.003293575735639
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2610127641624191
+      }
+    ]
+  },
+  "VSBFL(Tarantula)_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 7
+      },
+      {
+        "type": "top5",
+        "val": 7
+      },
+      {
+        "type": "top10",
+        "val": 13
+      },
+      {
+        "type": "EXAM",
+        "val": 7.793460432697092
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3388461057694388
+      }
+    ]
+  },
+  "VsusFL_res_sus.xlsxresult.json": {
+    "test": [
+      {
+        "type": "top1",
+        "val": 12
+      },
+      {
+        "type": "top3",
+        "val": 18
+      },
+      {
+        "type": "top5",
+        "val": 19
+      },
+      {
+        "type": "top10",
+        "val": 19
+      },
+      {
+        "type": "EXAM",
+        "val": 4.055680529375494
+      },
+      {
+        "type": "errLineNum",
+        "val": 23
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.1763339360598041
+      }
+    ]
+  }
+}

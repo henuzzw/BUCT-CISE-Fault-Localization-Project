@@ -1,0 +1,29 @@
+        -:    0:Source:../WA_c/448240_buggy.c
+        -:    0:Graph:448240_buggy.gcno
+        -:    0:Data:448240_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main()
+        -:    3:{
+        -:    4:    char n;
+        1:    5:    int i = 0;
+        9:    6:    while(scanf("%s", &n) != EOF)
+        -:    7:    {
+        4:    8:        int hang = 0;
+       20:    9:        for(hang = 0; hang <= n - 'A'; hang++)
+        -:   10:        {
+       16:   11:            int q = 0;
+       16:   12:            printf("%c", n);
+      122:   13:            while(q <= hang)
+        -:   14:            {
+       53:   15:                printf("%c", n - q);
+       53:   16:                q = q + 1;
+        -:   17:            }
+       16:   18:            printf("\n");
+        -:   19:
+        -:   20:        }
+        4:   21:        printf("\n");
+        -:   22:    }
+        1:   23:    return 0;
+        -:   24:}

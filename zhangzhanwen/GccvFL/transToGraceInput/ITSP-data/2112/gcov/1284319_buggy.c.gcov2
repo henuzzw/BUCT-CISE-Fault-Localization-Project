@@ -1,0 +1,22 @@
+        -:    0:Source:../WA_c/1284319_buggy.c
+        -:    0:Graph:1284319_buggy.gcno
+        -:    0:Data:1284319_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+        -:    2:#include <stdlib.h>
+       31:    3:int main()
+        -:    4:{
+        -:    5:    int a, b;
+       61:    6:    while (scanf("%d", &a) != EOF)
+        -:    7:    {
+       30:    8:        b = 0;
+      150:    9:        while (a / 5 != 0)
+        -:   10:        {
+       60:   11:            b = b + a / 5 + 1;
+       60:   12:            a = a / 5;
+        -:   13:        }
+       30:   14:        printf("%d\n", b);
+        -:   15:    }
+        1:   16:    return 0;
+        -:   17:}

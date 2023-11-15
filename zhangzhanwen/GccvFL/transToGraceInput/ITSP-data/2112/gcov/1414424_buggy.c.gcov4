@@ -1,0 +1,26 @@
+        -:    0:Source:../WA_c/1414424_buggy.c
+        -:    0:Graph:1414424_buggy.gcno
+        -:    0:Data:1414424_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<bits/stdc++.h>
+        -:    2:using namespace std;
+       12:    3:int main()
+        -:    4:{
+        -:    5:    long long int n;
+       23:    6:    while(cin >> n)
+        -:    7:    {
+       11:    8:        int sum = 0;
+     1056:    9:        for(int i = 1; i <= n; i++)
+        -:   10:        {
+     1045:   11:            int j = i;
+     1523:   12:            while(0 == j % 5)
+        -:   13:            {
+      239:   14:                sum++;
+      239:   15:                j /= 5;
+        -:   16:            }
+        -:   17:        }
+       11:   18:        sum--; 
+       11:   19:        printf("%d\n", sum);
+        -:   20:    }
+        4:   21:}

@@ -1,0 +1,40 @@
+        -:    0:Source:../WA_c/1715854_buggy.c
+        -:    0:Graph:1715854_buggy.gcno
+        -:    0:Data:1715854_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <iostream>
+        -:    2:#include<cstring>
+        -:    3:#include <cstdio>
+        -:    4:using namespace std;
+        9:    5:int main()
+        -:    6:{
+        -:    7:    int a, b, sum;
+        -:    8:
+       17:    9:    while(cin >> a >> b)
+        -:   10:    {
+        8:   11:        if(a == 9 && b == 11 || a == 11 && b == 9)
+        -:   12:        {
+    #####:   13:            cout << "Game Over" << endl;
+        -:   14:        }
+        8:   15:        else if(a + b > 20)
+        -:   16:        {
+        3:   17:            if((a - b) >= 2 || (b - a) >= 2)
+        2:   18:                cout << "Game Over" << endl;
+        1:   19:            else if((a + b) % 2 == 0)
+    #####:   20:                cout << 'A' << endl;
+        -:   21:            else
+        1:   22:                cout << 'B' << endl;
+        -:   23:        }
+        -:   24:        else
+        -:   25:        {
+        -:   26:            int c;
+        5:   27:            c = (a + b) / 3;
+        5:   28:            if(c % 2 == 0)
+        3:   29:                cout << 'A' << endl;
+        -:   30:            else
+        2:   31:                cout << 'B' << endl;
+        -:   32:        }
+        -:   33:    }
+        1:   34:    return 0;
+        3:   35:}

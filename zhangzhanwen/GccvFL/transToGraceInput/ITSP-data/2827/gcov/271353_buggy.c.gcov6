@@ -1,0 +1,22 @@
+        -:    0:Source:../WA_c/271353_buggy.c
+        -:    0:Graph:271353_buggy.gcno
+        -:    0:Data:271353_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<stdlib.h>
+        -:    3:
+        1:    4:int main()
+        -:    5:{
+        -:    6:    float x1,y1,x2,y2,x3,y3;
+        1:    7:    scanf("%f %f %f %f %f %f",&x1,&y1,&x2,&y2,&x3,&y3);/*co-ordinates of points*/
+        1:    8:    if ((y3-y2)/(x3-x2)==(y2-y1)/(x2-x1))
+        -:    9:    {
+    #####:   10:        printf("All the points are on the same line.");
+        -:   11:    }
+        -:   12:    else
+        -:   13:    {
+        1:   14:        printf("All the points are not on same line.");
+        -:   15:    }
+        1:   16:    return 0;
+        -:   17:}

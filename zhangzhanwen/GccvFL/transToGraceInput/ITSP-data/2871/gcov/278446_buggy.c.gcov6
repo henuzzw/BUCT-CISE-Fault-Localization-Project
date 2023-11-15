@@ -1,0 +1,40 @@
+        -:    0:Source:../WA_c/278446_buggy.c
+        -:    0:Graph:278446_buggy.gcno
+        -:    0:Data:278446_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        -:    5:    //program to generate rectangle like figure
+        -:    6:    /*         width
+        -:    7:               ----
+        -:    8:               3333
+        -:    9:               3  3
+        -:   10:               3  3  }height
+        -:   11:               3  3
+        -:   12:               3333      */
+        -:   13:    int num,wid,hig,a,b;
+        -:   14:    //enter number to be printed
+        -:   15:    //width of rectangle
+        -:   16:    //height of rectangle
+        1:   17:    scanf("%d %d %d",&num,&wid,&hig);
+        4:   18:    for(a=1; a<=hig; a++)
+        -:   19:    {
+       12:   20:        for(b=1; b<=wid; b++)
+        -:   21:        {
+        9:   22:            if(a==1||a==hig)
+        -:   23:            {
+        6:   24:                printf("%d",num);
+        -:   25:            }
+        3:   26:            else if(b==1||b==wid)
+        -:   27:            {
+        2:   28:                printf("%d",num);
+        -:   29:            }
+        -:   30:
+        -:   31:        }
+        3:   32:        printf("\n");
+        -:   33:    }
+        1:   34:    return 0;
+        -:   35:}
