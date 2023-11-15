@@ -1,4 +1,0 @@
-codeflaws/359-A-bug-5034880-5034905/359-A-5034905.c
-codeflaws/359-A-bug-5034880-5034905/359-A-5034880.c
-13
-[("Replace b'if(i == m - 1 || j == n-1 || i == 0 || j == 0) c = 2;\\n' with b'if(i == m - 1 || j == n-1) c = 2;\\n' at position 14", 13)]

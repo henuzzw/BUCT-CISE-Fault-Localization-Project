@@ -1,4 +1,0 @@
-codeflaws/18-A-bug-15987401-15987453/18-A-15987453.c
-codeflaws/18-A-bug-15987401-15987453/18-A-15987401.c
-62
-[("Replace b'    return (lengthsqr[0]+lengthsqr[1]) == lengthsqr[2] && lengthsqr[0] && lengthsqr[1] &&lengthsqr[2];\\n' with b'    return (lengthsqr[0]+lengthsqr[1]) == lengthsqr[2];\\n' at position 63", 62)]

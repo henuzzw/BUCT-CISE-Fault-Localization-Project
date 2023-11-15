@@ -1,4 +1,0 @@
-codeflaws/490-C-bug-11355146-11356082/490-C-11356082.c
-codeflaws/490-C-bug-11355146-11356082/490-C-11355146.c
-44
-[("Replace b'    if(pos < key_length-1)\\n' with b'    if(pos < key_length)\\n' at position 45", 44)]

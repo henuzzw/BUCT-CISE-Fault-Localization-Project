@@ -1,0 +1,4 @@
+codeflaws/558-A-bug-13727956-13728017/558-A-13728017.c
+codeflaws/558-A-bug-13727956-13728017/558-A-13727956.c
+26,42
+[("Delete b'\\n' at position 26 in file2", 25), ("Replace b'        for(i=0; i<-1-diff; i++){\\n' with b'        for(i=0; i<diff-1; i++){\\n' at position 42", 41)]

@@ -1,0 +1,4 @@
+codeflaws/118-B-bug-16033621-16034962/118-B-16034962.c
+codeflaws/118-B-bug-16033621-16034962/118-B-16033621.c
+25,25
+[('Replace b\'            printf("%d",j);\\n\' with b\'            printf("%d ",j);\\n\' at position 26', 25), ('Insert b\'            if(i!=(a-1)) printf(" ");\\n\' at position 27 in file2', 26)]

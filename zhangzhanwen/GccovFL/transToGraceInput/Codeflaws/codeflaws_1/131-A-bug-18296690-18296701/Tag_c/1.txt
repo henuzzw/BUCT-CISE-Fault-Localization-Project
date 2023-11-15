@@ -1,0 +1,4 @@
+codeflaws/131-A-bug-18296690-18296701/131-A-18296701.c
+codeflaws/131-A-bug-18296690-18296701/131-A-18296690.c
+16
+[("Replace b'    if(cnt==j)\\n' with b'    if(cnt==j&&j>1)\\n' at position 17", 16)]

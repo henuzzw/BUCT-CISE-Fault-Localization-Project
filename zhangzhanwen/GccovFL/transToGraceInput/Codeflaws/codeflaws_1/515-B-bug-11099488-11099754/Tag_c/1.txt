@@ -1,0 +1,4 @@
+codeflaws/515-B-bug-11099488-11099754/515-B-11099754.c
+codeflaws/515-B-bug-11099488-11099754/515-B-11099488.c
+14,38
+[("Replace b'    while(k<=10000){\\n' with b'    while(k<m*n){\\n' at position 15", 14), ("Insert b'\\n' at position 40 in file2", 39)]

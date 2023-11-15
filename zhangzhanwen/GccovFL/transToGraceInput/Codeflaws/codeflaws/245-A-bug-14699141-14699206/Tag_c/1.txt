@@ -1,4 +1,0 @@
-codeflaws/245-A-bug-14699141-14699206/245-A-14699206.c
-codeflaws/245-A-bug-14699141-14699206/245-A-14699141.c
-13
-[("Replace b'        m[t-1][1]+=y;\\n' with b'        m[t-1][0]+=y;\\n' at position 14", 13)]

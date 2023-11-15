@@ -1,0 +1,4 @@
+codeflaws/623-A-bug-17922089-17922124/623-A-17922124.c
+codeflaws/623-A-bug-17922089-17922124/623-A-17922089.c
+173
+[("Replace b'\\t\\t\\t\\t\\tif(graph[i+1][j+1] == 0 && graph[j+1][i+1] == 0)\\n' with b'\\t\\t\\t\\t\\tif(graph[i][j] == 0 && graph[j][i] == 0)\\n' at position 174", 173)]

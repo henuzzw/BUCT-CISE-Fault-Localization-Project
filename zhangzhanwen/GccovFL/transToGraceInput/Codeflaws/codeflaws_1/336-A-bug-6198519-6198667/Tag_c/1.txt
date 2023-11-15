@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-6198519-6198667/336-A-6198667.c
+codeflaws/336-A-bug-6198519-6198667/336-A-6198519.c
+15
+[('Replace b\'    printf("%d %d %d %d\\\\n",0,-xi,xi,0);\\n\' with b\'    printf("%d %d %d %d\\\\n",0,-xi,-xi,0);\\n\' at position 16', 15)]

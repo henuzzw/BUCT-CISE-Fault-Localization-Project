@@ -1,0 +1,4 @@
+codeflaws/83-D-bug-454211-454217/83-D-454217.c
+codeflaws/83-D-bug-454211-454217/83-D-454211.c
+7
+[("Replace b'#define N 44791\\n' with b'#define N 31807\\n' at position 8", 7)]

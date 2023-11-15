@@ -1,4 +1,0 @@
-codeflaws/357-A-bug-17835662-17835664/357-A-17835664.c
-codeflaws/357-A-bug-17835662-17835664/357-A-17835662.c
-21
-[("Replace b'    \\t\\tpos = i+2;\\n' with b'    \\t\\tpos = i+1;\\n' at position 22", 21)]

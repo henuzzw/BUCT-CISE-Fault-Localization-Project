@@ -1,0 +1,4 @@
+codeflaws/166-A-bug-13703427-13703776/166-A-13703776.c
+codeflaws/166-A-bug-13703427-13703776/166-A-13703427.c
+23
+[("Replace b'            else if(a[i][0]==a[j][0] && a[i][1]>a[j][1])\\n' with b'            else if(a[i][0]==a[j][0] && a[i][1]<a[j][1])\\n' at position 24", 23)]

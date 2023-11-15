@@ -1,0 +1,4 @@
+codeflaws/596-B-bug-14891907-14891915/596-B-14891915.c
+codeflaws/596-B-bug-14891907-14891915/596-B-14891907.c
+4
+[('Replace b\'    scanf("%lld",&n);\\n\' with b\'    scanf("%d",&n);\\n\' at position 5', 4)]

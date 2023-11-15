@@ -1,0 +1,4 @@
+codeflaws/151-B-bug-4600936-4600952/151-B-4600952.c
+codeflaws/151-B-bug-4600936-4600952/151-B-4600936.c
+81
+[('Replace b\'        printf(", %s",&name[y][0]);\\n\' with b\'        printf(" ,%s",&name[y][0]);\\n\' at position 82', 81)]

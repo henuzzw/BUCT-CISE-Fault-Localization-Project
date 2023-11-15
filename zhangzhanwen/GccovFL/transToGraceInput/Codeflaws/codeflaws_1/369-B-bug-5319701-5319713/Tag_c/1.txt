@@ -1,0 +1,4 @@
+codeflaws/369-B-bug-5319701-5319713/369-B-5319713.c
+codeflaws/369-B-bug-5319701-5319713/369-B-5319701.c
+22,22
+[("Insert b'\\t\\t if(n==k) \\n' at position 24 in file2", 23), ("Insert b'\\t\\t\\t continue;\\n' at position 25 in file2", 24)]

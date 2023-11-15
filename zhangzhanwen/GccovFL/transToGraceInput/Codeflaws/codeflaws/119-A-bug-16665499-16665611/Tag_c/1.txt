@@ -1,4 +1,0 @@
-codeflaws/119-A-bug-16665499-16665611/119-A-16665611.c
-codeflaws/119-A-bug-16665499-16665611/119-A-16665499.c
-6
-[("Replace b'        if(b%i==0&&a%i==0)\\n' with b'        if(b%i==0)\\n' at position 7", 6)]

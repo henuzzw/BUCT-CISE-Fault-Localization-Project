@@ -1,4 +1,0 @@
-codeflaws/136-B-bug-3414703-3414706/136-B-3414706.c
-codeflaws/136-B-bug-3414703-3414706/136-B-3414703.c
-54
-[("Replace b'm=(m-(m%3))/3;\\n' with b'm=(m-(m%3))/30;\\n' at position 55", 54)]

@@ -1,4 +1,0 @@
-codeflaws/62-A-bug-7067912-7067978/62-A-7067978.c
-codeflaws/62-A-bug-7067912-7067978/62-A-7067912.c
-5
-[('Replace b\'\\tprintf((gl!=0)&&(br!=0)&&(br>=gl-1)&&(br<=2*gl+2)?"YES":((gr!=0)&&(bl!=0)&&(bl>=gr-1)&&(bl<=2*gr+2)?"YES":"NO"));\\n\' with b\'\\tprintf((gl>1)&&(br>=gl-1)&&(br<=gl+3)?"YES":((gr>1)&&(bl>=gr-1)&&(bl<=gr+3)?"YES":"NO"));\\n\' at position 6', 5)]

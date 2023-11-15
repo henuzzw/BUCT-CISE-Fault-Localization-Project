@@ -1,0 +1,4 @@
+codeflaws/95-B-bug-538188-538195/95-B-538195.c
+codeflaws/95-B-bug-538188-538195/95-B-538188.c
+88
+[("Replace b'\\tchar line[100000 + 3], result[100000 + 3] ;\\n' with b'\\tchar line[32], result[32] ;\\n' at position 89", 88)]

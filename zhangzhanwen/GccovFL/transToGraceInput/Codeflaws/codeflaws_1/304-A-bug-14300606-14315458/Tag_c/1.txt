@@ -1,0 +1,4 @@
+codeflaws/304-A-bug-14300606-14315458/304-A-14315458.c
+codeflaws/304-A-bug-14300606-14315458/304-A-14300606.c
+6
+[("Replace b'    double c;\\n' with b'    float c;\\n' at position 7", 6)]

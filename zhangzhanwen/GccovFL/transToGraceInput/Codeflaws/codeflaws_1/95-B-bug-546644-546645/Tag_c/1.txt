@@ -1,0 +1,4 @@
+codeflaws/95-B-bug-546644-546645/95-B-546645.c
+codeflaws/95-B-bug-546644-546645/95-B-546644.c
+112,178
+[('Delete b\'    printf("%s\\\\nfour=%u, seven=%u\\\\n", in, four_c, sev_c);\\n\' at position 112 in file2', 111), ('Replace b\'    printf("%s", in);\\n\' with b\'    printf("%s\\\\nfour=%u, seven=%u\\\\n", in, four_c, sev_c);\\n\' at position 178', 177)]

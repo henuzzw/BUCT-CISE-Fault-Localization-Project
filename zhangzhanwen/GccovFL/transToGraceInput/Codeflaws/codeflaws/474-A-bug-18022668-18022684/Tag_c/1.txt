@@ -1,4 +1,0 @@
-codeflaws/474-A-bug-18022668-18022684/474-A-18022684.c
-codeflaws/474-A-bug-18022668-18022684/474-A-18022668.c
-3,33
-[("Replace b'int main(int argc,char *argv[])\\n' with b'int main(int argc, char *argv[])\\n' at position 4", 3), ("Insert b'           t=0;\\n' at position 35 in file2", 34)]

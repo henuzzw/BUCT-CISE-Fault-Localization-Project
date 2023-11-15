@@ -1,4 +1,0 @@
-codeflaws/581-C-bug-13800994-13801005/581-C-13801005.c
-codeflaws/581-C-bug-13800994-13801005/581-C-13800994.c
-45
-[('Delete b\'            printf("%d %d ",rating,rating_skills2[i]);\\n\' at position 45 in file2', 44)]

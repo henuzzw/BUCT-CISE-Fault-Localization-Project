@@ -1,0 +1,4 @@
+codeflaws/493-D-bug-10138857-10138859/493-D-10138859.c
+codeflaws/493-D-bug-10138857-10138859/493-D-10138857.c
+6,7
+[('Replace b\'\\t//puts( (n & 1) == 0 ? "white 1 2" : "black");\\n\' with b\'\\t//puts( n & 1 ? "white 1 2" : "black");\\n\' at position 7', 6), ("Replace b'\\tif ((n & 1) == 0)\\n' with b'\\tif (n & 1)\\n' at position 8", 7)]

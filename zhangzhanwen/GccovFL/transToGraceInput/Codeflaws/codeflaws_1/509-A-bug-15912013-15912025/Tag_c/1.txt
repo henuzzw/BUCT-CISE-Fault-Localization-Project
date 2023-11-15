@@ -1,0 +1,4 @@
+codeflaws/509-A-bug-15912013-15912025/509-A-15912025.c
+codeflaws/509-A-bug-15912013-15912025/509-A-15912013.c
+4
+[('Replace b\'\\tprintf("%d",arr[a-1]);\\n\' with b\'\\tprintf("%d",arr[a]);\\n\' at position 5', 4)]

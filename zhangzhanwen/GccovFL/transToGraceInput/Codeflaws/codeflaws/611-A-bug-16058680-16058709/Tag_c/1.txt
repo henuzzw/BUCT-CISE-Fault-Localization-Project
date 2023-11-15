@@ -1,4 +1,0 @@
-codeflaws/611-A-bug-16058680-16058709/611-A-16058709.c
-codeflaws/611-A-bug-16058680-16058709/611-A-16058680.c
-14
-[('Replace b\'        else if(i>29 && i<31) printf("11");\\n\' with b\'        else if(i>28 && i<31) printf("11");\\n\' at position 15', 14)]

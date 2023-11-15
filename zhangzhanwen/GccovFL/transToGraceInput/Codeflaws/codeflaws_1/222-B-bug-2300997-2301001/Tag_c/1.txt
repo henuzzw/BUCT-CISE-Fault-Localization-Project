@@ -1,0 +1,4 @@
+codeflaws/222-B-bug-2300997-2301001/222-B-2301001.c
+codeflaws/222-B-bug-2300997-2301001/222-B-2300997.c
+15
+[('Delete b\'\\tprintf("main\\\\n");\\n\' at position 15 in file2', 14)]

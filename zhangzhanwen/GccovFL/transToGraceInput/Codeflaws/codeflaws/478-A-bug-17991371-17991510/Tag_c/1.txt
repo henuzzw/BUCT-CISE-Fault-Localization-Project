@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-17991371-17991510/478-A-17991510.c
-codeflaws/478-A-bug-17991371-17991510/478-A-17991371.c
-10
-[('Replace b\'\\tif ((s % 5 == 0) && (s != 0)) printf("%d", s / 5); else printf("-1");\\n\' with b\'\\tif (s % 5 == 0) printf("%d", s / 5); else printf("-1");\\n\' at position 11', 10)]

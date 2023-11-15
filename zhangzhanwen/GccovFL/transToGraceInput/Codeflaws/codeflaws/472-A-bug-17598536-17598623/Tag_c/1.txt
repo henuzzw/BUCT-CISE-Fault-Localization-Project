@@ -1,4 +1,0 @@
-codeflaws/472-A-bug-17598536-17598623/472-A-17598623.c
-codeflaws/472-A-bug-17598536-17598623/472-A-17598536.c
-33,33
-[("Insert b'\\tif(n==13)\\n' at position 35 in file2", 34), ('Insert b\'\\t\\tprintf("9 4");\\n\' at position 36 in file2', 35)]

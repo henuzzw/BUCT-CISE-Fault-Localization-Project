@@ -1,4 +1,0 @@
-codeflaws/475-A-bug-16393233-16393264/475-A-16393264.c
-codeflaws/475-A-bug-16393233-16393264/475-A-16393233.c
-7
-[('Replace b"vet[i]=\'O\';\\n" with b"vet[i]=\'0\';\\n" at position 8', 7)]

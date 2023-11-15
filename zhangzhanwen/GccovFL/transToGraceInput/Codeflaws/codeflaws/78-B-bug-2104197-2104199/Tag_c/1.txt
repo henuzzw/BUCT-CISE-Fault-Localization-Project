@@ -1,4 +1,0 @@
-codeflaws/78-B-bug-2104197-2104199/78-B-2104199.c
-codeflaws/78-B-bug-2104197-2104199/78-B-2104197.c
-44
-[('Replace b\'                printf("%c",str[3]);\\n\' with b\'                printf("%c",str[4]);\\n\' at position 45', 44)]

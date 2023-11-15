@@ -1,4 +1,0 @@
-codeflaws/507-A-bug-15614498-15614521/507-A-15614521.c
-codeflaws/507-A-bug-15614498-15614521/507-A-15614498.c
-42
-[('Replace b\'               printf("%d ",j+1);\\n\' with b\'               printf("%d ",k+1);\\n\' at position 43', 42)]

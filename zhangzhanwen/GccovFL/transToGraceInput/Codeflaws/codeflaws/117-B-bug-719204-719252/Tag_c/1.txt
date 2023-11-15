@@ -1,4 +1,0 @@
-codeflaws/117-B-bug-719204-719252/117-B-719252.c
-codeflaws/117-B-bug-719204-719252/117-B-719204.c
-17
-[("Replace b'\\t  if (i < m && i <= a) {\\n' with b'\\t  if (i < m) {\\n' at position 18", 17)]

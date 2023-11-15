@@ -1,0 +1,4 @@
+codeflaws/638-A-bug-16913566-16913587/638-A-16913587.c
+codeflaws/638-A-bug-16913566-16913587/638-A-16913566.c
+8
+[('Replace b\'        printf("%d",((n-c)/2)+1);\\n\' with b\'        printf("%d",((n-1)/2)+1);\\n\' at position 9', 8)]

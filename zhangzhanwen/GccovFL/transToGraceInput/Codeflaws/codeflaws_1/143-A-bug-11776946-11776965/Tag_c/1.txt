@@ -1,0 +1,4 @@
+codeflaws/143-A-bug-11776946-11776965/143-A-11776965.c
+codeflaws/143-A-bug-11776946-11776965/143-A-11776946.c
+17
+[("Replace b'                if(x==y || x==z || x==t || y==z || y==t || z==t || x>9 || y>9 || z>9 || t>9 || x<=0 || t<=0 || z<=0 || t<=0 )\\n' with b'                if(x==y || x==z || x==t || y==z || y==t || z==t)\\n' at position 18", 17)]

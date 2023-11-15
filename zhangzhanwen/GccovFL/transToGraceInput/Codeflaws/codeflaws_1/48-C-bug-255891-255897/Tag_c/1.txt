@@ -1,0 +1,4 @@
+codeflaws/48-C-bug-255891-255897/48-C-255897.c
+codeflaws/48-C-bug-255891-255897/48-C-255891.c
+172
+[("Replace b'     alpha =mpd(10,1000000,s2,-1);\\n' with b'     alpha =mpd(10,1000,s2,-1);\\n' at position 173", 172)]

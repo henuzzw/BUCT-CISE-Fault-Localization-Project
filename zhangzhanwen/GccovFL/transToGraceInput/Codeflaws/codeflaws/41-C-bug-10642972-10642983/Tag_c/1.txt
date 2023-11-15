@@ -1,4 +1,0 @@
-codeflaws/41-C-bug-10642972-10642983/41-C-10642983.c
-codeflaws/41-C-bug-10642972-10642983/41-C-10642972.c
-17
-[('Replace b"\\t\\tif(i+3<n && arr[i] == \'d\' && arr[i+1] == \'o\' && arr[i+2] == \'t\') {\\n" with b"\\t\\tif(i+4<n && arr[i] == \'d\' && arr[i+1] == \'o\' && arr[i+2] == \'t\') {\\n" at position 18', 17)]

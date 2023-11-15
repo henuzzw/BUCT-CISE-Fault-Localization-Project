@@ -1,4 +1,0 @@
-codeflaws/340-B-bug-9369797-9369822/340-B-9369822.c
-codeflaws/340-B-bug-9369797-9369822/340-B-9369797.c
-26
-[("Replace b'\\t\\tif(max1+max2>quad && max2>0 && max1>0)quad=max1+max2;\\n' with b'\\t\\tif(max1+max2>quad)quad=max1+max2;\\n' at position 27", 26)]

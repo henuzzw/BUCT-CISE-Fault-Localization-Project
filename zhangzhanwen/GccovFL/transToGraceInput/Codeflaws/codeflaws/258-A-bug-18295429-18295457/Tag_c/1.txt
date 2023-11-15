@@ -1,4 +1,0 @@
-codeflaws/258-A-bug-18295429-18295457/258-A-18295457.c
-codeflaws/258-A-bug-18295429-18295457/258-A-18295429.c
-15
-[('Replace b"                if(k==\'0\'&&flag==0)\\n" with b"                if(k==\'0\')\\n" at position 16', 15)]

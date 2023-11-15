@@ -1,4 +1,0 @@
-codeflaws/670-E-bug-17742117-17743180/670-E-17743180.c
-codeflaws/670-E-bug-17742117-17743180/670-E-17742117.c
-28
-[("Replace b'\\t\\t\\tfor(p=Nx[r];p>n;p=Pv[p]);\\n' with b'\\t\\t\\twhile((p=Nx[r])>n)p=Pv[p];\\n' at position 29", 28)]

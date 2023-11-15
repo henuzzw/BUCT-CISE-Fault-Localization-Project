@@ -1,0 +1,4 @@
+codeflaws/630-J-bug-16885448-16885458/630-J-16885458.c
+codeflaws/630-J-bug-16885448-16885458/630-J-16885448.c
+8
+[("Replace b'    return 0;\\n' with b'    return 1;\\n' at position 9", 8)]

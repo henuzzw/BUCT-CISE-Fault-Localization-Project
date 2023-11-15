@@ -1,0 +1,4 @@
+codeflaws/9-B-bug-18061820-18061825/9-B-18061825.c
+codeflaws/9-B-bug-18061820-18061825/9-B-18061820.c
+21
+[('Delete b\'\\t\\tprintf("%f\\\\n", t);\\n\' at position 21 in file2', 20)]

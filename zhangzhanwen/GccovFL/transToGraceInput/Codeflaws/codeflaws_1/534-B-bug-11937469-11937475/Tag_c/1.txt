@@ -1,0 +1,4 @@
+codeflaws/534-B-bug-11937469-11937475/534-B-11937475.c
+codeflaws/534-B-bug-11937469-11937475/534-B-11937469.c
+30
+[('Replace b\'    //for(i=1;i<=t;i++)printf("%d\\\\n",ara[i]);\\n\' with b\'    for(i=1;i<=t;i++)printf("%d\\\\n",ara[i]);\\n\' at position 31', 30)]

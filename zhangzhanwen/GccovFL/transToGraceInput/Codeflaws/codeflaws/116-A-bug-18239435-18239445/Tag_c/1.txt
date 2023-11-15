@@ -1,4 +1,0 @@
-codeflaws/116-A-bug-18239435-18239445/116-A-18239445.c
-codeflaws/116-A-bug-18239435-18239445/116-A-18239435.c
-15
-[('Replace b\'\\t\\t//printf("--%d--%d--%d\\\\n",minCapacity,entryCount,exitCount);\\n\' with b\'\\t\\tprintf("--%d--%d--%d\\\\n",minCapacity,entryCount,exitCount);\\n\' at position 16', 15)]

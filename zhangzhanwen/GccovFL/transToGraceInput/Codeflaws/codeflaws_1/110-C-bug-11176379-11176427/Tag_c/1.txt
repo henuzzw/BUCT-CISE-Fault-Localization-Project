@@ -1,0 +1,4 @@
+codeflaws/110-C-bug-11176379-11176427/110-C-11176427.c
+codeflaws/110-C-bug-11176379-11176427/110-C-11176379.c
+18
+[("Replace b'        if(i>quo1){\\n' with b'        if(i == quo1){\\n' at position 19", 18)]

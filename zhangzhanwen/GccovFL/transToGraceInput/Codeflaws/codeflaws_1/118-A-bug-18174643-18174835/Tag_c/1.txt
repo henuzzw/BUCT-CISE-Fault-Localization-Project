@@ -1,0 +1,4 @@
+codeflaws/118-A-bug-18174643-18174835/118-A-18174835.c
+codeflaws/118-A-bug-18174643-18174835/118-A-18174643.c
+2,15
+[("Delete b'#include<stdlib.h>\\n' at position 2 in file2", 1), ('Replace b"        if(arr[i]==\'a\' || arr[i]==\'e\' || arr[i]==\'i\' || arr[i]==\'o\' || arr[i]==\'u\' || arr[i]==\'y\')\\n" with b"        if(arr[i]==\'a\' || arr[i]==\'e\' || arr[i]==\'i\' || arr[i]==\'o\' || arr[i]==\'u\')\\n" at position 15', 14)]

@@ -1,0 +1,4 @@
+codeflaws/290-C-bug-3446936-3447296/290-C-3447296.c
+codeflaws/290-C-bug-3446936-3447296/290-C-3446936.c
+16
+[("Replace b'        if(temp==foo*quz)\\n' with b'        if(temp>=foo*quz)\\n' at position 17", 16)]

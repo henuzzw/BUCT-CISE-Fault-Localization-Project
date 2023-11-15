@@ -1,0 +1,4 @@
+codeflaws/342-C-bug-10153150-10153161/342-C-10153161.c
+codeflaws/342-C-bug-10153150-10153161/342-C-10153150.c
+14
+[('Delete b\'        printf("falg");\\n\' at position 14 in file2', 13)]

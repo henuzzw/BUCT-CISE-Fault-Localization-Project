@@ -1,4 +1,0 @@
-codeflaws/630-L-bug-16330608-16330790/630-L-16330790.c
-codeflaws/630-L-bug-16330608-16330790/630-L-16330608.c
-29,29,29
-[("Insert b'if(y==0)\\n' at position 31 in file2", 30), ('Insert b\'printf("0000%d",y);\\n\' at position 32 in file2', 31), ("Insert b'else\\n' at position 33 in file2", 32)]

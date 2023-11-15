@@ -1,0 +1,4 @@
+codeflaws/29-B-bug-2022262-2022266/29-B-2022266.c
+codeflaws/29-B-bug-2022262-2022266/29-B-2022262.c
+14,22
+[("Replace b'      else if(sum==t1) check=3;\\n' with b'      else if(sum==t1) check=1;\\n' at position 15", 14), ("Insert b'  else if(check==3) t1+=r;\\n' at position 24 in file2", 23)]

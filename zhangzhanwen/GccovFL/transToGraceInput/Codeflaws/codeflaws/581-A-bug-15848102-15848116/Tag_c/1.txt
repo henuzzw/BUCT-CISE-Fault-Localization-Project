@@ -1,4 +1,0 @@
-codeflaws/581-A-bug-15848102-15848116/581-A-15848116.c
-codeflaws/581-A-bug-15848102-15848116/581-A-15848102.c
-10
-[('Replace b\'    printf("%d %d\\\\n",same,diff);\\n\' with b\'    printf("%d\\\\n",same+diff);\\n\' at position 11', 10)]

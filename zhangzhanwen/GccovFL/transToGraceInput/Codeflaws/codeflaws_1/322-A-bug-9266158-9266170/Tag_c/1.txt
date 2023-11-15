@@ -1,0 +1,4 @@
+codeflaws/322-A-bug-9266158-9266170/322-A-9266170.c
+codeflaws/322-A-bug-9266158-9266170/322-A-9266158.c
+58
+[('Replace b\'            printf("%d %d\\\\n", m, i);\\n\' with b\'            printf("%d %d\\\\n", i, m);\\n\' at position 59', 58)]

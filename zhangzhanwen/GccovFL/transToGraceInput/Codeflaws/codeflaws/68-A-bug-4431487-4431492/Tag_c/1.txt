@@ -1,4 +1,0 @@
-codeflaws/68-A-bug-4431487-4431492/68-A-4431492.c
-codeflaws/68-A-bug-4431487-4431492/68-A-4431487.c
-13
-[("Replace b'if(c1>=7)\\n' with b'if(c1==7)\\n' at position 14", 13)]

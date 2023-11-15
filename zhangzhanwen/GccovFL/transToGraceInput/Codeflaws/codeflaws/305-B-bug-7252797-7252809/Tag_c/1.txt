@@ -1,4 +1,0 @@
-codeflaws/305-B-bug-7252797-7252809/305-B-7252809.c
-codeflaws/305-B-bug-7252797-7252809/305-B-7252797.c
-18
-[("Replace b'        t=p;\\n' with b'        p=t;\\n' at position 19", 18)]

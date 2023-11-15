@@ -1,4 +1,0 @@
-codeflaws/581-B-bug-15257040-15257080/581-B-15257080.c
-codeflaws/581-B-bug-15257040-15257080/581-B-15257040.c
-21,21
-[("Insert b'        else\\n' at position 23 in file2", 22), ("Insert b'            equal[i]=0;\\n' at position 24 in file2", 23)]

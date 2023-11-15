@@ -1,4 +1,0 @@
-codeflaws/436-B-bug-6884376-6884684/436-B-6884684.c
-codeflaws/436-B-bug-6884376-6884684/436-B-6884376.c
-92
-[("Replace b'                if(!(i&1))ans[j]++; \\n' with b'                if(i>1)ans[j]++;    \\n' at position 93", 92)]

@@ -1,4 +1,0 @@
-codeflaws/381-B-bug-5823708-5823796/381-B-5823796.c
-codeflaws/381-B-bug-5823708-5823796/381-B-5823708.c
-16,45
-[('Insert b\'//\\tprintf("%d %d %d\\\\n",max,min,num);\\n\' at position 18 in file2', 17), ('Replace b\'\\tprintf("%d\\\\n",min);\\n\' with b\'\\tprintf("%d\\\\n",a[min]);\\n\' at position 47', 46)]

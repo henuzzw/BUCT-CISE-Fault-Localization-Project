@@ -1,4 +1,0 @@
-codeflaws/60-B-bug-10273760-10273815/60-B-10273815.c
-codeflaws/60-B-bug-10273760-10273815/60-B-10273760.c
-13
-[('Replace b"    if(d-1>=1 && tap[a][b][d-1]==\'.\'&& !visited[a][b][d-1]) {visited[a][b][d-1]=1;dfs(a,b,d-1);}\\n" with b"    if(d-1>=1 && tap[a][b][d-1]==\'.\'&& !visited[a][b-1][d]) {visited[a][b][d-1]=1;dfs(a,b,d-1);}\\n" at position 14', 13)]

@@ -1,0 +1,4 @@
+codeflaws/218-A-bug-2049466-2049470/218-A-2049470.c
+codeflaws/218-A-bug-2049466-2049470/218-A-2049466.c
+16,20
+[("Replace b'        if(k==0)\\n' with b'        if(k<0)\\n' at position 17", 16), ("Delete b'            k--;\\n' at position 20 in file2", 19)]

@@ -1,4 +1,0 @@
-codeflaws/350-A-bug-13284533-13284599/350-A-13284599.c
-codeflaws/350-A-bug-13284533-13284599/350-A-13284533.c
-32
-[("Replace b'   if(large >= wsmall || (2 * small) >= wsmall){\\n' with b'   if(large > wsmall || (2 * small) >= wsmall){\\n' at position 33", 32)]

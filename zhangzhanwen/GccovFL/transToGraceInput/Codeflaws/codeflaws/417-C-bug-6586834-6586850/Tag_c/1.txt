@@ -1,4 +1,0 @@
-codeflaws/417-C-bug-6586834-6586850/417-C-6586850.c
-codeflaws/417-C-bug-6586834-6586850/417-C-6586834.c
-8
-[('Replace b\'        printf("%ld\\\\n", n * k);\\n\' with b\'        printf("%ld", n * k);\\n\' at position 9', 8)]

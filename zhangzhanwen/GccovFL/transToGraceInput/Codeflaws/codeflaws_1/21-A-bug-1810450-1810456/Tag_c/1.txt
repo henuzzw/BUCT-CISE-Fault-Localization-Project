@@ -1,0 +1,4 @@
+codeflaws/21-A-bug-1810450-1810456/21-A-1810456.c
+codeflaws/21-A-bug-1810450-1810456/21-A-1810450.c
+32
+[("Insert b'            l=0;\\n' at position 34 in file2", 33)]

@@ -1,0 +1,4 @@
+codeflaws/588-B-bug-15570992-15571069/588-B-15571069.c
+codeflaws/588-B-bug-15570992-15571069/588-B-15570992.c
+5
+[("Replace b'\\tfor(i=10000000;i>=2;i--)\\n' with b'\\tfor(i=n;i>=2;i--)\\n' at position 6", 5)]

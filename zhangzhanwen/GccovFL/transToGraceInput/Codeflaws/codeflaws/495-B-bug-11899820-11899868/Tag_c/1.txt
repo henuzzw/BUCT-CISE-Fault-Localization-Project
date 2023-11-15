@@ -1,4 +1,0 @@
-codeflaws/495-B-bug-11899820-11899868/495-B-11899868.c
-codeflaws/495-B-bug-11899820-11899868/495-B-11899820.c
-16
-[("Insert b'            if(i!=(c/i))\\n' at position 18 in file2", 17)]

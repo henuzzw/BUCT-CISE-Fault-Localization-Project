@@ -1,0 +1,4 @@
+codeflaws/304-B-bug-4330063-4330071/304-B-4330071.c
+codeflaws/304-B-bug-4330063-4330071/304-B-4330063.c
+110
+[("Replace b'\\t\\t\\t\\tif(arr[year1-1900]==1 && j==2)\\n' with b'\\t\\t\\t\\tif(arr[year1-1900]==1)\\n' at position 111", 110)]

@@ -1,0 +1,4 @@
+codeflaws/139-A-bug-17335175-17335187/139-A-17335187.c
+codeflaws/139-A-bug-17335175-17335187/139-A-17335175.c
+36
+[("Replace b'\\tfor(j=1;j<=x;j++)\\n' with b'\\tfor(j=1;j<=7;j++)\\n' at position 37", 36)]

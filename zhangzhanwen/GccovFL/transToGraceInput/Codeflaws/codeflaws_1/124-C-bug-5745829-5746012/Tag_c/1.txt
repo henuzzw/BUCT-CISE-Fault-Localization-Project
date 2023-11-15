@@ -1,0 +1,4 @@
+codeflaws/124-C-bug-5745829-5746012/124-C-5746012.c
+codeflaws/124-C-bug-5745829-5746012/124-C-5745829.c
+62
+[("Replace b'        while(s[i]==c&&++time<=m&&i<k)\\n' with b'        while(s[i]==c&&time++<=m&&i<k)\\n' at position 63", 62)]

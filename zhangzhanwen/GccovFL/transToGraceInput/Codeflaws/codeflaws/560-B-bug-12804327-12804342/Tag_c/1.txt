@@ -1,4 +1,0 @@
-codeflaws/560-B-bug-12804327-12804342/560-B-12804342.c
-codeflaws/560-B-bug-12804327-12804342/560-B-12804327.c
-20,26
-[('Delete b\'\\t\\t\\t\\t\\t\\tprintf("%d %d %d %d \\\\n", paint[i], paint[1-i], paint[j], paint[5-j]);\\n\' at position 20 in file2', 19), ('Delete b\'\\t\\t\\t\\t\\t\\tprintf("%d %d %d %d\\\\n", paint[i], paint[1-i], paint[j], paint[5-j]);\\n\' at position 25 in file2', 24)]

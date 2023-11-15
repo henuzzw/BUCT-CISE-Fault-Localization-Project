@@ -1,0 +1,4 @@
+codeflaws/291-B-bug-3726598-3726610/291-B-3726610.c
+codeflaws/291-B-bug-3726598-3726610/291-B-3726598.c
+9
+[('Replace b\'    if(a[i]!=\\\' \\\' && a[i]!=\\\'"\\\'){printf("<");while(a[i]!=\\\' \\\' && a[i]!=\\\'\\\\0\\\'){printf("%c",a[i++]);}printf(">\\\\n");}\\n\' with b\'    if(a[i]!=\\\' \\\' && a[i]!=\\\'"\\\'){printf("<");while(a[i]!=\\\' \\\'){printf("%c",a[i++]);}printf(">\\\\n");}\\n\' at position 10', 9)]

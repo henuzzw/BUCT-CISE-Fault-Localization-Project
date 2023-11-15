@@ -1,4 +1,0 @@
-codeflaws/375-A-bug-5781086-5781088/375-A-5781088.c
-codeflaws/375-A-bug-5781086-5781088/375-A-5781086.c
-7
-[("Replace b'\\tmemset(str, 0, 1000003);\\n' with b'\\tmemset(str, 0, 10000003);\\n' at position 8", 7)]

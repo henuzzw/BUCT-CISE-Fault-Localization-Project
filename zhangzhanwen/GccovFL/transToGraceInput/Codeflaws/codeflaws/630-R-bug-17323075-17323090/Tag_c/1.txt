@@ -1,4 +1,0 @@
-codeflaws/630-R-bug-17323075-17323090/630-R-17323090.c
-codeflaws/630-R-bug-17323075-17323090/630-R-17323075.c
-4
-[('Replace b\'\\tscanf("%lld",&n);\\n\' with b\'\\tscanf("%lld",n);\\n\' at position 5', 4)]

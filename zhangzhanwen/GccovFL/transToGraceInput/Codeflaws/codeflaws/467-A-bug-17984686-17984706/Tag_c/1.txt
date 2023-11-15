@@ -1,4 +1,0 @@
-codeflaws/467-A-bug-17984686-17984706/467-A-17984706.c
-codeflaws/467-A-bug-17984686-17984706/467-A-17984686.c
-7
-[("Replace b'    if(q-p>=2)\\n' with b'    if(p-q>=2)\\n' at position 8", 7)]

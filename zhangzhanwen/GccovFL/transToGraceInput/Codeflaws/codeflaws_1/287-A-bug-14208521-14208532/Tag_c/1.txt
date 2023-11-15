@@ -1,0 +1,4 @@
+codeflaws/287-A-bug-14208521-14208532/287-A-14208532.c
+codeflaws/287-A-bug-14208521-14208532/287-A-14208521.c
+22
+[("Insert b'            d=0; h=0;\\n' at position 24 in file2", 23)]

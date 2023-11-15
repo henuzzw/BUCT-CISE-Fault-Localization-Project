@@ -1,0 +1,4 @@
+codeflaws/527-B-bug-11093666-11093671/527-B-11093671.c
+codeflaws/527-B-bug-11093666-11093671/527-B-11093666.c
+30
+[('Replace b\'                    printf("%d\\\\n%d %d",ans-2,map[i][j],map[j][i]);\\n\' with b\'                    printf("%d\\\\n%d %d",ans-2,map[i][j],map[i][j]);\\n\' at position 31', 30)]

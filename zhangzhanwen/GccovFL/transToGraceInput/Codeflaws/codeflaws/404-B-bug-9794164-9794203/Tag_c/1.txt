@@ -1,4 +1,0 @@
-codeflaws/404-B-bug-9794164-9794203/404-B-9794203.c
-codeflaws/404-B-bug-9794164-9794203/404-B-9794164.c
-11
-[("Replace b'       c=c-(4*a)*floor(c/(4*a));\\n' with b'        while(c>=4*a) c=c-4*a;\\n' at position 12", 11)]

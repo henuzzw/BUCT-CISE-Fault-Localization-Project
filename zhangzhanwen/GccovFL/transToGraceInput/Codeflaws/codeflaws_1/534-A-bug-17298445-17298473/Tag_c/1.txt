@@ -1,0 +1,4 @@
+codeflaws/534-A-bug-17298445-17298473/534-A-17298473.c
+codeflaws/534-A-bug-17298445-17298473/534-A-17298445.c
+11,11
+[("Insert b'    if(n==4){\\n' at position 13 in file2", 12), ('Insert b\'        printf("4\\\\n 3 1 4 2");return 0;}\\n\' at position 14 in file2', 13)]

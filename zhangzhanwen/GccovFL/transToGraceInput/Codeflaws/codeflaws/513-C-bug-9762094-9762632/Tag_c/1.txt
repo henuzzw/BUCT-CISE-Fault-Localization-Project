@@ -1,4 +1,0 @@
-codeflaws/513-C-bug-9762094-9762632/513-C-9762632.c
-codeflaws/513-C-bug-9762094-9762632/513-C-9762094.c
-8
-[("Replace b'\\tfor(i=0;++i<=10000;)\\n' with b'\\tfor(i=0;++i<=10;)\\n' at position 9", 8)]

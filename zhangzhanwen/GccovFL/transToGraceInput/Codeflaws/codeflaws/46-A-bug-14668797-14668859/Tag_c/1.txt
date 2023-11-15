@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-14668797-14668859/46-A-14668859.c
-codeflaws/46-A-bug-14668797-14668859/46-A-14668797.c
-9,11
-[("Replace b'        i++;\\n' with b'        i=i++;\\n' at position 10", 9), ("Replace b'    return 0;\\n' with b'return 0;\\n' at position 12", 11)]

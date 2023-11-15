@@ -1,0 +1,4 @@
+codeflaws/583-B-bug-13484249-13484352/583-B-13484352.c
+codeflaws/583-B-bug-13484249-13484352/583-B-13484249.c
+39
+[("Replace b'                if (k>=a[i])\\n' with b'                if (k==a[i])\\n' at position 40", 39)]

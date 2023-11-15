@@ -1,0 +1,4 @@
+codeflaws/254-B-bug-2772031-2772034/254-B-2772034.c
+codeflaws/254-B-bug-2772031-2772034/254-B-2772031.c
+7,7
+[('Insert b\'    freopen("input.txt","rb",stdin);\\n\' at position 9 in file2', 8), ('Insert b\'    freopen("output.txt","wb",stdout);\\n\' at position 10 in file2', 9)]

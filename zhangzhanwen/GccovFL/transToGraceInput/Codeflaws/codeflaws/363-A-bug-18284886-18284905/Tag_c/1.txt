@@ -1,4 +1,0 @@
-codeflaws/363-A-bug-18284886-18284905/363-A-18284905.c
-codeflaws/363-A-bug-18284886-18284905/363-A-18284886.c
-5,7
-[("Insert b'    if(x==0) a[0]=0,d++;\\n' at position 7 in file2", 6), ("Delete b'    if(x==0) a[0]=0,d++;\\n' at position 8 in file2", 7)]

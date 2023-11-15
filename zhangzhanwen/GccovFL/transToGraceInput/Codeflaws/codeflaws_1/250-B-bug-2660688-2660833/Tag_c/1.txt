@@ -1,0 +1,4 @@
+codeflaws/250-B-bug-2660688-2660833/250-B-2660833.c
+codeflaws/250-B-bug-2660688-2660833/250-B-2660688.c
+40
+[("Replace b'            for (i=L-1; i>=0; i--){\\n' with b'            for (i=L-1; i>S; i--){\\n' at position 41", 40)]

@@ -1,4 +1,0 @@
-codeflaws/471-B-bug-12641205-12641425/471-B-12641425.c
-codeflaws/471-B-bug-12641205-12641425/471-B-12641205.c
-23,69
-[('Insert b\'    printf("YES\\\\n");\\n\' at position 25 in file2', 24), ("Replace b'}' with b'}\\n' at position 71", 70)]

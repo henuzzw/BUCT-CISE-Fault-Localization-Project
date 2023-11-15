@@ -1,4 +1,0 @@
-codeflaws/348-A-bug-10692862-10692890/348-A-10692890.c
-codeflaws/348-A-bug-10692862-10692890/348-A-10692862.c
-19
-[('Replace b\'              num = max ;\\n\' with b\'              printf("%lld \\\\n" , max);\\n\' at position 20', 19)]

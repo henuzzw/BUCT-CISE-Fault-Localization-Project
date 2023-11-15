@@ -1,4 +1,0 @@
-codeflaws/88-D-bug-481300-481351/88-D-481351.c
-codeflaws/88-D-bug-481300-481351/88-D-481300.c
-64
-[("Replace b'\\t\\tif (j == p || t[j].n < 0) {\\n' with b'\\t\\tif (t[j].n < 0) {\\n' at position 65", 64)]

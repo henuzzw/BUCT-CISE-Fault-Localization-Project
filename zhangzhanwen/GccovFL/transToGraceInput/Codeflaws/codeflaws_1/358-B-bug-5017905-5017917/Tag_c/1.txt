@@ -1,0 +1,4 @@
+codeflaws/358-B-bug-5017905-5017917/358-B-5017917.c
+codeflaws/358-B-bug-5017905-5017917/358-B-5017905.c
+41
+[("Insert b'\\t\\tL++;\\n' at position 43 in file2", 42)]

@@ -1,4 +1,0 @@
-codeflaws/550-A-bug-17137160-17137213/550-A-17137213.c
-codeflaws/550-A-bug-17137160-17137213/550-A-17137160.c
-18,36
-[("Insert b'                    return 0;\\n' at position 20 in file2", 19), ("Insert b'                    return 0;\\n' at position 39 in file2", 38)]

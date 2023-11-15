@@ -1,4 +1,0 @@
-codeflaws/526-A-bug-10966530-10966547/526-A-10966547.c
-codeflaws/526-A-bug-10966530-10966547/526-A-10966530.c
-17
-[("Replace b'\\t\\t\\tif(m>=5)\\n' with b'\\t\\t\\tif(m>=4)\\n' at position 18", 17)]

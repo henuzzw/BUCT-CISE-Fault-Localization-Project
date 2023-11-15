@@ -1,0 +1,4 @@
+codeflaws/146-B-bug-1117801-1117804/146-B-1117804.c
+codeflaws/146-B-bug-1117801-1117804/146-B-1117801.c
+6,6
+[("Insert b'    if(mask(a)==b)\\n' at position 8 in file2", 7), ("Insert b'    c++;\\n' at position 9 in file2", 8)]

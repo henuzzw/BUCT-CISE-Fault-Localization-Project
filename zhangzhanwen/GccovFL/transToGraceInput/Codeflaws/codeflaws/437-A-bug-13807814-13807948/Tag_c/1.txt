@@ -1,4 +1,0 @@
-codeflaws/437-A-bug-13807814-13807948/437-A-13807948.c
-codeflaws/437-A-bug-13807814-13807948/437-A-13807814.c
-5
-[("Replace b'    char a[4][103];\\n' with b'    char a[4][101];\\n' at position 6", 5)]

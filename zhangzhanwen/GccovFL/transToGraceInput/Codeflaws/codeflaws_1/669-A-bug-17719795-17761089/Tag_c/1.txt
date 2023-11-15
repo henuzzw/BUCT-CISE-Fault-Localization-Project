@@ -1,0 +1,4 @@
+codeflaws/669-A-bug-17719795-17761089/669-A-17761089.c
+codeflaws/669-A-bug-17719795-17761089/669-A-17719795.c
+14
+[('Replace b\'    printf("%d",p);\\n\' with b\'    printf("The number of presents is:%d",p);\\n\' at position 15', 14)]

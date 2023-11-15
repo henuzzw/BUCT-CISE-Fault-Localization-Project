@@ -1,0 +1,4 @@
+codeflaws/142-E-bug-1258756-1258757/142-E-1258757.c
+codeflaws/142-E-bug-1258756-1258757/142-E-1258756.c
+84
+[('Replace b\'    //printf("%f %f\\\\n",temp1,temp2);\\n\' with b\'    printf("%f %f\\\\n",temp1,temp2);\\n\' at position 85', 84)]

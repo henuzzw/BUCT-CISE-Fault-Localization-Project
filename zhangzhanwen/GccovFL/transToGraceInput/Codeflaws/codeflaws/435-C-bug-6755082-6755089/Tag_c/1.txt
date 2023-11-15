@@ -1,4 +1,0 @@
-codeflaws/435-C-bug-6755082-6755089/435-C-6755089.c
-codeflaws/435-C-bug-6755082-6755089/435-C-6755082.c
-25,34
-[('Delete b\'\\tprintf("%d\\\\n", y);\\n\' at position 25 in file2', 24), ("Replace b'\\tfor (i=0; i<max; i++) {\\n' with b'\\tfor (i=0; i<=max; i++) {\\n' at position 34", 33)]

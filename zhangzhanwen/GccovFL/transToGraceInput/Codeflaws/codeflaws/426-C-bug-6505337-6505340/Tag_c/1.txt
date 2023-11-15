@@ -1,4 +1,0 @@
-codeflaws/426-C-bug-6505337-6505340/426-C-6505340.c
-codeflaws/426-C-bug-6505337-6505340/426-C-6505337.c
-29
-[('Replace b\'    //freopen("C:\\\\\\\\Users\\\\\\\\Shen\\\\\\\\Desktop\\\\\\\\in.txt","r",stdin);\\n\' with b\'    freopen("C:\\\\\\\\Users\\\\\\\\Shen\\\\\\\\Desktop\\\\\\\\in.txt","r",stdin);\\n\' at position 30', 29)]

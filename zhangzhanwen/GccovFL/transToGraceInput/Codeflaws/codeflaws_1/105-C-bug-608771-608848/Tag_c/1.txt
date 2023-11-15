@@ -1,0 +1,4 @@
+codeflaws/105-C-bug-608771-608848/105-C-608848.c
+codeflaws/105-C-bug-608771-608848/105-C-608771.c
+34
+[("Replace b'\\t\\tif (j<m) add[idx][pp[idx]++]=j,v[j]=1; else break;\\n' with b'\\t\\tif (j<m) add[idx][pp[idx]++]=j; else break;\\n' at position 35", 34)]

@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-13875329-13875346/535-A-13875346.c
-codeflaws/535-A-bug-13875329-13875346/535-A-13875329.c
-38
-[("Replace b'\\telse if (n<=9){\\n' with b'\\telse if (n<9){\\n' at position 39", 38)]

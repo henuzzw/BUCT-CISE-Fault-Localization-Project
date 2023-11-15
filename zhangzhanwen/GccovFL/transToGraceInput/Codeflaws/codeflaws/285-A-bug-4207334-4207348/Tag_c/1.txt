@@ -1,4 +1,0 @@
-codeflaws/285-A-bug-4207334-4207348/285-A-4207348.c
-codeflaws/285-A-bug-4207334-4207348/285-A-4207334.c
-15
-[("Replace b'                if((n-i)<=k)\\n' with b'                if((n-i+1)<=k)\\n' at position 16", 15)]

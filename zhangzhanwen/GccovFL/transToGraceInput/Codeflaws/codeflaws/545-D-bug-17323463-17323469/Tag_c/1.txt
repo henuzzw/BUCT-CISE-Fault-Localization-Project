@@ -1,4 +1,0 @@
-codeflaws/545-D-bug-17323463-17323469/545-D-17323469.c
-codeflaws/545-D-bug-17323463-17323469/545-D-17323463.c
-39
-[("Replace b'\\tif(a[i]>=top)\\n' with b'\\tif(a[i]>top)\\n' at position 40", 39)]

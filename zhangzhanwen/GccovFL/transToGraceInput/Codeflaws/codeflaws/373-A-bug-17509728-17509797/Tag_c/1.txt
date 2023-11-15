@@ -1,4 +1,0 @@
-codeflaws/373-A-bug-17509728-17509797/373-A-17509797.c
-codeflaws/373-A-bug-17509728-17509797/373-A-17509728.c
-20
-[("Replace b'\\tfor (i = 0; i <9; ++i)\\n' with b'\\tfor (i = 0; i <10; ++i)\\n' at position 21", 20)]

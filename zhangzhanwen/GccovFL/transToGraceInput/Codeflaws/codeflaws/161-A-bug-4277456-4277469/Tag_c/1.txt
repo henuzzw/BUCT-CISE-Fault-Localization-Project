@@ -1,4 +1,0 @@
-codeflaws/161-A-bug-4277456-4277469/161-A-4277469.c
-codeflaws/161-A-bug-4277456-4277469/161-A-4277456.c
-13
-[('Replace b\'//\\tprintf("%d\\\\n", n);\\n\' with b\'\\tprintf("%d\\\\n", n);\\n\' at position 14', 13)]

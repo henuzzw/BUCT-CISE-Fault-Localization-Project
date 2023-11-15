@@ -1,4 +1,0 @@
-codeflaws/432-A-bug-15754444-15754454/432-A-15754454.c
-codeflaws/432-A-bug-15754444-15754454/432-A-15754444.c
-18
-[("Replace b'        if(5-chances[i]>=k)\\n' with b'        if(n-chances[i]>=k)\\n' at position 19", 18)]

@@ -1,4 +1,0 @@
-codeflaws/584-C-bug-13787329-13787371/584-C-13787371.c
-codeflaws/584-C-bug-13787329-13787371/584-C-13787329.c
-5
-[('Replace b"    return (a==\'a\')?\'b\':\'a\';\\n" with b"    return (a=\'a\')?\'b\':\'a\';\\n" at position 6', 5)]

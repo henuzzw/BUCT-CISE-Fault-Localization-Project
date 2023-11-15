@@ -1,0 +1,4 @@
+codeflaws/366-A-bug-12229092-12229103/366-A-12229103.c
+codeflaws/366-A-bug-12229092-12229103/366-A-12229092.c
+17
+[('Replace b\'            printf("%d %d %d\\\\n",i+1,min(a[i][0],a[i][1]),T-min(a[i][0],a[i][1]));\\n\' with b\'            printf("%d %d %d\\\\n",i+1,min(a[i][0],a[i][1]),min(a[i][2],a[i][3]));\\n\' at position 18', 17)]

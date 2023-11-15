@@ -1,0 +1,4 @@
+codeflaws/10-A-bug-2106391-2106405/10-A-2106405.c
+codeflaws/10-A-bug-2106391-2106405/10-A-2106391.c
+11,30
+[("Replace b'                for(i=1;i<n;i++){\\n' with b'                for(i=1;i<n;i++);\\n' at position 12", 11), ("Insert b'        }\\n' at position 32 in file2", 31)]

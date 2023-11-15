@@ -1,0 +1,4 @@
+codeflaws/11-A-bug-12980172-12980175/11-A-12980175.c
+codeflaws/11-A-bug-12980172-12980175/11-A-12980172.c
+23
+[('Replace b\'            //printf("i=%d\\\\n temp=%d \\\\n count=%d\\\\n arr[i]=%d\\\\n\\\\n ", i,temp,count,arr[i]);\\n\' with b\'            printf("i=%d\\\\n temp=%d \\\\n count=%d\\\\n arr[i]=%d\\\\n\\\\n ", i,temp,count,arr[i]);\\n\' at position 24', 23)]

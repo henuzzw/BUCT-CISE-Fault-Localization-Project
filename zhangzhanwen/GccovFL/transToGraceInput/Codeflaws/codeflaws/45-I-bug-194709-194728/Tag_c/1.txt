@@ -1,4 +1,0 @@
-codeflaws/45-I-bug-194709-194728/45-I-194728.c
-codeflaws/45-I-bug-194709-194728/45-I-194709.c
-26
-[("Replace b'   qsort( list[ 2 ], nlist[ 2 ], sizeof(int), compare);\\n' with b'   qsort( list[ 2 ], nlist[ 2 ], sizeof(int), compareminus);\\n' at position 27", 26)]

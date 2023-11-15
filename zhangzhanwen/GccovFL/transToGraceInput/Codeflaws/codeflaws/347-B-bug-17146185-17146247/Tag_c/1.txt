@@ -1,4 +1,0 @@
-codeflaws/347-B-bug-17146185-17146247/347-B-17146247.c
-codeflaws/347-B-bug-17146185-17146247/347-B-17146185.c
-13
-[('Replace b\'        printf("%d", c);\\n\' with b\'        printf("%d", &c);\\n\' at position 14', 13)]

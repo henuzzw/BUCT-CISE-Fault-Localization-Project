@@ -1,4 +1,0 @@
-codeflaws/31-A-bug-13024144-13024178/31-A-13024178.c
-codeflaws/31-A-bug-13024144-13024178/31-A-13024144.c
-18
-[('Replace b\'                    printf("%d %d %d\\\\n",z,y,x);\\n\' with b\'                    printf("%d %d %d\\\\n",a[z],a[y],a[x]);\\n\' at position 19', 18)]

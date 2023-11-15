@@ -1,0 +1,4 @@
+codeflaws/381-A-bug-10612120-10612131/381-A-10612131.c
+codeflaws/381-A-bug-10612120-10612131/381-A-10612120.c
+10
+[("Replace b'    int i,j,t=2;\\n' with b'    int i,j,t=1;\\n' at position 11", 10)]

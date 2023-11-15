@@ -1,0 +1,4 @@
+codeflaws/500-A-bug-18298071-18298124/500-A-18298124.c
+codeflaws/500-A-bug-18298071-18298124/500-A-18298071.c
+11,12,15
+[("Delete b'\\tif(arr[0]==t)\\n' at position 11 in file2", 10), ("Delete b'\\t\\tflag = 1;\\n' at position 11 in file2", 10), ('Delete b\'\\t\\tprintf("%d ",p);\\n\' at position 13 in file2', 12)]

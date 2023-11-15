@@ -1,0 +1,4 @@
+codeflaws/368-C-bug-5252850-5253019/368-C-5253019.c
+codeflaws/368-C-bug-5252850-5253019/368-C-5252850.c
+50
+[("Replace b'\\t\\t\\tif(fabs(sum1-sum2)>=2||fabs(sum1-sum3)>=2||fabs(sum2-sum3)>=2)\\n' with b'\\t\\t\\tif(fabs(sum1-sum2)>2||fabs(sum1-sum3)>2||fabs(sum2-sum3)>2)\\n' at position 51", 50)]

@@ -1,4 +1,0 @@
-codeflaws/202-C-bug-1847611-1847612/202-C-1847612.c
-codeflaws/202-C-bug-1847611-1847612/202-C-1847611.c
-6
-[("Insert b'    else\\n' at position 8 in file2", 7)]

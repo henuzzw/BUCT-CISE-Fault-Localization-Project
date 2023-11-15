@@ -1,0 +1,4 @@
+codeflaws/189-C-bug-14701154-14701173/189-C-14701173.c
+codeflaws/189-C-bug-14701154-14701173/189-C-14701154.c
+24
+[('Replace b\'     printf("%d\\\\n",ans);\\n\' with b\'     printf("%d\\\\n",n);\\n\' at position 25', 24)]

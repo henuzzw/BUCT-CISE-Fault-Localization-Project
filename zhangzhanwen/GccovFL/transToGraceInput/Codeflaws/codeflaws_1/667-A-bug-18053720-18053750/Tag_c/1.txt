@@ -1,0 +1,4 @@
+codeflaws/667-A-bug-18053720-18053750/667-A-18053750.c
+codeflaws/667-A-bug-18053720-18053750/667-A-18053720.c
+2
+[("Replace b'#define PI 3.141592654\\n' with b'#define PI 3.1416\\n' at position 3", 2)]

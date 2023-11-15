@@ -1,4 +1,0 @@
-codeflaws/259-B-bug-13083263-13083279/259-B-13083279.c
-codeflaws/259-B-bug-13083263-13083279/259-B-13083263.c
-26
-[("Replace b'    a[0][0]=i;\\n' with b'    a[0][0]=i-1;\\n' at position 27", 26)]

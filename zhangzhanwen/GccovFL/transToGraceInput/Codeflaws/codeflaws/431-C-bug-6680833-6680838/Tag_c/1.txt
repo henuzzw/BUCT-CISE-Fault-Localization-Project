@@ -1,4 +1,0 @@
-codeflaws/431-C-bug-6680833-6680838/431-C-6680838.c
-codeflaws/431-C-bug-6680833-6680838/431-C-6680833.c
-37
-[('Replace b\'    printf("%d\\\\n",out);\\n\' with b\'    printf("%d %d\\\\n",out,(-2)%5);\\n\' at position 38', 37)]

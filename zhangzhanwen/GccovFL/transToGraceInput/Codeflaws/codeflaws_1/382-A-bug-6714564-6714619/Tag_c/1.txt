@@ -1,0 +1,4 @@
+codeflaws/382-A-bug-6714564-6714619/382-A-6714619.c
+codeflaws/382-A-bug-6714564-6714619/382-A-6714564.c
+51,54
+[('Replace b\'                for(i=0;i<(p+(q/2));i++) printf("%c",t[i]);\\n\' with b\'                for(i=0;i>(p+(q/2));i++) printf("%c",t[i]);\\n\' at position 52', 51), ('Insert b\'            else printf("Impossible");\\n\' at position 56 in file2', 55)]

@@ -1,4 +1,0 @@
-codeflaws/312-C-bug-3776800-3776948/312-C-3776948.c
-codeflaws/312-C-bug-3776800-3776948/312-C-3776800.c
-7
-[("Replace b'\\tif(k>=x)\\n' with b'\\tif(k>x)\\n' at position 8", 7)]

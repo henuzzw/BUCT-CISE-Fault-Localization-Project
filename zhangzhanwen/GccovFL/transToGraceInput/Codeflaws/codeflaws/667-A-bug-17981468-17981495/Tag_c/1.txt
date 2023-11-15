@@ -1,4 +1,0 @@
-codeflaws/667-A-bug-17981468-17981495/667-A-17981495.c
-codeflaws/667-A-bug-17981468-17981495/667-A-17981468.c
-7
-[("Replace b'time = (float)(3.141592653*d*d*h)/(float)(4*v - 3.141592653*d*d*e);\\n' with b'time = (float)(3.14159*d*d*h)/(float)(4*v - 3.14159*d*d*e);\\n' at position 8", 7)]

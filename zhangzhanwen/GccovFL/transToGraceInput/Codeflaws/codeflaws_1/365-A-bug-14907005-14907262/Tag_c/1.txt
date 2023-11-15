@@ -1,0 +1,4 @@
+codeflaws/365-A-bug-14907005-14907262/365-A-14907262.c
+codeflaws/365-A-bug-14907005-14907262/365-A-14907005.c
+30
+[("Replace b'                if(arr[j]>=1)\\n' with b'                if(arr[j]>=1&&arr[j]<=k)\\n' at position 31", 30)]

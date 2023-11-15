@@ -1,4 +1,0 @@
-codeflaws/353-A-bug-13495110-13495156/353-A-13495156.c
-codeflaws/353-A-bug-13495110-13495156/353-A-13495110.c
-26
-[("Replace b'            if(odd_even==0 && even_odd==0) {\\n' with b'            if(n==1) {\\n' at position 27", 26)]

@@ -1,0 +1,4 @@
+codeflaws/17-A-bug-9594458-9594472/17-A-9594472.c
+codeflaws/17-A-bug-9594458-9594472/17-A-9594458.c
+19
+[("Replace b'    while (j<=n){\\n' with b'    while (j<n){\\n' at position 20", 19)]

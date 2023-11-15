@@ -1,0 +1,4 @@
+codeflaws/339-C-bug-7361234-7361256/339-C-7361256.c
+codeflaws/339-C-bug-7361234-7361256/339-C-7361234.c
+6,22
+[("Replace b'    int i, j, flag = 0, m, k;\\n' with b'    int i, j, flag = 1, m, k;\\n' at position 7", 6), ("Insert b'            flag=1;\\n' at position 24 in file2", 23)]

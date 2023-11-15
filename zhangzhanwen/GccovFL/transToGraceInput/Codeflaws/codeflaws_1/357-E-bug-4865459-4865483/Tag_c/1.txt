@@ -1,0 +1,4 @@
+codeflaws/357-E-bug-4865459-4865483/357-E-4865483.c
+codeflaws/357-E-bug-4865459-4865483/357-E-4865459.c
+23
+[("Replace b'                count += 2;\\n' with b'                count ++;\\n' at position 24", 23)]

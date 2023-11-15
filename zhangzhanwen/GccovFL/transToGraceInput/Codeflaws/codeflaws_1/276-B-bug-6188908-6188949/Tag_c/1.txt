@@ -1,0 +1,4 @@
+codeflaws/276-B-bug-6188908-6188949/276-B-6188949.c
+codeflaws/276-B-bug-6188908-6188949/276-B-6188908.c
+17
+[("Replace b'    if(s%2!=0||s==0)\\n' with b'    if(s%2!=0)\\n' at position 18", 17)]

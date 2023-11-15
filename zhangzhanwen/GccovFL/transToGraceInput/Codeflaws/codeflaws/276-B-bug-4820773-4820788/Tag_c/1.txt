@@ -1,4 +1,0 @@
-codeflaws/276-B-bug-4820773-4820788/276-B-4820788.c
-codeflaws/276-B-bug-4820773-4820788/276-B-4820773.c
-22
-[("Replace b'if(oc<2)\\n' with b'if(oc==1)\\n' at position 23", 22)]

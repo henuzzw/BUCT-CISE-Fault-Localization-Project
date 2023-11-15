@@ -1,4 +1,0 @@
-codeflaws/402-A-bug-6104015-6104373/402-A-6104373.c
-codeflaws/402-A-bug-6104015-6104373/402-A-6104015.c
-12,14,20
-[("Insert b'\\t\\t\\t\\t\\ttmp=b+1;\\n' at position 14 in file2", 13), ("Delete b'\\t\\t\\t\\t\\ttmp=b+1;\\n' at position 15 in file2", 14), ("Delete b'\\t\\t\\tcontinue;\\n' at position 20 in file2", 19)]

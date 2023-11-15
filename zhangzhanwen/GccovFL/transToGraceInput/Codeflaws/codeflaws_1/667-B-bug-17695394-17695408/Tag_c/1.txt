@@ -1,0 +1,4 @@
+codeflaws/667-B-bug-17695394-17695408/667-B-17695408.c
+codeflaws/667-B-bug-17695394-17695408/667-B-17695394.c
+21
+[('Replace b\'\\tprintf("%d\\\\n",2*max - total + 1);\\n\' with b\'\\tprintf("%d\\\\n",total - max + 1);\\n\' at position 22', 21)]

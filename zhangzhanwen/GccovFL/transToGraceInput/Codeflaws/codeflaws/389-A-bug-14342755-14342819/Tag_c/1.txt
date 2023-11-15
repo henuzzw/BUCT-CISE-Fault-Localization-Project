@@ -1,4 +1,0 @@
-codeflaws/389-A-bug-14342755-14342819/389-A-14342819.c
-codeflaws/389-A-bug-14342755-14342819/389-A-14342755.c
-12,29
-[('Insert b\'            //printf("%d %d\\\\n",a,b);\\n\' at position 14 in file2', 13), ("Replace b'    for(i=0;i<n;i++){\\n' with b'    for(i=0;i<(n-1);i++){\\n' at position 31", 30)]

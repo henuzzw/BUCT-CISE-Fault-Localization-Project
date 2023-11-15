@@ -1,0 +1,4 @@
+codeflaws/500-A-bug-17197349-17197373/500-A-17197373.c
+codeflaws/500-A-bug-17197349-17197373/500-A-17197349.c
+12
+[('Replace b\'   if(i+vet[i]>a-2 && b!=a){printf("NO");break;}else{if(i+vet[i]>a-2 && b==a){printf("YES");break;}else{i=i+vet[i];}\\n\' with b\'   if(i+vet[i]>a-2){printf("NO");break;}else{i=i+vet[i];\\n\' at position 13', 12)]

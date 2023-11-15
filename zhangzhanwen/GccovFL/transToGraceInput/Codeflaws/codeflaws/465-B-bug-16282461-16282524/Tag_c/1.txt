@@ -1,4 +1,0 @@
-codeflaws/465-B-bug-16282461-16282524/465-B-16282524.c
-codeflaws/465-B-bug-16282461-16282524/465-B-16282461.c
-31,34,39
-[("Insert b'      inside_letter = true;                                                     \\n' at position 33 in file2", 32), ("Insert b'      inside_letter = true;                                                     \\n' at position 37 in file2", 36), ('Insert b\'    //printf("letter- %d actions- %d inside_letter- %d\\\\n", i, actions, inside_letter);\\n\' at position 43 in file2', 42)]

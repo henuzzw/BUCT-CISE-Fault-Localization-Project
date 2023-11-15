@@ -1,0 +1,4 @@
+codeflaws/630-D-bug-16430548-16430564/630-D-16430564.c
+codeflaws/630-D-bug-16430548-16430564/630-D-16430548.c
+5
+[('Replace b\'\\tprintf("%lld", (3*n*(n+1))+1);\\n\' with b\'\\tprintf("%d", (3*n*(n+1))+1);\\n\' at position 6', 5)]

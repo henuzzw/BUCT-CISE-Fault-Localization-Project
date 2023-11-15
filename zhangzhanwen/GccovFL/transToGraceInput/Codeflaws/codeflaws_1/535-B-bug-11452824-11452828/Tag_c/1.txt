@@ -1,0 +1,4 @@
+codeflaws/535-B-bug-11452824-11452828/535-B-11452828.c
+codeflaws/535-B-bug-11452824-11452828/535-B-11452824.c
+33
+[('Replace b\'        if(m==0)printf("%d",p);\\n\' with b\'        if(m==0)printf("The order of %d is: %d",N,p);\\n\' at position 34', 33)]

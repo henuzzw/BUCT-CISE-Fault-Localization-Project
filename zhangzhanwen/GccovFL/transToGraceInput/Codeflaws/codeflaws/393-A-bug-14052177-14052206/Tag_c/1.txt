@@ -1,4 +1,0 @@
-codeflaws/393-A-bug-14052177-14052206/393-A-14052206.c
-codeflaws/393-A-bug-14052177-14052206/393-A-14052177.c
-13
-[('Replace b\'\\tif((n_n<3)||(n_i<1)||(n_e<3)||(n_t<1))printf("0");\\n\' with b\'\\tif((n_n<3)&(n_i<1)&(n_e<3)&(n_t<1))printf("0");\\n\' at position 14', 13)]

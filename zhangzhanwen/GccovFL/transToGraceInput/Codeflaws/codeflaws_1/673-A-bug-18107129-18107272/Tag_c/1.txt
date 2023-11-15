@@ -1,0 +1,4 @@
+codeflaws/673-A-bug-18107129-18107272/673-A-18107272.c
+codeflaws/673-A-bug-18107129-18107272/673-A-18107129.c
+13
+[("Replace b'\\t\\t\\tif((A[i+1]-A[i])>15 && flag == 0){\\n' with b'\\t\\t\\tif((A[i+1]-A[i])>15){\\n' at position 14", 13)]

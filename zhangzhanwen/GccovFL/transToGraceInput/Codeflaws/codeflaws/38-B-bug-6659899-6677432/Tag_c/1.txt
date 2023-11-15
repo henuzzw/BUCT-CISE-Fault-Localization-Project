@@ -1,4 +1,0 @@
-codeflaws/38-B-bug-6659899-6677432/38-B-6677432.c
-codeflaws/38-B-bug-6659899-6677432/38-B-6659899.c
-21
-[("Replace b'        for( j = 0; j < 8; ++j){\\n' with b'        for( j = 0; i < 8; ++j){\\n' at position 22", 21)]

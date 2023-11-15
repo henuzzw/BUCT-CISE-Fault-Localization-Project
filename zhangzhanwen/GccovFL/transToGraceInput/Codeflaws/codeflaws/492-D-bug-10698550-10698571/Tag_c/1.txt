@@ -1,4 +1,0 @@
-codeflaws/492-D-bug-10698550-10698571/492-D-10698571.c
-codeflaws/492-D-bug-10698550-10698571/492-D-10698550.c
-17,19
-[("Replace b'            k++;\\n' with b'            k++;   q++;\\n' at position 18", 17), ("Insert b'            q++;\\n' at position 21 in file2", 20)]

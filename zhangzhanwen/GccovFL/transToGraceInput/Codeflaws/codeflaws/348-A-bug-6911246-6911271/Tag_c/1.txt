@@ -1,4 +1,0 @@
-codeflaws/348-A-bug-6911246-6911271/348-A-6911271.c
-codeflaws/348-A-bug-6911246-6911271/348-A-6911246.c
-15,19
-[("Insert b'    long long y=!((max-sum)%(n-1)==0);\\n' at position 17 in file2", 16), ('Replace b\'        printf("%lld\\\\n",max+(max-sum)/(n-1)+y);\\n\' with b\'        printf("%lld\\\\n",max+(max-sum)/(n-1)+1);\\n\' at position 21', 20)]

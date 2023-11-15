@@ -1,4 +1,0 @@
-codeflaws/358-C-bug-4936356-4936365/358-C-4936365.c
-codeflaws/358-C-bug-4936356-4936365/358-C-4936356.c
-50,50
-[("Insert b'\\tfor (i = 0; i < n; ++i)\\n' at position 52 in file2", 51), ('Insert b\'\\t\\tputs("pushFront");\\n\' at position 53 in file2', 52)]

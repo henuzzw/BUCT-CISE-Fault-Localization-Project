@@ -1,4 +1,0 @@
-codeflaws/315-D-bug-3844951-3844955/315-D-3844955.c
-codeflaws/315-D-bug-3844951-3844955/315-D-3844951.c
-26
-[("Replace b'            if (curChk==0&&i>lenL){\\n' with b'            if (curChk==0&&i>lenS){\\n' at position 27", 26)]

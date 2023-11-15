@@ -1,0 +1,4 @@
+codeflaws/246-D-bug-16395260-16395271/246-D-16395271.c
+codeflaws/246-D-bug-16395260-16395271/246-D-16395260.c
+31
+[("Replace b'\\tfor(i=2,ans=c[cc[1]];i<=n;i++) if(cnt[c[cc[i]]]>cnt[ans]) ans = c[cc[i]];\\n' with b'\\tfor(i=2,ans=1;i<=100000;i++) if(cnt[i]>cnt[ans]) ans = i;\\n' at position 32", 31)]

@@ -1,0 +1,4 @@
+codeflaws/133-A-bug-17993292-17993355/133-A-17993355.c
+codeflaws/133-A-bug-17993292-17993355/133-A-17993292.c
+9
+[('Replace b"        if(string[i]==\'H\'||string[i]==\'Q\'||string[i]==\'9\')\\n" with b"        if(string[i]==\'H\'||string[i]==\'Q\'||string[i]==\'9\'||string[i]==\'+\')\\n" at position 10', 9)]

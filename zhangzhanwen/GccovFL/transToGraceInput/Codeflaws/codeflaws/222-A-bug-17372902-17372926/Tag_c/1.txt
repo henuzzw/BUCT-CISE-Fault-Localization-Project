@@ -1,4 +1,0 @@
-codeflaws/222-A-bug-17372902-17372926/222-A-17372926.c
-codeflaws/222-A-bug-17372902-17372926/222-A-17372902.c
-35,40
-[("Insert b'\\t\\t\\tcount=1;\\n' at position 37 in file2", 36), ("Delete b'\\t\\t\\tcount=1;\\n' at position 41 in file2", 40)]

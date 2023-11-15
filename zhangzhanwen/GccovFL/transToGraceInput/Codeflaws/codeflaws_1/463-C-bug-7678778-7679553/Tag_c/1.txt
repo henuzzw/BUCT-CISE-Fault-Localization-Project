@@ -1,0 +1,4 @@
+codeflaws/463-C-bug-7678778-7679553/463-C-7679553.c
+codeflaws/463-C-bug-7678778-7679553/463-C-7678778.c
+2,7,7,7,7,9
+[("Replace b'int n,i,j,p,q,r,s;\\n' with b'int n,i,j,v,y,z,p,q,r,s;\\n' at position 3", 2), ("Replace b'y=z=-1;\\n' with b'for(i=0;i<n;i++)for(j=0;j<n;j++)v=d[i+j]+e[i-j+n]-a[i*n+j],(i+j)&1?v>y?y=v,p=i,q=j:0:\\n' at position 8", 7), ("Insert b'for(i=0;i<n;i++)\\n' at position 9 in file2", 8), ("Insert b'for(j=0;j<n;j++)\\n' at position 10 in file2", 9), ("Insert b'v=d[i+j]+e[i-j+n]-a[i*n+j],(i+j)&1?v>y?y=v,p=i,q=j:0:\\n' at position 11 in file2", 10), ('Replace b\'printf("%lld\\\\n%d %d %d %d",y+z,p+1,q+1,r+1,s+1);\\n\' with b\'printf("%d\\\\n%d %d %d %d",y+z,p+1,q+1,r+1,s+1);\\n\' at position 13', 12)]

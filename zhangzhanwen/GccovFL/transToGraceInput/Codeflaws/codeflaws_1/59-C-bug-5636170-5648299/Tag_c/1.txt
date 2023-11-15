@@ -1,0 +1,4 @@
+codeflaws/59-C-bug-5636170-5648299/59-C-5648299.c
+codeflaws/59-C-bug-5636170-5648299/59-C-5636170.c
+126
+[("Replace b'  for(i=0;i<k;i++)\\n' with b'  for(i=0;i<26;i++)\\n' at position 127", 126)]

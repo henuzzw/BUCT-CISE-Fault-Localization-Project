@@ -1,0 +1,4 @@
+codeflaws/630-H-bug-16175119-16175675/630-H-16175675.c
+codeflaws/630-H-bug-16175119-16175675/630-H-16175119.c
+5
+[("Replace b'\\tn=n*(n-1LL)*(n-2LL)*(n-3LL)*(n-4LL)/120LL*n*(n-1LL)*(n-2LL)*(n-3LL)*(n-4LL);\\n' with b'\\tn=n*(n-1LL)*(n-2LL)*(n-3LL)*(n-4LL)*n*(n-1LL)*(n-2LL)*(n-3LL)*(n-4LL)/120LL;\\n' at position 6", 5)]

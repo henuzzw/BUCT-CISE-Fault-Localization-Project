@@ -1,0 +1,4 @@
+codeflaws/370-A-bug-9441131-9441194/370-A-9441194.c
+codeflaws/370-A-bug-9441131-9441194/370-A-9441131.c
+22
+[("Replace b'\\t\\t\\tbishop=2;\\n' with b'\\t\\t\\tbishop=MAX(abs(r1-r2),abs(c1-c2));\\n' at position 23", 22)]

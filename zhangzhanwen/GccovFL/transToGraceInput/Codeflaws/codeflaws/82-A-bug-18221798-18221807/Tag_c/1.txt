@@ -1,4 +1,0 @@
-codeflaws/82-A-bug-18221798-18221807/82-A-18221807.c
-codeflaws/82-A-bug-18221798-18221807/82-A-18221798.c
-17
-[('Replace b\'    printf("Sheldon");\\n\' with b\'    printf("sheldon");\\n\' at position 18', 17)]

@@ -1,0 +1,4 @@
+codeflaws/133-A-bug-18355672-18355701/133-A-18355701.c
+codeflaws/133-A-bug-18355672-18355701/133-A-18355672.c
+10,22,23
+[('Replace b"        if(s[i]==\'H\' || s[i]==\'Q\' || s[i]==\'9\')\\n" with b"        if(s[i]==\'H\' || s[i]==\'Q\' || s[i]==\'9\' || s[i]==\'+\')\\n" at position 11', 10), ("Replace b'return 0;\\n' with b'\\n' at position 23", 22), ("Insert b'\\n' at position 25 in file2", 24)]

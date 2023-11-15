@@ -1,4 +1,0 @@
-codeflaws/266-B-bug-18149550-18149562/266-B-18149562.c
-codeflaws/266-B-bug-18149550-18149562/266-B-18149550.c
-29,31
-[('Delete b\'        printf("%s\\\\n",str);\\n\' at position 29 in file2', 28), ('Insert b\'    printf("%s\\\\n",str);\\n\' at position 32 in file2', 31)]

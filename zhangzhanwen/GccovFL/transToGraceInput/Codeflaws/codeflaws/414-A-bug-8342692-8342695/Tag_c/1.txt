@@ -1,4 +1,0 @@
-codeflaws/414-A-bug-8342692-8342695/414-A-8342695.c
-codeflaws/414-A-bug-8342692-8342695/414-A-8342692.c
-13
-[('Replace b\'        if (n == 1 && k == 0) puts("1");\\n\' with b\'        if (n == 1 && k == 0) puts("0");\\n\' at position 14', 13)]

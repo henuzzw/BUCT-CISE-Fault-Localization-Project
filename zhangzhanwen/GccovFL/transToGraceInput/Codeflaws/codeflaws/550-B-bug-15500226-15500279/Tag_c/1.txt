@@ -1,4 +1,0 @@
-codeflaws/550-B-bug-15500226-15500279/550-B-15500279.c
-codeflaws/550-B-bug-15500226-15500279/550-B-15500226.c
-30
-[("Replace b'        dfs(min,pro[i],sum+pro[i],i+1);\\n' with b'        dfs(min,pro[i],sum+pro[i],k+1);\\n' at position 31", 30)]

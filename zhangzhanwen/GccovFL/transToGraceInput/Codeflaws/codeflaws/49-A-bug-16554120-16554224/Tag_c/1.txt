@@ -1,4 +1,0 @@
-codeflaws/49-A-bug-16554120-16554224/49-A-16554224.c
-codeflaws/49-A-bug-16554120-16554224/49-A-16554120.c
-8
-[('Replace b\'            if(str[i]==\\\'a\\\'||str[i]==\\\'e\\\'||str[i]==\\\'i\\\'||str[i]==\\\'o\\\'||str[i]==\\\'u\\\'||str[i]==\\\'y\\\'||str[i]==\\\'A\\\'||str[i]==\\\'E\\\'||str[i]==\\\'I\\\'||str[i]==\\\'O\\\'||str[i]==\\\'U\\\'||str[i]==\\\'Y\\\')printf("YES");\\n\' with b\'            if(str[i]==\\\'a\\\'||str[i]==\\\'e\\\'||str[i]==\\\'i\\\'||str[i]==\\\'o\\\'||str[i]==\\\'u\\\'||str[i]==\\\'A\\\'||str[i]==\\\'E\\\'||str[i]==\\\'I\\\'||str[i]==\\\'O\\\'||str[i]==\\\'U\\\') printf("YES");\\n\' at position 9', 8)]

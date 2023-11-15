@@ -1,0 +1,4 @@
+codeflaws/7-B-bug-17996348-17996371/7-B-17996371.c
+codeflaws/7-B-bug-17996348-17996371/7-B-17996348.c
+46
+[("Replace b'\\tif (!erased || x == 0)\\n' with b'\\tif (!erased)\\n' at position 47", 46)]

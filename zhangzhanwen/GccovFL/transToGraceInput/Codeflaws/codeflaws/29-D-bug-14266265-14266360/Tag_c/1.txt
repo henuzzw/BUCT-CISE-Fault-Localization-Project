@@ -1,4 +1,0 @@
-codeflaws/29-D-bug-14266265-14266360/29-D-14266360.c
-codeflaws/29-D-bug-14266265-14266360/29-D-14266265.c
-13,16
-[("Insert b'\\t\\t\\t\\tp[c++]=a;\\n' at position 15 in file2", 14), ("Delete b'\\tp[c++]=a;\\n' at position 17 in file2", 16)]

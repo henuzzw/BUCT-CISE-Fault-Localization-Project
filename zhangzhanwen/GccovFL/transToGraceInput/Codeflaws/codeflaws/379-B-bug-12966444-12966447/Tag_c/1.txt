@@ -1,4 +1,0 @@
-codeflaws/379-B-bug-12966444-12966447/379-B-12966447.c
-codeflaws/379-B-bug-12966444-12966447/379-B-12966444.c
-27
-[('Replace b\'        //printf("\\\\ni=%d\\\\n",i);\\n\' with b\'        printf("\\\\ni=%d\\\\n",i);\\n\' at position 28', 27)]

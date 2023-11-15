@@ -1,0 +1,4 @@
+codeflaws/315-B-bug-6249009-6249039/315-B-6249039.c
+codeflaws/315-B-bug-6249009-6249039/315-B-6249009.c
+14
+[("Replace b'                a[v]=x-sum;\\n' with b'                a[v]=x;\\n' at position 15", 14)]

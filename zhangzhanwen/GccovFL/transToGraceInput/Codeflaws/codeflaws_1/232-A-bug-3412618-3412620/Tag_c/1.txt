@@ -1,0 +1,4 @@
+codeflaws/232-A-bug-3412618-3412620/232-A-3412620.c
+codeflaws/232-A-bug-3412618-3412620/232-A-3412618.c
+17
+[("Replace b'        for(i=1;i<=p;i++) mat[i][n]=mat[n][i]=1;\\n' with b'        for(i=1;i<=p;i++) mat[i][n]=1;\\n' at position 18", 17)]

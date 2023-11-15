@@ -1,4 +1,0 @@
-codeflaws/224-A-bug-17312870-17312897/224-A-17312897.c
-codeflaws/224-A-bug-17312870-17312897/224-A-17312870.c
-8
-[("Replace b'    perimeter=4*(x+y+z);\\n' with b'    perimeter=4*(a+b+c);\\n' at position 9", 8)]

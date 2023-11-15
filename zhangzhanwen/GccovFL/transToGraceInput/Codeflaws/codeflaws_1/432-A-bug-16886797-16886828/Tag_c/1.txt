@@ -1,0 +1,4 @@
+codeflaws/432-A-bug-16886797-16886828/432-A-16886828.c
+codeflaws/432-A-bug-16886797-16886828/432-A-16886797.c
+4,7
+[("Replace b'\\tfor(i=0;i<x;i++){\\n' with b'\\tfor(i=0;i<x;i++)\\n' at position 5", 4), ("Insert b'\\t}\\n' at position 9 in file2", 8)]

@@ -1,0 +1,4 @@
+codeflaws/168-B-bug-1432572-1432612/168-B-1432612.c
+codeflaws/168-B-bug-1432572-1432612/168-B-1432572.c
+26
+[("Replace b'        else if(vis==1)\\n' with b'        else if(vis==1&&k==1)\\n' at position 27", 26)]

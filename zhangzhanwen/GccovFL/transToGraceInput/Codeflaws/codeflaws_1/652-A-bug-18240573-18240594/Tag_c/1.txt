@@ -1,0 +1,4 @@
+codeflaws/652-A-bug-18240573-18240594/652-A-18240594.c
+codeflaws/652-A-bug-18240573-18240594/652-A-18240573.c
+21
+[("Replace b'    while (hc < ha) {\\n' with b'    while (hc <= ha) {\\n' at position 22", 21)]

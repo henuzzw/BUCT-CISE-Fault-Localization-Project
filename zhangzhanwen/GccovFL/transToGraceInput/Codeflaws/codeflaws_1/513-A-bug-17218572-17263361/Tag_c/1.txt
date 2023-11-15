@@ -1,0 +1,4 @@
+codeflaws/513-A-bug-17218572-17263361/513-A-17263361.c
+codeflaws/513-A-bug-17218572-17263361/513-A-17218572.c
+5
+[("Replace b'    if(n1>n2)\\n' with b'    if(n1+k1>=n2+k2)\\n' at position 6", 5)]

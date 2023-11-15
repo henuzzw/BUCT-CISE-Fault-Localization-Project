@@ -1,0 +1,4 @@
+codeflaws/287-A-bug-14127156-14127164/287-A-14127164.c
+codeflaws/287-A-bug-14127156-14127164/287-A-14127156.c
+37
+[("Replace b'        if(p==3){\\n' with b'        if(p==2){\\n' at position 38", 37)]

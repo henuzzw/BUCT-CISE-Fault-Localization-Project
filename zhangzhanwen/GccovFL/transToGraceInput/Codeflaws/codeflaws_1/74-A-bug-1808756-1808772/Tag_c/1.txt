@@ -1,0 +1,4 @@
+codeflaws/74-A-bug-1808756-1808772/74-A-1808772.c
+codeflaws/74-A-bug-1808756-1808772/74-A-1808756.c
+6
+[("Replace b'  max=-50000;\\n' with b'  max=0;\\n' at position 7", 6)]

@@ -1,0 +1,4 @@
+codeflaws/459-A-bug-15892322-15892355/459-A-15892355.c
+codeflaws/459-A-bug-15892322-15892355/459-A-15892322.c
+12
+[("Replace b'\\telse if(mut(x1 - x2) == mut(y1 - y2))\\n' with b'\\telse if(x1 - x2 == y1 - y2)\\n' at position 13", 12)]

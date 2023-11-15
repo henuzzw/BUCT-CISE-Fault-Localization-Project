@@ -1,0 +1,4 @@
+codeflaws/615-A-bug-15960988-15961003/615-A-15961003.c
+codeflaws/615-A-bug-15960988-15961003/615-A-15960988.c
+26
+[("Insert b'\\t\\t\\tbreak;\\n' at position 28 in file2", 27)]

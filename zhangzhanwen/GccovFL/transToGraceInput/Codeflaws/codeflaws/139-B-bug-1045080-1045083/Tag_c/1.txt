@@ -1,4 +1,0 @@
-codeflaws/139-B-bug-1045080-1045083/139-B-1045083.c
-codeflaws/139-B-bug-1045080-1045083/139-B-1045080.c
-27
-[("Replace b'\\t\\t\\tif (rl[j] / h[i] == 0)\\n' with b'\\t\\t\\tif (rw[j] == 0 || rl[j] == 0)\\n' at position 28", 27)]

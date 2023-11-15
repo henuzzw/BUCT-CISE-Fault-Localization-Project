@@ -1,4 +1,0 @@
-codeflaws/110-A-bug-18060949-18061008/110-A-18061008.c
-codeflaws/110-A-bug-18060949-18061008/110-A-18060949.c
-33,34
-[("Insert b'\\t\\tz=x%10;\\n' at position 35 in file2", 34), ("Insert b'\\t\\tif(z==4 || z==7)\\n' at position 37 in file2", 36)]

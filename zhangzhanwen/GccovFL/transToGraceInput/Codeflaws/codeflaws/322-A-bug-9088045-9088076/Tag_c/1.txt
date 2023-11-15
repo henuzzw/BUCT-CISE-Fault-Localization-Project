@@ -1,4 +1,0 @@
-codeflaws/322-A-bug-9088045-9088076/322-A-9088076.c
-codeflaws/322-A-bug-9088045-9088076/322-A-9088045.c
-13
-[('Replace b\'\\t\\tprintf("%d %d\\\\n", 1, i);\\n\' with b\'\\t\\tprintf("%d %d\\\\n", 2, i);\\n\' at position 14', 13)]

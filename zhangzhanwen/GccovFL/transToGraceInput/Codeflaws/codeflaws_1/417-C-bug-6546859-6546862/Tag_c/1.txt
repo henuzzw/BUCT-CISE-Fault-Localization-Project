@@ -1,0 +1,4 @@
+codeflaws/417-C-bug-6546859-6546862/417-C-6546862.c
+codeflaws/417-C-bug-6546859-6546862/417-C-6546859.c
+7
+[("Replace b'    if (K > (N - 1 >> 1))\\n' with b'    if (K >= (N >> 1))\\n' at position 8", 7)]

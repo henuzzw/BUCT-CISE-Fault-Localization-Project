@@ -1,4 +1,0 @@
-codeflaws/286-A-bug-3397714-3397718/286-A-3397718.c
-codeflaws/286-A-bug-3397714-3397718/286-A-3397714.c
-3
-[("Replace b'    int a[100001]={0};\\n' with b'    int a[10001]={0};\\n' at position 4", 3)]

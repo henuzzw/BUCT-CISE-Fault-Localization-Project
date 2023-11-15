@@ -1,4 +1,0 @@
-codeflaws/96-B-bug-4266471-4266483/96-B-4266483.c
-codeflaws/96-B-bug-4266471-4266483/96-B-4266471.c
-60
-[("Replace b'if(n>77774444){pll(4444477777);}else{rep(i,200){if(a[i]>=n){pi(a[i]);return 0;}}}\\n' with b'if(n>77774444){pi(4444477777);}else{rep(i,200){if(a[i]>=n){pi(a[i]);return 0;}}}\\n' at position 61", 60)]

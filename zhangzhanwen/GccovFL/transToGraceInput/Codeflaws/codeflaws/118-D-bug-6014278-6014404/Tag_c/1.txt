@@ -1,4 +1,0 @@
-codeflaws/118-D-bug-6014278-6014404/118-D-6014404.c
-codeflaws/118-D-bug-6014278-6014404/118-D-6014278.c
-32
-[('Replace b\'  printf("%d\\\\n", ans % MOD);\\n\' with b\'  printf("%d\\\\n", ans);\\n\' at position 33', 32)]

@@ -1,0 +1,4 @@
+codeflaws/355-A-bug-12485897-12485900/355-A-12485900.c
+codeflaws/355-A-bug-12485897-12485900/355-A-12485897.c
+6
+[('Replace b\'\\t\\tprintf("No solution");\\n\' with b\'\\t\\tprintf("No Solution");\\n\' at position 7', 6)]

@@ -1,4 +1,0 @@
-codeflaws/575-D-bug-12872706-12872745/575-D-12872745.c
-codeflaws/575-D-bug-12872706-12872745/575-D-12872706.c
-5,5
-[('Insert b\'  printf("%d %d %d %d\\\\n",i,1,i,2);\\n\' at position 7 in file2', 6), ("Insert b'for(i=1000;i>=1;i--)\\n' at position 8 in file2", 7)]

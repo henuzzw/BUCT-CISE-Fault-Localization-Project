@@ -1,4 +1,0 @@
-codeflaws/366-B-bug-5357852-5357857/366-B-5357857.c
-codeflaws/366-B-bug-5357852-5357857/366-B-5357852.c
-15
-[("Replace b'\\t\\tfor(Sum=0,j=i;j<N;j+=K)\\n' with b'\\t\\tfor(Sum=0,j=i;j<N;j+=i)\\n' at position 16", 15)]

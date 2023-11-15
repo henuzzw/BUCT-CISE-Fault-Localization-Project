@@ -1,0 +1,4 @@
+codeflaws/34-B-bug-18168171-18168218/34-B-18168218.c
+codeflaws/34-B-bug-18168171-18168218/34-B-18168171.c
+17
+[("Replace b'\\t\\tif(c<m)\\n' with b'\\t\\tif(c<=m)\\n' at position 18", 17)]

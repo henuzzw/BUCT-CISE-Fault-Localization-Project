@@ -1,0 +1,4 @@
+codeflaws/448-A-bug-16630703-16630712/448-A-16630712.c
+codeflaws/448-A-bug-16630703-16630712/448-A-16630703.c
+4,5,25
+[("Delete b'    while(1)\\n' at position 4 in file2", 3), ("Delete b'    {\\n' at position 4 in file2", 3), ("Delete b'    }\\n' at position 23 in file2", 22)]

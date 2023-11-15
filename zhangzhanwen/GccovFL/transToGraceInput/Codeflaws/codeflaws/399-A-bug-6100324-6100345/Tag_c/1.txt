@@ -1,4 +1,0 @@
-codeflaws/399-A-bug-6100324-6100345/399-A-6100345.c
-codeflaws/399-A-bug-6100324-6100345/399-A-6100324.c
-25
-[("Replace b'        if(i || flag)\\n' with b'        if(flag)\\n' at position 26", 25)]

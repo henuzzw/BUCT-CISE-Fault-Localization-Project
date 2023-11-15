@@ -1,4 +1,0 @@
-codeflaws/157-B-bug-9302919-9302928/157-B-9302928.c
-codeflaws/157-B-bug-9302919-9302928/157-B-9302919.c
-28
-[('Replace b\'//      printf ("%d %d\\\\n",r[i],s); \\n\' with b\'      printf ("%d %d\\\\n",r[i],s); \\n\' at position 29', 28)]

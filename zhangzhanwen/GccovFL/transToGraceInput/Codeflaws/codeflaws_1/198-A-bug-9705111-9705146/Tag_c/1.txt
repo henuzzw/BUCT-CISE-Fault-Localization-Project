@@ -1,0 +1,4 @@
+codeflaws/198-A-bug-9705111-9705146/198-A-9705146.c
+codeflaws/198-A-bug-9705111-9705146/198-A-9705111.c
+9
+[("Replace b'    while(NoBacteria>=(K+B))\\n' with b'    while(NoBacteria>(K+B))\\n' at position 10", 9)]

@@ -1,4 +1,0 @@
-codeflaws/673-A-bug-18110803-18110815/673-A-18110815.c
-codeflaws/673-A-bug-18110803-18110815/673-A-18110803.c
-17
-[("Replace b'    if((t+15)<90)\\n' with b'    if(t<90)\\n' at position 18", 17)]

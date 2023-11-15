@@ -1,4 +1,0 @@
-codeflaws/104-A-bug-10738491-10739021/104-A-10739021.c
-codeflaws/104-A-bug-10738491-10739021/104-A-10738491.c
-9
-[('Insert b\'    else printf("0");\\n\' at position 11 in file2', 10)]

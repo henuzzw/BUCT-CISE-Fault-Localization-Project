@@ -1,0 +1,4 @@
+codeflaws/271-A-bug-17597303-17597361/271-A-17597361.c
+codeflaws/271-A-bug-17597303-17597361/271-A-17597303.c
+6
+[("Replace b'\\tfor(i=n+1;i<=10000;i++)\\n' with b'\\tfor(i=n+1;i<=9000;i++)\\n' at position 7", 6)]

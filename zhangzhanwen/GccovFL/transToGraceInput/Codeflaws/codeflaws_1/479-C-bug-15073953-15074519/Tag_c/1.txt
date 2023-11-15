@@ -1,0 +1,4 @@
+codeflaws/479-C-bug-15073953-15074519/479-C-15074519.c
+codeflaws/479-C-bug-15073953-15074519/479-C-15073953.c
+16,16
+[("Insert b'    if(da->f==db->f)\\n' at position 18 in file2", 17), ("Insert b'        return da->p - db->p;\\n' at position 19 in file2", 18)]

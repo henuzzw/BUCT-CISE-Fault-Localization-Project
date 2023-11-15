@@ -1,0 +1,4 @@
+codeflaws/166-E-bug-4707989-4708049/166-E-4708049.c
+codeflaws/166-E-bug-4707989-4708049/166-E-4707989.c
+6
+[("Replace b'\\tlong long data[4][4];\\n' with b'\\tint data[4][4];\\n' at position 7", 6)]

@@ -1,0 +1,4 @@
+codeflaws/407-B-bug-6204767-6204831/407-B-6204831.c
+codeflaws/407-B-bug-6204767-6204831/407-B-6204767.c
+16
+[("Insert b'         if (b[i]<0) b[i]+=MOD;\\n' at position 18 in file2", 17)]

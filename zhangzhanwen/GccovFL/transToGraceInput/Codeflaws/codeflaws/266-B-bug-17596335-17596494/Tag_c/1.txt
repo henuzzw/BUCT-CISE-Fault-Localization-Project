@@ -1,4 +1,0 @@
-codeflaws/266-B-bug-17596335-17596494/266-B-17596494.c
-codeflaws/266-B-bug-17596335-17596494/266-B-17596335.c
-13
-[('Replace b"\\t\\t\\tif(ch[j]==\'B\'&&ch[j+1]==\'G\')\\n" with b"\\t\\t\\tif(ch[j]==\'B\'&&(ch[j-1]==\'G\'||ch[j+1]==\'G\'))\\n" at position 14', 13)]

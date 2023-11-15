@@ -1,4 +1,0 @@
-codeflaws/433-A-bug-14416732-14416903/433-A-14416903.c
-codeflaws/433-A-bug-14416732-14416903/433-A-14416732.c
-14
-[('Insert b\'    else if(c%2==1 && (b*100)>=200 && b%2==0)printf("YES");\\n\' at position 16 in file2', 15)]

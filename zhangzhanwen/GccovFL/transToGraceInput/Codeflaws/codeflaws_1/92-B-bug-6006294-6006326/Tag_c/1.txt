@@ -1,0 +1,4 @@
+codeflaws/92-B-bug-6006294-6006326/92-B-6006326.c
+codeflaws/92-B-bug-6006294-6006326/92-B-6006294.c
+23
+[('Replace b"        if(x[i]==\'1\'&&(x[i-1]==\'0\'||x[i-1]==\'1\'))\\n" with b"        if(x[i]==\'1\')\\n" at position 24', 23)]

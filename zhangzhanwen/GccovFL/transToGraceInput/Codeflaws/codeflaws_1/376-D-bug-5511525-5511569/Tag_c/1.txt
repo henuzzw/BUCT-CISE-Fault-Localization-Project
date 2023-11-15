@@ -1,0 +1,4 @@
+codeflaws/376-D-bug-5511525-5511569/376-D-5511569.c
+codeflaws/376-D-bug-5511525-5511569/376-D-5511525.c
+57
+[("Replace b'        for (i = 1; i <= m; i++) {\\n' with b'        for (i = 1; i <= n; i++) {\\n' at position 58", 57)]

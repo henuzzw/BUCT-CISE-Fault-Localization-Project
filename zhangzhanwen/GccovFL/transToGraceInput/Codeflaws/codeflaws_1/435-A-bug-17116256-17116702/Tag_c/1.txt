@@ -1,0 +1,4 @@
+codeflaws/435-A-bug-17116256-17116702/435-A-17116702.c
+codeflaws/435-A-bug-17116256-17116702/435-A-17116256.c
+15
+[("Replace b'                     k=b;\\n' with b'                     k=3;\\n' at position 16", 15)]

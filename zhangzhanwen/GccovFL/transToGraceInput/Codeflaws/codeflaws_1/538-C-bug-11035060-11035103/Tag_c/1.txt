@@ -1,0 +1,4 @@
+codeflaws/538-C-bug-11035060-11035103/538-C-11035103.c
+codeflaws/538-C-bug-11035060-11035103/538-C-11035060.c
+11
+[("Replace b'\\tmax = hi + di-1;\\n' with b'\\tmax = hi + di-x;\\n' at position 12", 11)]

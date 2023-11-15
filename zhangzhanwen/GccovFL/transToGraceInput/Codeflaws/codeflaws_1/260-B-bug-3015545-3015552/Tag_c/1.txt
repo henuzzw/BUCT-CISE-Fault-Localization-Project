@@ -1,0 +1,4 @@
+codeflaws/260-B-bug-3015545-3015552/260-B-3015552.c
+codeflaws/260-B-bug-3015545-3015552/260-B-3015545.c
+98
+[('Replace b\'\\tprintf("%02d-%02d-%d\\\\n", dates[t].day, dates[t].month, dates[t].year);\\n\' with b\'\\tprintf("%d-%d-%d\\\\n", dates[t].day, dates[t].month, dates[t].year);\\n\' at position 99', 98)]

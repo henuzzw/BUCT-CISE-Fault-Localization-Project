@@ -1,4 +1,0 @@
-codeflaws/246-B-bug-4048702-4048713/246-B-4048713.c
-codeflaws/246-B-bug-4048702-4048713/246-B-4048702.c
-10
-[('Replace b\'\\tprintf ("%d\\\\n", n - (Sa % n == 0 ? 0 : 1));\\n\' with b\'\\tprintf ("%d\\\\n", n - abs (Sa % n));\\n\' at position 11', 10)]

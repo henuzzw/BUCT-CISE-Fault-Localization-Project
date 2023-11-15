@@ -1,4 +1,0 @@
-codeflaws/11-A-bug-14577802-14577863/11-A-14577863.c
-codeflaws/11-A-bug-14577802-14577863/11-A-14577802.c
-16
-[("Replace b'                        z = y + ((((z - y) / d) + 1) * d);\\n' with b'                        z = z - (z%d) + d;\\n' at position 17", 16)]

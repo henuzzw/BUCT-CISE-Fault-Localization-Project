@@ -1,4 +1,0 @@
-codeflaws/325-E-bug-4072087-4072104/325-E-4072104.c
-codeflaws/325-E-bug-4072087-4072104/325-E-4072087.c
-2
-[("Replace b'int visited[100010];\\n' with b'int visited[10001];\\n' at position 3", 2)]

@@ -1,4 +1,0 @@
-codeflaws/49-A-bug-5636802-5636808/49-A-5636808.c
-codeflaws/49-A-bug-5636802-5636808/49-A-5636802.c
-9
-[('Replace b"\\tif(arr[strlen(arr)-a]==\'A\' || arr[strlen(arr)-a]==\'E\' || arr[strlen(arr)-a]==\'I\' ||arr[strlen(arr)-a]==\'O\' ||arr[strlen(arr)-a]==\'U\' || arr[strlen(arr)-a]==\'e\' || arr[strlen(arr)-a]==\'y\' || arr[strlen(arr)-a]==\'Y\' ||arr[strlen(arr)-a]==\'i\' ||arr[strlen(arr)-a]==\'o\' ||arr[strlen(arr)-a]==\'u\' ||arr[strlen(arr)-a]==\'a\')\\n" with b"\\tif(arr[strlen(arr)-a]==\'A\' || arr[strlen(arr)-a]==\'E\' || arr[strlen(arr)-a]==\'I\' ||arr[strlen(arr)-a]==\'O\' ||arr[strlen(arr)-a]==\'U\' || arr[strlen(arr)-a]==\'e\' || arr[strlen(arr)-a]==\'y\' || arr[strlen(arr)-a]==\'Y\' ||arr[strlen(arr)-a]==\'i\' ||arr[strlen(arr)-a]==\'o\' ||arr[strlen(arr)-a]==\'u\' ||arr[strlen(arr)-2]==\'a\')\\n" at position 10', 9)]

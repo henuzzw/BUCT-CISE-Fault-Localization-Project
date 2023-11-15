@@ -1,0 +1,4 @@
+codeflaws/342-A-bug-10728293-10728304/342-A-10728304.c
+codeflaws/342-A-bug-10728293-10728304/342-A-10728293.c
+15
+[('Replace b\'\\t{puts("-1");return 0;}\\n\' with b\'\\t\\tputs("-1");\\n\' at position 16', 15)]

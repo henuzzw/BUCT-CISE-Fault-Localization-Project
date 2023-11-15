@@ -1,4 +1,0 @@
-codeflaws/62-A-bug-13178478-13179028/62-A-13179028.c
-codeflaws/62-A-bug-13178478-13179028/62-A-13178478.c
-6
-[('Replace b\'    else if((bl<=2*gr+2&&bl>gr)||(br<=2*gl+2&&br>gl))   printf("YES");\\n\' with b\'    else if((bl<=2*gr+2&&bl>gr)||(br<=2*gl+2==2&&br>gl))    printf("YES");\\n\' at position 7', 6)]

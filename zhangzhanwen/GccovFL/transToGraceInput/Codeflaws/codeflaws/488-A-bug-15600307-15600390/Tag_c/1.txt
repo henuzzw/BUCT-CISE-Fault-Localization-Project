@@ -1,4 +1,0 @@
-codeflaws/488-A-bug-15600307-15600390/488-A-15600390.c
-codeflaws/488-A-bug-15600307-15600390/488-A-15600307.c
-6
-[("Replace b'\\tfor(i=n+1;i<n+20;i++)\\n' with b'\\tfor(i=n+1;i<n+15;i++)\\n' at position 7", 6)]

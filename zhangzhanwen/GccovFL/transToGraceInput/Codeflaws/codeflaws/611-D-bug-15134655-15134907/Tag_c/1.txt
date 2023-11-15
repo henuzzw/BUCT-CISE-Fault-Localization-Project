@@ -1,4 +1,0 @@
-codeflaws/611-D-bug-15134655-15134907/611-D-15134907.c
-codeflaws/611-D-bug-15134655-15134907/611-D-15134655.c
-58,82
-[("Replace b'\\t\\tif(i>b-a||s[a+i]>s[b+1+i])i=b-a+1;\\n' with b'\\t\\tif(i<=b-a&&s[a+i]>s[b+1+i])i=b-a+1;\\n' at position 59", 58), ('Insert b\'\\t//\\tprintf("mp %d %d = %d\\\\n",a,b,match[a][b]);\\n\' at position 84 in file2', 83)]

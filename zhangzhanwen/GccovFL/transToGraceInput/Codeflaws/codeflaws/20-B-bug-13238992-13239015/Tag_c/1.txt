@@ -1,4 +1,0 @@
-codeflaws/20-B-bug-13238992-13239015/20-B-13239015.c
-codeflaws/20-B-bug-13238992-13239015/20-B-13238992.c
-12,12
-[('Replace b\'\\t\\t\\tif (a>0) printf("2\\\\n%lf\\\\n%lf\\\\n",x1,x2);\\n\' with b\'\\t\\t\\tprintf("2\\\\n%lf\\\\n%lf\\\\n",x1,x2);\\n\' at position 13', 12), ('Insert b\'\\t\\t\\telse printf("2\\\\n%lf\\\\n%lf\\\\n",x2,x1);\\n\' at position 14 in file2', 13)]

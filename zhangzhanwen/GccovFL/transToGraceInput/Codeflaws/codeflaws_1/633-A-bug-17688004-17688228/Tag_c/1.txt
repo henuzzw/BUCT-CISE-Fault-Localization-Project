@@ -1,0 +1,4 @@
+codeflaws/633-A-bug-17688004-17688228/633-A-17688228.c
+codeflaws/633-A-bug-17688004-17688228/633-A-17688004.c
+7
+[("Replace b'\\twhile(x!=-1)\\n' with b'\\twhile(x!=0)\\n' at position 8", 7)]

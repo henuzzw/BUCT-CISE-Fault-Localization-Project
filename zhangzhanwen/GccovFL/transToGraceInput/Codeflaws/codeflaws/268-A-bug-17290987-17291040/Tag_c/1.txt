@@ -1,4 +1,0 @@
-codeflaws/268-A-bug-17290987-17291040/268-A-17291040.c
-codeflaws/268-A-bug-17290987-17291040/268-A-17290987.c
-3
-[("Replace b'\\tint n, a[30], h[30], c = 0;\\n' with b'\\tint n, a[28], h[30], c = 0;\\n' at position 4", 3)]

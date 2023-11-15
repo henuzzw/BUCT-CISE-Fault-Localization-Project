@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-17231633-17231891/478-A-17231891.c
-codeflaws/478-A-bug-17231633-17231891/478-A-17231633.c
-15
-[("Replace b'    if(b==0 && a>0)\\n' with b'    if(b==0)\\n' at position 16", 15)]

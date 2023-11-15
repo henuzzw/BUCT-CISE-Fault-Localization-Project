@@ -1,4 +1,0 @@
-codeflaws/586-C-bug-13761976-13762495/586-C-13762495.c
-codeflaws/586-C-bug-13761976-13762495/586-C-13761976.c
-26,35
-[("Replace b'                if (isplakao[j]==0) z[i]--;\\n' with b'                z[i]--;\\n' at position 27", 26), ("Insert b'                else h[j]=h[j]-plac;\\n' at position 37 in file2", 36)]

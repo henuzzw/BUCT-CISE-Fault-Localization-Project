@@ -1,4 +1,0 @@
-codeflaws/291-A-bug-10021325-10022035/291-A-10022035.c
-codeflaws/291-A-bug-10021325-10022035/291-A-10021325.c
-9,9,9
-[("Insert b'\\t\\tif (!k[i])\\n' at position 11 in file2", 10), ("Insert b'\\t\\t\\tcontinue;\\n' at position 12 in file2", 11), ("Insert b'\\t\\t\\n' at position 13 in file2", 12)]

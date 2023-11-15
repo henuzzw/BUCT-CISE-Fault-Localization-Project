@@ -1,0 +1,4 @@
+codeflaws/50-A-bug-18056138-18056209/50-A-18056209.c
+codeflaws/50-A-bug-18056138-18056209/50-A-18056138.c
+19
+[("Replace b'         else i=(m/2)*n+(n/2);\\n' with b'         else i=(m/2)*n+(m/2);\\n' at position 20", 19)]

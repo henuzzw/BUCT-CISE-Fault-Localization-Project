@@ -1,0 +1,4 @@
+codeflaws/3-C-bug-17712535-17712546/3-C-17712546.c
+codeflaws/3-C-bug-17712535-17712546/3-C-17712535.c
+156,162
+[('Delete b\'\\t\\t\\tputs("V");\\n\' at position 156 in file2', 155), ('Delete b\'\\t\\t\\tprintf("x: %d  o: %d\\\\n");\\n\' at position 161 in file2', 160)]

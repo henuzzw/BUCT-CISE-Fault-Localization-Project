@@ -1,4 +1,0 @@
-codeflaws/448-A-bug-16605642-16605763/448-A-16605763.c
-codeflaws/448-A-bug-16605642-16605763/448-A-16605642.c
-6,7
-[('Replace b\'\\tprintf((n>=((ilk)/5+((ilk)%5!=0))+((son)/10+((son)%10!=0)))?"YES":"NO");return 0;\\n\' with b\'\\tprintf(n<=((ilk)/5+ilk%5!=0)+son%10!=0?"YES":"NO");\\n\' at position 7', 6), ("Delete b'return 0;\\n' at position 7 in file2", 6)]

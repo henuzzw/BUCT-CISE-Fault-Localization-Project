@@ -1,0 +1,4 @@
+codeflaws/514-A-bug-16254446-16254521/514-A-16254521.c
+codeflaws/514-A-bug-16254446-16254521/514-A-16254446.c
+10,10,10
+[("Insert b'        if (num == 9 && i==0) {\\n' at position 12 in file2", 11), ("Insert b'            continue;\\n' at position 13 in file2", 12), ("Insert b'        }\\n' at position 14 in file2", 13)]

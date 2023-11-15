@@ -1,4 +1,0 @@
-codeflaws/478-C-bug-13010069-13010382/478-C-13010382.c
-codeflaws/478-C-bug-13010069-13010382/478-C-13010069.c
-28
-[("Replace b'        t+=r-ceil(r/3);\\n' with b'        t+=2*floor(r/3);\\n' at position 29", 28)]

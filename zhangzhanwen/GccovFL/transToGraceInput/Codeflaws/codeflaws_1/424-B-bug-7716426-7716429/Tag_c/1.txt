@@ -1,0 +1,4 @@
+codeflaws/424-B-bug-7716426-7716429/424-B-7716429.c
+codeflaws/424-B-bug-7716426-7716429/424-B-7716426.c
+50,51
+[("Delete b'\\t\\tfor (c = 0; c < a; ++c)\\n' at position 50 in file2", 49), ('Delete b\'\\t\\t\\tprintf("%d %.6f\\\\n", c, ZA[c]);\\n\' at position 50 in file2', 49)]

@@ -1,4 +1,0 @@
-codeflaws/363-A-bug-14330512-14330579/363-A-14330579.c
-codeflaws/363-A-bug-14330512-14330579/363-A-14330512.c
-10
-[("Replace b'\\t\\tif(i>=5){\\n' with b'\\t\\tif(i>5){\\n' at position 11", 10)]

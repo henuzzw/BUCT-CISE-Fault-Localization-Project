@@ -1,4 +1,0 @@
-codeflaws/177-B1-bug-3817879-3817882/177-B1-3817882.c
-codeflaws/177-B1-bug-3817879-3817882/177-B1-3817879.c
-11
-[('Replace b\'    printf("%lld",n+1);\\n\' with b\'    printf("%lld",n);\\n\' at position 12', 11)]

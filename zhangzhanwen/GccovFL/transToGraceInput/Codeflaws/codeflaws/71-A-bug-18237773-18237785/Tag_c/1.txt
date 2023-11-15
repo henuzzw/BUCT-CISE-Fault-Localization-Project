@@ -1,4 +1,0 @@
-codeflaws/71-A-bug-18237773-18237785/71-A-18237785.c
-codeflaws/71-A-bug-18237773-18237785/71-A-18237773.c
-17
-[("Replace b'        if(len<=10)\\n' with b'        if(len==n)\\n' at position 18", 17)]

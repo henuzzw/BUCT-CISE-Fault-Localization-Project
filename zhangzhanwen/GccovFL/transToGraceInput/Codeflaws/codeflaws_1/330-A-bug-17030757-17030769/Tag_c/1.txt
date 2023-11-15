@@ -1,0 +1,4 @@
+codeflaws/330-A-bug-17030757-17030769/330-A-17030769.c
+codeflaws/330-A-bug-17030757-17030769/330-A-17030757.c
+54,55,56
+[("Replace b'\\n' with b'\\t\\tfor(j=0;j<y;j++)\\n' at position 55", 54), ('Replace b\'\\t\\t\\t\\n\' with b\'\\t\\t\\tprintf("%c",arr[i][j]);\\n\' at position 56', 55), ("Delete b'\\n' at position 56 in file2", 55)]

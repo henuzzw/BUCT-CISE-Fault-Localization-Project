@@ -1,4 +1,0 @@
-codeflaws/510-A-bug-17161470-17161497/510-A-17161497.c
-codeflaws/510-A-bug-17161470-17161497/510-A-17161470.c
-22
-[("Insert b'            x++;\\n' at position 24 in file2", 23)]

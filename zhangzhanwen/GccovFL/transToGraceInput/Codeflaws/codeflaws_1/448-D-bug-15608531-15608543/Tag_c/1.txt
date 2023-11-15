@@ -1,0 +1,4 @@
+codeflaws/448-D-bug-15608531-15608543/448-D-15608543.c
+codeflaws/448-D-bug-15608531-15608543/448-D-15608531.c
+16
+[("Replace b'\\tlong long head = 1,tail = (long long)n*m,mid;\\n' with b'\\tint head = 1,tail = (long long)n*m,mid;\\n' at position 17", 16)]

@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-8899200-8899211/336-A-8899211.c
+codeflaws/336-A-bug-8899200-8899211/336-A-8899200.c
+26
+[('Replace b\'\\t\\t\\tprintf("%d %d %d %d",0,(y-x),(x-y),0);\\n\' with b\'\\t\\t\\tprintf("%d %d %d %d",0,(y-x),0,(x-y));\\n\' at position 27', 26)]

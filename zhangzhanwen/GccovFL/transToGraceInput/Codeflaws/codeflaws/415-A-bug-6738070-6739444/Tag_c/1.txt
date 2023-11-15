@@ -1,4 +1,0 @@
-codeflaws/415-A-bug-6738070-6739444/415-A-6739444.c
-codeflaws/415-A-bug-6738070-6739444/415-A-6738070.c
-8
-[("Replace b'    int b[n];\\n' with b'    int b[m];\\n' at position 9", 8)]

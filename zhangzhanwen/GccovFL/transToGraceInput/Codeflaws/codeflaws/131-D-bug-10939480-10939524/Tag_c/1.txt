@@ -1,4 +1,0 @@
-codeflaws/131-D-bug-10939480-10939524/131-D-10939524.c
-codeflaws/131-D-bug-10939480-10939524/131-D-10939480.c
-20,20
-[("Replace b'        if(s == 1) A[x][t] = A[t][x] = 0, B[x] = 1, x = t;\\n' with b'        if(s == 1) { A[x][t] = A[t][x] = 0; B[x] = 1; x = t; continue; }\\n' at position 21", 20), ("Insert b'        else break;\\n' at position 22 in file2", 21)]

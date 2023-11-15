@@ -1,0 +1,4 @@
+codeflaws/284-B-bug-4544054-4544063/284-B-4544063.c
+codeflaws/284-B-bug-4544054-4544063/284-B-4544054.c
+5
+[("Replace b'    char str[200000];\\n' with b'    char str[100000];\\n' at position 6", 5)]

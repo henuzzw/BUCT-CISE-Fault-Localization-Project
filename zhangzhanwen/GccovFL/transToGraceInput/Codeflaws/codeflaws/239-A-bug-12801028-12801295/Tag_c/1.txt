@@ -1,4 +1,0 @@
-codeflaws/239-A-bug-12801028-12801295/239-A-12801295.c
-codeflaws/239-A-bug-12801028-12801295/239-A-12801028.c
-7
-[("Replace b'    if((n/k)*k<=y)    {\\n' with b'    if((n/k)*k>=n)    {\\n' at position 8", 7)]

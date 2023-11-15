@@ -1,0 +1,4 @@
+codeflaws/538-C-bug-13189546-13189667/538-C-13189667.c
+codeflaws/538-C-bug-13189546-13189667/538-C-13189546.c
+14
+[("Replace b'        ans = b[1] ;\\n' with b'        ans = a[1] ;\\n' at position 15", 14)]

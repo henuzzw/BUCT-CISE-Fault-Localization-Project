@@ -1,0 +1,4 @@
+codeflaws/466-C-bug-17912548-17912675/466-C-17912675.c
+codeflaws/466-C-bug-17912548-17912675/466-C-17912548.c
+19
+[('Replace b\'        scanf("%lld",&arr[i]);\\n\' with b\'        scanf("%d",&arr[i]);\\n\' at position 20', 19)]

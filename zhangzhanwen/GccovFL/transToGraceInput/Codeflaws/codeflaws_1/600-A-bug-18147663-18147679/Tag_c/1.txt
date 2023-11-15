@@ -1,0 +1,4 @@
+codeflaws/600-A-bug-18147663-18147679/600-A-18147679.c
+codeflaws/600-A-bug-18147663-18147679/600-A-18147663.c
+68
+[('Replace b\'        printf("\\\\n\\\\"\\\\"");\\n\' with b\'        printf("");\\n\' at position 69', 68)]

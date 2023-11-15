@@ -1,4 +1,0 @@
-codeflaws/327-B-bug-14353535-14353549/327-B-14353549.c
-codeflaws/327-B-bug-14353535-14353549/327-B-14353535.c
-8
-[("Replace b'    a[0]=n+1;\\n' with b'    a[0]=2;\\n' at position 9", 8)]

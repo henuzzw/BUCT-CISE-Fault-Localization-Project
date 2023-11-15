@@ -1,0 +1,4 @@
+codeflaws/349-B-bug-17878738-17878742/349-B-17878742.c
+codeflaws/349-B-bug-17878738-17878742/349-B-17878738.c
+18
+[("Replace b'                    v-=Vec[t]-Vec[y];\\n' with b'                    v=v-Vec[t]-Vec[y];\\n' at position 19", 18)]

@@ -1,4 +1,0 @@
-codeflaws/496-A-bug-14188210-14188268/496-A-14188268.c
-codeflaws/496-A-bug-14188210-14188268/496-A-14188210.c
-24,24
-[("Replace b'      if(max < min) min = max; \\n' with b'      if(max < min) min = max;\\n' at position 25", 24), ("Insert b'      max = 0;\\n' at position 26 in file2", 25)]

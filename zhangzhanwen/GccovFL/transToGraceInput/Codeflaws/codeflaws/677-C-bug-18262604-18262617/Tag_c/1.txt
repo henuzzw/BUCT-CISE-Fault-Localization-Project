@@ -1,4 +1,0 @@
-codeflaws/677-C-bug-18262604-18262617/677-C-18262617.c
-codeflaws/677-C-bug-18262604-18262617/677-C-18262604.c
-54
-[("Replace b'        alfabeto[i]=f(6-alfabeto[i]);\\n' with b'        alfabeto[i]=f(alfabeto[i]);\\n' at position 55", 54)]

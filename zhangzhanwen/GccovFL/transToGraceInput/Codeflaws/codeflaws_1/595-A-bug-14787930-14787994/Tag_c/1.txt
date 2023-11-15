@@ -1,0 +1,4 @@
+codeflaws/595-A-bug-14787930-14787994/595-A-14787994.c
+codeflaws/595-A-bug-14787930-14787994/595-A-14787930.c
+5
+[("Replace b'    int a[2*m*n];\\n' with b'    int a[2*m];\\n' at position 6", 5)]

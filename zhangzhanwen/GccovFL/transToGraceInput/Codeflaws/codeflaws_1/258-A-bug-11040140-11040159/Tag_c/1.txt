@@ -1,0 +1,4 @@
+codeflaws/258-A-bug-11040140-11040159/258-A-11040159.c
+codeflaws/258-A-bug-11040140-11040159/258-A-11040140.c
+4
+[("Replace b'    char a[100000000];\\n' with b'    char a[6];\\n' at position 5", 4)]

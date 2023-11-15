@@ -1,4 +1,0 @@
-codeflaws/340-A-bug-13332288-13332329/340-A-13332329.c
-codeflaws/340-A-bug-13332288-13332329/340-A-13332288.c
-11
-[("Replace b'    n=b/count-(a-1)/count;\\n' with b'    n=b/count;\\n' at position 12", 11)]

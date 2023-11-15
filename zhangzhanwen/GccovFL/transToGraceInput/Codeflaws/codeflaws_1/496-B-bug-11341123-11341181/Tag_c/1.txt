@@ -1,0 +1,4 @@
+codeflaws/496-B-bug-11341123-11341181/496-B-11341181.c
+codeflaws/496-B-bug-11341123-11341181/496-B-11341123.c
+82
+[("Replace b'                    results[i][j+1] = 10000;\\n' with b'                    results[i][j+1] = 9;\\n' at position 83", 82)]

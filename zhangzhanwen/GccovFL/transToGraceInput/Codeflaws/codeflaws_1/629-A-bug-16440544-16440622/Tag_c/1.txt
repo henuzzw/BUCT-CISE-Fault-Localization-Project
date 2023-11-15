@@ -1,0 +1,4 @@
+codeflaws/629-A-bug-16440544-16440622/629-A-16440622.c
+codeflaws/629-A-bug-16440544-16440622/629-A-16440544.c
+18
+[('Replace b"                if(a==\'C\')\\n" with b"                if(a==\'c\')\\n" at position 19', 18)]

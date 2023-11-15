@@ -1,0 +1,4 @@
+codeflaws/186-A-bug-15282162-15282195/186-A-15282195.c
+codeflaws/186-A-bug-15282162-15282195/186-A-15282162.c
+23
+[("Replace b'                    if(arr[1][i]==arr[0][j]&&arr[0][j]!=arr[1][j])\\n' with b'                    if(arr[1][i]==arr[0][j])\\n' at position 24", 23)]

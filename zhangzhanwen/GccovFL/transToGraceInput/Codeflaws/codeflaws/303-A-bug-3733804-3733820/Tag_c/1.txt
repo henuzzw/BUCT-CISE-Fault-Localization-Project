@@ -1,4 +1,0 @@
-codeflaws/303-A-bug-3733804-3733820/303-A-3733820.c
-codeflaws/303-A-bug-3733804-3733820/303-A-3733804.c
-7
-[("Replace b'\\t\\tif(n%2==0)\\n' with b'\\t\\tif(n==1||n%2==0)\\n' at position 8", 7)]

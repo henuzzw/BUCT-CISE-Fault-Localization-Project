@@ -1,0 +1,4 @@
+codeflaws/676-B-bug-18134806-18134816/676-B-18134816.c
+codeflaws/676-B-bug-18134806-18134816/676-B-18134806.c
+4
+[("Replace b'    float arr[12][12]={0};\\n' with b'    float arr[11][11]={0};\\n' at position 5", 4)]

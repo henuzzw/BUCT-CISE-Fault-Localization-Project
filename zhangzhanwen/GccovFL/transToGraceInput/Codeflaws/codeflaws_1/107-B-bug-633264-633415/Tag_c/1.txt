@@ -1,0 +1,4 @@
+codeflaws/107-B-bug-633264-633415/107-B-633415.c
+codeflaws/107-B-bug-633264-633415/107-B-633264.c
+16
+[("Replace b'     if (sum < n) {\\n' with b'     if (sum < n || s[h - 1] == 1) {\\n' at position 17", 16)]

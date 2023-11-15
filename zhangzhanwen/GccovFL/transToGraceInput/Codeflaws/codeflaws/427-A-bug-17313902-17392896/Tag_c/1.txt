@@ -1,4 +1,0 @@
-codeflaws/427-A-bug-17313902-17392896/427-A-17392896.c
-codeflaws/427-A-bug-17313902-17392896/427-A-17313902.c
-10
-[("Replace b'            p+=e;\\n' with b'            p=e;\\n' at position 11", 10)]

@@ -1,4 +1,0 @@
-codeflaws/611-A-bug-18184052-18184103/611-A-18184103.c
-codeflaws/611-A-bug-18184052-18184103/611-A-18184052.c
-12,12
-[('Replace b\'        if(n == 6 || n == 5)printf("53");\\n\' with b\'        printf("52");\\n\' at position 13', 12), ('Insert b\'        else printf("52");\\n\' at position 14 in file2', 13)]

@@ -1,0 +1,4 @@
+codeflaws/80-B-bug-11104458-11104474/80-B-11104474.c
+codeflaws/80-B-bug-11104458-11104474/80-B-11104458.c
+10
+[("Replace b'    ansH=(60*hour+minute)/2.0;\\n' with b'    ansH=(60*hour+minute)/2;\\n' at position 11", 10)]

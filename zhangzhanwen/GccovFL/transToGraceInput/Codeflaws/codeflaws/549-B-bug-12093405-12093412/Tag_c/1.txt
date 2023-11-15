@@ -1,4 +1,0 @@
-codeflaws/549-B-bug-12093405-12093412/549-B-12093412.c
-codeflaws/549-B-bug-12093405-12093412/549-B-12093405.c
-35
-[('Replace b\'\\t\\t\\tprintf("%d ",i+1);\\n\' with b\'\\t\\t\\tprintf("%d",i+1);\\n\' at position 36', 35)]

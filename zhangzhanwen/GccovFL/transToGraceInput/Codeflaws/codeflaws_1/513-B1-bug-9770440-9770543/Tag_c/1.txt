@@ -1,0 +1,4 @@
+codeflaws/513-B1-bug-9770440-9770543/513-B1-9770543.c
+codeflaws/513-B1-bug-9770440-9770543/513-B1-9770440.c
+16
+[("Replace b'\\t\\t\\tm-=(1<<(n-i-1));\\n' with b'\\t\\t\\tm=(1<<(n-i))-m;\\n' at position 17", 16)]

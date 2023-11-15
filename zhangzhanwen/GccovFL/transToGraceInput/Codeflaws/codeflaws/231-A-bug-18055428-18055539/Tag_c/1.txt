@@ -1,4 +1,0 @@
-codeflaws/231-A-bug-18055428-18055539/231-A-18055539.c
-codeflaws/231-A-bug-18055428-18055539/231-A-18055428.c
-10
-[("Replace b'      if(total_problems[i]==11||total_problems[i]==101||total_problems[i]==110||total_problems[i]==111)\\n' with b'      if(total_problems[i]==011||total_problems[i]==101||total_problems[i]==110||total_problems[i]==111)\\n' at position 11", 10)]

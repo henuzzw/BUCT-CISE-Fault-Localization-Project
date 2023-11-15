@@ -1,4 +1,0 @@
-codeflaws/441-B-bug-7062010-7062022/441-B-7062022.c
-codeflaws/441-B-bug-7062010-7062022/441-B-7062010.c
-10
-[("Replace b'    for(i=1;i<=3001;i++){\\n' with b'    for(i=1;i<=n+1;i++){\\n' at position 11", 10)]

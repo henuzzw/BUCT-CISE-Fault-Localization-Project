@@ -1,0 +1,4 @@
+codeflaws/301-A-bug-6030783-6030796/301-A-6030796.c
+codeflaws/301-A-bug-6030783-6030796/301-A-6030783.c
+14
+[('Replace b\'    if(ok==1)printf("%d",he);\\n\' with b\'    if(ok=1)printf("%d",he);\\n\' at position 15', 14)]

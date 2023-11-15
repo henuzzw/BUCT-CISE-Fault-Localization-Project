@@ -1,0 +1,4 @@
+codeflaws/151-C-bug-1201211-1201214/151-C-1201214.c
+codeflaws/151-C-bug-1201211-1201214/151-C-1201211.c
+8
+[("Insert b'\\t\\t\\tp = q / i;\\n' at position 10 in file2", 9)]

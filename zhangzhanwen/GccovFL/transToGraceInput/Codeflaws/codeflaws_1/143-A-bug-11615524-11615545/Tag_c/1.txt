@@ -1,0 +1,4 @@
+codeflaws/143-A-bug-11615524-11615545/143-A-11615545.c
+codeflaws/143-A-bug-11615524-11615545/143-A-11615524.c
+10
+[("Replace b'    if(a==b || a==c || a==d || b==c || b==d || c==d || a<=0 ||a>9 || b<=0 || b>9 || c<=0 || c>9 ||d<=0 ||d>9)\\n' with b'    if(a==b || a==c || a==d || b==c || b==d || c==d || a==0 || b==0 || c==0 || d==0)\\n' at position 11", 10)]

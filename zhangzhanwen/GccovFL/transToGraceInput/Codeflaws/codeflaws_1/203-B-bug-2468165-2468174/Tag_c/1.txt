@@ -1,0 +1,4 @@
+codeflaws/203-B-bug-2468165-2468174/203-B-2468174.c
+codeflaws/203-B-bug-2468165-2468174/203-B-2468165.c
+53
+[("Replace b'    count += b[x][y+2] + b[x+1][y+2] + b[x+2][y+2];\\n' with b'    count += b[x][y+2] + b[x+1][y+2] + b[x-1][y+2];\\n' at position 54", 53)]

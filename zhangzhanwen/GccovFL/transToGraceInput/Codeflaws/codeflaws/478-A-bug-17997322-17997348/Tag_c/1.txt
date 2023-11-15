@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-17997322-17997348/478-A-17997348.c
-codeflaws/478-A-bug-17997322-17997348/478-A-17997322.c
-12,13
-[('Replace b\'\\tif(sum%5==0 && sum>0) printf("%d",sum/5);\\n\' with b\'\\tif(sum==0) printf("0");\\n\' at position 13', 12), ('Delete b\'\\telse if(sum%5==0) printf("%d",sum/5);\\n\' at position 13 in file2', 12)]

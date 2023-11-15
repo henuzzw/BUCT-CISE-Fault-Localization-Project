@@ -1,0 +1,4 @@
+codeflaws/544-B-bug-11393115-11393166/544-B-11393166.c
+codeflaws/544-B-bug-11393115-11393166/544-B-11393115.c
+21,32
+[("Insert b'\\n' at position 23 in file2", 22), ('Replace b\'        if(k>(((n/2)*(n/2)+(n/2+1)*(n/2+1))))printf("NO");\\n\' with b\'        if(k>(n/2*n/2+(n/2+1)*(n/2+1)))printf("NO");\\n\' at position 34', 33)]

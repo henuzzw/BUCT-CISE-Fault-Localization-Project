@@ -1,4 +1,0 @@
-codeflaws/533-C-bug-17380371-17380392/533-C-17380392.c
-codeflaws/533-C-bug-17380371-17380392/533-C-17380371.c
-17,17
-[('Replace b\'        else if (x1 <= x2 && y1 <= y2) puts("Polycarp");\\n\' with b\'        else if (max(x2, y2) < (x1 + y1)) puts("Vasilliy");\\n\' at position 18', 17), ('Insert b\'        else if (max(x2, y2) < (x1 + y1)) puts("Vasiliy");\\n\' at position 19 in file2', 18)]

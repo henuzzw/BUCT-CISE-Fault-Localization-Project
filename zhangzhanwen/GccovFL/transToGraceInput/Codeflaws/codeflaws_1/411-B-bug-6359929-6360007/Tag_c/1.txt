@@ -1,0 +1,4 @@
+codeflaws/411-B-bug-6359929-6360007/411-B-6360007.c
+codeflaws/411-B-bug-6359929-6360007/411-B-6359929.c
+18
+[("Replace b'            if(cores[i]==0 && arr[i][j]!=0)\\n' with b'            if(cores[i]==0)\\n' at position 19", 18)]

@@ -1,0 +1,4 @@
+codeflaws/259-B-bug-9618286-9618328/259-B-9618328.c
+codeflaws/259-B-bug-9618286-9618328/259-B-9618286.c
+24,24
+[("Replace b'    \\n' with b'\\n' at position 25", 24), ("Insert b'    return 0;\\n' at position 26 in file2", 25)]

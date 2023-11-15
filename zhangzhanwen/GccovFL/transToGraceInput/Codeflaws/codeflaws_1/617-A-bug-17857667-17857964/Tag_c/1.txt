@@ -1,0 +1,4 @@
+codeflaws/617-A-bug-17857667-17857964/617-A-17857964.c
+codeflaws/617-A-bug-17857667-17857964/617-A-17857667.c
+12
+[("Replace b'    h=f%2;\\n' with b'    h=g%2;\\n' at position 13", 12)]

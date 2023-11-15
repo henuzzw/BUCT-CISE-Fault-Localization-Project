@@ -1,0 +1,4 @@
+codeflaws/263-B-bug-9193538-9193548/263-B-9193548.c
+codeflaws/263-B-bug-9193538-9193548/263-B-9193538.c
+20
+[('Replace b\'\\tprintf("%d %d\\\\n",a[n-k],a[n-k]);\\n\' with b\'\\tprintf("%d %d\\\\n",a[k-1],a[k-1]);\\n\' at position 21', 20)]

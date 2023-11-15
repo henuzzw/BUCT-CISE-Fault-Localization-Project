@@ -1,4 +1,0 @@
-codeflaws/546-A-bug-17982380-17982482/546-A-17982482.c
-codeflaws/546-A-bug-17982380-17982482/546-A-17982380.c
-7
-[('Replace b\'    (price-n>0)?printf("%d",price-n):printf("0");\\n\' with b\'    printf("%d",price-n);\\n\' at position 8', 7)]

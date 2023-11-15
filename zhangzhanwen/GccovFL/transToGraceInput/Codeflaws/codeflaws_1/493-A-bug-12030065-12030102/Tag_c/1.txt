@@ -1,0 +1,4 @@
+codeflaws/493-A-bug-12030065-12030102/493-A-12030102.c
+codeflaws/493-A-bug-12030065-12030102/493-A-12030065.c
+18
+[('Replace b"        if(color[0]==\'r\' && county[temp][number]<=2)\\n" with b"        if(color[0]==\'r\' && county[temp][number]!=100)\\n" at position 19', 18)]

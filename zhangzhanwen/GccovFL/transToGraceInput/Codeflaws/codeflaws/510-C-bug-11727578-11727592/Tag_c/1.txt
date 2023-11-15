@@ -1,4 +1,0 @@
-codeflaws/510-C-bug-11727578-11727592/510-C-11727592.c
-codeflaws/510-C-bug-11727578-11727592/510-C-11727578.c
-65
-[('Replace b"            if(rep[j]==1&&b[j][i]!=\'\\\\0\'&&b[j+1]!=\'\\\\0\'&&b[j][i]!=b[j+1][i])\\n" with b\'            if(rep[j]==1&&b[j][i]!=b[j+1][i])\\n\' at position 66', 65)]

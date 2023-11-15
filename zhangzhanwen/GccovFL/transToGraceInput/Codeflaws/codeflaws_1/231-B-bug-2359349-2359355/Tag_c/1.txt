@@ -1,0 +1,4 @@
+codeflaws/231-B-bug-2359349-2359355/231-B-2359355.c
+codeflaws/231-B-bug-2359349-2359355/231-B-2359349.c
+11
+[("Replace b'    if (d<=0) {\\n' with b'    if (d<0) {\\n' at position 12", 11)]

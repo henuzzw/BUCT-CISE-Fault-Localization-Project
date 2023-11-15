@@ -1,4 +1,0 @@
-codeflaws/639-B-bug-17358924-17358948/639-B-17358948.c
-codeflaws/639-B-bug-17358924-17358948/639-B-17358924.c
-6
-[("Replace b'    if(d > 2 * h || (h == 1 && d == 1 && n > 2)) {\\n' with b'    if(d > 2 * h || (h == 1 && d == 1)) {\\n' at position 7", 6)]

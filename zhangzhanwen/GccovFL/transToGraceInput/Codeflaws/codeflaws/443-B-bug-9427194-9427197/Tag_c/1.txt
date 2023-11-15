@@ -1,4 +1,0 @@
-codeflaws/443-B-bug-9427194-9427197/443-B-9427197.c
-codeflaws/443-B-bug-9427194-9427197/443-B-9427194.c
-46
-[("Replace b'    char s[300];\\n' with b'    char s[100];\\n' at position 47", 46)]

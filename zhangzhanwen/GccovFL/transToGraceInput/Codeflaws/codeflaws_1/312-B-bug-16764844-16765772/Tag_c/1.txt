@@ -1,0 +1,4 @@
+codeflaws/312-B-bug-16764844-16765772/312-B-16765772.c
+codeflaws/312-B-bug-16764844-16765772/312-B-16764844.c
+9,11
+[("Replace b'\\tt=g/(1-(1-g)*(1-h));\\n' with b'\\tt=g/(1-g*h);\\n' at position 10", 9), ("Replace b'\\treturn 0;\\n' with b'\\t\\n' at position 12", 11)]

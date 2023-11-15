@@ -1,4 +1,0 @@
-codeflaws/221-A-bug-9367395-9367428/221-A-9367428.c
-codeflaws/221-A-bug-9367395-9367428/221-A-9367395.c
-5,5
-[('Replace b\'\\tprintf("%d ",n);\\n\' with b\'\\tfor(i=n;i>0;i--)\\n\' at position 6', 5), ("Insert b'\\tfor(i=1;i<n;i++)\\n' at position 7 in file2", 6)]

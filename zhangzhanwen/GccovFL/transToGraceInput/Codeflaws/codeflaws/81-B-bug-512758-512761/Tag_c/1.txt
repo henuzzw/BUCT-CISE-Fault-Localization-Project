@@ -1,4 +1,0 @@
-codeflaws/81-B-bug-512758-512761/81-B-512761.c
-codeflaws/81-B-bug-512758-512761/81-B-512758.c
-9
-[('Replace b"      if (str[i]!=\' \'||str[i+1]>=\'0\'&&str[i+1]<=\'9\'&&tmp[o]>=\'0\'&&tmp[o]<=\'9\')\\n" with b"      if (str[i]!=\' \')\\n" at position 10', 9)]

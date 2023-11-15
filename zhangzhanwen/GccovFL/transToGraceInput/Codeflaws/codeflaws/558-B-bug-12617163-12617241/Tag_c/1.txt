@@ -1,4 +1,0 @@
-codeflaws/558-B-bug-12617163-12617241/558-B-12617241.c
-codeflaws/558-B-bug-12617163-12617241/558-B-12617163.c
-18
-[("Replace b'                if(mx < count[tmp] || ( mx == count[tmp] && (end[tmp] - start[tmp]) < (mxed - mxst)   ) ){\\n' with b'                if(mx < count[tmp] || ( mx == count[tmp] && (end[tmp] - start[tmp]) > (mxed - mxst)   ) ){\\n' at position 19", 18)]

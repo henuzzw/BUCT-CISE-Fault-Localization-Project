@@ -1,4 +1,0 @@
-codeflaws/30-A-bug-16795687-16795691/30-A-16795691.c
-codeflaws/30-A-bug-16795687-16795691/30-A-16795687.c
-23
-[("Replace b'if(abs(n)<abs(x))\\n' with b'if(n<abs(x))\\n' at position 24", 23)]

@@ -1,0 +1,4 @@
+codeflaws/617-D-bug-15728476-15728514/617-D-15728514.c
+codeflaws/617-D-bug-15728476-15728514/617-D-15728476.c
+10,10,10
+[('Insert b\'\\t\\telse if(a2==b2&&((a1<=c1&&b1<=c1)||(a1>=c1&&b1>=c1)))printf("2\\\\n");\\n\' at position 12 in file2', 11), ('Insert b\'\\t\\telse if(a2==c2&&((a1<=b1&&b1>=c1)||(a1>=b1&&b1<=c1)))printf("2\\\\n");\\n\' at position 13 in file2', 12), ('Insert b\'\\t\\telse if(b2==c2&&((a1<=c1&&b1>=a1)||(a1>=c1&&b1<=a1)))printf("2\\\\n");\\n\' at position 14 in file2', 13)]

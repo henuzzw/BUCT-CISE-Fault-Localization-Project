@@ -1,4 +1,0 @@
-codeflaws/630-D-bug-17358593-17358623/630-D-17358623.c
-codeflaws/630-D-bug-17358593-17358623/630-D-17358593.c
-11,12
-[("Replace b'    ans = (long long)n * 3 * (n + 1);\\n' with b'    ans = n;\\n' at position 12", 11), ("Delete b'    ans = ans * (6 + n * 6) / 2;\\n' at position 12 in file2", 11)]

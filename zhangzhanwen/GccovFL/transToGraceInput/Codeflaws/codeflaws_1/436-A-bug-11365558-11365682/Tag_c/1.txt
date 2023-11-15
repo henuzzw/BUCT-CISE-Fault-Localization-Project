@@ -1,0 +1,4 @@
+codeflaws/436-A-bug-11365558-11365682/436-A-11365682.c
+codeflaws/436-A-bug-11365558-11365682/436-A-11365558.c
+9,27
+[("Insert b'\\tlong long int re = hi;\\n' at position 11 in file2", 10), ("Insert b'\\thi = re;\\n' at position 30 in file2", 29)]

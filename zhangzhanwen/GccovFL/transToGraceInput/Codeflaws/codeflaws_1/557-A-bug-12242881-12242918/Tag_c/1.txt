@@ -1,0 +1,4 @@
+codeflaws/557-A-bug-12242881-12242918/557-A-12242918.c
+codeflaws/557-A-bug-12242881-12242918/557-A-12242881.c
+33,40
+[("Insert b'\\n' at position 35 in file2", 34), ("Replace b'                two = min2+stu;\\n' with b'                two += min2+stu;\\n' at position 42", 41)]

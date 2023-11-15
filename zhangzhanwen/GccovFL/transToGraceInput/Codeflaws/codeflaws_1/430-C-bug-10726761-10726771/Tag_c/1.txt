@@ -1,0 +1,4 @@
+codeflaws/430-C-bug-10726761-10726771/430-C-10726771.c
+codeflaws/430-C-bug-10726761-10726771/430-C-10726761.c
+68,68
+[('Replace b\'\\tscanf("%d",&v);\\n\' with b\'\\tscanf("%d%d",&v,&e);\\n\' at position 69', 68), ("Insert b'\\te=v-1;\\n' at position 70 in file2", 69)]

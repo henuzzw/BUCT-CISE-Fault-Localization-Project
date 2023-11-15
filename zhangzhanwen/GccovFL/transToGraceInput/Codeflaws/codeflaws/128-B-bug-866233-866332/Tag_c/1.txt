@@ -1,4 +1,0 @@
-codeflaws/128-B-bug-866233-866332/128-B-866332.c
-codeflaws/128-B-bug-866233-866332/128-B-866233.c
-78
-[('Insert b\'    if(!ok) printf("No such line.");\\n\' at position 80 in file2', 79)]

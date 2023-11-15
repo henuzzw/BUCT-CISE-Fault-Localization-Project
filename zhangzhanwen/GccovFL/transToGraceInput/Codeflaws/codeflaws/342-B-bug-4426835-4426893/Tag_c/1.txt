@@ -1,4 +1,0 @@
-codeflaws/342-B-bug-4426835-4426893/342-B-4426893.c
-codeflaws/342-B-bug-4426835-4426893/342-B-4426835.c
-53,55
-[("Replace b'\\tfor(i=1;i<t;i++)\\n' with b'\\tfor(i=1;i<=t;i++)\\n' at position 54", 53), ('Delete b\'\\tputs("");\\n\' at position 55 in file2', 54)]

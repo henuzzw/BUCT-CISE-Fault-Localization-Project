@@ -1,4 +1,0 @@
-codeflaws/336-A-bug-5261009-5261038/336-A-5261038.c
-codeflaws/336-A-bug-5261009-5261038/336-A-5261009.c
-9
-[('Replace b\'\\t\\telse printf("0 %i %i 0",-z,z);\\n\' with b\'\\t\\telse printf("0 %i %i 0",z,-z);\\n\' at position 10', 9)]

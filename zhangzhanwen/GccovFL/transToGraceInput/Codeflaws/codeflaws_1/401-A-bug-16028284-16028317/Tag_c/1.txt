@@ -1,0 +1,4 @@
+codeflaws/401-A-bug-16028284-16028317/401-A-16028317.c
+codeflaws/401-A-bug-16028284-16028317/401-A-16028284.c
+19,19
+[('Replace b\'     if (sum==0) printf("0");\\n\' with b\'     if (sum<b) printf("1");\\n\' at position 20', 19), ('Insert b\'     else if (sum<b) printf("1");\\n\' at position 21 in file2', 20)]

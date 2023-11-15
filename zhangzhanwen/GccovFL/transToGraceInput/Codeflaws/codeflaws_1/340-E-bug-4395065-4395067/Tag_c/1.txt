@@ -1,0 +1,4 @@
+codeflaws/340-E-bug-4395065-4395067/340-E-4395067.c
+codeflaws/340-E-bug-4395065-4395067/340-E-4395065.c
+44
+[("Replace b'\\t\\t\\t\\t{  dp[i][j]=(dp[i][j-1]+dp[i-1][j-1])%mod;\\t}\\n' with b'\\t\\t\\t\\t{  dp[i][j]=(dp[i][j-1]+dp[i-1][j-1],mod)%mod;\\t}\\n' at position 45", 44)]

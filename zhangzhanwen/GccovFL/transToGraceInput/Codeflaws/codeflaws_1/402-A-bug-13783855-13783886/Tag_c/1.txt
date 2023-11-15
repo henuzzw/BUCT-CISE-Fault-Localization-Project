@@ -1,0 +1,4 @@
+codeflaws/402-A-bug-13783855-13783886/402-A-13783886.c
+codeflaws/402-A-bug-13783855-13783886/402-A-13783855.c
+11
+[("Replace b'                b=b+1-k;\\n' with b'                b=b-k;\\n' at position 12", 11)]

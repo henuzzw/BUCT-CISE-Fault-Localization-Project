@@ -1,0 +1,4 @@
+codeflaws/588-A-bug-15948639-15948650/588-A-15948650.c
+codeflaws/588-A-bug-15948639-15948650/588-A-15948639.c
+32
+[("Replace b'        kg_meat += jc_day_prices[i + j][0];                                     \\n' with b'        kg_meat += jc_day_prices[i][1] * jc_day_prices[i + j][0];               \\n' at position 33", 32)]

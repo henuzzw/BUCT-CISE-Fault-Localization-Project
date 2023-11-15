@@ -1,0 +1,4 @@
+codeflaws/507-C-bug-10395815-10395870/507-C-10395870.c
+codeflaws/507-C-bug-10395815-10395870/507-C-10395815.c
+31
+[("Replace b'\\t\\tlong long int o=n%m;\\n' with b'\\t\\tint o=n%m;\\n' at position 32", 31)]

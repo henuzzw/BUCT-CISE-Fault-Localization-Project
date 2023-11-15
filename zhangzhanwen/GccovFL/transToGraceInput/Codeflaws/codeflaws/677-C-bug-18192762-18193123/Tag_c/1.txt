@@ -1,4 +1,0 @@
-codeflaws/677-C-bug-18192762-18193123/677-C-18193123.c
-codeflaws/677-C-bug-18192762-18193123/677-C-18192762.c
-12
-[("Replace b'    return 6-sum;\\n' with b'    return sum;\\n' at position 13", 12)]

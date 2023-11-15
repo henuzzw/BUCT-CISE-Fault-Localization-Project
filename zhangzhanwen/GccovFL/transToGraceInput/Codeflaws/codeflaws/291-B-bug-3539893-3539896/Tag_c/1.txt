@@ -1,4 +1,0 @@
-codeflaws/291-B-bug-3539893-3539896/291-B-3539896.c
-codeflaws/291-B-bug-3539893-3539896/291-B-3539893.c
-62,62
-[("Insert b'  if(lstarted)\\n' at position 64 in file2", 63), ('Insert b\'    printf(">\\\\n");\\n\' at position 65 in file2', 64)]

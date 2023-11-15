@@ -1,4 +1,0 @@
-codeflaws/75-A-bug-17509211-17509220/75-A-17509220.c
-codeflaws/75-A-bug-17509211-17509220/75-A-17509211.c
-22,23
-[('Delete b\'\\tprintf("remove_zeros(a + b) %d\\\\n", remove_zeros(a + b));\\n\' at position 22 in file2', 21), ('Delete b\'\\tprintf("(remove_zeros(a) + remove_zeros(b)) %d\\\\n", (remove_zeros(a) + remove_zeros(b)));\\n\' at position 22 in file2', 21)]

@@ -1,0 +1,4 @@
+codeflaws/40-A-bug-177776-177830/40-A-177830.c
+codeflaws/40-A-bug-177776-177830/40-A-177776.c
+34
+[("Replace b' if(i%2==0&&x*y>0||i%2&&x*y<0)\\n' with b' if(i%2==0&&x*y>0)\\n' at position 35", 34)]

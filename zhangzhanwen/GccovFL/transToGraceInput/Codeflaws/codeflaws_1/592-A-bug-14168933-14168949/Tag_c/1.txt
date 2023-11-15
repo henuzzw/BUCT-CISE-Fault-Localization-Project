@@ -1,0 +1,4 @@
+codeflaws/592-A-bug-14168933-14168949/592-A-14168949.c
+codeflaws/592-A-bug-14168933-14168949/592-A-14168933.c
+47
+[("Replace b'    if(minW <= minB){\\n' with b'    if(minW < minB){\\n' at position 48", 47)]

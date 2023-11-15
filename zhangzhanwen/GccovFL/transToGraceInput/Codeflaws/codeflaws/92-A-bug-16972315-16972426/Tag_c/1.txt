@@ -1,4 +1,0 @@
-codeflaws/92-A-bug-16972315-16972426/92-A-16972426.c
-codeflaws/92-A-bug-16972315-16972426/92-A-16972315.c
-14,14,21
-[('Replace b\'            printf("%lld", m);\\n\' with b\'            return m;\\n\' at position 15', 14), ("Insert b'            break;\\n' at position 16 in file2", 15), ("Insert b'return 0;\\n' at position 24 in file2", 23)]

@@ -1,0 +1,4 @@
+codeflaws/146-B-bug-2035917-2035968/146-B-2035968.c
+codeflaws/146-B-bug-2035917-2035968/146-B-2035917.c
+24
+[("Replace b'          if(y==0 && x==0)\\n' with b'          if(y==0)\\n' at position 25", 24)]

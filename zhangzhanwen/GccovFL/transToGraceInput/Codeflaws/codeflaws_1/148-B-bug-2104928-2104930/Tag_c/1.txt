@@ -1,0 +1,4 @@
+codeflaws/148-B-bug-2104928-2104930/148-B-2104930.c
+codeflaws/148-B-bug-2104928-2104930/148-B-2104928.c
+9
+[("Replace b'if((p*n)>=c || m>n)\\n' with b'if((p*n)>=c)\\n' at position 10", 9)]

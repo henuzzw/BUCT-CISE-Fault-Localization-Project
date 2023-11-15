@@ -1,4 +1,0 @@
-codeflaws/157-B-bug-15495246-15495263/157-B-15495263.c
-codeflaws/157-B-bug-15495246-15495263/157-B-15495246.c
-31
-[('Replace b\'//\\tprintf("%.15lf ",A2);\\n\' with b\'\\tprintf("%.15lf ",A2);\\n\' at position 32', 31)]

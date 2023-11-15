@@ -1,0 +1,4 @@
+codeflaws/282-C-bug-13082392-13082413/282-C-13082413.c
+codeflaws/282-C-bug-13082392-13082413/282-C-13082392.c
+41,41
+[("Insert b'\\n' at position 43 in file2", 42), ('Insert b\'          else if( k == 0 && j == 0 ) printf("YES");\\n\' at position 44 in file2', 43)]

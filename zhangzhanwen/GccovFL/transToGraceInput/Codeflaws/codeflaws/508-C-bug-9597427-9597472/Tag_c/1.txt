@@ -1,4 +1,0 @@
-codeflaws/508-C-bug-9597427-9597472/508-C-9597472.c
-codeflaws/508-C-bug-9597427-9597472/508-C-9597427.c
-29
-[("Replace b'\\t\\t\\t\\tif(!can[k]){count++;can[k]=t-count+1;}\\n' with b'\\t\\t\\t\\tif(!can[k]){count++;can[k]=t-count;}\\n' at position 30", 29)]

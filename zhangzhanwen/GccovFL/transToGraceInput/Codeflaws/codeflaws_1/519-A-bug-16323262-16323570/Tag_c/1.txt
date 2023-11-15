@@ -1,0 +1,4 @@
+codeflaws/519-A-bug-16323262-16323570/519-A-16323570.c
+codeflaws/519-A-bug-16323262-16323570/519-A-16323262.c
+22,28
+[("Insert b'        getchar();\\n' at position 24 in file2", 23), ("Insert b'    \\n' at position 31 in file2", 30)]

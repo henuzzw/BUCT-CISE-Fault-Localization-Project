@@ -1,0 +1,4 @@
+codeflaws/214-A-bug-18162404-18162485/214-A-18162485.c
+codeflaws/214-A-bug-18162404-18162485/214-A-18162404.c
+12
+[("Replace b'\\t\\t\\ta=-1;b=b+1;\\n' with b'\\t\\t\\ta=0;b=b+1;\\n' at position 13", 12)]

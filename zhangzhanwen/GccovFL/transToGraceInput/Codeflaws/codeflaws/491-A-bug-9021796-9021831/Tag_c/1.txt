@@ -1,4 +1,0 @@
-codeflaws/491-A-bug-9021796-9021831/491-A-9021831.c
-codeflaws/491-A-bug-9021796-9021831/491-A-9021796.c
-32
-[("Replace b'            t[i]=i+2;\\n' with b'            t[i]=i+1;\\n' at position 33", 32)]

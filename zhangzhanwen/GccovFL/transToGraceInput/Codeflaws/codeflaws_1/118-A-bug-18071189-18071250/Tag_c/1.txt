@@ -1,0 +1,4 @@
+codeflaws/118-A-bug-18071189-18071250/118-A-18071250.c
+codeflaws/118-A-bug-18071189-18071250/118-A-18071189.c
+7
+[("Replace b'    while(gets(a))\\n' with b'    while(gets(a)!=EOF)\\n' at position 8", 7)]

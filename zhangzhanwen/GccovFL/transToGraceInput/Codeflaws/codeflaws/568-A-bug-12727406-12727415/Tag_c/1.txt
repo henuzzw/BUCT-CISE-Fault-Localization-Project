@@ -1,4 +1,0 @@
-codeflaws/568-A-bug-12727406-12727415/568-A-12727415.c
-codeflaws/568-A-bug-12727406-12727415/568-A-12727406.c
-43
-[("Replace b'    long long pi = 0, rub = 0;\\n' with b'    unsigned int pi = 0, rub = 0;\\n' at position 44", 43)]

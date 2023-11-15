@@ -1,0 +1,4 @@
+codeflaws/63-A-bug-10588532-10589597/63-A-10589597.c
+codeflaws/63-A-bug-10588532-10589597/63-A-10588532.c
+4
+[('Replace b\'{char f[100][20],a[]=" rat",b[]=" woman",c[]=" child",d[]=" man",e[]="captain";\\n\' with b\'{char f[100][20],a[]="rat",b[]="woman",c[]="child",d[]=" man",e[]="captain";\\n\' at position 5', 4)]

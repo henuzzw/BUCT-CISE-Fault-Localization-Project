@@ -1,0 +1,4 @@
+codeflaws/34-A-bug-12687505-12687520/34-A-12687520.c
+codeflaws/34-A-bug-12687505-12687520/34-A-12687505.c
+33,33
+[('Replace b\'    if( f > n ) f = f%n ;\\n\' with b\'    printf("%d %d", s, f%n) ;\\n\' at position 34', 33), ('Insert b\'    printf("%d %d", s, f) ;\\n\' at position 35 in file2', 34)]

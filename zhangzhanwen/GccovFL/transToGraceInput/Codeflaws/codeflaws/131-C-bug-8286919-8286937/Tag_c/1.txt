@@ -1,4 +1,0 @@
-codeflaws/131-C-bug-8286919-8286937/131-C-8286937.c
-codeflaws/131-C-bug-8286919-8286937/131-C-8286919.c
-44
-[("Replace b'\\tfor(;initb>=4 && initg<=m ;initb--,initg++)\\n' with b'\\tfor(;initb>=4;initb--,initg++)\\n' at position 45", 44)]

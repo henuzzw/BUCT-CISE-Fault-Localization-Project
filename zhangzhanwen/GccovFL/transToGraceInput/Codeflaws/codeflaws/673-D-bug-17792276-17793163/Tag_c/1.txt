@@ -1,4 +1,0 @@
-codeflaws/673-D-bug-17792276-17793163/673-D-17793163.c
-codeflaws/673-D-bug-17792276-17793163/673-D-17792276.c
-7
-[('Replace b\'    if(k<=n || n==4) puts("-1");\\n\' with b\'    if(k<=n) puts("-1");\\n\' at position 8', 7)]

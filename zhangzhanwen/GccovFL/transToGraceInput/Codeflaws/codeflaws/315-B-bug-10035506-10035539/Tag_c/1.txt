@@ -1,4 +1,0 @@
-codeflaws/315-B-bug-10035506-10035539/315-B-10035539.c
-codeflaws/315-B-bug-10035506-10035539/315-B-10035506.c
-16
-[("Replace b'\\t\\t\\ta[g]=h-val;\\n' with b'\\t\\t\\ta[g]=h;\\n' at position 17", 16)]

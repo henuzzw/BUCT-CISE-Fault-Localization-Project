@@ -1,0 +1,4 @@
+codeflaws/160-B-bug-9289385-9289391/160-B-9289391.c
+codeflaws/160-B-bug-9289385-9289391/160-B-9289385.c
+6
+[("Replace b'\\tchar a[210];\\n' with b'\\tchar a[105];\\n' at position 7", 6)]

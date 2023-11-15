@@ -1,4 +1,0 @@
-codeflaws/625-A-bug-16909275-16909326/625-A-16909326.c
-codeflaws/625-A-bug-16909275-16909326/625-A-16909275.c
-8
-[("Replace b'       if(a<=b-c||n<b)\\n' with b'       if(a<=b-c)\\n' at position 9", 8)]

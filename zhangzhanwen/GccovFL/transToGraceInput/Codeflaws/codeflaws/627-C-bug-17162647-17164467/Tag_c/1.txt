@@ -1,4 +1,0 @@
-codeflaws/627-C-bug-17162647-17164467/627-C-17164467.c
-codeflaws/627-C-bug-17162647-17164467/627-C-17162647.c
-3
-[("Replace b'void quick_sort(long long *a, long long *b, long long n) {\\n' with b'void quick_sort(int *a, int *b, int n) {\\n' at position 4", 3)]

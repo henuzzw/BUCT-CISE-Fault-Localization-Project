@@ -1,0 +1,4 @@
+codeflaws/549-G-bug-13787649-13787739/549-G-13787739.c
+codeflaws/549-G-bug-13787649-13787739/549-G-13787649.c
+29
+[("Replace b'\\t\\tif(c==1 || n==1)\\n' with b'\\t\\tif(c==1)\\n' at position 30", 29)]

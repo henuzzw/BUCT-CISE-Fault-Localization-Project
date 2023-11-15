@@ -1,4 +1,0 @@
-codeflaws/192-A-bug-18022160-18022194/192-A-18022194.c
-codeflaws/192-A-bug-18022160-18022194/192-A-18022160.c
-16,18
-[("Insert b'            marker=2;\\n' at position 18 in file2", 17), ("Replace b'            return 0;\\n' with b'            break;\\n' at position 20", 19)]

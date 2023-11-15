@@ -1,4 +1,0 @@
-codeflaws/432-A-bug-15776471-15776543/432-A-15776543.c
-codeflaws/432-A-bug-15776471-15776543/432-A-15776471.c
-25
-[('Replace b\'        printf ("%d",c/3);\\n\' with b\'        printf ("%d",s);\\n\' at position 26', 25)]

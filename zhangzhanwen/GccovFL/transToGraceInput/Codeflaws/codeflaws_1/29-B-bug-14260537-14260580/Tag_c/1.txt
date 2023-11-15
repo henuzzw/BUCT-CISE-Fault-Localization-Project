@@ -1,0 +1,4 @@
+codeflaws/29-B-bug-14260537-14260580/29-B-14260580.c
+codeflaws/29-B-bug-14260537-14260580/29-B-14260537.c
+7
+[('Replace b\'\\telse printf("%lf\\\\n",(d+r*v)/(v*(g+r))*(g+r)+(l-d)*1./v);\\n\' with b\'\\telse printf("%lf\\\\n",(d+r*v)/(v*(g+r))*(g+r)+(l-d)%((g+r)*v)*1./v);\\n\' at position 8', 7)]

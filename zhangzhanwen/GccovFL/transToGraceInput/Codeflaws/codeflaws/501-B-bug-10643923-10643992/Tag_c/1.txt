@@ -1,4 +1,0 @@
-codeflaws/501-B-bug-10643923-10643992/501-B-10643992.c
-codeflaws/501-B-bug-10643923-10643992/501-B-10643923.c
-24
-[("Replace b'          //      strcpy(neww[i],neww[j]);\\n' with b'                strcpy(neww[i],neww[j]);\\n' at position 25", 24)]

@@ -1,0 +1,4 @@
+codeflaws/39-D-bug-308264-308268/39-D-308268.c
+codeflaws/39-D-bug-308264-308268/39-D-308264.c
+12
+[("Replace b'    if(count>=1)\\n' with b'    if(count==2)\\n' at position 13", 12)]

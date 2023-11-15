@@ -1,4 +1,0 @@
-codeflaws/591-A-bug-16783198-16783222/591-A-16783222.c
-codeflaws/591-A-bug-16783198-16783222/591-A-16783198.c
-6
-[('Replace b\'    printf("%.4lf", X);\\n\' with b\'    printf("%.1lf", X);\\n\' at position 7', 6)]

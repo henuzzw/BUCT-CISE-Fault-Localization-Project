@@ -1,0 +1,4 @@
+codeflaws/38-A-bug-14999208-14999227/38-A-14999227.c
+codeflaws/38-A-bug-14999208-14999227/38-A-14999208.c
+13
+[("Replace b'    for(i=a;i<b;i++)\\n' with b'    for(i=a-1;i<b;i++)\\n' at position 14", 13)]

@@ -1,0 +1,4 @@
+codeflaws/586-A-bug-17218104-17218138/586-A-17218138.c
+codeflaws/586-A-bug-17218104-17218138/586-A-17218104.c
+10
+[("Replace b'\\t\\tif (v[n-1] == 1 && n-1 != 0)\\n' with b'\\t\\tif (v[n-1] == 1 && v[n-1] != v[0])\\n' at position 11", 10)]

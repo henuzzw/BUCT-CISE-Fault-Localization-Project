@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-10796701-10796753/336-A-10796753.c
+codeflaws/336-A-bug-10796701-10796753/336-A-10796701.c
+6
+[("Replace b'    if((x*y)>0) {\\n' with b'    if((x*y)>1) {\\n' at position 7", 6)]

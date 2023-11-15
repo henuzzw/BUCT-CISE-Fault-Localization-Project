@@ -1,0 +1,4 @@
+codeflaws/203-B-bug-1854178-1854446/203-B-1854446.c
+codeflaws/203-B-bug-1854178-1854446/203-B-1854178.c
+38,42
+[("Replace b'      int m, i, j;\\n' with b'      int m, i;\\n' at position 39", 38), ("Insert b'            x--, y--;\\n' at position 44 in file2", 43)]

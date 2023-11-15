@@ -1,4 +1,0 @@
-codeflaws/248-A-bug-13317382-13317394/248-A-13317394.c
-codeflaws/248-A-bug-13317382-13317394/248-A-13317382.c
-6
-[("Replace b'\\tint ara[100000][10];\\n' with b'\\tint ara[1000][1000];\\n' at position 7", 6)]

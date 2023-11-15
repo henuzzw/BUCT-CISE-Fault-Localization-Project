@@ -1,4 +1,0 @@
-codeflaws/598-B-bug-15587975-15587993/598-B-15587993.c
-codeflaws/598-B-bug-15587975-15587993/598-B-15587975.c
-9
-[("Replace b'        if (s[0] == s[m])\\n' with b'        if (s[0] = s[m])\\n' at position 10", 9)]

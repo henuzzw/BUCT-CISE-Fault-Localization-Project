@@ -1,0 +1,4 @@
+codeflaws/413-C-bug-6427798-6427987/413-C-6427987.c
+codeflaws/413-C-bug-6427798-6427987/413-C-6427798.c
+54
+[("Replace b'            if(res>b2[m-1])\\n' with b'            if(res>b2[i])\\n' at position 55", 54)]

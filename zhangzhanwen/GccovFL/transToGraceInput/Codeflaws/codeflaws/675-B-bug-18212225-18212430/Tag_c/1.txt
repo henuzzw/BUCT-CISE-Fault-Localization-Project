@@ -1,4 +1,0 @@
-codeflaws/675-B-bug-18212225-18212430/675-B-18212430.c
-codeflaws/675-B-bug-18212225-18212430/675-B-18212225.c
-0,13
-[("Insert b'typedef long long unsigned U;\\n' at position 2 in file2", 1), ('Replace b\'\\tprintf("%llu\\\\n",(n>w?n-w:0)*(U)n);\\n\' with b\'\\tprintf("%u\\\\n",(n-w)*n);\\n\' at position 15', 14)]

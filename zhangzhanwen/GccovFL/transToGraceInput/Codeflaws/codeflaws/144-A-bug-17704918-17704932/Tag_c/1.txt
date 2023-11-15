@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-17704918-17704932/144-A-17704932.c
-codeflaws/144-A-bug-17704918-17704932/144-A-17704918.c
-11
-[("Replace b'\\t\\tif(ara[l]>max)\\n' with b'\\t\\tif(ara[l]>=max)\\n' at position 12", 11)]

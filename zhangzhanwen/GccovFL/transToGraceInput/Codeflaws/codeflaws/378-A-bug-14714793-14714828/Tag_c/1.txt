@@ -1,4 +1,0 @@
-codeflaws/378-A-bug-14714793-14714828/378-A-14714828.c
-codeflaws/378-A-bug-14714793-14714828/378-A-14714793.c
-4
-[("Replace b'    int a,b,f=0,d=0,s=0,i,t1,t2;\\n' with b'    int a,b,f,d,s,i,t1,t2;\\n' at position 5", 4)]

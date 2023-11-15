@@ -1,0 +1,4 @@
+codeflaws/630-B-bug-16602790-16603236/630-B-16603236.c
+codeflaws/630-B-bug-16602790-16603236/630-B-16602790.c
+5
+[('Replace b\'\\tprintf("%.30lf\\\\n", (double)n * pow(1.000000011, t));\\n\' with b\'\\tprintf("%.20lf\\\\n", (double)n + n * t * 0.000000011);\\n\' at position 6', 5)]

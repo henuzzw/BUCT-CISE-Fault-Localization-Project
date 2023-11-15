@@ -1,4 +1,0 @@
-codeflaws/216-A-bug-9345653-9345865/216-A-9345865.c
-codeflaws/216-A-bug-9345653-9345865/216-A-9345653.c
-5
-[('Replace b\'\\tprintf("%d",1+a*b+b*c+c*a-a-b-c);\\n\' with b\'\\tprintf("%d",2*(a+b+c));\\n\' at position 6', 5)]

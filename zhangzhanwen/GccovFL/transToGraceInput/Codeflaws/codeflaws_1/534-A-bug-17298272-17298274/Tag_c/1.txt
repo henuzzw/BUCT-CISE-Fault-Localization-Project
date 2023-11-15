@@ -1,0 +1,4 @@
+codeflaws/534-A-bug-17298272-17298274/534-A-17298274.c
+codeflaws/534-A-bug-17298272-17298274/534-A-17298272.c
+25
+[('Replace b\'\\t\\tprintf("%d\\\\n",n);\\n\' with b\'\\t\\tprintf("%d",n);\\n\' at position 26', 25)]

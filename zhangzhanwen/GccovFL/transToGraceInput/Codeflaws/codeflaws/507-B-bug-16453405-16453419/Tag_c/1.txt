@@ -1,4 +1,0 @@
-codeflaws/507-B-bug-16453405-16453419/507-B-16453419.c
-codeflaws/507-B-bug-16453405-16453419/507-B-16453405.c
-14
-[('Delete b\'\\tprintf("%f \\\\n",s);\\n\' at position 14 in file2', 13)]

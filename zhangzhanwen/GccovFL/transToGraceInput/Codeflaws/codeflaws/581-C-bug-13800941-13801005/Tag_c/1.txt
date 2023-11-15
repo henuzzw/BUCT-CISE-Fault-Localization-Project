@@ -1,4 +1,0 @@
-codeflaws/581-C-bug-13800941-13801005/581-C-13801005.c
-codeflaws/581-C-bug-13800941-13801005/581-C-13800941.c
-27
-[("Replace b'        rating_skills2[i] = 10 - temp/10;\\n' with b'        rating_skills2[i] == 10 - temp/10;\\n' at position 28", 27)]

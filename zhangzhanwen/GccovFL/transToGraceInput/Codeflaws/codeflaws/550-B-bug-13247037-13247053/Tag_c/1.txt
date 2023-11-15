@@ -1,4 +1,0 @@
-codeflaws/550-B-bug-13247037-13247053/550-B-13247053.c
-codeflaws/550-B-bug-13247037-13247053/550-B-13247037.c
-22
-[("Replace b'\\t\\tint max=0,min=1000000;\\n' with b'\\t\\tint max=0,min=100000;\\n' at position 23", 22)]

@@ -1,0 +1,4 @@
+codeflaws/670-E-bug-18043530-18043600/670-E-18043600.c
+codeflaws/670-E-bug-18043530-18043600/670-E-18043530.c
+55
+[("Replace b'\\t\\t\\t\\tlidx = pre[sidx];\\n' with b'\\t\\t\\t\\tlidx -= eidx - sidx + 1;\\n' at position 56", 55)]

@@ -1,4 +1,0 @@
-codeflaws/227-A-bug-3749121-3749149/227-A-3749149.c
-codeflaws/227-A-bug-3749121-3749149/227-A-3749121.c
-9
-[("Replace b'  cp = (long long) dy[1]*dx[0] - (long long) dy[0]*dx[1];\\n' with b'  cp = dy[1]*dx[0] - dy[0]*dx[1];\\n' at position 10", 9)]

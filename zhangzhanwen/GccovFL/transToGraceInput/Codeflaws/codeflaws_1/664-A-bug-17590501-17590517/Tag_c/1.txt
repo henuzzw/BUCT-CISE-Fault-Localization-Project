@@ -1,0 +1,4 @@
+codeflaws/664-A-bug-17590501-17590517/664-A-17590517.c
+codeflaws/664-A-bug-17590501-17590517/664-A-17590501.c
+9
+[('Replace b"\\t\\tif(k!=\' \')\\n" with b"\\t\\tif(k!=\'\\\\n\')\\n" at position 10', 9)]

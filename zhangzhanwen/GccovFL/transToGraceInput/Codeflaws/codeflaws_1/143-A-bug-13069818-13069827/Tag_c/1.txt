@@ -1,0 +1,4 @@
+codeflaws/143-A-bug-13069818-13069827/143-A-13069827.c
+codeflaws/143-A-bug-13069818-13069827/143-A-13069818.c
+22
+[("Replace b'          exit(0);\\n' with b'          //exit(0);\\n' at position 23", 22)]

@@ -1,4 +1,0 @@
-codeflaws/143-A-bug-13549235-13549295/143-A-13549295.c
-codeflaws/143-A-bug-13549235-13549295/143-A-13549235.c
-11
-[("Replace b'            if(x[n]==x[i]||x[i]>9 ||x[i]<1 ||(n==1 &&(x[n]<1 || x[n]>9))) {\\n' with b'            if(x[n]==x[i]||x[i]>9 ||x[i]<1) {\\n' at position 12", 11)]

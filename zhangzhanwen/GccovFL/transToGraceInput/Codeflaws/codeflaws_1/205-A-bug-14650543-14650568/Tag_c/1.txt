@@ -1,0 +1,4 @@
+codeflaws/205-A-bug-14650543-14650568/205-A-14650568.c
+codeflaws/205-A-bug-14650543-14650568/205-A-14650543.c
+30
+[('Replace b\'\\t\\tprintf("Still Rozdil\\\\n");\\n\' with b\'\\t\\tprintf("Still Rodzil\\\\n");\\n\' at position 31', 30)]

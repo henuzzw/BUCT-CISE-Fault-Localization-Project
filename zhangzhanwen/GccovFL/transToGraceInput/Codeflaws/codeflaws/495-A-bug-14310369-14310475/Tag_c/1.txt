@@ -1,4 +1,0 @@
-codeflaws/495-A-bug-14310369-14310475/495-A-14310475.c
-codeflaws/495-A-bug-14310369-14310475/495-A-14310369.c
-6
-[("Replace b'    int adding_stck[10] ={2,7,2,3,3,4,2,5,1,2};\\n' with b'    int adding_stck[10] ={2,7,3,3,3,4,3,5,1,2};\\n' at position 7", 6)]

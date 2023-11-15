@@ -1,4 +1,0 @@
-codeflaws/450-B-bug-15950152-15950193/450-B-15950193.c
-codeflaws/450-B-bug-15950152-15950193/450-B-15950152.c
-12
-[("Insert b'\\tf[0]=x-y;\\n' at position 14 in file2", 13)]

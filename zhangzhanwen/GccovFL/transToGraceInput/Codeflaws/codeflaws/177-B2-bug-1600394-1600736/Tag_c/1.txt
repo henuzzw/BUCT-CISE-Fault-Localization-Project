@@ -1,4 +1,0 @@
-codeflaws/177-B2-bug-1600394-1600736/177-B2-1600736.c
-codeflaws/177-B2-bug-1600394-1600736/177-B2-1600394.c
-21,28
-[("Replace b'    for(i=0;n>1&&i<sign;)\\n' with b'    for(i=0;n>1;)\\n' at position 22", 21), ("Insert b'    if(n>35000) sum+=1;\\n' at position 30 in file2", 29)]

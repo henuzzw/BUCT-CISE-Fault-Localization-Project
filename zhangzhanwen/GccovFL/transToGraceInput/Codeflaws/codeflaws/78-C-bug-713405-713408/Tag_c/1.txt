@@ -1,4 +1,0 @@
-codeflaws/78-C-bug-713405-713408/78-C-713408.c
-codeflaws/78-C-bug-713405-713408/78-C-713405.c
-17
-[("Replace b'\\t  if (i * i <= m || (k == 1 && m > 1)) {\\n' with b'\\t  if (i * i <= m || k == 1) {\\n' at position 18", 17)]

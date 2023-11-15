@@ -1,4 +1,0 @@
-codeflaws/84-D-bug-450254-450299/84-D-450299.c
-codeflaws/84-D-bug-450254-450299/84-D-450254.c
-17
-[("Replace b'\\t\\tif (k<=(long long)(n-i)*(b[i]-j)) break;\\n' with b'\\t\\tif (k<(long long)(n-i)*(b[i]-j)) break;\\n' at position 18", 17)]

@@ -1,4 +1,0 @@
-codeflaws/572-B-bug-12669194-12669278/572-B-12669278.c
-codeflaws/572-B-bug-12669194-12669278/572-B-12669194.c
-25,27,31
-[("Insert b'            save=i;\\n' at position 27 in file2", 26), ("Delete b'                save=i;\\n' at position 28 in file2", 27), ("Delete b'                save=i;\\n' at position 31 in file2", 30)]

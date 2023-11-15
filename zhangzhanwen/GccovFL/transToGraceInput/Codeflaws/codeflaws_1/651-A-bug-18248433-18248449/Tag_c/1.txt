@@ -1,0 +1,4 @@
+codeflaws/651-A-bug-18248433-18248449/651-A-18248449.c
+codeflaws/651-A-bug-18248433-18248449/651-A-18248433.c
+4
+[('Replace b\'\\tif(a==1&&b==1) {printf("0");return 0;}\\n\' with b\'\\tif(a<3&&b<3) {printf("0");return 0;}\\n\' at position 5', 4)]

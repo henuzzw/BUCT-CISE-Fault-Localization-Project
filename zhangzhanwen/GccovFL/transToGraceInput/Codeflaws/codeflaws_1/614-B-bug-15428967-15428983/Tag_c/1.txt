@@ -1,0 +1,4 @@
+codeflaws/614-B-bug-15428967-15428983/614-B-15428983.c
+codeflaws/614-B-bug-15428967-15428983/614-B-15428967.c
+19
+[('Replace b\'\\n\' with b\'                printf("%s",s);\\n\' at position 20', 19)]

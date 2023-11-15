@@ -1,4 +1,0 @@
-codeflaws/278-A-bug-13311097-13311271/278-A-13311271.c
-codeflaws/278-A-bug-13311097-13311271/278-A-13311097.c
-39
-[("Replace b'            c=c+a[i];\\n' with b'            c=c+1;\\n' at position 40", 39)]

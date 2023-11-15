@@ -1,0 +1,4 @@
+codeflaws/368-E-bug-5598401-5598416/368-E-5598416.c
+codeflaws/368-E-bug-5598401-5598416/368-E-5598401.c
+2
+[("Replace b'#define IsAscending(A,B) (A>=B) \\n' with b'#define IsAscending(A,B) (A<=B) \\n' at position 3", 2)]

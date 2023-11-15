@@ -1,0 +1,4 @@
+codeflaws/509-A-bug-17530294-17530298/509-A-17530298.c
+codeflaws/509-A-bug-17530294-17530298/509-A-17530294.c
+14
+[('Replace b\'        case 8 : printf("3432\\\\n"); break;\\n\' with b\'        case 8 : printf("3232\\\\n"); break;\\n\' at position 15', 14)]

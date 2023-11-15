@@ -1,4 +1,0 @@
-codeflaws/119-B-bug-788276-788281/119-B-788281.c
-codeflaws/119-B-bug-788276-788281/119-B-788276.c
-74
-[("Replace b'    if( n - q*n_div_k >= n_div_k  && q < k ){\\n' with b'    if( n - q*n_div_k >= n_div_k ){\\n' at position 75", 74)]

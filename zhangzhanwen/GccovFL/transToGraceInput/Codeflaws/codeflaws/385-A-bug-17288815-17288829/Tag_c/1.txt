@@ -1,4 +1,0 @@
-codeflaws/385-A-bug-17288815-17288829/385-A-17288829.c
-codeflaws/385-A-bug-17288815-17288829/385-A-17288815.c
-36
-[("Replace b'\\t\\tFOR(i,1,x-1){\\n' with b'\\t\\tFOR(i,1,x){\\n' at position 37", 36)]

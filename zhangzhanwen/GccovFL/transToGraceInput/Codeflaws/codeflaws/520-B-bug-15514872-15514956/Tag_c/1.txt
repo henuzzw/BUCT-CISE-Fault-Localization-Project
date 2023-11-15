@@ -1,4 +1,0 @@
-codeflaws/520-B-bug-15514872-15514956/520-B-15514956.c
-codeflaws/520-B-bug-15514872-15514956/520-B-15514872.c
-11,23
-[("Replace b'        while(n<m)\\n' with b'        while(n!=m)\\n' at position 12", 11), ("Insert b'        count=count+abs(n-m);\\n' at position 25 in file2", 24)]

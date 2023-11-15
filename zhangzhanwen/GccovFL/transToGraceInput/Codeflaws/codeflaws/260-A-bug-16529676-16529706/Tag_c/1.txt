@@ -1,4 +1,0 @@
-codeflaws/260-A-bug-16529676-16529706/260-A-16529706.c
-codeflaws/260-A-bug-16529676-16529706/260-A-16529676.c
-8
-[("Replace b'\\tfor(j = 0 ; j <= 9 ; j++, a++){\\n' with b'\\tfor(j = 0 ; j < 9 ; j++, a++){\\n' at position 9", 8)]

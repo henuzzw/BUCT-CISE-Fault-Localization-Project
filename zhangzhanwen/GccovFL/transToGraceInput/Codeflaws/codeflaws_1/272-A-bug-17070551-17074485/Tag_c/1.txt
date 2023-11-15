@@ -1,0 +1,4 @@
+codeflaws/272-A-bug-17070551-17074485/272-A-17074485.c
+codeflaws/272-A-bug-17070551-17074485/272-A-17070551.c
+14
+[("Replace b'        if(sum+i==(n+1)*j+1)\\n' with b'        if(sum+i==n*j+1)\\n' at position 15", 14)]

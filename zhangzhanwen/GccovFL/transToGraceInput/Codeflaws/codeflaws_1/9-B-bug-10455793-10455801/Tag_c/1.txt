@@ -1,0 +1,4 @@
+codeflaws/9-B-bug-10455793-10455801/9-B-10455801.c
+codeflaws/9-B-bug-10455793-10455801/9-B-10455793.c
+10
+[("Replace b'    for(j=n;j>=2;j--)\\n' with b'    for(j=2;j<=n;j++)\\n' at position 11", 10)]

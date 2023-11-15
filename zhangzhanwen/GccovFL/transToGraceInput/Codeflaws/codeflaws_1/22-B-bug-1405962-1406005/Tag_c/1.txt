@@ -1,0 +1,4 @@
+codeflaws/22-B-bug-1405962-1406005/22-B-1406005.c
+codeflaws/22-B-bug-1405962-1406005/22-B-1405962.c
+134
+[("Insert b'        if(ll==56)ll=58;\\n' at position 136 in file2", 135)]

@@ -1,4 +1,0 @@
-codeflaws/667-B-bug-17710678-17711632/667-B-17711632.c
-codeflaws/667-B-bug-17710678-17711632/667-B-17710678.c
-16
-[("Replace b'\\tfor(i=0;;i++)\\n' with b'\\tfor(i=1;i++;)\\n' at position 17", 16)]

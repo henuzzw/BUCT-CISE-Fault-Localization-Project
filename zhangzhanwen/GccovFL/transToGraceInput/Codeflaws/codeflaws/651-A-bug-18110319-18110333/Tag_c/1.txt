@@ -1,4 +1,0 @@
-codeflaws/651-A-bug-18110319-18110333/651-A-18110333.c
-codeflaws/651-A-bug-18110319-18110333/651-A-18110319.c
-5
-[('Insert b\'    else if((a1==a2)&&(a1==1))printf("%d\\\\n",a1+a2-2);\\n\' at position 7 in file2', 6)]

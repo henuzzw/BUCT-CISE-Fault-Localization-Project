@@ -1,4 +1,0 @@
-codeflaws/515-B-bug-10574311-10618813/515-B-10618813.c
-codeflaws/515-B-bug-10574311-10618813/515-B-10574311.c
-21
-[("Replace b'    for(i=0;i<m*n*(m+n);i++){\\n' with b'    for(i=0;i<m*n;i++){\\n' at position 22", 21)]

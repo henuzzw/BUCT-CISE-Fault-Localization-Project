@@ -1,0 +1,4 @@
+codeflaws/501-B-bug-9769928-9770120/501-B-9770120.c
+codeflaws/501-B-bug-9769928-9770120/501-B-9769928.c
+5
+[("Replace b'    char old[1000][21],neww[1000][21];\\n' with b'    char old[1000][20],neww[1000][20];\\n' at position 6", 5)]

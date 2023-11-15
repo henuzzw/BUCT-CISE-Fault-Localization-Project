@@ -1,4 +1,0 @@
-codeflaws/168-B-bug-1432595-1432612/168-B-1432612.c
-codeflaws/168-B-bug-1432595-1432612/168-B-1432595.c
-5
-[('Delete b\'    freopen("in.txt","r",stdin);\\n\' at position 5 in file2', 4)]

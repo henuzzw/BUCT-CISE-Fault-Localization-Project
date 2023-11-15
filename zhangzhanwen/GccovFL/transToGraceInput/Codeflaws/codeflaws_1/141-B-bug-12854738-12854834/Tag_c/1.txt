@@ -1,0 +1,4 @@
+codeflaws/141-B-bug-12854738-12854834/141-B-12854834.c
+codeflaws/141-B-bug-12854738-12854834/141-B-12854738.c
+33
+[("Replace b'                    if(xc>x)\\n' with b'                    if(x2!=x)\\n' at position 34", 33)]

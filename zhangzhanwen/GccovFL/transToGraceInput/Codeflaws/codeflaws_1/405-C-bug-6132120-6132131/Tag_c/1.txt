@@ -1,0 +1,4 @@
+codeflaws/405-C-bug-6132120-6132131/405-C-6132131.c
+codeflaws/405-C-bug-6132120-6132131/405-C-6132120.c
+17
+[('Replace b\'       //printf("%d\\\\n",res);\\n\' with b\'       printf("%d\\\\n",res);\\n\' at position 18', 17)]

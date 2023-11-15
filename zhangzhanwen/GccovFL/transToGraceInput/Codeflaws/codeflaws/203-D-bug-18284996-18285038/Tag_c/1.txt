@@ -1,4 +1,0 @@
-codeflaws/203-D-bug-18284996-18285038/203-D-18285038.c
-codeflaws/203-D-bug-18284996-18285038/203-D-18284996.c
-19
-[('Replace b\'    printf("%.9f",vz>=0?d:b-d);\\n\' with b\'    printf("%.9f",vz>0?d:b-d);\\n\' at position 20', 19)]

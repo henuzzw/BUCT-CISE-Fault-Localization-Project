@@ -1,4 +1,0 @@
-codeflaws/520-C-bug-10109473-10109746/520-C-10109746.c
-codeflaws/520-C-bug-10109473-10109746/520-C-10109473.c
-8
-[('Replace b\'\\tfor(scanf("%u",&n);++i<n;++O[c^64])\\n\' with b\'\\tfor(scanf("%u",&n);++i<n;O[c^64]=1)\\n\' at position 9', 8)]

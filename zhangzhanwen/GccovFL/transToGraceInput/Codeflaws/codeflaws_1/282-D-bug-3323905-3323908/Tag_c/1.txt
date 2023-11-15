@@ -1,0 +1,4 @@
+codeflaws/282-D-bug-3323905-3323908/282-D-3323908.c
+codeflaws/282-D-bug-3323905-3323908/282-D-3323905.c
+48
+[("Replace b'\\t\\t\\tif(a==0)\\n' with b'\\t\\t\\tif(n==0)\\n' at position 49", 48)]

@@ -1,4 +1,0 @@
-codeflaws/586-C-bug-13615252-13615263/586-C-13615263.c
-codeflaws/586-C-bug-13615252-13615263/586-C-13615252.c
-5
-[('Replace b\'    scanf("%lld",&n);\\n\' with b\'    scanf("%d",&n);\\n\' at position 6', 5)]

@@ -1,4 +1,0 @@
-codeflaws/24-A-bug-3414599-3414606/24-A-3414606.c
-codeflaws/24-A-bug-3414599-3414606/24-A-3414599.c
-12,17
-[("Replace b'\\n' with b'anticlockwise+=cost[0];\\n' at position 13", 12), ("Insert b'anticlockwise+=cost[0];\\n' at position 19 in file2", 18)]

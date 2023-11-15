@@ -1,4 +1,0 @@
-codeflaws/155-A-bug-17531616-17531623/155-A-17531623.c
-codeflaws/155-A-bug-17531616-17531623/155-A-17531616.c
-9
-[("Replace b'        if (min == -1){\\n' with b'        if (min = -1){\\n' at position 10", 9)]

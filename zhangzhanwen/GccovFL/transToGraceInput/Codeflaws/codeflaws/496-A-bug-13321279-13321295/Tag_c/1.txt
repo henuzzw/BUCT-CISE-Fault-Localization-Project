@@ -1,4 +1,0 @@
-codeflaws/496-A-bug-13321279-13321295/496-A-13321295.c
-codeflaws/496-A-bug-13321279-13321295/496-A-13321279.c
-22
-[("Insert b'        max=0;\\n' at position 24 in file2", 23)]

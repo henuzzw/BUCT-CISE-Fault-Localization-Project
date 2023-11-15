@@ -1,0 +1,4 @@
+codeflaws/171-B-bug-1463121-1463124/171-B-1463124.c
+codeflaws/171-B-bug-1463121-1463124/171-B-1463121.c
+4
+[('Replace b\'\\tprintf("%d\\\\n",(6 * n * (n-1) + 1));\\n\' with b\'\\tprintf("%d\\\\n",(12 * n * (n-1) + 2)/2);\\n\' at position 5', 4)]

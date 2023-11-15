@@ -1,0 +1,4 @@
+codeflaws/312-C-bug-3779764-3779912/312-C-3779912.c
+codeflaws/312-C-bug-3779764-3779912/312-C-3779764.c
+7
+[("Replace b'\\tif(k >= n*(n-1)/2)\\n' with b'\\tif(k > n*(n-1)/2)\\n' at position 8", 7)]

@@ -1,4 +1,0 @@
-codeflaws/488-A-bug-17920837-17920847/488-A-17920847.c
-codeflaws/488-A-bug-17920837-17920847/488-A-17920837.c
-6
-[("Replace b'    while(count<=100)\\n' with b'    while(count<=10)\\n' at position 7", 6)]

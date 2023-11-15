@@ -1,0 +1,4 @@
+codeflaws/361-B-bug-5055774-5055807/361-B-5055807.c
+codeflaws/361-B-bug-5055774-5055807/361-B-5055774.c
+28
+[('Replace b\'printf("%d ",A[p]);\\n\' with b\'printf("%d",A[p]);\\n\' at position 29', 28)]

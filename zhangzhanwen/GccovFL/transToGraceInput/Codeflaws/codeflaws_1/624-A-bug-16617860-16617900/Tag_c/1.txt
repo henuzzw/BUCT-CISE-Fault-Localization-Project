@@ -1,0 +1,4 @@
+codeflaws/624-A-bug-16617860-16617900/624-A-16617900.c
+codeflaws/624-A-bug-16617860-16617900/624-A-16617860.c
+8
+[("Replace b'    t=1.0*(L-d)/(v1+v2);\\n' with b'    t=(L-d)/(v1+v2);\\n' at position 9", 8)]

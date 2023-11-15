@@ -1,0 +1,4 @@
+codeflaws/127-B-bug-7497533-7497549/127-B-7497549.c
+codeflaws/127-B-bug-7497533-7497549/127-B-7497533.c
+6,8,13
+[("Insert b'\\tfor (b = 1; b <= 100; ZA[b++] = 0);\\n' at position 8 in file2", 7), ("Delete b'\\tfor (b = 1; b <= 100; ZA[b++] = 0);\\n' at position 9 in file2", 8), ("Insert b'\\td = 0;\\n' at position 15 in file2", 14)]

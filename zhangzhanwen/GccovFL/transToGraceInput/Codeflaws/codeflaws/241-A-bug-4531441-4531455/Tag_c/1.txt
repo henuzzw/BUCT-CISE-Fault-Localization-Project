@@ -1,4 +1,0 @@
-codeflaws/241-A-bug-4531441-4531455/241-A-4531455.c
-codeflaws/241-A-bug-4531441-4531455/241-A-4531441.c
-17
-[("Replace b'      f += bb[i]; res += k;\\n' with b'      f += s[i]; res += k;\\n' at position 18", 17)]

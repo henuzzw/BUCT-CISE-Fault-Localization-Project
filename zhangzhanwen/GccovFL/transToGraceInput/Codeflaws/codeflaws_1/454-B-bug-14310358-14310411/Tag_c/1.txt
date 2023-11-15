@@ -1,0 +1,4 @@
+codeflaws/454-B-bug-14310358-14310411/454-B-14310411.c
+codeflaws/454-B-bug-14310358-14310411/454-B-14310358.c
+44
+[("Insert b'\\t\\t\\t\\t\\tbreak;\\n' at position 46 in file2", 45)]

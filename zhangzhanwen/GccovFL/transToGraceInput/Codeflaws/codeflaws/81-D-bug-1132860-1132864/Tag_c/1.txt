@@ -1,4 +1,0 @@
-codeflaws/81-D-bug-1132860-1132864/81-D-1132864.c
-codeflaws/81-D-bug-1132860-1132864/81-D-1132860.c
-22,22
-[("Replace b'\\t\\t\\tif (a[p[j]] > 0 && (mi == -1 || a[p[j]] > a[mi]) && (i == 0 || p[j] != s[i-1])\\n' with b'\\t\\t\\tif (a[p[j]] > 0 && (mi == -1 || a[p[j]] > a[mi]) && (i == 0 || p[j] != s[i-1]))\\n' at position 23", 22), ("Insert b'\\t\\t\\t\\t\\t&& (i != n-1 || p[j] != s[0]))\\n' at position 24 in file2", 23)]

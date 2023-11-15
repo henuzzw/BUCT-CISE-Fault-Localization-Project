@@ -1,4 +1,0 @@
-codeflaws/361-A-bug-16614061-16614100/361-A-16614100.c
-codeflaws/361-A-bug-16614061-16614100/361-A-16614061.c
-9
-[('Replace b\'\\t    {if(i==j)printf("%d ",k); else printf("0 ");}\\n\' with b\'\\t    if(i==j)printf("%d ",k);\\n\' at position 10', 9)]

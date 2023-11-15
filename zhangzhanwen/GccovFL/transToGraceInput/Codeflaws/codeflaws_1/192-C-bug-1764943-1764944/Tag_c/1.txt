@@ -1,0 +1,4 @@
+codeflaws/192-C-bug-1764943-1764944/192-C-1764944.c
+codeflaws/192-C-bug-1764943-1764944/192-C-1764943.c
+40
+[('Replace b"    a = str[0]-\'a\'; \\n" with b"    a = str[1]-\'a\'; \\n" at position 41', 40)]

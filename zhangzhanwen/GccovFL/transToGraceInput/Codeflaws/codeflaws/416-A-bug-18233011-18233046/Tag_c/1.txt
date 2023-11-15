@@ -1,4 +1,0 @@
-codeflaws/416-A-bug-18233011-18233046/416-A-18233046.c
-codeflaws/416-A-bug-18233011-18233046/416-A-18233011.c
-6
-[("Replace b'\\tlong long int p,s,q,r,n,x[10001],min=-1900000000,max=INT_MAX,i;\\n' with b'\\tlong long int p,s,q,r,n,x[10001],min=INT_MIN,max=INT_MAX,i;\\n' at position 7", 6)]

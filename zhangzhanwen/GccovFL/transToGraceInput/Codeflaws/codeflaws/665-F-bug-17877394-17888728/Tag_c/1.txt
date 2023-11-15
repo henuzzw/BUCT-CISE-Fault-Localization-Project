@@ -1,4 +1,0 @@
-codeflaws/665-F-bug-17877394-17888728/665-F-17888728.c
-codeflaws/665-F-bug-17877394-17888728/665-F-17877394.c
-155
-[("Replace b'\\t\\t\\t\\ty[j] = max(bl/p[j]*p[j] + p[j], 1ll * p[j] * p[j]) - bl;\\n' with b'\\t\\t\\t\\ty[j] = max(bl + bl/p[j]*p[j] + p[j], 1ll * p[j] * p[j]) - bl;\\n' at position 156", 155)]

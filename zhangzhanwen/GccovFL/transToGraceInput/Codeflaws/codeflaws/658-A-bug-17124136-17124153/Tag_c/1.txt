@@ -1,4 +1,0 @@
-codeflaws/658-A-bug-17124136-17124153/658-A-17124153.c
-codeflaws/658-A-bug-17124136-17124153/658-A-17124136.c
-8
-[("Replace b'\\tif(n==1){\\n' with b'\\tif(c==13){\\n' at position 9", 8)]

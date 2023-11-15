@@ -1,0 +1,4 @@
+codeflaws/630-P-bug-16260791-16260820/630-P-16260820.c
+codeflaws/630-P-bug-16260791-16260820/630-P-16260791.c
+33
+[('Replace b\'    printf("%.16f\\\\n", s);\\n\' with b\'    printf("%f\\\\n", s);\\n\' at position 34', 33)]

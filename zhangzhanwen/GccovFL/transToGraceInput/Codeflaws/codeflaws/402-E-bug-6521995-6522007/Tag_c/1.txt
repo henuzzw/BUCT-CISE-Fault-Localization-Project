@@ -1,4 +1,0 @@
-codeflaws/402-E-bug-6521995-6522007/402-E-6522007.c
-codeflaws/402-E-bug-6521995-6522007/402-E-6521995.c
-26
-[("Replace b'\\t\\tif(arr[i][num] && !vis[i]){\\n' with b'\\t\\tif(arr[num][i] && !vis[i]){\\n' at position 27", 26)]

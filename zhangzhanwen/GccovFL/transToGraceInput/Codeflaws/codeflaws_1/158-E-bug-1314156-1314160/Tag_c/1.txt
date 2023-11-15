@@ -1,0 +1,4 @@
+codeflaws/158-E-bug-1314156-1314160/158-E-1314160.c
+codeflaws/158-E-bug-1314156-1314160/158-E-1314156.c
+17
+[("Replace b'\\tans = max( ans, 86400 - dp[k] );\\n' with b'\\tans = min( ans, 86401 - dp[k] );\\n' at position 18", 17)]

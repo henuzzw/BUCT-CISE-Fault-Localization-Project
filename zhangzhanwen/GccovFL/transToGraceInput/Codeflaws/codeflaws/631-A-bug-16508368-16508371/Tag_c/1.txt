@@ -1,4 +1,0 @@
-codeflaws/631-A-bug-16508368-16508371/631-A-16508371.c
-codeflaws/631-A-bug-16508368-16508371/631-A-16508368.c
-5
-[('Delete b\'    printf("%d %d\\\\n", l, r);\\n\' at position 5 in file2', 4)]

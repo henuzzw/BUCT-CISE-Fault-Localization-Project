@@ -1,4 +1,0 @@
-codeflaws/546-A-bug-18027083-18027120/546-A-18027120.c
-codeflaws/546-A-bug-18027083-18027120/546-A-18027083.c
-7,8,8
-[("Insert b'    if(p>n)\\n' at position 9 in file2", 8), ("Insert b'    else\\n' at position 11 in file2", 10), ("Insert b'    d=0;\\n' at position 12 in file2", 11)]

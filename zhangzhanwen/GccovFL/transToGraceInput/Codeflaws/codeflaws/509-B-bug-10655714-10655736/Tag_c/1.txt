@@ -1,4 +1,0 @@
-codeflaws/509-B-bug-10655714-10655736/509-B-10655736.c
-codeflaws/509-B-bug-10655714-10655736/509-B-10655714.c
-31
-[("Replace b'\\t\\t\\tt=1;\\n' with b'\\t\\t\\tt=2;\\n' at position 32", 31)]

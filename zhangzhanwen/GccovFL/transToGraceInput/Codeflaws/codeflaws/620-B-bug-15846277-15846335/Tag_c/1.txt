@@ -1,4 +1,0 @@
-codeflaws/620-B-bug-15846277-15846335/620-B-15846335.c
-codeflaws/620-B-bug-15846277-15846335/620-B-15846277.c
-14
-[('Delete b\'\\t\\t\\tprintf("%d ",sum);\\n\' at position 14 in file2', 13)]

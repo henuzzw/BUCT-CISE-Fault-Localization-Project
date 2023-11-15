@@ -1,0 +1,4 @@
+codeflaws/16-B-bug-2236916-2236935/16-B-2236935.c
+codeflaws/16-B-bug-2236916-2236935/16-B-2236916.c
+1,56
+[("Replace b'  void merge(long int a[],long int b[],long int p,long int q,long int r)\\n' with b'void merge(long int a[],long int b[],long int p,long int q,long int r)\\n' at position 2", 1), ("Insert b'  if(r>=n)\\n' at position 58 in file2", 57)]

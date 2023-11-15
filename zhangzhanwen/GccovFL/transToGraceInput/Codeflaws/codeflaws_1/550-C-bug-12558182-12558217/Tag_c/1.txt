@@ -1,0 +1,4 @@
+codeflaws/550-C-bug-12558182-12558217/550-C-12558217.c
+codeflaws/550-C-bug-12558182-12558217/550-C-12558182.c
+33
+[('Replace b\'                            printf("%d", a[r] ) ;\\n\' with b\'                            printf("%d", a[i] ) ;\\n\' at position 34', 33)]

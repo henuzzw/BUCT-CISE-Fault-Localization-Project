@@ -1,4 +1,0 @@
-codeflaws/6-A-bug-15083956-15083976/6-A-15083976.c
-codeflaws/6-A-bug-15083956-15083976/6-A-15083956.c
-2,46
-[("Replace b'  if(a+b>c && a+c>b && b+c>a) return 1;\\n' with b'  if(a+b>c||a+c>b || b+c>a) return 1;\\n' at position 3", 2), ("Replace b'}' with b'}\\n' at position 47", 46)]

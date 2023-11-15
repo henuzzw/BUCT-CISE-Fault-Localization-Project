@@ -1,0 +1,4 @@
+codeflaws/80-B-bug-5698054-5698061/80-B-5698061.c
+codeflaws/80-B-bug-5698054-5698061/80-B-5698054.c
+16
+[('Replace b\'    scanf("%d:%d", &hh, &mm);\\n\' with b\'    scanf("%d %d", &hh, &mm);\\n\' at position 17', 16)]

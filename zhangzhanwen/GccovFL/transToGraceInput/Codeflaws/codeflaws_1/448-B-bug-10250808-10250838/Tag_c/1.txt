@@ -1,0 +1,4 @@
+codeflaws/448-B-bug-10250808-10250838/448-B-10250838.c
+codeflaws/448-B-bug-10250808-10250838/448-B-10250808.c
+33
+[("Replace b'            k=1;\\n' with b'            k++;\\n' at position 34", 33)]

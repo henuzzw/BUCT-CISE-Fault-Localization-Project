@@ -1,0 +1,4 @@
+codeflaws/156-D-bug-1253646-1253650/156-D-1253650.c
+codeflaws/156-D-bug-1253646-1253650/156-D-1253646.c
+62,62
+[("Insert b'    if (k == 1)\\n' at position 64 in file2", 63), ("Insert b'      ans = 1 % q;\\n' at position 65 in file2", 64)]

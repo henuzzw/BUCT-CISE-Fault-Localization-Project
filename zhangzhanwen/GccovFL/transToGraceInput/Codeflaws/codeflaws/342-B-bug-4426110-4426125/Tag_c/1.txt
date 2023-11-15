@@ -1,4 +1,0 @@
-codeflaws/342-B-bug-4426110-4426125/342-B-4426125.c
-codeflaws/342-B-bug-4426110-4426125/342-B-4426110.c
-63,66
-[("Insert b'\\t\\t\\tnow+=1;\\n' at position 65 in file2", 64), ("Insert b'\\t\\t\\tnow-=1;\\n' at position 69 in file2", 68)]

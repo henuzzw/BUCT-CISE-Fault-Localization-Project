@@ -1,0 +1,4 @@
+codeflaws/272-A-bug-9140479-9140575/272-A-9140575.c
+codeflaws/272-A-bug-9140479-9140575/272-A-9140479.c
+6
+[("Replace b'    i= n;\\n' with b'    i = n+1;\\n' at position 7", 6)]

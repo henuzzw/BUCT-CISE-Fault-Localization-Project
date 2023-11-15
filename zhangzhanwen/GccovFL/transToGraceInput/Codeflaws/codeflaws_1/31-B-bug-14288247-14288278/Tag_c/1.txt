@@ -1,0 +1,4 @@
+codeflaws/31-B-bug-14288247-14288278/31-B-14288278.c
+codeflaws/31-B-bug-14288247-14288278/31-B-14288247.c
+7,10
+[('Replace b"\\t\\tif (*p==\'@\') {\\n" with b"\\t\\tif (*p==\'@\')\\n" at position 8', 7), ("Insert b'\\t\\t}\\n' at position 12 in file2", 11)]

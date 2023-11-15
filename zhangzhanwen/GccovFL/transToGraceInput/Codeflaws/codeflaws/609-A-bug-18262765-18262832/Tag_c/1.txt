@@ -1,4 +1,0 @@
-codeflaws/609-A-bug-18262765-18262832/609-A-18262832.c
-codeflaws/609-A-bug-18262765-18262832/609-A-18262765.c
-37,41
-[("Replace b'     for(i=m-2;i>=0;i--)\\n' with b'     for(i=m-2;i>=0;i++)\\n' at position 38", 37), ('Insert b\'        // printf("%d %d\\\\n",sum,k);\\n\' at position 43 in file2', 42)]

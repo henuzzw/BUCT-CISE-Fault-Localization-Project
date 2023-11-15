@@ -1,0 +1,4 @@
+codeflaws/316-D3-bug-3874196-3874347/316-D3-3874347.c
+codeflaws/316-D3-bug-3874196-3874347/316-D3-3874196.c
+10,10,14
+[('Insert b\'    if(n==1) { puts("1"); return 0; }\\n\' at position 12 in file2', 11), ("Insert b'    dp[0]=1;\\n' at position 13 in file2", 12), ('Delete b\'    printf("before %lld\\\\n",r);\\n\' at position 16 in file2', 15)]

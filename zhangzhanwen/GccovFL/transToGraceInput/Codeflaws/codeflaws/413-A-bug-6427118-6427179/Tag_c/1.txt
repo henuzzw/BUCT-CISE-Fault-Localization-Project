@@ -1,4 +1,0 @@
-codeflaws/413-A-bug-6427118-6427179/413-A-6427179.c
-codeflaws/413-A-bug-6427118-6427179/413-A-6427118.c
-34
-[("Replace b'    if((flag==0||(n-m)>=flag)&&flagmin==0&&flagmax==0)\\n' with b'    if(flag==0||(n-m)>=flag)\\n' at position 35", 34)]

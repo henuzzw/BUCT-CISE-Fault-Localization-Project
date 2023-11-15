@@ -1,0 +1,4 @@
+codeflaws/478-A-bug-17555253-17555286/478-A-17555286.c
+codeflaws/478-A-bug-17555253-17555286/478-A-17555253.c
+9,9
+[('Replace b\'    if(sum==0) printf("-1");\\n\' with b\'    if(sum%5==0) printf("%d",sum/5);\\n\' at position 10', 9), ('Insert b\'    else if(sum%5==0) printf("%d",sum/5);\\n\' at position 11 in file2', 10)]

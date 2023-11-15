@@ -1,0 +1,4 @@
+codeflaws/448-B-bug-17161714-17161735/448-B-17161735.c
+codeflaws/448-B-bug-17161714-17161735/448-B-17161714.c
+70
+[("Insert b'\\t   \\t   \\t  \\tbreak;\\n' at position 72 in file2", 71)]

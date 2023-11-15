@@ -1,0 +1,4 @@
+codeflaws/331-C1-bug-4091950-4092415/331-C1-4092415.c
+codeflaws/331-C1-bug-4091950-4092415/331-C1-4091950.c
+3
+[('Replace b\'    while(~scanf("%d",&a)&&a>=0){\\n\' with b\'    while(~scanf("%d",&a)&&a>0){\\n\' at position 4', 3)]

@@ -1,0 +1,4 @@
+codeflaws/14-B-bug-12811169-12811186/14-B-12811186.c
+codeflaws/14-B-bug-12811169-12811186/14-B-12811169.c
+13
+[('Insert b\'\\telse if (x<r&&l<x) printf("0\\\\n");\\n\' at position 15 in file2', 14)]

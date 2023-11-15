@@ -1,0 +1,4 @@
+codeflaws/154-B-bug-7344280-7344300/154-B-7344300.c
+codeflaws/154-B-bug-7344280-7344300/154-B-7344280.c
+67
+[('Replace b\'                    printf("Already on\\\\n");\\n\' with b\'                    printf("Alread on\\\\n");\\n\' at position 68', 67)]

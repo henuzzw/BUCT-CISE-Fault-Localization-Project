@@ -1,0 +1,4 @@
+codeflaws/633-B-bug-17067980-17068052/633-B-17068052.c
+codeflaws/633-B-bug-17067980-17068052/633-B-17067980.c
+25
+[("Replace b'    else if(sum>m)\\n' with b'    else if(sum>5)\\n' at position 26", 25)]

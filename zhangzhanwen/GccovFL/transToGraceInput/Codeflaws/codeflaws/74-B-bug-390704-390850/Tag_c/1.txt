@@ -1,4 +1,0 @@
-codeflaws/74-B-bug-390704-390850/74-B-390850.c
-codeflaws/74-B-bug-390704-390850/74-B-390704.c
-61
-[("Replace b'\\t\\t    k = n;\\n' with b'\\t\\t    k = 0;\\n' at position 62", 61)]

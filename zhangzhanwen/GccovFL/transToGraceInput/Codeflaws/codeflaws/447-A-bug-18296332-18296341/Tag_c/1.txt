@@ -1,4 +1,0 @@
-codeflaws/447-A-bug-18296332-18296341/447-A-18296341.c
-codeflaws/447-A-bug-18296332-18296341/447-A-18296332.c
-14
-[('Replace b\'    printf("%d\\\\n", (i == n)?-1:i+1);\\n\' with b\'    printf("%d\\\\n", (i == n)?-1:i);\\n\' at position 15', 14)]

@@ -1,4 +1,0 @@
-codeflaws/658-A-bug-17925090-17925109/658-A-17925109.c
-codeflaws/658-A-bug-17925090-17925109/658-A-17925090.c
-44,48
-[('Replace b\'   //L>R?(printf("Limak")):(L==R?(printf("Tie")):(printf("Radewoosh")));\\n\' with b\'   //L>R?(printf("Limak")):(L=R?(printf("Tie")):(printf("Radewoosh")));\\n\' at position 45', 44), ('Replace b\'     (L==R)?printf("Tie"):printf("Radewoosh");\\n\' with b\'     (L=R)?printf("Tie"):printf("Radewoosh");\\n\' at position 49', 48)]

@@ -1,0 +1,4 @@
+codeflaws/201-A-bug-15335569-15335588/201-A-15335588.c
+codeflaws/201-A-bug-15335569-15335588/201-A-15335569.c
+15
+[("Replace b'    else if(n<=5 && n!=3)\\n' with b'    else if(n==4 || n==2)\\n' at position 16", 15)]

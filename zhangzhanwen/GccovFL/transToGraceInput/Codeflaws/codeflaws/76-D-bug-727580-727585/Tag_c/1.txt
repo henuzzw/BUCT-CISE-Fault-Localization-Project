@@ -1,4 +1,0 @@
-codeflaws/76-D-bug-727580-727585/76-D-727585.c
-codeflaws/76-D-bug-727580-727585/76-D-727580.c
-11
-[("Replace b'     if (x >= 0 && (x ^ y) == b) {\\n' with b'     if (x >= 0 && x ^ y == b) {\\n' at position 12", 11)]

@@ -1,0 +1,4 @@
+codeflaws/416-A-bug-17971582-17971586/416-A-17971586.c
+codeflaws/416-A-bug-17971582-17971586/416-A-17971582.c
+81
+[('Replace b\'    //printf("min=%d max=%d\\\\n", min, max);\\n\' with b\'    printf("min=%d max=%d\\\\n", min, max);\\n\' at position 82', 81)]

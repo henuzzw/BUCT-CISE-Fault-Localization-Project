@@ -1,0 +1,4 @@
+codeflaws/34-B-bug-15902848-15916509/34-B-15916509.c
+codeflaws/34-B-bug-15902848-15916509/34-B-15902848.c
+24,24
+[("Replace b'\\t\\tif(arr[i]<0)\\n' with b'\\t\\tsum=sum+abs(arr[i]);\\n' at position 25", 24), ("Insert b'\\t\\t\\tsum=sum+abs(arr[i]);\\n' at position 26 in file2", 25)]

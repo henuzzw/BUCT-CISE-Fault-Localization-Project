@@ -1,4 +1,0 @@
-codeflaws/463-C-bug-7679531-7679553/463-C-7679553.c
-codeflaws/463-C-bug-7679531-7679553/463-C-7679531.c
-1,6,10
-[("Insert b'\\tint n,i,j,p,q,r,s;\\n' at position 3 in file2", 2), ("Replace b'\\ty=z=-1;\\n' with b'\\ty--;\\n' at position 8", 7), ('Replace b\'\\tprintf("%lld\\\\n%d %d %d %d",y+z,p+1,q+1,r+1,s+1);\\n\' with b\'\\tprintf("%lld\\\\n%d %d %d %d",y+z,p,q,r,s);\\n\' at position 12', 11)]

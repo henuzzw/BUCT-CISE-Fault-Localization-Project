@@ -1,0 +1,4 @@
+codeflaws/633-A-bug-17179947-17180046/633-A-17180046.c
+codeflaws/633-A-bug-17179947-17180046/633-A-17179947.c
+32
+[("Replace b'            int m=c/y;\\n' with b'            int m=c/x;\\n' at position 33", 32)]

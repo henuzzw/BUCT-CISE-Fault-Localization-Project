@@ -1,0 +1,4 @@
+codeflaws/581-A-bug-16943262-16943281/581-A-16943281.c
+codeflaws/581-A-bug-16943262-16943281/581-A-16943262.c
+19
+[("Replace b'            b1=(b-a)/2;\\n' with b'            b1=(a-b)/2;\\n' at position 20", 19)]

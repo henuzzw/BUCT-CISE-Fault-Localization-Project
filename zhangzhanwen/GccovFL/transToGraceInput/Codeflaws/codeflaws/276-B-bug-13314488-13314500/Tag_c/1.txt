@@ -1,4 +1,0 @@
-codeflaws/276-B-bug-13314488-13314500/276-B-13314500.c
-codeflaws/276-B-bug-13314488-13314500/276-B-13314488.c
-24
-[('Replace b\'    if( k%2 || k == 0 ) printf("First");\\n\' with b\'    if( k%2 ) printf("First");\\n\' at position 25', 24)]

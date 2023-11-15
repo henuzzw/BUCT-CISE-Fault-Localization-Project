@@ -1,4 +1,0 @@
-codeflaws/515-B-bug-12615092-12615121/515-B-12615121.c
-codeflaws/515-B-bug-12615092-12615121/515-B-12615092.c
-23
-[("Replace b'    for(i=0;i<10*b*g;i++){\\n' with b'    for(i=0;i<b*g;i++){\\n' at position 24", 23)]

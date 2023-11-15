@@ -1,4 +1,0 @@
-codeflaws/290-A-bug-17416091-17416103/290-A-17416103.c
-codeflaws/290-A-bug-17416091-17416103/290-A-17416091.c
-49
-[('Replace b\'\\t        printf("Harrison");\\n\' with b\'\\t        printf("Henry Harrison");\\n\' at position 50', 49)]

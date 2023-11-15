@@ -1,0 +1,4 @@
+codeflaws/298-D-bug-4474686-4474705/298-D-4474705.c
+codeflaws/298-D-bug-4474686-4474705/298-D-4474686.c
+3
+[("Replace b'#define N 100000\\n' with b'#define N 10000\\n' at position 4", 3)]

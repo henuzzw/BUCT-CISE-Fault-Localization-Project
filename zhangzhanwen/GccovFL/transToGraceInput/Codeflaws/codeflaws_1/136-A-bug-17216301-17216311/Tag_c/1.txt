@@ -1,0 +1,4 @@
+codeflaws/136-A-bug-17216301-17216311/136-A-17216311.c
+codeflaws/136-A-bug-17216301-17216311/136-A-17216301.c
+15
+[('Replace b\'        printf("%d ", pre[i]);\\n\' with b\'        printf("%d", pre[i]);\\n\' at position 16', 15)]

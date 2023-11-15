@@ -1,0 +1,4 @@
+codeflaws/47-A-bug-17471716-17471768/47-A-17471768.c
+codeflaws/47-A-bug-17471716-17471768/47-A-17471716.c
+15
+[("Replace b'        if(a[i]==n)\\n' with b'        if(a[i]==t)\\n' at position 16", 15)]

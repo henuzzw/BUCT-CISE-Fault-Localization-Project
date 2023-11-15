@@ -1,4 +1,0 @@
-codeflaws/552-A-bug-13285238-13285270/552-A-13285270.c
-codeflaws/552-A-bug-13285238-13285270/552-A-13285238.c
-7
-[("Replace b'        sum+=(fabs(x1-x2)+1)*(fabs(y1-y2)+1);\\n' with b'        sum+=(fabs(x1-y2)+1)*(fabs(y1-x2)+1);\\n' at position 8", 7)]

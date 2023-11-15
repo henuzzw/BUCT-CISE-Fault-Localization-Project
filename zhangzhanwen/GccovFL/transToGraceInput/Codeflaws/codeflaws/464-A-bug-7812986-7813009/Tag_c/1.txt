@@ -1,4 +1,0 @@
-codeflaws/464-A-bug-7812986-7813009/464-A-7813009.c
-codeflaws/464-A-bug-7812986-7813009/464-A-7812986.c
-0,21
-[("Insert b'#include <stdio.h>\\n' at position 2 in file2", 1), ("Insert b'\\t\\ts[i]=s[i]+1;\\n' at position 24 in file2", 23)]

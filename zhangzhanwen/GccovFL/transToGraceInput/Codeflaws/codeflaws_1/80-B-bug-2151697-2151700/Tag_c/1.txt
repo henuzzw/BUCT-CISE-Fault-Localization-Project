@@ -1,0 +1,4 @@
+codeflaws/80-B-bug-2151697-2151700/80-B-2151700.c
+codeflaws/80-B-bug-2151697-2151700/80-B-2151697.c
+6
+[("Replace b'a=(a>=360)?a-360:a;\\n' with b'a=(a>360)?a-360:a;\\n' at position 7", 6)]

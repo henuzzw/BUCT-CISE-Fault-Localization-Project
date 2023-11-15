@@ -1,4 +1,0 @@
-codeflaws/394-A-bug-5992854-5992862/394-A-5992862.c
-codeflaws/394-A-bug-5992854-5992862/394-A-5992854.c
-21
-[("Replace b'                    c++;\\n' with b'                    c--;\\n' at position 22", 21)]

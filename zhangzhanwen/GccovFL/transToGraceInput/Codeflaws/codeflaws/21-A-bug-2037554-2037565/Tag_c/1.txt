@@ -1,4 +1,0 @@
-codeflaws/21-A-bug-2037554-2037565/21-A-2037565.c
-codeflaws/21-A-bug-2037554-2037565/21-A-2037554.c
-37
-[('Replace b"    if(s[y]==\'\\\\0\' || s[y]==\'/\')\\n" with b"    if(s[y]==\'\\\\0\')\\n" at position 38', 37)]

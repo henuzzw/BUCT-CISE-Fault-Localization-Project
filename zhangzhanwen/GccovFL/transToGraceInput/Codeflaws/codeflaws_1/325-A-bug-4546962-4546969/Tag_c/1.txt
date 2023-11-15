@@ -1,0 +1,4 @@
+codeflaws/325-A-bug-4546962-4546969/325-A-4546969.c
+codeflaws/325-A-bug-4546962-4546969/325-A-4546962.c
+32
+[("Replace b'    if(area_rect==a && (max_x-min_x) ==(max_y-min_y))\\n' with b'    if(area_rect==a )\\n' at position 33", 32)]

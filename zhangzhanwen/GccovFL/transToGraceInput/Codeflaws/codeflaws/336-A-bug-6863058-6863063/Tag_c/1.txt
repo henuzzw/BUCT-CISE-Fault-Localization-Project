@@ -1,4 +1,0 @@
-codeflaws/336-A-bug-6863058-6863063/336-A-6863063.c
-codeflaws/336-A-bug-6863058-6863063/336-A-6863058.c
-23
-[('Replace b\'\\t\\tprintf("%d %d %d %d",0,-t,t,0);\\n\' with b\'\\t\\tprintf("%d %d %d %d",t,0,0,-t);\\n\' at position 24', 23)]

@@ -1,0 +1,4 @@
+codeflaws/471-A-bug-17550079-17550110/471-A-17550110.c
+codeflaws/471-A-bug-17550079-17550110/471-A-17550079.c
+19
+[('Insert b\'    else if ((b == 5) || (d == 5)) printf("Bear\\\\n");\\n\' at position 21 in file2', 20)]

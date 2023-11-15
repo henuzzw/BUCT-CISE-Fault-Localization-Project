@@ -1,0 +1,4 @@
+codeflaws/21-A-bug-1835149-1835180/21-A-1835180.c
+codeflaws/21-A-bug-1835149-1835180/21-A-1835149.c
+15
+[('Insert b\'    if(s==\\\'.\\\'){printf("NO");return 0;}\\n\' at position 17 in file2', 16)]

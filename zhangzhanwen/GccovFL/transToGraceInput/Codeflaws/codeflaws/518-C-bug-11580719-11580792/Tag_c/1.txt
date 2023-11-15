@@ -1,4 +1,0 @@
-codeflaws/518-C-bug-11580719-11580792/518-C-11580792.c
-codeflaws/518-C-bug-11580719-11580792/518-C-11580719.c
-22
-[("Replace b'            pos[ind[pos[x]+1]]++;\\n' with b'            pos[ind[pos[x]]]++;\\n' at position 23", 22)]

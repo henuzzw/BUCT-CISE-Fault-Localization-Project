@@ -1,0 +1,4 @@
+codeflaws/290-D-bug-3442905-3443400/290-D-3443400.c
+codeflaws/290-D-bug-3442905-3443400/290-D-3442905.c
+13
+[("Replace b'        char c = tolower(s[i]);\\n' with b'        char c = s[i];\\n' at position 14", 13)]

@@ -1,4 +1,0 @@
-codeflaws/472-B-bug-12007804-12007855/472-B-12007855.c
-codeflaws/472-B-bug-12007804-12007855/472-B-12007804.c
-16
-[("Replace b'for(i=0;i<n-1;i++){\\n' with b'for(i<0;i<n-1;i++){\\n' at position 17", 16)]

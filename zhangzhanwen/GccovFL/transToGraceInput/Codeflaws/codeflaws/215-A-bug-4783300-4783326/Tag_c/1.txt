@@ -1,4 +1,0 @@
-codeflaws/215-A-bug-4783300-4783326/215-A-4783326.c
-codeflaws/215-A-bug-4783300-4783326/215-A-4783300.c
-4
-[("Replace b'\\tint A[51], B[51];\\n' with b'\\tint A[5], B[5];\\n' at position 5", 4)]

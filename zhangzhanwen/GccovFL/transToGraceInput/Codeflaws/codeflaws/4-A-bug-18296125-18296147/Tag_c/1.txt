@@ -1,4 +1,0 @@
-codeflaws/4-A-bug-18296125-18296147/4-A-18296147.c
-codeflaws/4-A-bug-18296125-18296147/4-A-18296125.c
-5
-[("Replace b'    return 0;\\n' with b'    return 1;\\n' at position 6", 5)]

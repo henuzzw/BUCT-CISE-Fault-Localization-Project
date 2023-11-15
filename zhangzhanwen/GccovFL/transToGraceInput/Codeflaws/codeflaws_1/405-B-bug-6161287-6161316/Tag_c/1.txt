@@ -1,0 +1,4 @@
+codeflaws/405-B-bug-6161287-6161316/405-B-6161316.c
+codeflaws/405-B-bug-6161287-6161316/405-B-6161287.c
+26
+[("Replace b'            else if((1&(i-prei))&&i!=prei) res++;\\n' with b'            else if(((i-prei)%2)==0&&i!=prei) res++;\\n' at position 27", 26)]

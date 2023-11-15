@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-18280198-18280235/144-A-18280235.c
-codeflaws/144-A-bug-18280198-18280235/144-A-18280198.c
-13
-[("Replace b'        if (Amax<arr[i])\\n' with b'        if (Amax<=arr[i])\\n' at position 14", 13)]

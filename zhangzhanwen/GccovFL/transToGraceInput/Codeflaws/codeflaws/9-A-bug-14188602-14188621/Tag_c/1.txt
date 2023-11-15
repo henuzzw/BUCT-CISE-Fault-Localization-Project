@@ -1,4 +1,0 @@
-codeflaws/9-A-bug-14188602-14188621/9-A-14188621.c
-codeflaws/9-A-bug-14188602-14188621/9-A-14188602.c
-16,16
-[("Insert b'\\telse if(ans==6)\\n' at position 18 in file2", 17), ('Insert b\'\\t\\tprintf("1/1\\\\n");\\n\' at position 19 in file2', 18)]

@@ -1,0 +1,4 @@
+codeflaws/169-B-bug-3110954-3110959/169-B-3110959.c
+codeflaws/169-B-bug-3110954-3110959/169-B-3110954.c
+4
+[("Replace b'\\tchar br[100001];\\n' with b'\\tchar br[10];\\n' at position 5", 4)]

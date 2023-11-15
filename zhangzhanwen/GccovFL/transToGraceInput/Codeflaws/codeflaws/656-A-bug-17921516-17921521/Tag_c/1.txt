@@ -1,4 +1,0 @@
-codeflaws/656-A-bug-17921516-17921521/656-A-17921521.c
-codeflaws/656-A-bug-17921516-17921521/656-A-17921516.c
-17,27
-[('Replace b\'        printf("1"); return 0;\\n\' with b\'        printf("0"); return 0;\\n\' at position 18', 17), ("Delete b'\\n' at position 27 in file2", 26)]

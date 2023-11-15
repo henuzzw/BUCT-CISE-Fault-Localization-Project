@@ -1,0 +1,4 @@
+codeflaws/439-B-bug-12836642-12836663/439-B-12836663.c
+codeflaws/439-B-bug-12836642-12836663/439-B-12836642.c
+16
+[("Replace b'    qsort(ara,n,sizeof(long long),comp);\\n' with b'    qsort(ara,n,sizeof(int),comp);\\n' at position 17", 16)]

@@ -1,0 +1,4 @@
+codeflaws/204-A-bug-10222131-10222140/204-A-10222140.c
+codeflaws/204-A-bug-10222131-10222140/204-A-10222131.c
+35
+[("Replace b'long long nways( long long N ) {\\n' with b'long long nways( int N ) {\\n' at position 36", 35)]

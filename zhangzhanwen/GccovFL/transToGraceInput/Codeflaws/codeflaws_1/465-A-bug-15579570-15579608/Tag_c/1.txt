@@ -1,0 +1,4 @@
+codeflaws/465-A-bug-15579570-15579608/465-A-15579608.c
+codeflaws/465-A-bug-15579570-15579608/465-A-15579570.c
+4
+[('Replace b"\\tfor(i=0;a[i]==\'1\';i++);\\n" with b"\\tfor(i=1;a[i]==\'1\';i++);\\n" at position 5', 4)]

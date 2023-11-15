@@ -1,0 +1,4 @@
+codeflaws/12-B-bug-11080808-11080878/12-B-11080878.c
+codeflaws/12-B-bug-11080808-11080878/12-B-11080808.c
+34,40,40
+[("Insert b'\\n' at position 36 in file2", 35), ('Insert b"        if(a[i]==\'\\\\0\')\\n" at position 43 in file2', 42), ("Insert b'        i=0;\\n' at position 44 in file2", 43)]

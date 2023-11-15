@@ -1,0 +1,4 @@
+codeflaws/545-D-bug-12488298-12488468/545-D-12488468.c
+codeflaws/545-D-bug-12488298-12488468/545-D-12488298.c
+33
+[("Replace b'\\t\\tif (sum<=t[i])\\n' with b'\\t\\tif (sum<t[i])\\n' at position 34", 33)]

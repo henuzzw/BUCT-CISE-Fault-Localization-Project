@@ -1,4 +1,0 @@
-codeflaws/127-B-bug-3535130-3535278/127-B-3535278.c
-codeflaws/127-B-bug-3535130-3535278/127-B-3535130.c
-30
-[("Replace b'\\tfor (i=0; i<101; i++) a[i] /= 2;\\n' with b'\\tfor (i=0; i<n; i++) a[i] /= 2;\\n' at position 31", 30)]

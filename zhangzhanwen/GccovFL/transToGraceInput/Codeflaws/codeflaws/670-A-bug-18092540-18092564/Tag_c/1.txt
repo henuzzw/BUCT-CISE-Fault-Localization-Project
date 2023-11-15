@@ -1,4 +1,0 @@
-codeflaws/670-A-bug-18092540-18092564/670-A-18092564.c
-codeflaws/670-A-bug-18092540-18092564/670-A-18092540.c
-18
-[("Replace b'\\t\\telse if((b==2)||(b==3)||(b==4)||(b==5)){\\n' with b'\\t\\telse if((b==2)&&(b==3)&&(b==4)&&(b==5)){\\n' at position 19", 18)]

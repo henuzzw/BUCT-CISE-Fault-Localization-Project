@@ -1,4 +1,0 @@
-codeflaws/437-B-bug-6774135-6774184/437-B-6774184.c
-codeflaws/437-B-bug-6774135-6774184/437-B-6774135.c
-2
-[("Replace b'long sum,lim,ans[100005],tot=0;\\n' with b'long sum,lim,ans[10005],tot=0;\\n' at position 3", 2)]

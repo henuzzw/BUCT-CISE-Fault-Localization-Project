@@ -1,4 +1,0 @@
-codeflaws/378-B-bug-5559657-5560108/378-B-5560108.c
-codeflaws/378-B-bug-5559657-5560108/378-B-5559657.c
-15
-[("Replace b'    while(i<=n)\\n' with b'    while(i<=4)\\n' at position 16", 15)]

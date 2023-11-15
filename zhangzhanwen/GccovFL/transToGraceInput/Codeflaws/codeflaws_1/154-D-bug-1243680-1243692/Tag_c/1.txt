@@ -1,0 +1,4 @@
+codeflaws/154-D-bug-1243680-1243692/154-D-1243692.c
+codeflaws/154-D-bug-1243680-1243692/154-D-1243680.c
+26
+[("Replace b'    if(mod < a || mod > b){\\n' with b'    if(mod < a){\\n' at position 27", 26)]

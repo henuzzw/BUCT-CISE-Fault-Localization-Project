@@ -1,4 +1,0 @@
-codeflaws/483-B-bug-9378742-9378770/483-B-9378770.c
-codeflaws/483-B-bug-9378742-9378770/483-B-9378742.c
-7
-[("Replace b'\\tstop=10000000000000;\\n' with b'\\tstop=100;\\n' at position 8", 7)]

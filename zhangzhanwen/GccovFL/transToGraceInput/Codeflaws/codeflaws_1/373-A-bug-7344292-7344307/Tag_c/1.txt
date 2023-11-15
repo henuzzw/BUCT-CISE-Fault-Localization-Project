@@ -1,0 +1,4 @@
+codeflaws/373-A-bug-7344292-7344307/373-A-7344307.c
+codeflaws/373-A-bug-7344292-7344307/373-A-7344292.c
+13,13
+[('Replace b"\\t\\t\\tif (ZB[c] != \'.\')\\n" with b"\\t\\t\\tZA[ZB[c] - \'1\'] += 1;\\n" at position 14', 13), ('Insert b"\\t\\t\\t\\tZA[ZB[c] - \'1\'] += 1;\\n" at position 15 in file2', 14)]

@@ -1,0 +1,4 @@
+codeflaws/633-A-bug-17970704-17970774/633-A-17970774.c
+codeflaws/633-A-bug-17970704-17970774/633-A-17970704.c
+5
+[("Replace b'    for(i=0;i<=10000;i++)\\n' with b'    for(i=0;i<=100;i++)\\n' at position 6", 5)]

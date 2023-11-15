@@ -1,4 +1,0 @@
-codeflaws/414-A-bug-9157434-9157436/414-A-9157436.c
-codeflaws/414-A-bug-9157434-9157436/414-A-9157434.c
-5,11
-[("Insert b'    d = k - n / 2;\\n' at position 7 in file2", 6), ("Delete b'        d = k - n / 2;\\n' at position 12 in file2", 11)]

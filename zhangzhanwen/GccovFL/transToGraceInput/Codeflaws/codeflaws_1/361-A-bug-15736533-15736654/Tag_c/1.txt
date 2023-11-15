@@ -1,0 +1,4 @@
+codeflaws/361-A-bug-15736533-15736654/361-A-15736654.c
+codeflaws/361-A-bug-15736533-15736654/361-A-15736533.c
+24,28
+[("Replace b'\\t\\tara[n-1]=b-s+1;\\n' with b'\\t\\tara[n-1]=b-s;\\n' at position 25", 24), ("Insert b'\\t\\n' at position 30 in file2", 29)]

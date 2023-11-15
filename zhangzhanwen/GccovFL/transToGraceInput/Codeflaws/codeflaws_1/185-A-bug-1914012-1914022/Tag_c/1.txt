@@ -1,0 +1,4 @@
+codeflaws/185-A-bug-1914012-1914022/185-A-1914022.c
+codeflaws/185-A-bug-1914012-1914022/185-A-1914012.c
+22,33
+[('Insert b\'        if(n==0) {printf("1\\\\n");continue;}\\n\' at position 24 in file2', 23), ('Replace b\'        printf("%lld\\\\n",(a+d)%m);\\n\' with b\'        printf("%lld\\\\n",a+d);\\n\' at position 35', 34)]

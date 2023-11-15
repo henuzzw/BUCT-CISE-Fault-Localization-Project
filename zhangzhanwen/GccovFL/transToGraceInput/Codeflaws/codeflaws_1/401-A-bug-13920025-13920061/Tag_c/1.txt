@@ -1,0 +1,4 @@
+codeflaws/401-A-bug-13920025-13920061/401-A-13920061.c
+codeflaws/401-A-bug-13920025-13920061/401-A-13920025.c
+18
+[('Replace b\'    if(rest==0) {printf("0");return 0;}\\n\' with b\'    if(rest==0) return 0;\\n\' at position 19', 18)]

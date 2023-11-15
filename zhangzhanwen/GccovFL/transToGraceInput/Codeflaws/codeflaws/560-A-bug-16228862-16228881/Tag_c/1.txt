@@ -1,4 +1,0 @@
-codeflaws/560-A-bug-16228862-16228881/560-A-16228881.c
-codeflaws/560-A-bug-16228862-16228881/560-A-16228862.c
-6
-[("Replace b'\\twhile(n--){\\n' with b'\\twhile(--n){\\n' at position 7", 6)]

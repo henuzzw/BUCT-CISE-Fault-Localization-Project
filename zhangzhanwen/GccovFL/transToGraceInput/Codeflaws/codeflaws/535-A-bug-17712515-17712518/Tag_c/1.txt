@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-17712515-17712518/535-A-17712518.c
-codeflaws/535-A-bug-17712515-17712518/535-A-17712515.c
-2,19
-[('Replace b\'char str1[250][250]={" ","twenty","thirty","forty","fifty","sixty","seventy","eighty","ninety"};\\n\' with b\'char str1[250][250]={" ","twenty","thirty","fourty","fifty","sixty","seventy","eighty","ninety"};\\n\' at position 3', 2), ("Delete b'\\n' at position 19 in file2", 18)]

@@ -1,0 +1,4 @@
+codeflaws/228-B-bug-2301185-2301209/228-B-2301209.c
+codeflaws/228-B-bug-2301185-2301209/228-B-2301185.c
+12
+[("Replace b'\\t\\tfor (j=0; j<ma&&j+y<mb; ++j) if (i+x>=0&&j+y>=0) {\\n' with b'\\t\\tfor (j=0; j<ma&&j+y<mb; ++j) {\\n' at position 13", 12)]

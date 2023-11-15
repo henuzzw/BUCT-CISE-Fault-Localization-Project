@@ -1,0 +1,4 @@
+codeflaws/294-A-bug-9080781-9080815/294-A-9080815.c
+codeflaws/294-A-bug-9080781-9080815/294-A-9080781.c
+25
+[("Replace b'\\t\\tshot(a,temp1-1,temp2,n);\\n' with b'\\t\\tshot(a,temp1-1,temp2,N);\\n' at position 26", 25)]

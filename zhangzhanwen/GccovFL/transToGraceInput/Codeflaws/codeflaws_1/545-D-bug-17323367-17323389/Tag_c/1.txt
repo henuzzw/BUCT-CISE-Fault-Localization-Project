@@ -1,0 +1,4 @@
+codeflaws/545-D-bug-17323367-17323389/545-D-17323389.c
+codeflaws/545-D-bug-17323367-17323389/545-D-17323367.c
+28,28
+[("Insert b'\\t\\telse\\n' at position 30 in file2", 29), ("Insert b'\\t\\t\\tt[i] = 0;\\n' at position 31 in file2", 30)]

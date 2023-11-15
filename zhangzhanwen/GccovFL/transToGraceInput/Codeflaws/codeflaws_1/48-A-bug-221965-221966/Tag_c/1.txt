@@ -1,0 +1,4 @@
+codeflaws/48-A-bug-221965-221966/48-A-221966.c
+codeflaws/48-A-bug-221965-221966/48-A-221965.c
+43
+[('Replace b\'\\tif(mS > fS && mS > sS) { printf("M"); return 0; }\\n\' with b\'\\tif(mS > fS && fS > sS) { printf("M"); return 0; }\\n\' at position 44', 43)]

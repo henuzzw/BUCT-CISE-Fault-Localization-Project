@@ -1,4 +1,0 @@
-codeflaws/166-A-bug-17147363-17147470/166-A-17147470.c
-codeflaws/166-A-bug-17147363-17147470/166-A-17147363.c
-47,51
-[("Delete b'\\n' at position 47 in file2", 46), ("Replace b'    if(solved[i]==solved[r-1] && penalty[i]==penalty[r-1])\\n' with b'    if(solved[i]==solved[r])\\n' at position 51", 50)]

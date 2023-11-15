@@ -1,4 +1,0 @@
-codeflaws/492-A-bug-17556761-17556796/492-A-17556796.c
-codeflaws/492-A-bug-17556761-17556796/492-A-17556761.c
-8
-[("Replace b'      if(rem>=sum){\\n' with b'      if(rem>sum){\\n' at position 9", 8)]

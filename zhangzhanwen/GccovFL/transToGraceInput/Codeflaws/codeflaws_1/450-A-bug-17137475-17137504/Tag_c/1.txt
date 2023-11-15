@@ -1,0 +1,4 @@
+codeflaws/450-A-bug-17137475-17137504/450-A-17137504.c
+codeflaws/450-A-bug-17137475-17137504/450-A-17137475.c
+17
+[("Replace b'            a[i] -= m;\\n' with b'            a[i] = m;\\n' at position 18", 17)]

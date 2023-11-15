@@ -1,4 +1,0 @@
-codeflaws/533-C-bug-17380379-17380392/533-C-17380392.c
-codeflaws/533-C-bug-17380379-17380392/533-C-17380379.c
-16
-[('Insert b\'        else if (x1 <= x2 && y1 <= y2) puts("Polycarp");\\n\' at position 18 in file2', 17)]

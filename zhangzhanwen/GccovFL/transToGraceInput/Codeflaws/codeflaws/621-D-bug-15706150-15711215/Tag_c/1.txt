@@ -1,4 +1,0 @@
-codeflaws/621-D-bug-15706150-15711215/621-D-15711215.c
-codeflaws/621-D-bug-15706150-15711215/621-D-15706150.c
-7,42
-[("Insert b'\\tfor(i=1;i<=12;i++) num[i] = -1e100;\\n' at position 9 in file2", 8), ("Replace b'\\tfor(ans=1,i=2;i<=12;i++) if(num[i]>num[ans]+1e-6) ans = i;\\n' with b'\\tfor(ans=1,i=2;i<=12;i++) if(num[i]>num[ans]) ans = i;\\n' at position 44", 43)]

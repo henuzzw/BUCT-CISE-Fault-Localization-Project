@@ -1,0 +1,4 @@
+codeflaws/208-A-bug-18123271-18123289/208-A-18123289.c
+codeflaws/208-A-bug-18123271-18123289/208-A-18123271.c
+7,12
+[('Replace b\'    scanf("%s",a);\\n\' with b\'    gets (a);\\n\' at position 8', 7), ('Insert b\'            printf(" ");\\n\' at position 14 in file2', 13)]

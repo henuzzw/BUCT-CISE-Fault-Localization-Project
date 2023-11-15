@@ -1,0 +1,4 @@
+codeflaws/9-D-bug-817636-817643/9-D-817643.c
+codeflaws/9-D-bug-817636-817643/9-D-817636.c
+18
+[("Replace b'\\t\\t\\t      dp[j][i + j][k] += dp[j][l - 1][k - 1] * dp[l + 1][i + j][m];\\n' with b'\\t\\t\\t      dp[j][i + j][k] += dp[j][l - 1][k - 1] * dp[l + 1][i + j][k -1];\\n' at position 19", 18)]

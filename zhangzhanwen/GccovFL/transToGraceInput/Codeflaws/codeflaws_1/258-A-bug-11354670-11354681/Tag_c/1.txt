@@ -1,0 +1,4 @@
+codeflaws/258-A-bug-11354670-11354681/258-A-11354681.c
+codeflaws/258-A-bug-11354670-11354681/258-A-11354670.c
+5
+[('Replace b"\\t\\tif(A[i] != \'0\' && A[i+1])\\n" with b"\\t\\tif(A[i] != \'0\')\\n" at position 6', 5)]

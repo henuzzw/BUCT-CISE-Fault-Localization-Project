@@ -1,4 +1,0 @@
-codeflaws/556-A-bug-18015464-18015474/556-A-18015474.c
-codeflaws/556-A-bug-18015464-18015474/556-A-18015464.c
-5,12
-[('Insert b\'    scanf("%ld", &n);\\n\' at position 7 in file2', 6), ('Replace b\'    printf("%ld",labs(n0-n1));\\n\' with b\'    printf("%ld",n0>n1?n0-n1:n1-n0);\\n\' at position 14', 13)]

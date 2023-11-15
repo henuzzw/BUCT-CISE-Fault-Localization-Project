@@ -1,0 +1,4 @@
+codeflaws/606-E-bug-14918656-14918663/606-E-14918663.c
+codeflaws/606-E-bug-14918656-14918663/606-E-14918656.c
+29
+[("Replace b'        if(a[i] > max) max = a[i];\\n' with b'        if(b[i] > max) max = b[i];\\n' at position 30", 29)]

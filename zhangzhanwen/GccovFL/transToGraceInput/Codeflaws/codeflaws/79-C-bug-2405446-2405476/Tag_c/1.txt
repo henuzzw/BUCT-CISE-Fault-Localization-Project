@@ -1,4 +1,0 @@
-codeflaws/79-C-bug-2405446-2405476/79-C-2405476.c
-codeflaws/79-C-bug-2405446-2405476/79-C-2405446.c
-28
-[("Replace b'  for(i=lstr-2;i>=0;i--){\\n' with b'  for(i=lstr-1;i>=0;i--){\\n' at position 29", 28)]

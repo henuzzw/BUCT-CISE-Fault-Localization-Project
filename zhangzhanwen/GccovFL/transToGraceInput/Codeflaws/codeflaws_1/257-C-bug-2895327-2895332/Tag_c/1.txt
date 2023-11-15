@@ -1,0 +1,4 @@
+codeflaws/257-C-bug-2895327-2895332/257-C-2895332.c
+codeflaws/257-C-bug-2895327-2895332/257-C-2895327.c
+50
+[("Replace b'                P[i].p=180+atan(1.0*P[i].x/P[i].y)*180.0/PI;\\n' with b'                P[i].p=90-atan(1.0*P[i].x/P[i].y)*180.0/PI;\\n' at position 51", 50)]

@@ -1,0 +1,4 @@
+codeflaws/17-A-bug-12616724-12616752/17-A-12616752.c
+codeflaws/17-A-bug-12616724-12616752/17-A-12616724.c
+11
+[("Replace b'    for (i = 2; i <= (int)sqrt(x); i++)\\n' with b'    for (i = 2; i < (int)sqrt(x); i++)\\n' at position 12", 11)]

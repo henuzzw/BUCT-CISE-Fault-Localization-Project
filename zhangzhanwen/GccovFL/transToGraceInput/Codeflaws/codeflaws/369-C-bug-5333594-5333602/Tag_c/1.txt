@@ -1,4 +1,0 @@
-codeflaws/369-C-bug-5333594-5333602/369-C-5333602.c
-codeflaws/369-C-bug-5333594-5333602/369-C-5333594.c
-47,49
-[("Replace b'    for (i=1;i<=T;i++)\\n' with b'    for (i=1;i<=T-1;i++)\\n' at position 48", 47), ('Delete b\'    printf("%d",ans[T]);\\n\' at position 49 in file2', 48)]

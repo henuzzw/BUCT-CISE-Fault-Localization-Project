@@ -1,4 +1,0 @@
-codeflaws/626-B-bug-16061439-16061452/626-B-16061452.c
-codeflaws/626-B-bug-16061439-16061452/626-B-16061439.c
-18
-[("Insert b' \\ti++;\\n' at position 20 in file2", 19)]

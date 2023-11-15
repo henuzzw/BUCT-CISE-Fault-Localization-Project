@@ -1,4 +1,0 @@
-codeflaws/263-A-bug-18117839-18117954/263-A-18117954.c
-codeflaws/263-A-bug-18117839-18117954/263-A-18117839.c
-17
-[('Replace b\'        //printf("%d%d",m,n);\\n\' with b\'        printf("%d%d",m,n);\\n\' at position 18', 17)]

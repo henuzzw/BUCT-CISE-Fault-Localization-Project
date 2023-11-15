@@ -1,4 +1,0 @@
-codeflaws/342-A-bug-11115345-11115428/342-A-11115428.c
-codeflaws/342-A-bug-11115345-11115428/342-A-11115345.c
-56
-[("Replace b'        if((s+t)!=n || (q+r)!=n || r>t)\\n' with b'        if((s+t)!=n || (q+r)!=n || t!=r)\\n' at position 57", 56)]

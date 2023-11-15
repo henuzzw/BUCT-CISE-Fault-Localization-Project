@@ -1,0 +1,4 @@
+codeflaws/500-A-bug-17712845-17712860/500-A-17712860.c
+codeflaws/500-A-bug-17712845-17712860/500-A-17712845.c
+8,11
+[("Replace b'\\tif(seen[u])return false;\\n' with b'\\tif(seen[u] || u==n)return false;\\n' at position 9", 8), ("Insert b'\\tif(u==n)return false;\\n' at position 13 in file2", 12)]

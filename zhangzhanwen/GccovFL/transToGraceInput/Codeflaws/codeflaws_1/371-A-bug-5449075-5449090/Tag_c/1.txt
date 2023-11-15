@@ -1,0 +1,4 @@
+codeflaws/371-A-bug-5449075-5449090/371-A-5449090.c
+codeflaws/371-A-bug-5449075-5449090/371-A-5449075.c
+30
+[("Replace b'\\t\\t\\ts+=x1;\\n' with b'\\t\\t\\ts++;\\n' at position 31", 30)]

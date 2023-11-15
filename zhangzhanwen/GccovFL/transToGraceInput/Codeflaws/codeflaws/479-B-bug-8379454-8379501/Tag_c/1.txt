@@ -1,4 +1,0 @@
-codeflaws/479-B-bug-8379454-8379501/479-B-8379501.c
-codeflaws/479-B-bug-8379454-8379501/479-B-8379454.c
-6
-[("Replace b'    int cnt, min, max, minIdx[1001], maxIdx[1001];\\n' with b'    int cnt, min, max, minIdx[1000], maxIdx[1000];\\n' at position 7", 6)]

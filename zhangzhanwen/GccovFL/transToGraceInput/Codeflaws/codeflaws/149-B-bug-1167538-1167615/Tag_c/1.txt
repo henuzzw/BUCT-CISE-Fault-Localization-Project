@@ -1,4 +1,0 @@
-codeflaws/149-B-bug-1167538-1167615/149-B-1167615.c
-codeflaws/149-B-bug-1167538-1167615/149-B-1167538.c
-37
-[("Replace b'    int n1=change(s1,100),n2=change(s2,100);\\n' with b'    int n1=change(s1,24),n2=change(s2,24);\\n' at position 38", 37)]

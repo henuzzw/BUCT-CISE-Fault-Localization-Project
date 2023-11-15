@@ -1,4 +1,0 @@
-codeflaws/3-C-bug-17797656-17799616/3-C-17799616.c
-codeflaws/3-C-bug-17797656-17799616/3-C-17797656.c
-47,48
-[("Replace b'\\tif (d < 0 || d > 1 || (win1 && win2) || (win1 && cnt2 == cnt1) || (win2 && cnt1 > cnt2)) {\\n' with b'\\tif (d < 0 || d > 1 || (win1 && win2)) {\\n' at position 48", 47), ('Delete b\'\\t\\tprintf("%d %d %d\\\\n", d, win1, win2);\\n\' at position 48 in file2', 47)]

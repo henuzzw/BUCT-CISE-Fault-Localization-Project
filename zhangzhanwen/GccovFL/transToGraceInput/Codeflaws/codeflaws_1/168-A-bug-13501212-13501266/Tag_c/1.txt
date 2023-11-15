@@ -1,0 +1,4 @@
+codeflaws/168-A-bug-13501212-13501266/168-A-13501266.c
+codeflaws/168-A-bug-13501212-13501266/168-A-13501212.c
+5,8
+[("Replace b'    double z;\\n' with b'    float z;\\n' at position 6", 5), ("Insert b'\\n' at position 10 in file2", 9)]

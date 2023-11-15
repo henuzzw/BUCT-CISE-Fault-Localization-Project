@@ -1,0 +1,4 @@
+codeflaws/137-B-bug-9549375-9549458/137-B-9549458.c
+codeflaws/137-B-bug-9549375-9549458/137-B-9549375.c
+8,12
+[("Delete b'\\tint cout=0;\\n' at position 8 in file2", 7), ("Replace b'\\t\\tif(a[j]==0 &&j<=n)\\n' with b'\\t\\tif(a[j]==0)\\n' at position 12", 11)]

@@ -1,4 +1,0 @@
-codeflaws/653-C-bug-16815431-16815566/653-C-16815566.c
-codeflaws/653-C-bug-16815431-16815566/653-C-16815431.c
-26
-[("Replace b'    int a[150100];\\n' with b'    int a[n+2];\\n' at position 27", 26)]

@@ -1,0 +1,4 @@
+codeflaws/369-B-bug-5815758-5815764/369-B-5815764.c
+codeflaws/369-B-bug-5815758-5815764/369-B-5815758.c
+25
+[("Replace b'    sall-=sk;\\n' with b'    sall-=(sk/k)*k;\\n' at position 26", 25)]

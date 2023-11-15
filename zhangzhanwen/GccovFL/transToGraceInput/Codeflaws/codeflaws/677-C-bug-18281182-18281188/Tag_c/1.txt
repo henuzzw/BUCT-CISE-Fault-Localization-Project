@@ -1,4 +1,0 @@
-codeflaws/677-C-bug-18281182-18281188/677-C-18281188.c
-codeflaws/677-C-bug-18281182-18281188/677-C-18281182.c
-32
-[('Replace b"\\tfor(i=\'0\';i<=\'9\';i++){\\n" with b"\\tfor(i=\'1\';i<=\'9\';i++){\\n" at position 33', 32)]

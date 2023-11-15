@@ -1,4 +1,0 @@
-codeflaws/245-B-bug-15926715-15927032/245-B-15927032.c
-codeflaws/245-B-bug-15926715-15927032/245-B-15926715.c
-23
-[("Replace b'b[j++]=a[i++];\\n' with b'\\n' at position 24", 23)]

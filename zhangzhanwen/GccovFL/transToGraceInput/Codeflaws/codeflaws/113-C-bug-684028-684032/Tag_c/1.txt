@@ -1,4 +1,0 @@
-codeflaws/113-C-bug-684028-684032/113-C-684032.c
-codeflaws/113-C-bug-684028-684032/113-C-684028.c
-39
-[("Insert b'  if(n==2) return 1;\\n' at position 41 in file2", 40)]

@@ -1,4 +1,0 @@
-codeflaws/290-D-bug-3439809-3440511/290-D-3440511.c
-codeflaws/290-D-bug-3439809-3440511/290-D-3439809.c
-11,11
-[('Replace b\'\\t\\t\\t*p = tolower(*p);\\n\' with b"\\t\\t\\tif (*p < thresh + \'a\') *p = toupper(*p);\\n" at position 12', 11), ('Insert b"\\t\\t\\tif (*p - \'a\' < thresh) *p = toupper(*p);\\n" at position 13 in file2', 12)]

@@ -1,4 +1,0 @@
-codeflaws/514-A-bug-17035949-17035964/514-A-17035964.c
-codeflaws/514-A-bug-17035949-17035964/514-A-17035949.c
-17
-[("Replace b'      if(x < 9 && x*2 > 9) {\\n' with b'      if(x < 9) {\\n' at position 18", 17)]

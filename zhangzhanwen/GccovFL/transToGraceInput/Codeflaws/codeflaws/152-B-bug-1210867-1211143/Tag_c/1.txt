@@ -1,4 +1,0 @@
-codeflaws/152-B-bug-1210867-1211143/152-B-1211143.c
-codeflaws/152-B-bug-1210867-1211143/152-B-1210867.c
-22,33
-[("Insert b' x1=x2=0;\\n' at position 24 in file2", 23), ("Replace b'  x2=(m-temp2)/abso(dy[i]);\\n' with b'  x2=(m-temp2)/abso(dx[i]);\\n' at position 35", 34)]

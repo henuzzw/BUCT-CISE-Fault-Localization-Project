@@ -1,0 +1,4 @@
+codeflaws/82-A-bug-17974996-17975018/82-A-17975018.c
+codeflaws/82-A-bug-17974996-17975018/82-A-17974996.c
+8
+[("Replace b'    for(i=0;sum<n;i++){\\n' with b'    for(i=0;sum<=n;i++){\\n' at position 9", 8)]

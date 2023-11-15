@@ -1,4 +1,0 @@
-codeflaws/432-A-bug-16804698-16804950/432-A-16804950.c
-codeflaws/432-A-bug-16804698-16804950/432-A-16804698.c
-13,16
-[("Insert b'\\tx=5-x;\\n' at position 15 in file2", 14), ("Replace b'\\t\\tif(s<=x)\\n' with b'\\t\\tif(s<2)\\n' at position 18", 17)]

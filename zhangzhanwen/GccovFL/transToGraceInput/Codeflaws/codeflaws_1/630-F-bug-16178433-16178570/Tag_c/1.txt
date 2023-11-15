@@ -1,0 +1,4 @@
+codeflaws/630-F-bug-16178433-16178570/630-F-16178570.c
+codeflaws/630-F-bug-16178433-16178570/630-F-16178433.c
+10
+[("Replace b'l=k*(i-6)/7;\\n' with b'l=k*(k-6)/7;\\n' at position 11", 10)]

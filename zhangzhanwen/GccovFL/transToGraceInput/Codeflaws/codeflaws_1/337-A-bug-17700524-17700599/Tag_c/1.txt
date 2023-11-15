@@ -1,0 +1,4 @@
+codeflaws/337-A-bug-17700524-17700599/337-A-17700599.c
+codeflaws/337-A-bug-17700524-17700599/337-A-17700524.c
+32
+[("Replace b'\\tfor(i=0;i<pz-st+1;i++)\\n' with b'\\tfor(i=0;i<pz-st;i++)\\n' at position 33", 32)]

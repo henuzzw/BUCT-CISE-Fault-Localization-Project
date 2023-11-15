@@ -1,4 +1,0 @@
-codeflaws/287-A-bug-9919545-9919585/287-A-9919585.c
-codeflaws/287-A-bug-9919545-9919585/287-A-9919545.c
-32
-[("Insert b'    else if((tab[i][j+1]==tab[i+1][j])&&(tab[i][j+1]==tab[i+1][j+1])){return 1;}\\n' at position 34 in file2", 33)]

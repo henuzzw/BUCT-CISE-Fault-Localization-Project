@@ -1,0 +1,4 @@
+codeflaws/78-C-bug-602551-602556/78-C-602556.c
+codeflaws/78-C-bug-602551-602556/78-C-602551.c
+18
+[("Replace b'    if (n1 % 2 == 0 || k >= m){\\n' with b'    if (n1 % 2 == 0){\\n' at position 19", 18)]

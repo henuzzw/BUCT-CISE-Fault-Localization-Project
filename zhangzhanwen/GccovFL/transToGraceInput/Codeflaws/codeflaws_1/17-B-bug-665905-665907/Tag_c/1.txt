@@ -1,0 +1,4 @@
+codeflaws/17-B-bug-665905-665907/17-B-665907.c
+codeflaws/17-B-bug-665905-665907/17-B-665905.c
+28
+[("Replace b'     if (n == 1) {\\n' with b'     if (n == 0) {\\n' at position 29", 28)]

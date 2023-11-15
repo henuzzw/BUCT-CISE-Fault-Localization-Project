@@ -1,4 +1,0 @@
-codeflaws/1-A-bug-18353247-18353306/1-A-18353306.c
-codeflaws/1-A-bug-18353247-18353306/1-A-18353247.c
-13
-[('Replace b\'     printf("%lld",(long long)x);\\n\' with b\'     printf("%lf",x);\\n\' at position 14', 13)]

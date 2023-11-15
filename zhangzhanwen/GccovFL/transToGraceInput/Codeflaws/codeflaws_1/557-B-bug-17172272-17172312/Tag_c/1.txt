@@ -1,0 +1,4 @@
+codeflaws/557-B-bug-17172272-17172312/557-B-17172312.c
+codeflaws/557-B-bug-17172272-17172312/557-B-17172272.c
+14
+[('Replace b\'printf("%lf", arr[a]*a + arr[a]/2.0*a);\\n\' with b\'printf("%lf", arr[a]*a + arr[0]/2.0*a);\\n\' at position 15', 14)]

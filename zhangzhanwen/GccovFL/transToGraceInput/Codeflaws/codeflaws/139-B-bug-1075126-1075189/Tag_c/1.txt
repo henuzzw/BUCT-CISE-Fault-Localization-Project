@@ -1,4 +1,0 @@
-codeflaws/139-B-bug-1075126-1075189/139-B-1075189.c
-codeflaws/139-B-bug-1075126-1075189/139-B-1075126.c
-43
-[("Replace b'\\t\\tt1=t[j].d/hrm[i]*t[j].w; if(!t1){continue;}\\n' with b'\\t\\tt1=t[j].d/hrm[i]*t[j].w;\\n' at position 44", 43)]

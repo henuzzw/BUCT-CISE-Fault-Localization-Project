@@ -1,4 +1,0 @@
-codeflaws/66-B-bug-1400635-1400686/66-B-1400686.c
-codeflaws/66-B-bug-1400635-1400686/66-B-1400635.c
-42
-[("Replace b'    pos++;\\n' with b'    pos--;\\n' at position 43", 42)]

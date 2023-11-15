@@ -1,4 +1,0 @@
-codeflaws/232-A-bug-2346657-2347202/232-A-2347202.c
-codeflaws/232-A-bug-2346657-2347202/232-A-2346657.c
-66
-[('Replace b\'\\t\\t\\tprintf("%d", a[i][j]);\\n\' with b\'\\t\\t\\tprintf(" %d"+!j, a[i][j]);\\n\' at position 67', 66)]

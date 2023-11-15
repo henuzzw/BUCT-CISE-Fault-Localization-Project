@@ -1,0 +1,4 @@
+codeflaws/174-A-bug-4569708-4569724/174-A-4569724.c
+codeflaws/174-A-bug-4569708-4569724/174-A-4569708.c
+29
+[("Replace b'    if(f)\\n' with b'    if(f||fmod(b,n))\\n' at position 30", 29)]

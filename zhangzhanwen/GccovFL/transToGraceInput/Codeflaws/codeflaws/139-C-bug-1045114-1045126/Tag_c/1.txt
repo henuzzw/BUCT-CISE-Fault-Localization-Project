@@ -1,4 +1,0 @@
-codeflaws/139-C-bug-1045114-1045126/139-C-1045126.c
-codeflaws/139-C-bug-1045114-1045126/139-C-1045114.c
-63
-[("Replace b'\\t\\telse if (strcmp(cr, r)) {\\n' with b'\\t\\telse {\\n' at position 64", 63)]

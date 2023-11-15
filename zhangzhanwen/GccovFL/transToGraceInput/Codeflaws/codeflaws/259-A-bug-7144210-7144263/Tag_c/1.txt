@@ -1,4 +1,0 @@
-codeflaws/259-A-bug-7144210-7144263/259-A-7144263.c
-codeflaws/259-A-bug-7144210-7144263/259-A-7144210.c
-26
-[("Replace b'\\tif (e == 0)\\n' with b'\\tif (a == 8)\\n' at position 27", 26)]

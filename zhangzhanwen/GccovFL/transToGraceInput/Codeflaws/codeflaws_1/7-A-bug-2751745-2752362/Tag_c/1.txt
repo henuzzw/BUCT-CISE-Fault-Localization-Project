@@ -1,0 +1,4 @@
+codeflaws/7-A-bug-2751745-2752362/7-A-2752362.c
+codeflaws/7-A-bug-2751745-2752362/7-A-2751745.c
+37,37,37
+[("Insert b'  if(n == 16) {\\n' at position 39 in file2", 38), ("Insert b'    n = 8;\\n' at position 40 in file2", 39), ("Insert b'  }\\n' at position 41 in file2", 40)]

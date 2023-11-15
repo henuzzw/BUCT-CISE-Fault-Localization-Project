@@ -1,4 +1,0 @@
-codeflaws/337-A-bug-17713403-17713439/337-A-17713439.c
-codeflaws/337-A-bug-17713403-17713439/337-A-17713403.c
-27
-[("Replace b'    int y = a[0]-a[n-1];\\n' with b'    int y = a[n-1]-a[0];\\n' at position 28", 27)]

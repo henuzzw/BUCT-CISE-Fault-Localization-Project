@@ -1,4 +1,0 @@
-codeflaws/329-B-bug-6006442-6006450/329-B-6006450.c
-codeflaws/329-B-bug-6006442-6006450/329-B-6006442.c
-4
-[("Replace b'#define MAX 3000000\\n' with b'#define MAX 100000\\n' at position 5", 4)]

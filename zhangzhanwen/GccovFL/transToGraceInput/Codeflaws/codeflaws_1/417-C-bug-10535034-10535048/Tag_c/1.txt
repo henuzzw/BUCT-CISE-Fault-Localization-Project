@@ -1,0 +1,4 @@
+codeflaws/417-C-bug-10535034-10535048/417-C-10535048.c
+codeflaws/417-C-bug-10535034-10535048/417-C-10535034.c
+6,7
+[("Replace b'\\tif( k<=((n-1)>>1))\\n' with b'\\tif( k<=((n-1)>>1) && k!=0)\\n' at position 7", 6), ('Insert b\'\\t\\tprintf("%d\\\\n",n*k);\\n\' at position 9 in file2', 8)]

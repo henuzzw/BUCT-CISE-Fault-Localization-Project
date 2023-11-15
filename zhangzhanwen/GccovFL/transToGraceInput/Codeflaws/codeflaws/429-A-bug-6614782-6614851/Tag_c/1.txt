@@ -1,4 +1,0 @@
-codeflaws/429-A-bug-6614782-6614851/429-A-6614851.c
-codeflaws/429-A-bug-6614782-6614851/429-A-6614782.c
-35,35
-[("Replace b'             que[e]=now,nd[now]->num=ini[now],nd[now]->signj=nd[que[s]]->signj;\\n' with b'             que[e]=now,nd[que[e]]->num=ini[now],nd[que[e]]->signj=nd[que[s]]->signj,nd[que[e]]->signj=nd[que[s]]->signj,nd[que[e]]->deep=nd[que[s]]->deep+1;\\n' at position 36", 35), ("Insert b'             nd[now]->signo=nd[que[s]]->signo,nd[now]->deep=nd[que[s]]->deep+1;\\n' at position 37 in file2", 36)]

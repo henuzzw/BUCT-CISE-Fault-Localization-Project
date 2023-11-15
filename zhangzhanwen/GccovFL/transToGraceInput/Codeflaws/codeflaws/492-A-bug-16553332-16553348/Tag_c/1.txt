@@ -1,4 +1,0 @@
-codeflaws/492-A-bug-16553332-16553348/492-A-16553348.c
-codeflaws/492-A-bug-16553332-16553348/492-A-16553332.c
-10
-[("Replace b'         if(sum1>x){\\n' with b'         if(sum1>=x){\\n' at position 11", 10)]

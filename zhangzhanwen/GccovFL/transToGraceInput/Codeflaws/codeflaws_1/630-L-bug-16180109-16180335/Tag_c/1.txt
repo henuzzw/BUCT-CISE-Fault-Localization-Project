@@ -1,0 +1,4 @@
+codeflaws/630-L-bug-16180109-16180335/630-L-16180335.c
+codeflaws/630-L-bug-16180109-16180335/630-L-16180109.c
+29
+[('Replace b\'\\tprintf("%05llu\\\\n", res);\\n\' with b\'\\tprintf("%llu\\\\n", res);\\n\' at position 30', 29)]

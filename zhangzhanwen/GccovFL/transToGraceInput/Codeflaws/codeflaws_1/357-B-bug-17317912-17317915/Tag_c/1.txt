@@ -1,0 +1,4 @@
+codeflaws/357-B-bug-17317912-17317915/357-B-17317915.c
+codeflaws/357-B-bug-17317912-17317915/357-B-17317912.c
+3
+[('Replace b\'    //freopen("in.txt", "r", stdin);\\n\' with b\'    freopen("in.txt", "r", stdin);\\n\' at position 4', 3)]

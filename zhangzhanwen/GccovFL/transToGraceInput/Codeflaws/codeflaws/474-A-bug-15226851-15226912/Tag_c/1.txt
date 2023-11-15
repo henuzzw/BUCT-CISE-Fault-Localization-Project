@@ -1,4 +1,0 @@
-codeflaws/474-A-bug-15226851-15226912/474-A-15226912.c
-codeflaws/474-A-bug-15226851-15226912/474-A-15226851.c
-26,26
-[("Replace b'                    j++;\\n' with b'                    str[i]=s[j+1];\\n' at position 27", 26), ("Insert b'                    str[i]=s[j];\\n' at position 28 in file2", 27)]

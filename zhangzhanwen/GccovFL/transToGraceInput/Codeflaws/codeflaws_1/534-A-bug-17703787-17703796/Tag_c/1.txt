@@ -1,0 +1,4 @@
+codeflaws/534-A-bug-17703787-17703796/534-A-17703796.c
+codeflaws/534-A-bug-17703787-17703796/534-A-17703787.c
+11,21
+[('Replace b\'        case 4 : printf("4\\\\n3 1 4 2\\\\n"); break;\\n\' with b\'        case 4 : printf("4\\\\n1 4 2 3\\\\n"); break;\\n\' at position 12', 11), ('Delete b\'    printf("\\\\n");\\n\' at position 21 in file2', 20)]

@@ -1,0 +1,4 @@
+codeflaws/552-C-bug-11769222-11769254/552-C-11769254.c
+codeflaws/552-C-bug-11769222-11769254/552-C-11769222.c
+4
+[("Replace b'    int c[40],d[40],i,j,flag=0,q=0,r=0;\\n' with b'    int c[20],d[20],i,j,flag=0,q=0,r=0;\\n' at position 5", 4)]

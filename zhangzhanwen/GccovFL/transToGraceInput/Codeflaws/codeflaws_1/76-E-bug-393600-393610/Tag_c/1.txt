@@ -1,0 +1,4 @@
+codeflaws/76-E-bug-393600-393610/76-E-393610.c
+codeflaws/76-E-bug-393600-393610/76-E-393600.c
+24
+[('Replace b\'\\tprintf("%lld\\\\n", N * sum_x2 - sum_x * sum_x + N * sum_y2 - sum_y * sum_y);\\n\' with b\'\\tprintf("%l64d\\\\n", N * sum_x2 - sum_x * sum_x + N * sum_y2 - sum_y * sum_y);\\n\' at position 25', 24)]

@@ -1,0 +1,4 @@
+codeflaws/664-A-bug-17401092-17401100/664-A-17401100.c
+codeflaws/664-A-bug-17401092-17401100/664-A-17401092.c
+5
+[('Replace b\'    FILE *inp = stdin;\\n\' with b\'    FILE *inp = fopen("input.txt","r");\\n\' at position 6', 5)]

@@ -1,4 +1,0 @@
-codeflaws/523-C-bug-10296551-10296574/523-C-10296574.c
-codeflaws/523-C-bug-10296551-10296574/523-C-10296551.c
-86
-[('Replace b\'\\t\\t//printf("Left: %d, Right: %d \\\\n", left, right);\\n\' with b\'\\t\\tprintf("Left: %d, Right: %d \\\\n", left, right);\\n\' at position 87', 86)]

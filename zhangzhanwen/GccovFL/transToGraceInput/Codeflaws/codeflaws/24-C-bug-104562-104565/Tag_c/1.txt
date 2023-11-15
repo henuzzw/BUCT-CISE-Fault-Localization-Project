@@ -1,4 +1,0 @@
-codeflaws/24-C-bug-104562-104565/24-C-104565.c
-codeflaws/24-C-bug-104562-104565/24-C-104562.c
-36
-[('Replace b\'  printf("%d %d\\\\n",ex,ey);\\n\' with b\'  printf("d %d\\\\n",ex,ey);\\n\' at position 37', 36)]

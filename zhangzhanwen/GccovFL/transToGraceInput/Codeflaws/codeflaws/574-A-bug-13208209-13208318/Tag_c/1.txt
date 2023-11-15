@@ -1,4 +1,0 @@
-codeflaws/574-A-bug-13208209-13208318/574-A-13208318.c
-codeflaws/574-A-bug-13208209-13208318/574-A-13208209.c
-22
-[("Replace b'\\tif (f[n]+limak+candy>n) candy+=n-limak-candy+1;\\n' with b'\\tif (f[n]+limak+candy>n) candy+=(n-limak-candy)/2+1;\\n' at position 23", 22)]

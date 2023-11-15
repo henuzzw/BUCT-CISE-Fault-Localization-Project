@@ -1,4 +1,0 @@
-codeflaws/300-A-bug-13547126-13547173/300-A-13547173.c
-codeflaws/300-A-bug-13547126-13547173/300-A-13547126.c
-46
-[('Replace b\'        printf("2 0 %d\\\\n",negative[ni-1]);\\n\' with b\'        printf("1 0 %d\\\\n",negative[ni-1]);\\n\' at position 47', 46)]

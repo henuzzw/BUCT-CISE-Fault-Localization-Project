@@ -1,0 +1,4 @@
+codeflaws/570-B-bug-16196576-16196625/570-B-16196625.c
+codeflaws/570-B-bug-16196576-16196625/570-B-16196576.c
+7
+[("Replace b'\\telse if(m<(1+n)/2 || (m==(1+n)/2 && n%2==0))\\n' with b'\\telse if(m<=(1+n)/2 && n%2!=0)\\n' at position 8", 7)]

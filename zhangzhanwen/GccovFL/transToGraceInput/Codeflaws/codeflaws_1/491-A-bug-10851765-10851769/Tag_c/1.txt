@@ -1,0 +1,4 @@
+codeflaws/491-A-bug-10851765-10851769/491-A-10851769.c
+codeflaws/491-A-bug-10851765-10851769/491-A-10851765.c
+10
+[('Replace b\'\\t\\tprintf("%d ",i);\\n\' with b\'\\t\\tprintf("%d",i);\\n\' at position 11', 10)]

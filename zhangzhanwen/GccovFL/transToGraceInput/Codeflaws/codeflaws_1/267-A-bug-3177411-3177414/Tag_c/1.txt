@@ -1,0 +1,4 @@
+codeflaws/267-A-bug-3177411-3177414/267-A-3177414.c
+codeflaws/267-A-bug-3177411-3177414/267-A-3177411.c
+7,10
+[("Insert b'\\t\\ts=0;\\n' at position 9 in file2", 8), ("Delete b'\\t\\ts=0;\\n' at position 11 in file2", 10)]

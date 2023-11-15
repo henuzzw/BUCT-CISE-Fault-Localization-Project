@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-18358203-18358576/144-A-18358576.c
-codeflaws/144-A-bug-18358203-18358576/144-A-18358203.c
-24
-[("Insert b'            h++;\\n' at position 26 in file2", 25)]

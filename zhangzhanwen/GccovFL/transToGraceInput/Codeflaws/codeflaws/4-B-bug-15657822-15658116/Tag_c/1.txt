@@ -1,4 +1,0 @@
-codeflaws/4-B-bug-15657822-15658116/4-B-15658116.c
-codeflaws/4-B-bug-15657822-15658116/4-B-15657822.c
-15
-[("Replace b'           if(ex && ex >= b[i] - a[i]) {\\n' with b'           if(ex && ex > b[i] - a[i]) {\\n' at position 16", 15)]

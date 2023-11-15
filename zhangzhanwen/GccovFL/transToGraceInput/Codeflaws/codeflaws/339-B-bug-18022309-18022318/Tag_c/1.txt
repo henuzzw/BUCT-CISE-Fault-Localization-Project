@@ -1,4 +1,0 @@
-codeflaws/339-B-bug-18022309-18022318/339-B-18022318.c
-codeflaws/339-B-bug-18022309-18022318/339-B-18022309.c
-5
-[('Replace b\'    scanf("%d%d",&n,&m);\\n\' with b\'    scanf("%d",&n,&m);\\n\' at position 6', 5)]

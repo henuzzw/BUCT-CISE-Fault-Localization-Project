@@ -1,0 +1,4 @@
+codeflaws/43-C-bug-203025-203107/43-C-203107.c
+codeflaws/43-C-bug-203025-203107/43-C-203025.c
+14
+[('Insert b\'\\tprintf("%d", pairs);\\n\' at position 16 in file2', 15)]

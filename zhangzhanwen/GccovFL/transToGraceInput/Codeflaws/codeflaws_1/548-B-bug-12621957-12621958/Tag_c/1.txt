@@ -1,0 +1,4 @@
+codeflaws/548-B-bug-12621957-12621958/548-B-12621958.c
+codeflaws/548-B-bug-12621957-12621958/548-B-12621957.c
+41
+[('Replace b\'                //printf("max[%d] = %d\\\\n", k, max[k]);\\n\' with b\'                printf("max[%d] = %d\\\\n", k, max[k]);\\n\' at position 42', 41)]

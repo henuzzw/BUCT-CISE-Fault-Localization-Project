@@ -1,0 +1,4 @@
+codeflaws/355-B-bug-7652709-7652743/355-B-7652743.c
+codeflaws/355-B-bug-7652709-7652743/355-B-7652709.c
+28
+[('Delete b\'\\tprintf("%d\\\\n",s2);\\n\' at position 28 in file2', 27)]

@@ -1,0 +1,4 @@
+codeflaws/10-A-bug-4557108-4561236/10-A-4561236.c
+codeflaws/10-A-bug-4557108-4561236/10-A-4557108.c
+20
+[("Replace b'            if (m-t1>=t2){p+=p2*t2;} else if (m>t1 && m-t1<t2) {p+=p2*(m-t1);}\\n' with b'            if (m-t1>=t2){p+=p2*t2;} else if (m>t1 && m<t2) {p+=p2*(m-t1);}\\n' at position 21", 20)]

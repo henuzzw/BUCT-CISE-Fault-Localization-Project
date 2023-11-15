@@ -1,4 +1,0 @@
-codeflaws/366-A-bug-5512926-5512961/366-A-5512961.c
-codeflaws/366-A-bug-5512926-5512961/366-A-5512926.c
-14,15
-[("Replace b'                if(k - m[j] >= 0) {\\n' with b'                k -= m[j];\\n' at position 15", 14), ("Delete b'                if(k >= 0) {\\n' at position 15 in file2", 14)]

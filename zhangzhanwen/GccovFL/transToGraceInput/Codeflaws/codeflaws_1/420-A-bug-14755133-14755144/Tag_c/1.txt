@@ -1,0 +1,4 @@
+codeflaws/420-A-bug-14755133-14755144/420-A-14755144.c
+codeflaws/420-A-bug-14755133-14755144/420-A-14755133.c
+6
+[('Replace b\'\\tchar str[13]="AIMOHTUVWXY";\\n\' with b\'\\tchar str[13]="AIMOHSTUVWXY";\\n\' at position 7', 6)]

@@ -1,4 +1,0 @@
-codeflaws/118-A-bug-18174609-18174835/118-A-18174835.c
-codeflaws/118-A-bug-18174609-18174835/118-A-18174609.c
-14
-[('Replace b"        if(arr[i]==\'a\' || arr[i]==\'e\' || arr[i]==\'i\' || arr[i]==\'o\' || arr[i]==\'u\' || arr[i]==\'y\')\\n" with b"        if(arr[i]==\'a\' || arr[i]==\'e\' || arr[i]==\'i\' || arr[i]==\'o\' || arr[i]==\'u\')\\n" at position 15', 14)]

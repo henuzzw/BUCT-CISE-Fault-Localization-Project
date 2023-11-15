@@ -1,0 +1,4 @@
+codeflaws/612-A-bug-16848299-16848340/612-A-16848340.c
+codeflaws/612-A-bug-16848299-16848340/612-A-16848299.c
+44,44
+[("Insert b'\\n' at position 46 in file2", 45), ('Insert b\'\\t\\tprintf("%d\\\\n", xp + xq);\\n\' at position 47 in file2', 46)]

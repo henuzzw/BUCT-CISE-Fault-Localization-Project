@@ -1,0 +1,4 @@
+codeflaws/665-A-bug-17585149-17585865/665-A-17585865.c
+codeflaws/665-A-bug-17585149-17585865/665-A-17585149.c
+14
+[("Replace b'  Rs = Rs/b + (T >= tb);\\n' with b'  Rs = Rs/b + (Rs > b);\\n' at position 15", 14)]

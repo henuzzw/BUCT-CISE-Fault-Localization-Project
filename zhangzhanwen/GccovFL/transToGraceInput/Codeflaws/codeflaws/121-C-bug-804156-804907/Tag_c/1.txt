@@ -1,4 +1,0 @@
-codeflaws/121-C-bug-804156-804907/121-C-804907.c
-codeflaws/121-C-bug-804156-804907/121-C-804156.c
-58,59
-[("Delete b'\\n' at position 58 in file2", 57), ("Delete b'    if (x == k) i++;\\n' at position 58 in file2", 57)]

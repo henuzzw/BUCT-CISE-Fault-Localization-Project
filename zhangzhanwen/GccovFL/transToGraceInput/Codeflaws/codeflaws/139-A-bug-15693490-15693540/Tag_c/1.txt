@@ -1,4 +1,0 @@
-codeflaws/139-A-bug-15693490-15693540/139-A-15693540.c
-codeflaws/139-A-bug-15693490-15693540/139-A-15693490.c
-23,25
-[("Insert b'         if(i==6) i=-1;\\n' at position 25 in file2", 24), ("Replace b'\\n' with b'        if(i==6) i=0;\\n' at position 27", 26)]

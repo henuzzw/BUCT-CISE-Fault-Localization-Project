@@ -1,4 +1,0 @@
-codeflaws/149-A-bug-16617896-16617908/149-A-16617908.c
-codeflaws/149-A-bug-16617896-16617908/149-A-16617896.c
-23
-[('Insert b\'\\tprintf("-1");\\n\' at position 25 in file2', 24)]

@@ -1,4 +1,0 @@
-codeflaws/165-B-bug-10694756-10694905/165-B-10694905.c
-codeflaws/165-B-bug-10694756-10694905/165-B-10694756.c
-48
-[("Insert b'            min=low;\\n' at position 50 in file2", 49)]

@@ -1,0 +1,4 @@
+codeflaws/435-C-bug-6780640-6780658/435-C-6780658.c
+codeflaws/435-C-bug-6780640-6780658/435-C-6780640.c
+7
+[("Replace b'\\tint pos_max=0,pos_min=-1;\\n' with b'\\tint pos_max=0,pos_min=0;\\n' at position 8", 7)]

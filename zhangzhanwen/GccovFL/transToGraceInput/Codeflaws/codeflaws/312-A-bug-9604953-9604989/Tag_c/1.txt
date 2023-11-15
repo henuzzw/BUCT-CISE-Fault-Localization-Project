@@ -1,4 +1,0 @@
-codeflaws/312-A-bug-9604953-9604989/312-A-9604989.c
-codeflaws/312-A-bug-9604953-9604989/312-A-9604953.c
-44
-[('Replace b\'            printf("Freda\\\'s\\\\n");\\n\' with b\'            printf("Fred\\\'s\\\\n");\\n\' at position 45', 44)]

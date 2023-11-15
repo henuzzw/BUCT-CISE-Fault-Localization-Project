@@ -1,4 +1,0 @@
-codeflaws/670-A-bug-18072516-18072531/670-A-18072531.c
-codeflaws/670-A-bug-18072516-18072531/670-A-18072516.c
-12
-[("Insert b'\\t\\t\\tmax--;\\n' at position 14 in file2", 13)]

@@ -1,4 +1,0 @@
-codeflaws/106-A-bug-18253717-18253726/106-A-18253726.c
-codeflaws/106-A-bug-18253717-18253726/106-A-18253717.c
-1,41
-[("Delete b'#include<stdio.h>\\n' at position 1 in file2", 0), ("Replace b'\\telse if(s2[1]==s1[0]&&s1[0]!=s3[1])\\n' with b'\\telse if(s2[1]==s1[0]&&s1[0]!=s3[0])\\n' at position 41", 40)]

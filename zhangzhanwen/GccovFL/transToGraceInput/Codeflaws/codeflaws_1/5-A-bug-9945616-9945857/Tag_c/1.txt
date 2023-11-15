@@ -1,0 +1,4 @@
+codeflaws/5-A-bug-9945616-9945857/5-A-9945857.c
+codeflaws/5-A-bug-9945616-9945857/5-A-9945616.c
+6
+[('Replace b\'\\twhile(gets(str)!=NULL)\\n\' with b\'\\twhile(scanf("%s",str)!=EOF)\\n\' at position 7', 6)]

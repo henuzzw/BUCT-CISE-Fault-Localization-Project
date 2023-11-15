@@ -1,0 +1,4 @@
+codeflaws/287-C-bug-3391049-3391143/287-C-3391143.c
+codeflaws/287-C-bug-3391049-3391143/287-C-3391049.c
+30
+[('Delete b\'            printf("t %d\\\\n",test);\\n\' at position 30 in file2', 29)]

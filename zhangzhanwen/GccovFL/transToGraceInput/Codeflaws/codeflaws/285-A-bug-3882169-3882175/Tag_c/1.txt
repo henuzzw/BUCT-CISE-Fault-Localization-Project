@@ -1,4 +1,0 @@
-codeflaws/285-A-bug-3882169-3882175/285-A-3882175.c
-codeflaws/285-A-bug-3882169-3882175/285-A-3882169.c
-7
-[('Replace b\'        printf("%d ",i);\\n\' with b\'        printf("%d",i);\\n\' at position 8', 7)]

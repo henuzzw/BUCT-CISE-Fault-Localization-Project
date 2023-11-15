@@ -1,0 +1,4 @@
+codeflaws/633-A-bug-17175268-17175278/633-A-17175278.c
+codeflaws/633-A-bug-17175268-17175278/633-A-17175268.c
+9
+[("Replace b'        if((a*x+b*y)==c&& x>=0&&y>=0)\\n' with b'        if((a*x+b*y)==c&& x>0&&y>0)\\n' at position 10", 9)]

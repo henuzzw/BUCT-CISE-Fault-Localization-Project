@@ -1,0 +1,4 @@
+codeflaws/31-B-bug-10514554-10514583/31-B-10514583.c
+codeflaws/31-B-bug-10514554-10514583/31-B-10514554.c
+73
+[("Replace b'\\tif(state==1&&bit!=0)\\n' with b'\\tif(state==1)\\n' at position 74", 73)]

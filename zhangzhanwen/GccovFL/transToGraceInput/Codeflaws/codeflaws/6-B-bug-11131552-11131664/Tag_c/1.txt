@@ -1,4 +1,0 @@
-codeflaws/6-B-bug-11131552-11131664/6-B-11131664.c
-codeflaws/6-B-bug-11131552-11131664/6-B-11131552.c
-24,33
-[('Insert b\'\\t\\t// printf("%c %c %i %i %i\\\\n",l[p][s-1],l[p][e+1],s,e,i);\\n\' at position 26 in file2', 25), ("Delete b'\\t\\tp=!p;\\n' at position 34 in file2", 33)]

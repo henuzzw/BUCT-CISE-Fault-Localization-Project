@@ -1,0 +1,4 @@
+codeflaws/673-A-bug-18098093-18098213/673-A-18098213.c
+codeflaws/673-A-bug-18098093-18098213/673-A-18098093.c
+30,30
+[("Insert b'    if((a[n-1]<75) && flag<0)\\n' at position 32 in file2", 31), ("Insert b'        flag = a[n-1];\\n' at position 33 in file2", 32)]

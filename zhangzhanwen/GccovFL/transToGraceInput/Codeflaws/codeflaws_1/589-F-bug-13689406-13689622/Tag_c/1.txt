@@ -1,0 +1,4 @@
+codeflaws/589-F-bug-13689406-13689622/589-F-13689622.c
+codeflaws/589-F-bug-13689406-13689622/589-F-13689406.c
+5,29
+[("Insert b'\\tfor(i=-1;++i<n;)A[i]=0;\\n' at position 7 in file2", 6), ('Replace b\'\\tprintf("%u\\\\n",lo*n);\\n\' with b\'\\tprintf("%u\\\\n",lo);\\n\' at position 31', 30)]

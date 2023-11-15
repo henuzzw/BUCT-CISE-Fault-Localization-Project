@@ -1,4 +1,0 @@
-codeflaws/417-C-bug-10562766-10562777/417-C-10562777.c
-codeflaws/417-C-bug-10562766-10562777/417-C-10562766.c
-13
-[('Replace b\'      // printf("n is:%d k is:%d\\\\n",n,k);\\n\' with b\'      printf("n is:%d k is:%d\\\\n",n,k);\\n\' at position 14', 13)]

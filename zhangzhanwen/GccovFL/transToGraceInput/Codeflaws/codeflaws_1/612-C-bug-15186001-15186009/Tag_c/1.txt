@@ -1,0 +1,4 @@
+codeflaws/612-C-bug-15186001-15186009/612-C-15186009.c
+codeflaws/612-C-bug-15186001-15186009/612-C-15186001.c
+97
+[("Replace b'            return 0;\\n' with b'            break;\\n' at position 98", 97)]

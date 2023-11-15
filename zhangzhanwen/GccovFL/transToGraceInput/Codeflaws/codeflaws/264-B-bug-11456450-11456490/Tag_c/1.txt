@@ -1,4 +1,0 @@
-codeflaws/264-B-bug-11456450-11456490/264-B-11456490.c
-codeflaws/264-B-bug-11456450-11456490/264-B-11456450.c
-23,49
-[('Replace b\'    scanf("%lld",&n);\\n\' with b\'    scanf("%d",&n);\\n\' at position 24', 23), ("Insert b'\\n' at position 51 in file2", 50)]

@@ -1,4 +1,0 @@
-codeflaws/459-C-bug-7486097-7486125/459-C-7486125.c
-codeflaws/459-C-bug-7486097-7486125/459-C-7486097.c
-7,8
-[("Replace b'    long long q,gap=1;\\n' with b'\\n' at position 8", 7), ("Delete b'    int q,gap=1;\\n' at position 8 in file2", 7)]

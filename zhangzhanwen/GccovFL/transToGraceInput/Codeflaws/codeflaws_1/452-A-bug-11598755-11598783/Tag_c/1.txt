@@ -1,0 +1,4 @@
+codeflaws/452-A-bug-11598755-11598783/452-A-11598783.c
+codeflaws/452-A-bug-11598755-11598783/452-A-11598755.c
+9
+[('Insert b\'    else if(n==6) printf("%s", a[3]);\\n\' at position 11 in file2', 10)]

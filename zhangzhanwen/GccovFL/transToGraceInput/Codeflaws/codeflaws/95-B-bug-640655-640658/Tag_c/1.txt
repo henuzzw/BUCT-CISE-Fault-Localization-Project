@@ -1,4 +1,0 @@
-codeflaws/95-B-bug-640655-640658/95-B-640658.c
-codeflaws/95-B-bug-640655-640658/95-B-640655.c
-42,42
-[("Insert b'\\t} else {\\n' at position 44 in file2", 43), ("Insert b'\\t\\tflag = 0;\\n' at position 45 in file2", 44)]

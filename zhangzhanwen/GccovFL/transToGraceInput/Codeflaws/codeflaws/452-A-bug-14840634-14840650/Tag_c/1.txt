@@ -1,4 +1,0 @@
-codeflaws/452-A-bug-14840634-14840650/452-A-14840650.c
-codeflaws/452-A-bug-14840634-14840650/452-A-14840634.c
-50
-[("Replace b'\\t    if (kol>=kol_max) {\\n' with b'\\t    if (kol>kol_max) {\\n' at position 51", 50)]

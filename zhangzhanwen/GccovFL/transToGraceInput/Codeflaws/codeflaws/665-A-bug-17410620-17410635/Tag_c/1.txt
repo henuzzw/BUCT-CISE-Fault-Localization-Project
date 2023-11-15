@@ -1,4 +1,0 @@
-codeflaws/665-A-bug-17410620-17410635/665-A-17410635.c
-codeflaws/665-A-bug-17410620-17410635/665-A-17410620.c
-33
-[('Replace b\'\\t//printf("%d:%d %d:%d\\\\n",sbh,sbm,hr,min);\\n\' with b\'\\tprintf("%d:%d %d:%d\\\\n",sbh,sbm,hr,min);\\n\' at position 34', 33)]

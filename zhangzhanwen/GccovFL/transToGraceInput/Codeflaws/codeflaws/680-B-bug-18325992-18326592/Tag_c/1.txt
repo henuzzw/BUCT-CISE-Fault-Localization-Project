@@ -1,4 +1,0 @@
-codeflaws/680-B-bug-18325992-18326592/680-B-18326592.c
-codeflaws/680-B-bug-18325992-18326592/680-B-18325992.c
-47
-[("Replace b'           if (p+i>n+1)\\n' with b'           if (p+i>6)\\n' at position 48", 47)]

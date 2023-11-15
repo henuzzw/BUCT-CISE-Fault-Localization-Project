@@ -1,4 +1,0 @@
-codeflaws/448-D-bug-13913580-13913626/448-D-13913626.c
-codeflaws/448-D-bug-13913580-13913626/448-D-13913580.c
-8
-[("Replace b'\\tlong long int l=1,r=250000000001,mid,q,k,i,m,n;\\n' with b'\\tlong long int l=1,r=25000000001,mid,q,k,i,m,n;\\n' at position 9", 8)]

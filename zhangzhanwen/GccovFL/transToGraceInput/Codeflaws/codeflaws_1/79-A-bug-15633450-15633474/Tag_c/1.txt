@@ -1,0 +1,4 @@
+codeflaws/79-A-bug-15633450-15633474/79-A-15633474.c
+codeflaws/79-A-bug-15633450-15633474/79-A-15633450.c
+10
+[("Replace b'\\t\\t\\t\\tb=b-2;\\n' with b'\\t\\t\\t\\ta=a-2;\\n' at position 11", 10)]

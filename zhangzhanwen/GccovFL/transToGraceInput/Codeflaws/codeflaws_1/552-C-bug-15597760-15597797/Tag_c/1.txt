@@ -1,0 +1,4 @@
+codeflaws/552-C-bug-15597760-15597797/552-C-15597797.c
+codeflaws/552-C-bug-15597760-15597797/552-C-15597760.c
+26,26,26
+[("Insert b'      if(mass/mypow==1)\\n' at position 28 in file2", 27), ("Insert b'      return 1;\\n' at position 29 in file2", 28), ("Insert b'\\n' at position 30 in file2", 29)]

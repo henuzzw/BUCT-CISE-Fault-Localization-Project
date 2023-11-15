@@ -1,4 +1,0 @@
-codeflaws/263-B-bug-4040259-4040276/263-B-4040276.c
-codeflaws/263-B-bug-4040259-4040276/263-B-4040259.c
-21
-[('Replace b\'        printf("%d %d",a[k-1],a[n-1]);\\n\' with b\'        printf("%d %d",a[k-1]-1,a[k-1]-1);\\n\' at position 22', 21)]

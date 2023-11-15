@@ -1,4 +1,0 @@
-codeflaws/645-B-bug-16799165-16799183/645-B-16799183.c
-codeflaws/645-B-bug-16799165-16799183/645-B-16799165.c
-15
-[('Replace b\'    printf("%lld\\\\n",k*(2*n-2*k-1ll));\\n\' with b\'    printf("%d\\\\n",k*(2*n-2*k-1));\\n\' at position 16', 15)]

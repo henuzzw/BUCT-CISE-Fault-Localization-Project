@@ -1,0 +1,4 @@
+codeflaws/291-C-bug-3539579-3539599/291-C-3539599.c
+codeflaws/291-C-bug-3539579-3539599/291-C-3539579.c
+43,58
+[("Insert b'            \\n' at position 45 in file2", 44), ("Insert b'        if(cm>=k+1)flag=0;\\n' at position 61 in file2", 60)]

@@ -1,4 +1,0 @@
-codeflaws/234-A-bug-2519091-2519130/234-A-2519130.c
-codeflaws/234-A-bug-2519091-2519130/234-A-2519091.c
-8,8
-[('Insert b\'\\tfreopen("input.txt","r",stdin);\\n\' at position 10 in file2', 9), ('Insert b\'\\tfreopen("output.txt","w",stdout);\\n\' at position 11 in file2', 10)]

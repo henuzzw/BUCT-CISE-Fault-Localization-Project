@@ -1,4 +1,0 @@
-codeflaws/12-C-bug-1919840-1919852/12-C-1919852.c
-codeflaws/12-C-bug-1919840-1919852/12-C-1919840.c
-7
-[('Replace b\'\\twhile (scanf("%d%d",&n,&m)!=EOF)\\n\' with b\'\\twhile (scanf("%d%d",&n,&m)!=0)\\n\' at position 8', 7)]

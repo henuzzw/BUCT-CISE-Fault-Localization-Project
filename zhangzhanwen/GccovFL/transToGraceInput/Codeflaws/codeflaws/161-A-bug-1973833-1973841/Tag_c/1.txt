@@ -1,4 +1,0 @@
-codeflaws/161-A-bug-1973833-1973841/161-A-1973841.c
-codeflaws/161-A-bug-1973833-1973841/161-A-1973833.c
-13
-[("Replace b'\\t\\tif (j<m&&a[i]-x<=b[j]&&b[j]<=a[i]+y) v[i]=++j;\\n' with b'\\t\\tif (a[i]-x<=b[j]&&b[j]<=a[i]+y) v[i]=++j;\\n' at position 14", 13)]

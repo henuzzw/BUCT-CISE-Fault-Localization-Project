@@ -1,0 +1,4 @@
+codeflaws/197-B-bug-4052369-4052374/197-B-4052374.c
+codeflaws/197-B-bug-4052369-4052374/197-B-4052369.c
+14
+[("Replace b'{if(a[0]*b[0]>0)\\n' with b'{if(a[0]>0)\\n' at position 15", 14)]

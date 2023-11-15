@@ -1,0 +1,4 @@
+codeflaws/12-A-bug-9404453-9404489/12-A-9404489.c
+codeflaws/12-A-bug-9404453-9404489/12-A-9404453.c
+9
+[('Delete b\'\\t\\t    printf("enter X if you want to press that particular no. otherwise press . \\\\n");\\n\' at position 9 in file2', 8)]

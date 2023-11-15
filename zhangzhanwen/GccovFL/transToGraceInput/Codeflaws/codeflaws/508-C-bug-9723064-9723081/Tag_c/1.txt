@@ -1,4 +1,0 @@
-codeflaws/508-C-bug-9723064-9723081/508-C-9723081.c
-codeflaws/508-C-bug-9723064-9723081/508-C-9723064.c
-24
-[("Replace b'                for(k=ghost+350;k<=j+t && k<700;k++){\\n' with b'                for(k=ghost+350;k<=j+t,k<700;k++){\\n' at position 25", 24)]

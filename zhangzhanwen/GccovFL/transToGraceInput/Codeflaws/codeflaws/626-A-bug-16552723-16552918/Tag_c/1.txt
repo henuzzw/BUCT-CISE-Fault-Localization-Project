@@ -1,4 +1,0 @@
-codeflaws/626-A-bug-16552723-16552918/626-A-16552918.c
-codeflaws/626-A-bug-16552723-16552918/626-A-16552723.c
-35
-[("Insert b'\\t\\t\\tmemset(b,0,sizeof(b));\\n' at position 37 in file2", 36)]

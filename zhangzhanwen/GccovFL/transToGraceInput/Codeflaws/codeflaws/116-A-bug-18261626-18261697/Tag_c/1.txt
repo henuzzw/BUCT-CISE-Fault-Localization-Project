@@ -1,4 +1,0 @@
-codeflaws/116-A-bug-18261626-18261697/116-A-18261697.c
-codeflaws/116-A-bug-18261626-18261697/116-A-18261626.c
-9,9
-[('Replace b\'       // printf("%d",count);\\n\' with b\'        if(b>a)temp=count;\\n\' at position 10', 9), ("Insert b'        if(count>temp)temp=count;\\n' at position 11 in file2", 10)]

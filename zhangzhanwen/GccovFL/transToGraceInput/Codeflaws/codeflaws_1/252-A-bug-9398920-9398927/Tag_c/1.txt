@@ -1,0 +1,4 @@
+codeflaws/252-A-bug-9398920-9398927/252-A-9398927.c
+codeflaws/252-A-bug-9398920-9398927/252-A-9398920.c
+12
+[("Insert b'\\t\\ts = arr[i];\\n' at position 14 in file2", 13)]

@@ -1,0 +1,4 @@
+codeflaws/370-B-bug-5376603-5376642/370-B-5376642.c
+codeflaws/370-B-bug-5376603-5376642/370-B-5376603.c
+70,90
+[("Delete b'                            break ;\\n' at position 70 in file2", 69), ("Replace b'}\\n' with b'}' at position 90", 89)]

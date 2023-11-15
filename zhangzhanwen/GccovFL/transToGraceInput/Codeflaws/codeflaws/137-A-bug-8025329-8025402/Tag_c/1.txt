@@ -1,4 +1,0 @@
-codeflaws/137-A-bug-8025329-8025402/137-A-8025402.c
-codeflaws/137-A-bug-8025329-8025402/137-A-8025329.c
-4
-[("Replace b'    char s[1000];\\n' with b'    char s[40];\\n' at position 5", 4)]

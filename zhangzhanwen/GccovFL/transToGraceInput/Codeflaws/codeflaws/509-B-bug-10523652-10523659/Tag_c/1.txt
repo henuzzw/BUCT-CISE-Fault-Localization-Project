@@ -1,4 +1,0 @@
-codeflaws/509-B-bug-10523652-10523659/509-B-10523659.c
-codeflaws/509-B-bug-10523652-10523659/509-B-10523652.c
-29
-[('Replace b\'        printf("NO\\\\n");\\n\' with b\'        printf("No\\\\n");\\n\' at position 30', 29)]

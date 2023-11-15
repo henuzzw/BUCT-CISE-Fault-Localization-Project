@@ -1,4 +1,0 @@
-codeflaws/353-A-bug-13999567-13999588/353-A-13999588.c
-codeflaws/353-A-bug-13999567-13999588/353-A-13999567.c
-14
-[("Replace b'\\t\\tif(a % 2 == 1 && b % 2 == 1 && c)\\n' with b'\\t\\tif(a % 2 == 1 && b % 2 == 1)\\n' at position 15", 14)]

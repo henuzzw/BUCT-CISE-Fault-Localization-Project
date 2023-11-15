@@ -1,4 +1,0 @@
-codeflaws/448-A-bug-17597123-17597130/448-A-17597130.c
-codeflaws/448-A-bug-17597123-17597130/448-A-17597123.c
-20
-[('Replace b\'\\n\' with b\'     printf("%d %d %d\\\\n",self,elf,total);\\n\' at position 21', 20)]

@@ -1,0 +1,4 @@
+codeflaws/68-A-bug-340593-340627/68-A-340627.c
+codeflaws/68-A-bug-340593-340627/68-A-340593.c
+15
+[('Replace b\'        printf("%ld\\\\n",(min-a)<0?0:min-a);\\n\' with b\'        printf("%ld\\\\n",(min-a)<0?0:a-min);\\n\' at position 16', 15)]

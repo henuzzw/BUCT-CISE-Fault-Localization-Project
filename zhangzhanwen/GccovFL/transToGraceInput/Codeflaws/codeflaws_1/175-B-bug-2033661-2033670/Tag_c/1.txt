@@ -1,0 +1,4 @@
+codeflaws/175-B-bug-2033661-2033670/175-B-2033670.c
+codeflaws/175-B-bug-2033661-2033670/175-B-2033661.c
+13,40
+[("Replace b'  double f1,f2;\\n' with b'  float f1,f2;\\n' at position 14", 13), ('Delete b\'\\t  printf("%.2f %.2f\\\\n",f1,f2);\\n\' at position 40 in file2', 39)]

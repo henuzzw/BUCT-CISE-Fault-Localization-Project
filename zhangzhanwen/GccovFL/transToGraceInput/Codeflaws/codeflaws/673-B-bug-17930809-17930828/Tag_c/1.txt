@@ -1,4 +1,0 @@
-codeflaws/673-B-bug-17930809-17930828/673-B-17930828.c
-codeflaws/673-B-bug-17930809-17930828/673-B-17930809.c
-27,28
-[("Insert b'    if(m!=0)\\n' at position 29 in file2", 28), ('Insert b\'    else printf("%d",n-1);\\n\' at position 31 in file2', 30)]

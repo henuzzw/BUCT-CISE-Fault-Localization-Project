@@ -1,0 +1,4 @@
+codeflaws/298-B-bug-6302031-6302152/298-B-6302152.c
+codeflaws/298-B-bug-6302031-6302152/298-B-6302031.c
+6
+[("Replace b'    char way[1000000];\\n' with b'    char way[100];\\n' at position 7", 6)]

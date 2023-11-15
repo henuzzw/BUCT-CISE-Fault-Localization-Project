@@ -1,4 +1,0 @@
-codeflaws/224-A-bug-14803698-14803709/224-A-14803709.c
-codeflaws/224-A-bug-14803698-14803709/224-A-14803698.c
-11
-[('Replace b\'    printf("%d\\\\n",(int)res);\\n\' with b\'    printf("%lf\\\\n",res);\\n\' at position 12', 11)]

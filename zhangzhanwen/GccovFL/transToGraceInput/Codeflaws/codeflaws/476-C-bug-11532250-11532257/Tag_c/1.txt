@@ -1,4 +1,0 @@
-codeflaws/476-C-bug-11532250-11532257/476-C-11532257.c
-codeflaws/476-C-bug-11532250-11532257/476-C-11532250.c
-13
-[("Replace b'\\ts = (q*r)%MOD;\\n' with b'\\td = (q*r)%MOD;\\n' at position 14", 13)]

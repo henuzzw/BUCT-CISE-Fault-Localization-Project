@@ -1,0 +1,4 @@
+codeflaws/41-B-bug-1808429-1808430/41-B-1808430.c
+codeflaws/41-B-bug-1808429-1808430/41-B-1808429.c
+18
+[('Replace b\'    //printf("%d %d %ld %ld\\\\n",min,max,val,ans);\\n\' with b\'    printf("%d %d %ld %ld\\\\n",min,max,val,ans);\\n\' at position 19', 18)]

@@ -1,4 +1,0 @@
-codeflaws/554-A-bug-13570457-13570553/554-A-13570553.c
-codeflaws/554-A-bug-13570457-13570553/554-A-13570457.c
-17,18
-[("Replace b'    return 0;\\n' with b'\\n' at position 18", 17), ("Delete b'\\n' at position 18 in file2", 17)]

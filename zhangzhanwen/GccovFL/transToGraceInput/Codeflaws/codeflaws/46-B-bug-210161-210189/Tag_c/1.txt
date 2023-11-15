@@ -1,4 +1,0 @@
-codeflaws/46-B-bug-210161-210189/46-B-210189.c
-codeflaws/46-B-bug-210161-210189/46-B-210161.c
-13
-[("Replace b'for(x=1;x<=a;x=x+1)\\n' with b'for(x=1;x<=5;x=x+1)\\n' at position 14", 13)]

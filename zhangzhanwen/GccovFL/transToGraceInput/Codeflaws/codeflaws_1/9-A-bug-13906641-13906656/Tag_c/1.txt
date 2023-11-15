@@ -1,0 +1,4 @@
+codeflaws/9-A-bug-13906641-13906656/9-A-13906656.c
+codeflaws/9-A-bug-13906641-13906656/9-A-13906641.c
+9,11
+[("Delete b'\\td=(7-c)/6;\\n' at position 9 in file2", 8), ('Replace b\'\\t\\tprintf("1/6\\\\n");\\n\' with b\'\\t\\tprintf("0/1\\\\n");\\n\' at position 11', 10)]

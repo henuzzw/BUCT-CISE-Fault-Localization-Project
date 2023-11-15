@@ -1,4 +1,0 @@
-codeflaws/390-A-bug-6062795-6062797/390-A-6062797.c
-codeflaws/390-A-bug-6062795-6062797/390-A-6062795.c
-10
-[('Replace b\'    printf("\\\\n%d",v>h?h:v);\\n\' with b\'    printf("\\\\n%d %d %d",v>h?h:v,v,h);\\n\' at position 11', 10)]

@@ -1,0 +1,4 @@
+codeflaws/567-B-bug-13009344-13009380/567-B-13009380.c
+codeflaws/567-B-bug-13009344-13009380/567-B-13009344.c
+43
+[("Insert b'                  k-- ;\\n' at position 45 in file2", 44)]

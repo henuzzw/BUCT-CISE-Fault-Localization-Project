@@ -1,4 +1,0 @@
-codeflaws/631-A-bug-16708886-16709076/631-A-16709076.c
-codeflaws/631-A-bug-16708886-16709076/631-A-16708886.c
-16
-[('Replace b\'    printf("\\\\n%d",n+n1);\\n\' with b\'    printf("%d\\\\n%d\\\\n%d",n,n1,n+n1);\\n\' at position 17', 16)]

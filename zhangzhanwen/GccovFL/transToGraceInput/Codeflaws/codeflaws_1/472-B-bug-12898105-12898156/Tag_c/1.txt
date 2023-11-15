@@ -1,0 +1,4 @@
+codeflaws/472-B-bug-12898105-12898156/472-B-12898156.c
+codeflaws/472-B-bug-12898105-12898156/472-B-12898105.c
+23
+[("Replace b'        ans+=(2*(arr[l]-1));\\n' with b'        ans+=(2*(arr[n-1]-1));\\n' at position 24", 23)]

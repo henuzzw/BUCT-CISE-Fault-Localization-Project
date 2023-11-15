@@ -1,4 +1,0 @@
-codeflaws/49-A-bug-15166209-15166224/49-A-15166224.c
-codeflaws/49-A-bug-15166209-15166224/49-A-15166209.c
-11
-[("Replace b'    while(i>=0)\\n' with b'    while(i)\\n' at position 12", 11)]

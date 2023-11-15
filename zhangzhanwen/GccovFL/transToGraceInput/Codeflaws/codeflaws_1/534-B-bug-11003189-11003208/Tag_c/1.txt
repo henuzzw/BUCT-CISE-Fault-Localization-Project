@@ -1,0 +1,4 @@
+codeflaws/534-B-bug-11003189-11003208/534-B-11003208.c
+codeflaws/534-B-bug-11003189-11003208/534-B-11003189.c
+38
+[("Replace b'            v2+=d;\\n' with b'            v2-=d;\\n' at position 39", 38)]

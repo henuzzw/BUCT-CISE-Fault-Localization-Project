@@ -1,4 +1,0 @@
-codeflaws/244-A-bug-4336111-4336116/244-A-4336116.c
-codeflaws/244-A-bug-4336111-4336116/244-A-4336111.c
-17
-[("Replace b'\\t\\t\\tcounter=1;\\n' with b'\\t\\t\\tcounter=0;\\n' at position 18", 17)]

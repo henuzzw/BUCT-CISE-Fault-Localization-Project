@@ -1,0 +1,4 @@
+codeflaws/152-B-bug-1208987-1209375/152-B-1209375.c
+codeflaws/152-B-bug-1208987-1209375/152-B-1208987.c
+13
+[("Replace b'          else ty = (m - y) / dy;\\n' with b'          else ty = (n - y) / dy;\\n' at position 14", 13)]

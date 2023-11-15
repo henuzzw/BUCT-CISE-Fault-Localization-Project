@@ -1,0 +1,4 @@
+codeflaws/55-A-bug-251673-251675/55-A-251675.c
+codeflaws/55-A-bug-251673-251675/55-A-251673.c
+5
+[('Replace b\'    printf("%s", n&(n-1) ? "NO" : "YES");\\n\' with b\'    printf("%s", n&(n-1) ? "YES" : "NO");\\n\' at position 6', 5)]

@@ -1,0 +1,4 @@
+codeflaws/74-A-bug-5857375-5857389/74-A-5857389.c
+codeflaws/74-A-bug-5857375-5857389/74-A-5857375.c
+4
+[("Replace b'    int n,a,b,c,d,e,unsu,suc,maxp=-1000000,sum;\\n' with b'    int n,a,b,c,d,e,unsu,suc,maxp=0,sum;\\n' at position 5", 4)]

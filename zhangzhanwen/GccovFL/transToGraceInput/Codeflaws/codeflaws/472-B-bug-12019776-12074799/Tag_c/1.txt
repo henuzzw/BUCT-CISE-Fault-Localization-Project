@@ -1,4 +1,0 @@
-codeflaws/472-B-bug-12019776-12074799/472-B-12074799.c
-codeflaws/472-B-bug-12019776-12074799/472-B-12019776.c
-12
-[("Replace b'            if(f[i]<f[i+1])\\n' with b'            if(f[i]>f[i+1])\\n' at position 13", 12)]

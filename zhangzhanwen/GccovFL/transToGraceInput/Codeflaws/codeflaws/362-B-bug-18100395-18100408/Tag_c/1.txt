@@ -1,4 +1,0 @@
-codeflaws/362-B-bug-18100395-18100408/362-B-18100408.c
-codeflaws/362-B-bug-18100395-18100408/362-B-18100395.c
-35
-[("Replace b'        if(cou==2 || a[i]==1 || a[i]==n)\\n' with b'        if(cou==2)\\n' at position 36", 35)]

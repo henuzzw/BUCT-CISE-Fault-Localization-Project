@@ -1,4 +1,0 @@
-codeflaws/92-A-bug-17541042-17542703/92-A-17542703.c
-codeflaws/92-A-bug-17541042-17542703/92-A-17541042.c
-20
-[("Replace b'        if((sum%(((n)*(n+1))/2))==0) i=0;\\n' with b'        if(sum==((n)*(n+1))/2) i=0;\\n' at position 21", 20)]

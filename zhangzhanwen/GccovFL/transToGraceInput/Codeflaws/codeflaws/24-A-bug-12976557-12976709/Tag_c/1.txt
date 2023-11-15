@@ -1,4 +1,0 @@
-codeflaws/24-A-bug-12976557-12976709/24-A-12976709.c
-codeflaws/24-A-bug-12976557-12976709/24-A-12976557.c
-13,28,57
-[('Delete b\'            //printf("(%d %d)", node, ans);\\n\' at position 13 in file2', 12), ("Insert b'                    break;\\n' at position 29 in file2", 28), ("Insert b'            \\n' at position 59 in file2", 58)]

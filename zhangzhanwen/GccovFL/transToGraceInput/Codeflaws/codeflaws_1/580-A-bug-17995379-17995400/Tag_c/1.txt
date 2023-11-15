@@ -1,0 +1,4 @@
+codeflaws/580-A-bug-17995379-17995400/580-A-17995400.c
+codeflaws/580-A-bug-17995379-17995400/580-A-17995379.c
+5
+[("Replace b'    int i,j,k=1;\\n' with b'    int i,j,k;\\n' at position 6", 5)]

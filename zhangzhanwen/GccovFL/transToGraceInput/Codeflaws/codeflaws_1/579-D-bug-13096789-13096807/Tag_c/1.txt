@@ -1,0 +1,4 @@
+codeflaws/579-D-bug-13096789-13096807/579-D-13096807.c
+codeflaws/579-D-bug-13096789-13096807/579-D-13096789.c
+33
+[("Replace b'        post[n+1-i] = post[n+2-i] | ar[n+1-i];\\n' with b'        post[n+1-i] = post[n+2-i] | ar[n+i-1];\\n' at position 34", 33)]

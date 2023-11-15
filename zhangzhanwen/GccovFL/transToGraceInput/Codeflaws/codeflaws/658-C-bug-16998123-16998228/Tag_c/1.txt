@@ -1,4 +1,0 @@
-codeflaws/658-C-bug-16998123-16998228/658-C-16998228.c
-codeflaws/658-C-bug-16998123-16998228/658-C-16998123.c
-14
-[('Replace b\'        if (n == 2) puts("1 2");\\n\' with b\'        if (n == 1) puts("1 2");\\n\' at position 15', 14)]

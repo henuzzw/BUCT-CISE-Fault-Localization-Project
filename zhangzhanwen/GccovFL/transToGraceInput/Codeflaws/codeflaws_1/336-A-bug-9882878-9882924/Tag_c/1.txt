@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-9882878-9882924/336-A-9882924.c
+codeflaws/336-A-bug-9882878-9882924/336-A-9882878.c
+13
+[('Replace b\'\\t\\tprintf("%d 0 0 %d",-a,-a);\\n\' with b\'\\t\\tprintf("0 %d %d 0",-a,-a);\\n\' at position 14', 13)]

@@ -1,4 +1,0 @@
-codeflaws/294-A-bug-10574686-10574699/294-A-10574699.c
-codeflaws/294-A-bug-10574686-10574699/294-A-10574686.c
-18
-[("Replace b'   if(x!=s+1){\\n' with b'   if(x!=s-1){\\n' at position 19", 18)]

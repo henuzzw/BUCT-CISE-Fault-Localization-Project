@@ -1,4 +1,0 @@
-codeflaws/656-B-bug-17102236-17103125/656-B-17103125.c
-codeflaws/656-B-bug-17102236-17103125/656-B-17102236.c
-10
-[("Replace b'        for(i=0;i<n;i++){if(d%arr[i]==brr[i]){count=count+1;break;}}\\n' with b'        for(i=0;i<n;i++){if(d%arr[i]==brr[i]){count=count+1;}}\\n' at position 11", 10)]

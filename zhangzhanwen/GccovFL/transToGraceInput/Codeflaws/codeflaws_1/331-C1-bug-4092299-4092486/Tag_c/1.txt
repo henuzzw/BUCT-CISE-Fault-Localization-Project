@@ -1,0 +1,4 @@
+codeflaws/331-C1-bug-4092299-4092486/331-C1-4092486.c
+codeflaws/331-C1-bug-4092299-4092486/331-C1-4092299.c
+9,9
+[("Insert b'    else if(n==1000000)\\n' at position 11 in file2", 10), ('Insert b\'    printf("128207");\\n\' at position 12 in file2', 11)]

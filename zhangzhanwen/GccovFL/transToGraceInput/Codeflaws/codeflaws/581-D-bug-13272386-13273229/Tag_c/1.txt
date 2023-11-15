@@ -1,4 +1,0 @@
-codeflaws/581-D-bug-13272386-13273229/581-D-13273229.c
-codeflaws/581-D-bug-13272386-13273229/581-D-13272386.c
-39,59,153
-[('Delete b\'\\t\\t\\t//printf("%d\\\\n", rt);\\n\' at position 39 in file2', 38), ('Delete b\'\\t\\t\\t//printf("%d %d %d %d\\\\n", a, b, c, d);\\n\' at position 58 in file2', 57), ('Delete b\'\\t\\t\\t\\t\\tprintf("%d\\\\n", rt);\\n\' at position 151 in file2', 150)]

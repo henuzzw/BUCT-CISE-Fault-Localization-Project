@@ -1,0 +1,4 @@
+codeflaws/623-A-bug-16528902-16528911/623-A-16528911.c
+codeflaws/623-A-bug-16528902-16528911/623-A-16528902.c
+62
+[('Delete b\'\\tprintf("%d\\\\n",edge[1][4]);\\n\' at position 62 in file2', 61)]

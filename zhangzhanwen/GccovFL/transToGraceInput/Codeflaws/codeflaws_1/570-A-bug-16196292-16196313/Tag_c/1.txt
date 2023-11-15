@@ -1,0 +1,4 @@
+codeflaws/570-A-bug-16196292-16196313/570-A-16196313.c
+codeflaws/570-A-bug-16196292-16196313/570-A-16196292.c
+6
+[("Replace b'\\t{max[i]=-5;cnt[i]=0;}\\n' with b'\\t{max[i]=0;cnt[i]=0;}\\n' at position 7", 6)]

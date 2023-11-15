@@ -1,4 +1,0 @@
-codeflaws/182-D-bug-1670890-1670895/182-D-1670895.c
-codeflaws/182-D-bug-1670890-1670895/182-D-1670890.c
-13
-[("Replace b'\\tfor(s=s2;*s;s+=i) if(strncmp(s, s1, i)) ret=0;\\n' with b'\\tfor(s=s2;*s;s+=i) if(strncmp(s, s2, i)) ret=0;\\n' at position 14", 13)]

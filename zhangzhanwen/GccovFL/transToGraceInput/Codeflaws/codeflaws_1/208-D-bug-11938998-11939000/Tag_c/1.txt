@@ -1,0 +1,4 @@
+codeflaws/208-D-bug-11938998-11939000/208-D-11939000.c
+codeflaws/208-D-bug-11938998-11939000/208-D-11938998.c
+22
+[('Replace b\'        //printf("%d\\\\n",j);\\n\' with b\'        printf("%d\\\\n",j);\\n\' at position 23', 22)]

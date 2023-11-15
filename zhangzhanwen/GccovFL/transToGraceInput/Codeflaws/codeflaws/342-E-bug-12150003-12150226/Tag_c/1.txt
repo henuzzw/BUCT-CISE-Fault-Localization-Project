@@ -1,4 +1,0 @@
-codeflaws/342-E-bug-12150003-12150226/342-E-12150226.c
-codeflaws/342-E-bug-12150003-12150226/342-E-12150003.c
-55
-[("Replace b'\\tfor(t=head[cen];t!=NULL;t=t->next)\\n' with b'\\tfor(t=head[cu];t!=NULL;t=t->next)\\n' at position 56", 55)]

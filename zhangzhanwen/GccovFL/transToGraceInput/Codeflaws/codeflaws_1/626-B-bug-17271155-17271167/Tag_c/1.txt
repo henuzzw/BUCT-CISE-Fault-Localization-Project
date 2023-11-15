@@ -1,0 +1,4 @@
+codeflaws/626-B-bug-17271155-17271167/626-B-17271167.c
+codeflaws/626-B-bug-17271155-17271167/626-B-17271155.c
+84
+[('Replace b\'\\t\\t\\tprintf("B");\\n\' with b\'\\t\\t\\tprintf("G");\\n\' at position 85', 84)]

@@ -1,0 +1,4 @@
+codeflaws/656-B-bug-17124961-17125310/656-B-17125310.c
+codeflaws/656-B-bug-17124961-17125310/656-B-17124961.c
+16
+[("Replace b'\\t\\tfor (i = 1; i <= 100000; i++)\\n' with b'\\t\\tfor (i = 1; i <= 1000; i++)\\n' at position 17", 16)]

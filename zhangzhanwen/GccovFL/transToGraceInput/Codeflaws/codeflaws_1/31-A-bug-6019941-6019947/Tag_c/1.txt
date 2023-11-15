@@ -1,0 +1,4 @@
+codeflaws/31-A-bug-6019941-6019947/31-A-6019947.c
+codeflaws/31-A-bug-6019941-6019947/31-A-6019941.c
+14
+[('Replace b\'\\t\\t\\t\\t\\tprintf("%d %d %d",k+1,j+1,i+1);\\n\' with b\'\\t\\t\\t\\t\\tprintf("%d %d %d",arr[k],arr[i],arr[j]);\\n\' at position 15', 14)]

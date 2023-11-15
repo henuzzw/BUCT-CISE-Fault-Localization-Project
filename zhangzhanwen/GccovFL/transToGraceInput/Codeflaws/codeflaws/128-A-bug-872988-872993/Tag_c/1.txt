@@ -1,4 +1,0 @@
-codeflaws/128-A-bug-872988-872993/128-A-872993.c
-codeflaws/128-A-bug-872988-872993/128-A-872988.c
-11
-[('Replace b"        if(tx&&tx-9&&f[ty][tx]!=\'S\'&&f[ty+1][tx]!=\'S\') dfs(ty,tx);\\n" with b"        if(tx&&f[ty][tx]!=\'S\'&&f[ty+1][tx]!=\'S\') dfs(ty,tx);\\n" at position 12', 11)]

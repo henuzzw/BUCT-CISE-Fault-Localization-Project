@@ -1,0 +1,4 @@
+codeflaws/330-B-bug-16561986-16561997/330-B-16561997.c
+codeflaws/330-B-bug-16561986-16561997/330-B-16561986.c
+20,26
+[("Insert b'\\t/*\\n' at position 22 in file2", 21), ("Insert b'\\t*/\\n' at position 29 in file2", 28)]

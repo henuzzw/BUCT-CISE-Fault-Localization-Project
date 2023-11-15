@@ -1,4 +1,0 @@
-codeflaws/141-B-bug-9726740-9726780/141-B-9726780.c
-codeflaws/141-B-bug-9726740-9726780/141-B-9726740.c
-13
-[("Replace b'    else if(((y>0)&&(y<s))&&((x>=n)||(x<=(-(n)))))\\n' with b'    else if(((y>0)&&(y<s))&&((x>n)||(x<(-(n)))))\\n' at position 14", 13)]

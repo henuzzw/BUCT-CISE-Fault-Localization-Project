@@ -1,0 +1,4 @@
+codeflaws/653-A-bug-18012199-18012213/653-A-18012213.c
+codeflaws/653-A-bug-18012199-18012213/653-A-18012199.c
+30,30
+[("Insert b'    } else if (j>1 && (a[i]) == a[i+1]) {\\n' at position 32 in file2", 31), ("Insert b'        return visit(a, i+1, j);\\n' at position 33 in file2", 32)]

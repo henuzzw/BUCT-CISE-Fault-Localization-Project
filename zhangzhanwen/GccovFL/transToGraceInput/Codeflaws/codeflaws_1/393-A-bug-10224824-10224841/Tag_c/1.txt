@@ -1,0 +1,4 @@
+codeflaws/393-A-bug-10224824-10224841/393-A-10224841.c
+codeflaws/393-A-bug-10224824-10224841/393-A-10224824.c
+29
+[("Replace b'    if(a==0&&ar[0]>0)\\n' with b'    if(a==0)\\n' at position 30", 29)]

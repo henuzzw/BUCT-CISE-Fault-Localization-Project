@@ -1,4 +1,0 @@
-codeflaws/24-A-bug-17905181-17905190/24-A-17905190.c
-codeflaws/24-A-bug-17905181-17905190/24-A-17905181.c
-30,31,32
-[("Delete b'\\tFOR(i, 1, yer)\\n' at position 30 in file2", 29), ('Delete b\'\\t\\tprintf("%d ",cvp[i]);\\n\' at position 30 in file2', 29), ("Delete b'\\tendl;\\n' at position 30 in file2", 29)]

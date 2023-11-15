@@ -1,0 +1,4 @@
+codeflaws/158-A-bug-18237828-18237840/158-A-18237840.c
+codeflaws/158-A-bug-18237828-18237840/158-A-18237828.c
+13,17
+[("Replace b'        if(ara[i]>=ara[k-1]&& ara[i]!=0)\\n' with b'        if(ara[i]>=ara[k-1])\\n' at position 14", 13), ("Replace b'return 0;\\n' with b'    return 0;\\n' at position 18", 17)]

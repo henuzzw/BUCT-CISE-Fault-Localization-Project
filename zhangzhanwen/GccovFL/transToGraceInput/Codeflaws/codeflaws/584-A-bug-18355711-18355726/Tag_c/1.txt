@@ -1,4 +1,0 @@
-codeflaws/584-A-bug-18355711-18355726/584-A-18355726.c
-codeflaws/584-A-bug-18355711-18355726/584-A-18355711.c
-9
-[("Replace b'    for (i = 0; i < n - 1-(t%10==0); ++i) {\\n' with b'    for (i = 0; i < n - 1-(n%10==0); ++i) {\\n' at position 10", 9)]

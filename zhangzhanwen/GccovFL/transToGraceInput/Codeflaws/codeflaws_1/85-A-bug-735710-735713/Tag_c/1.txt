@@ -1,0 +1,4 @@
+codeflaws/85-A-bug-735710-735713/85-A-735713.c
+codeflaws/85-A-bug-735710-735713/85-A-735710.c
+7
+[('Replace b\'         printf("a\\\\na\\\\nb\\\\nb\\\\n");\\n\' with b\'         printf("-1");\\n\' at position 8', 7)]

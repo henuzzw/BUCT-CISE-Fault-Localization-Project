@@ -1,0 +1,4 @@
+codeflaws/246-A-bug-4758567-4758584/246-A-4758584.c
+codeflaws/246-A-bug-4758567-4758584/246-A-4758567.c
+12
+[("Replace b'\\t\\twhile (n-- > 1)\\n' with b'\\t\\twhile (n--)\\n' at position 13", 12)]

@@ -1,0 +1,4 @@
+codeflaws/106-B-bug-4027414-4027447/106-B-4027447.c
+codeflaws/106-B-bug-4027414-4027447/106-B-4027414.c
+24
+[("Replace b'                else if (a[i][j] < a[m][j]){\\n' with b'                else{\\n' at position 25", 24)]

@@ -1,0 +1,4 @@
+codeflaws/292-B-bug-11839253-11839280/292-B-11839280.c
+codeflaws/292-B-bug-11839253-11839280/292-B-11839253.c
+1
+[("Replace b'int A[111111],Q[111111],n,j,k,s;\\n' with b'int A[11111],Q[11111],n,j,k,s;\\n' at position 2", 1)]

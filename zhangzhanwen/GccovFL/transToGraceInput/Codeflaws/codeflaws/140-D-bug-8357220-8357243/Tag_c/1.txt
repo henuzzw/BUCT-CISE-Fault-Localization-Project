@@ -1,4 +1,0 @@
-codeflaws/140-D-bug-8357220-8357243/140-D-8357243.c
-codeflaws/140-D-bug-8357220-8357243/140-D-8357220.c
-27
-[("Replace b'            if((time[i] > total) && (ban == 0) && time[i]<=710){\\n' with b'            if((time[i] > total) && (ban == 0) && (time[i]-360 < 360) && time[i]<710){\\n' at position 28", 27)]

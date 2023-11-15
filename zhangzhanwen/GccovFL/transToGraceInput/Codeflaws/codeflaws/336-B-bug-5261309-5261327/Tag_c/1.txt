@@ -1,4 +1,0 @@
-codeflaws/336-B-bug-5261309-5261327/336-B-5261327.c
-codeflaws/336-B-bug-5261309-5261327/336-B-5261309.c
-8
-[("Replace b'\\tif(M>1)a+=2*(1-1/m)*((2*R+b)/m);b*=2;\\n' with b'\\tif(M>1)a+=2*(1-2/m)*((4*R+b)/m);b*=2;\\n' at position 9", 8)]

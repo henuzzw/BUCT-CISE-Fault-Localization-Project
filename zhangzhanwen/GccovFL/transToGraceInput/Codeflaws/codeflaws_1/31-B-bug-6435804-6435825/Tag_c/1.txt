@@ -1,0 +1,4 @@
+codeflaws/31-B-bug-6435804-6435825/31-B-6435825.c
+codeflaws/31-B-bug-6435804-6435825/31-B-6435804.c
+9
+[("Replace b'        for (i = 1; i < strlen(s); i++){\\n' with b'        for (i = 1; i <= strlen(s); i++){\\n' at position 10", 9)]

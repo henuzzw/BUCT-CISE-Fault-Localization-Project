@@ -1,4 +1,0 @@
-codeflaws/5-A-bug-11082258-11082263/5-A-11082263.c
-codeflaws/5-A-bug-11082258-11082263/5-A-11082258.c
-17
-[("Replace b'            s = s+(strlen(s1)-i-1)*c;\\n' with b'            s = s+strlen(s1)-i-1;\\n' at position 18", 17)]

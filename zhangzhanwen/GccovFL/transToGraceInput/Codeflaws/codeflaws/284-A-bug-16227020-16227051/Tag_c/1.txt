@@ -1,4 +1,0 @@
-codeflaws/284-A-bug-16227020-16227051/284-A-16227051.c
-codeflaws/284-A-bug-16227020-16227051/284-A-16227020.c
-21
-[('Replace b\'\\t\\tprintf("1");\\n\' with b\'\\t\\tprintf("0");\\n\' at position 22', 21)]

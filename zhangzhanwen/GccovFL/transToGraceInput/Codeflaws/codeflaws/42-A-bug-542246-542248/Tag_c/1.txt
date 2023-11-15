@@ -1,4 +1,0 @@
-codeflaws/42-A-bug-542246-542248/42-A-542248.c
-codeflaws/42-A-bug-542246-542248/42-A-542246.c
-18
-[('Delete b\'    printf("x=%f\\\\n", x);\\n\' at position 18 in file2', 17)]

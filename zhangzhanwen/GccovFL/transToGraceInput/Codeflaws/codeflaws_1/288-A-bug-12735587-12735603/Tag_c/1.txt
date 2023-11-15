@@ -1,0 +1,4 @@
+codeflaws/288-A-bug-12735587-12735603/288-A-12735603.c
+codeflaws/288-A-bug-12735587-12735603/288-A-12735587.c
+13
+[("Replace b'    if(k > n || (k == 1 && n > 1)){\\n' with b'    if(k > n || k == 1){\\n' at position 14", 13)]

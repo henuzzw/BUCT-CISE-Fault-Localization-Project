@@ -1,0 +1,4 @@
+codeflaws/149-B-bug-9212927-9212935/149-B-9212935.c
+codeflaws/149-B-bug-9212927-9212935/149-B-9212927.c
+93
+[("Replace b'            if (y>23 || z>59)\\n' with b'            if (y>24 || z>59)\\n' at position 94", 93)]

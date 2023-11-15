@@ -1,0 +1,4 @@
+codeflaws/560-C-bug-12795136-12795149/560-C-12795149.c
+codeflaws/560-C-bug-12795136-12795149/560-C-12795136.c
+46
+[("Replace b'\\telse if(flag == 2){\\n' with b'\\telse if(flag == 3){\\n' at position 47", 46)]

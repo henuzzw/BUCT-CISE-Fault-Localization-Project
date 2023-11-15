@@ -1,4 +1,0 @@
-codeflaws/399-B-bug-12115819-12115826/399-B-12115826.c
-codeflaws/399-B-bug-12115819-12115826/399-B-12115819.c
-17
-[('Replace b\'\\t\\tprintf("%lld\\\\n",ans);\\n\' with b\'\\t\\tprintf("%d\\\\n",ans);\\n\' at position 18', 17)]

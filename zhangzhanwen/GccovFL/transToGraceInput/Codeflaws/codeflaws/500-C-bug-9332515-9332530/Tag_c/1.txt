@@ -1,4 +1,0 @@
-codeflaws/500-C-bug-9332515-9332530/500-C-9332530.c
-codeflaws/500-C-bug-9332515-9332530/500-C-9332515.c
-7
-[('Replace b\'  //printf("%d %d\\\\n",n,m);\\n\' with b\'  printf("%d %d\\\\n",n,m);\\n\' at position 8', 7)]

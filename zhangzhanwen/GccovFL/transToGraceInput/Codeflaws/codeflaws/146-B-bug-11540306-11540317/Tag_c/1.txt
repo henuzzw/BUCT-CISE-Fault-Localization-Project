@@ -1,4 +1,0 @@
-codeflaws/146-B-bug-11540306-11540317/146-B-11540317.c
-codeflaws/146-B-bug-11540306-11540317/146-B-11540306.c
-6
-[("Insert b'    a++;\\n' at position 8 in file2", 7)]

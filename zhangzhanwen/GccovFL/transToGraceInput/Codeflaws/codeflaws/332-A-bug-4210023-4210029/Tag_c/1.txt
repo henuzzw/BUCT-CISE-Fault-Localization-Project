@@ -1,4 +1,0 @@
-codeflaws/332-A-bug-4210023-4210029/332-A-4210029.c
-codeflaws/332-A-bug-4210023-4210029/332-A-4210023.c
-16
-[('Replace b\'\\tprintf("%d\\\\n",Cnt);\\n\' with b\'\\tprintf("%s\\\\n",Cnt);\\n\' at position 17', 16)]

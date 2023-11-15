@@ -1,4 +1,0 @@
-codeflaws/488-A-bug-18231098-18231112/488-A-18231112.c
-codeflaws/488-A-bug-18231098-18231112/488-A-18231098.c
-18
-[("Replace b'    for (i = 1; i <= 100; i++){\\n' with b'    for (i = 1; i <= 10; i++){\\n' at position 19", 18)]

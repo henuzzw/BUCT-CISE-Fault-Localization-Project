@@ -1,4 +1,0 @@
-codeflaws/466-B-bug-15687885-15687899/466-B-15687899.c
-codeflaws/466-B-bug-15687885-15687899/466-B-15687885.c
-10
-[("Replace b'        int ind=0;\\n' with b'        int ind=1;\\n' at position 11", 10)]

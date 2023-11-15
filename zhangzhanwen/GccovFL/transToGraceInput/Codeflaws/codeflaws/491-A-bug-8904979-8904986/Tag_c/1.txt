@@ -1,4 +1,0 @@
-codeflaws/491-A-bug-8904979-8904986/491-A-8904986.c
-codeflaws/491-A-bug-8904979-8904986/491-A-8904979.c
-10
-[('Replace b\'        printf("%d ",C);\\n\' with b\'        printf("a%d ",C);\\n\' at position 11', 10)]

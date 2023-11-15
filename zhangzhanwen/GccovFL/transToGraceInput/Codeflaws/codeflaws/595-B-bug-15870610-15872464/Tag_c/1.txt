@@ -1,4 +1,0 @@
-codeflaws/595-B-bug-15870610-15872464/595-B-15872464.c
-codeflaws/595-B-bug-15870610-15872464/595-B-15870610.c
-25
-[("Replace b'\\t\\telse if(a[i]==b[i] && k==1)\\n' with b'\\t\\tif(a[i]==b[i] && k==1)\\n' at position 26", 25)]

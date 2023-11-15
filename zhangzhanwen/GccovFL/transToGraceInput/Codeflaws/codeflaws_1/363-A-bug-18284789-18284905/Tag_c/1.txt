@@ -1,0 +1,4 @@
+codeflaws/363-A-bug-18284789-18284905/363-A-18284905.c
+codeflaws/363-A-bug-18284789-18284905/363-A-18284789.c
+5
+[("Insert b'    if(x==0) a[0]=0,d++;\\n' at position 7 in file2", 6)]

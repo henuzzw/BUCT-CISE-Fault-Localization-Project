@@ -1,0 +1,4 @@
+codeflaws/482-A-bug-17767307-17767312/482-A-17767312.c
+codeflaws/482-A-bug-17767307-17767312/482-A-17767307.c
+4
+[('Replace b\'    scanf("%d %d",&n,&k);k--;\\n\' with b\'    scanf("%d %d",&n,&k);\\n\' at position 5', 4)]

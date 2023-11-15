@@ -1,4 +1,0 @@
-codeflaws/95-B-bug-535689-536090/95-B-536090.c
-codeflaws/95-B-bug-535689-536090/95-B-535689.c
-5,44,46
-[("Delete b'int count[MAXL];\\n' at position 5 in file2", 4), ('Insert b\'\\t\\tprintf("%s\\\\n", num);\\n\' at position 45 in file2', 44), ('Delete b\'\\t\\tprintf("%s\\\\n", num);\\n\' at position 46 in file2', 45)]

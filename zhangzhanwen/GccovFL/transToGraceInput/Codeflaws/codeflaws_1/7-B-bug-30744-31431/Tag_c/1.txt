@@ -1,0 +1,4 @@
+codeflaws/7-B-bug-30744-31431/7-B-31431.c
+codeflaws/7-B-bug-30744-31431/7-B-30744.c
+24,24
+[("Replace b'\\t\\t\\tfor(i=j=0;i<m;i++) if (mm[i]==t) mm[i]=0,j=1;\\n' with b'\\t\\t\\tfor(i=0;i<m;i++) if (mm[i]==t) mm[i]=0;\\n' at position 25", 24), ('Insert b\'\\t\\t\\tif (!j || t==0) puts("ILLEGAL_ERASE_ARGUMENT");\\n\' at position 26 in file2', 25)]

@@ -1,0 +1,4 @@
+codeflaws/370-B-bug-5370304-5370466/370-B-5370466.c
+codeflaws/370-B-bug-5370304-5370466/370-B-5370304.c
+46
+[("Replace b'\\t\\t\\t\\tif(count[m]==a[m][0] && a[i][0]>=a[m][0])\\n' with b'\\t\\t\\t\\tif(count[m]==a[m][0] && a[i][0]>a[m][0])\\n' at position 47", 46)]

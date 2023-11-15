@@ -1,4 +1,0 @@
-codeflaws/482-A-bug-8674442-8674488/482-A-8674488.c
-codeflaws/482-A-bug-8674442-8674488/482-A-8674442.c
-23
-[("Replace b'for(i=0;i<n;i++)\\n' with b'for(i=0;i<n-1;i++)\\n' at position 24", 23)]

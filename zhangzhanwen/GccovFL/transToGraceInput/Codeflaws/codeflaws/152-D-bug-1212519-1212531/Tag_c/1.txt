@@ -1,4 +1,0 @@
-codeflaws/152-D-bug-1212519-1212531/152-D-1212531.c
-codeflaws/152-D-bug-1212519-1212531/152-D-1212519.c
-98
-[('Replace b\'\\t// printf("%d %d\\\\n", hn, vn);\\n\' with b\'\\tprintf("%d %d\\\\n", hn, vn);\\n\' at position 99', 98)]

@@ -1,4 +1,0 @@
-codeflaws/166-C-bug-9710250-9710295/166-C-9710295.c
-codeflaws/166-C-bug-9710250-9710295/166-C-9710250.c
-22,24
-[("Insert b'            toggle = true;\\n' at position 24 in file2", 23), ("Replace b'\\n' with b'            toggle = true;\\n' at position 26", 25)]

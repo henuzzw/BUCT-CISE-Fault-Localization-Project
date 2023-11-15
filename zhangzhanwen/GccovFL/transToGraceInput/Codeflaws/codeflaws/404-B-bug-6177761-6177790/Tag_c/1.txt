@@ -1,4 +1,0 @@
-codeflaws/404-B-bug-6177761-6177790/404-B-6177790.c
-codeflaws/404-B-bug-6177761-6177790/404-B-6177761.c
-17
-[("Replace b'        long long t = floor(i*d / a);\\n' with b'        int t = (int)floor(i*d / a);\\n' at position 18", 17)]

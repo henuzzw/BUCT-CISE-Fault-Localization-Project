@@ -1,4 +1,0 @@
-codeflaws/231-B-bug-10768047-10774768/231-B-10774768.c
-codeflaws/231-B-bug-10768047-10774768/231-B-10768047.c
-51
-[("Replace b'                    while (aa[i]>0&&aa[i]<l)\\n' with b'                    while (aa[i]>0)\\n' at position 52", 51)]

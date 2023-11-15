@@ -1,4 +1,0 @@
-codeflaws/320-A-bug-13853886-13855144/320-A-13855144.c
-codeflaws/320-A-bug-13853886-13855144/320-A-13853886.c
-18
-[("Replace b'         else if(n%1000==144)\\n' with b'         else if(n%1000==114)\\n' at position 19", 18)]

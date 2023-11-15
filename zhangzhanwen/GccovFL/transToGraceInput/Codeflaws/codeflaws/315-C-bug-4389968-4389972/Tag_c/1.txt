@@ -1,4 +1,0 @@
-codeflaws/315-C-bug-4389968-4389972/315-C-4389972.c
-codeflaws/315-C-bug-4389968-4389972/315-C-4389968.c
-11
-[('Replace b\'        scanf("%lld", &a);\\n\' with b\'        scanf("%lld", a);\\n\' at position 12', 11)]

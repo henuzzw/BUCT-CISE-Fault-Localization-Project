@@ -1,0 +1,4 @@
+codeflaws/290-B-bug-3472778-3472840/290-B-3472840.c
+codeflaws/290-B-bug-3472778-3472840/290-B-3472778.c
+4
+[("Replace b'    char a[33][33]={\\n' with b'    char a[32][33]={\\n' at position 5", 4)]

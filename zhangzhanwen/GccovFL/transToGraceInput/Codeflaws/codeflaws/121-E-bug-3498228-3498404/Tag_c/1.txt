@@ -1,4 +1,0 @@
-codeflaws/121-E-bug-3498228-3498404/121-E-3498404.c
-codeflaws/121-E-bug-3498228-3498404/121-E-3498228.c
-40,41,87
-[("Insert b'    {if(countlucky[numbers[l]+d]!=countlucky[numbers[l]])\\n' at position 42 in file2", 41), ("Insert b'    numbers[l]+=d;}\\n' at position 44 in file2", 43), ("Insert b'\\n' at position 91 in file2", 90)]

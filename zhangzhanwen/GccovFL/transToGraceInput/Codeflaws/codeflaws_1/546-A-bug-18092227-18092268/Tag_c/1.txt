@@ -1,0 +1,4 @@
+codeflaws/546-A-bug-18092227-18092268/546-A-18092268.c
+codeflaws/546-A-bug-18092227-18092268/546-A-18092227.c
+12
+[("Replace b'    if(brw<=0){\\n' with b'    if(brw==0){\\n' at position 13", 12)]

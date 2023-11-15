@@ -1,0 +1,4 @@
+codeflaws/417-C-bug-10096184-10096190/417-C-10096190.c
+codeflaws/417-C-bug-10096184-10096190/417-C-10096184.c
+13
+[('Replace b\'    printf("%d\\\\n",n*k);\\n\' with b\'    printf("%d",n*k);\\n\' at position 14', 13)]

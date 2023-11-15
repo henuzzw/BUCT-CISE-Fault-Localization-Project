@@ -1,0 +1,4 @@
+codeflaws/30-A-bug-10349816-10349839/30-A-10349839.c
+codeflaws/30-A-bug-10349816-10349839/30-A-10349816.c
+28
+[('Replace b\'    if (x>d) {printf("No solution");}\\n\' with b\'    if (x>d) {printf("No solution");printf("%d",x);}\\n\' at position 29', 28)]

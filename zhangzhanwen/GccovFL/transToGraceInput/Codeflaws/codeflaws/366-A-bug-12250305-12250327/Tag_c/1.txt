@@ -1,4 +1,0 @@
-codeflaws/366-A-bug-12250305-12250327/366-A-12250327.c
-codeflaws/366-A-bug-12250305-12250327/366-A-12250305.c
-22
-[("Replace b'        minb=min(sanjay.c2,sanjay.b2);\\n' with b'        minb=min(sanjay.c1,sanjay.b2);\\n' at position 23", 22)]

@@ -1,0 +1,4 @@
+codeflaws/407-A-bug-6265039-6265073/407-A-6265073.c
+codeflaws/407-A-bug-6265039-6265073/407-A-6265039.c
+52
+[("Replace b'    if(flag == 0)\\n' with b'    if(flag = 0)\\n' at position 53", 52)]

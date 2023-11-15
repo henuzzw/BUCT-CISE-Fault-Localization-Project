@@ -1,0 +1,4 @@
+codeflaws/672-A-bug-18093615-18093623/672-A-18093623.c
+codeflaws/672-A-bug-18093615-18093623/672-A-18093615.c
+31,32
+[('Delete b\'\\tfor (i = 0; i < 30; i++) printf("%c ", str[i]);\\n\' at position 31 in file2', 30), ('Delete b\'\\tscanf("%d", &index);\\n\' at position 31 in file2', 30)]

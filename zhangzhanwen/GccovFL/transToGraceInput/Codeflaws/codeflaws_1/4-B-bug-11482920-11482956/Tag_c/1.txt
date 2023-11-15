@@ -1,0 +1,4 @@
+codeflaws/4-B-bug-11482920-11482956/4-B-11482956.c
+codeflaws/4-B-bug-11482920-11482956/4-B-11482920.c
+19
+[("Replace b'\\t\\t\\tif(de>=max[p]-min[p])\\n' with b'\\t\\t\\tif(de>=max[p])\\n' at position 20", 19)]

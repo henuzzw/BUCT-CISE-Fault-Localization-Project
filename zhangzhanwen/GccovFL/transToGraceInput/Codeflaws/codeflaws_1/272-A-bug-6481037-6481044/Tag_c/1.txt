@@ -1,0 +1,4 @@
+codeflaws/272-A-bug-6481037-6481044/272-A-6481044.c
+codeflaws/272-A-bug-6481037-6481044/272-A-6481037.c
+13
+[("Replace b'        if((ch-1)%(n+1)!=0)\\n' with b'        if(ch%(n+1)!=0)\\n' at position 14", 13)]

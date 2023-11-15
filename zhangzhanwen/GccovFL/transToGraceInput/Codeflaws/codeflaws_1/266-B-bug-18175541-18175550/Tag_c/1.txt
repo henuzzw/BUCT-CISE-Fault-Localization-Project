@@ -1,0 +1,4 @@
+codeflaws/266-B-bug-18175541-18175550/266-B-18175550.c
+codeflaws/266-B-bug-18175541-18175550/266-B-18175541.c
+13
+[("Insert b'\\t\\t\\t\\ti++;\\n' at position 15 in file2", 14)]

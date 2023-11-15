@@ -1,4 +1,0 @@
-codeflaws/113-A-bug-683826-683913/113-A-683913.c
-codeflaws/113-A-bug-683826-683913/113-A-683826.c
-72
-[("Insert b'    no++;\\n' at position 74 in file2", 73)]

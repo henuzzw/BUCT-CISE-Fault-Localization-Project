@@ -1,4 +1,0 @@
-codeflaws/14-D-bug-14307979-14307994/14-D-14307994.c
-codeflaws/14-D-bug-14307979-14307994/14-D-14307979.c
-35
-[("Replace b'\\t\\tif (snake*nibble>max) max=snake*nibble;\\n' with b'\\t\\tif (snake&&nibble&&snake+nibble>max) max=snake+nibble;\\n' at position 36", 35)]

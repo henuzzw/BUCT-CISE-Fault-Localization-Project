@@ -1,0 +1,4 @@
+codeflaws/387-A-bug-13476571-13476696/387-A-13476696.c
+codeflaws/387-A-bug-13476571-13476696/387-A-13476571.c
+13
+[("Replace b'    else if(a==n && b>m)\\n' with b'    else if(a=n && b>m)\\n' at position 14", 13)]

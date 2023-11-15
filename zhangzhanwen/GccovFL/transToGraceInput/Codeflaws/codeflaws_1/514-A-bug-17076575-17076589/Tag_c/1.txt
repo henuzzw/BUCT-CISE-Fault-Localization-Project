@@ -1,0 +1,4 @@
+codeflaws/514-A-bug-17076575-17076589/514-A-17076589.c
+codeflaws/514-A-bug-17076575-17076589/514-A-17076575.c
+10
+[('Replace b\'    //printf("%d\\\\n",count);\\n\' with b\'    printf("%d\\\\n",count);\\n\' at position 11', 10)]

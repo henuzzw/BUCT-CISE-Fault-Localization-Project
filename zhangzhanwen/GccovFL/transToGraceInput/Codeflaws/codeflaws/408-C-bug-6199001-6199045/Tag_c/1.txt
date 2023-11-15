@@ -1,4 +1,0 @@
-codeflaws/408-C-bug-6199001-6199045/408-C-6199045.c
-codeflaws/408-C-bug-6199001-6199045/408-C-6199001.c
-58
-[("Replace b'            if (((d[i]/c[i]) * (b[j]/a[j]) == -1) && c[i] != a[j] && d[i] != b[j]) {\\n' with b'            if ((d[i]/c[i]) * (b[j]/a[j]) == -1) {\\n' at position 59", 58)]

@@ -1,4 +1,0 @@
-codeflaws/257-A-bug-2955270-2955271/257-A-2955271.c
-codeflaws/257-A-bug-2955270-2955271/257-A-2955270.c
-24
-[("Insert b'\\ta[n+1]=1;\\n' at position 26 in file2", 25)]

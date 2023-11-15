@@ -1,4 +1,0 @@
-codeflaws/469-B-bug-15582537-15582571/469-B-15582571.c
-codeflaws/469-B-bug-15582537-15582571/469-B-15582537.c
-21
-[("Replace b'          if(a1[j] && b1[i] && j-i>=0) { \\n' with b'          if(a1[j] && b1[i] && j-i>0) { \\n' at position 22", 21)]

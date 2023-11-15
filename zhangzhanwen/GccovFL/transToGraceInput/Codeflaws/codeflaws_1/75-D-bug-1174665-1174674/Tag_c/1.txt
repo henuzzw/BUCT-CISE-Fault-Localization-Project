@@ -1,0 +1,4 @@
+codeflaws/75-D-bug-1174665-1174674/75-D-1174674.c
+codeflaws/75-D-bug-1174665-1174674/75-D-1174665.c
+30,30
+[("Insert b'\\n' at position 32 in file2", 31), ("Insert b'\\t\\t\\ts += a;\\n' at position 33 in file2", 32)]

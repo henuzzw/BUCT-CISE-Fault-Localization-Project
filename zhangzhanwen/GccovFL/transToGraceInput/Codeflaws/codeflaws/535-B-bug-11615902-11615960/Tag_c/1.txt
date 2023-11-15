@@ -1,4 +1,0 @@
-codeflaws/535-B-bug-11615902-11615960/535-B-11615960.c
-codeflaws/535-B-bug-11615902-11615960/535-B-11615902.c
-50
-[("Replace b'\\t\\treturn 0;\\n' with b'\\n' at position 51", 50)]

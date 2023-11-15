@@ -1,4 +1,0 @@
-codeflaws/677-A-bug-18350045-18350054/677-A-18350054.c
-codeflaws/677-A-bug-18350045-18350054/677-A-18350045.c
-4
-[("Replace b'    r=n;\\n' with b'    r=k;\\n' at position 5", 4)]

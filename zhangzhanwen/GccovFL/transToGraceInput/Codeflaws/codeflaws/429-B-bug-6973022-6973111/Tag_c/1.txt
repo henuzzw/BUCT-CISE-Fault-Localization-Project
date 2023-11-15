@@ -1,4 +1,0 @@
-codeflaws/429-B-bug-6973022-6973111/429-B-6973111.c
-codeflaws/429-B-bug-6973022-6973111/429-B-6973022.c
-13
-[("Replace b'\\tlhb_2[n-1][m-1]=a[n-1][m-1];\\n' with b'\\tlhb_2[n-1][m-1]=a[n-1][n-2];\\n' at position 14", 13)]

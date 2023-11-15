@@ -1,0 +1,4 @@
+codeflaws/489-C-bug-15304991-15305031/489-C-15305031.c
+codeflaws/489-C-bug-15304991-15305031/489-C-15304991.c
+9
+[("Replace b'\\tif (s > m * 9 || (m != 1 && s == 0)) {\\n' with b'\\tif (s > m * 9 || s == 0) {\\n' at position 10", 9)]

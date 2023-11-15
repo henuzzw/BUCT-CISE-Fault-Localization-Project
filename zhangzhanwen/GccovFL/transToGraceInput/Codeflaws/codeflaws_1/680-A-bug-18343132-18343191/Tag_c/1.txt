@@ -1,0 +1,4 @@
+codeflaws/680-A-bug-18343132-18343191/680-A-18343191.c
+codeflaws/680-A-bug-18343132-18343191/680-A-18343132.c
+11,22
+[("Replace b'\\t{if(b[a[i]]>=3)\\n' with b'\\t{if(b[a[i]]==3)\\n' at position 12", 11), ("Delete b'\\tbreak;\\n' at position 22 in file2", 21)]

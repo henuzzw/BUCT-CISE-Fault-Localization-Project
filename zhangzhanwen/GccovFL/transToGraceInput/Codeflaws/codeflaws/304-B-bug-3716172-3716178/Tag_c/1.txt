@@ -1,4 +1,0 @@
-codeflaws/304-B-bug-3716172-3716178/304-B-3716178.c
-codeflaws/304-B-bug-3716172-3716178/304-B-3716172.c
-8
-[("Replace b'    ans += (y - 1900 + 299) / 400;\\n' with b'    ans += (y - 1900 + 399) / 400;\\n' at position 9", 8)]

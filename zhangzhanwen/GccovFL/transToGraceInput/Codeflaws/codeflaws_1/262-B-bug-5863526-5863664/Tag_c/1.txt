@@ -1,0 +1,4 @@
+codeflaws/262-B-bug-5863526-5863664/262-B-5863664.c
+codeflaws/262-B-bug-5863526-5863664/262-B-5863526.c
+13
+[("Replace b'         sum+=(-1)*(first*2);\\n' with b'         sum+=(-1)*first;\\n' at position 14", 13)]

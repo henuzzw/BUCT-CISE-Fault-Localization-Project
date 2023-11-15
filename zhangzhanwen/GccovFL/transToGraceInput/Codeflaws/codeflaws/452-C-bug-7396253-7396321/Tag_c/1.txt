@@ -1,4 +1,0 @@
-codeflaws/452-C-bug-7396253-7396321/452-C-7396321.c
-codeflaws/452-C-bug-7396253-7396321/452-C-7396253.c
-4,4,4
-[("Insert b'if(n==1&&m==1)\\n' at position 6 in file2", 5), ('Insert b\'printf("1.0000000000000000\\\\n");\\n\' at position 7 in file2', 6), ("Insert b'else\\n' at position 8 in file2", 7)]

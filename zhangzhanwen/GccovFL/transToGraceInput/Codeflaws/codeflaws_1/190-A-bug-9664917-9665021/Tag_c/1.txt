@@ -1,0 +1,4 @@
+codeflaws/190-A-bug-9664917-9665021/190-A-9665021.c
+codeflaws/190-A-bug-9664917-9665021/190-A-9664917.c
+5
+[("Replace b'    if(n==0&&m!=0)\\n' with b'    if(n==0)\\n' at position 6", 5)]

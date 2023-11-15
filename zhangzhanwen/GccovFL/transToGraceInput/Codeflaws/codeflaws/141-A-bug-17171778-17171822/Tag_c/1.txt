@@ -1,4 +1,0 @@
-codeflaws/141-A-bug-17171778-17171822/141-A-17171822.c
-codeflaws/141-A-bug-17171778-17171822/141-A-17171778.c
-20,23
-[("Insert b'\\t\\t\\tbreak;\\n' at position 22 in file2", 21), ("Replace b'\\tif(flag==0)\\n' with b'\\tif(flag)\\n' at position 25", 24)]

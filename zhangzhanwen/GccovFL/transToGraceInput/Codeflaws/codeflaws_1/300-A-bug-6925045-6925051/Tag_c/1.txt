@@ -1,0 +1,4 @@
+codeflaws/300-A-bug-6925045-6925051/300-A-6925051.c
+codeflaws/300-A-bug-6925045-6925051/300-A-6925045.c
+24,24
+[("Insert b'    if(c1%2==0)\\n' at position 26 in file2", 25), ("Insert b'        a3[c3++]=a1[--c1];\\n' at position 27 in file2", 26)]

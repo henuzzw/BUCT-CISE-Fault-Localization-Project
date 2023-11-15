@@ -1,4 +1,0 @@
-codeflaws/500-D-bug-10249990-10250066/500-D-10250066.c
-codeflaws/500-D-bug-10249990-10250066/500-D-10249990.c
-68
-[("Replace b'\\tdouble result=(double)ans*6/(n*(n-1));\\n' with b'\\tdouble result=ans*6/(n*(n-1));\\n' at position 69", 68)]

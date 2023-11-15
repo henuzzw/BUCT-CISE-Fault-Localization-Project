@@ -1,0 +1,4 @@
+codeflaws/89-A-bug-685910-685915/89-A-685915.c
+codeflaws/89-A-bug-685910-685915/89-A-685910.c
+32
+[('Replace b\'     printf("%lld\\\\n", min((long long)m * k, p));\\n\' with b\'     printf("%lld\\\\n", min(m * k, p));\\n\' at position 33', 32)]

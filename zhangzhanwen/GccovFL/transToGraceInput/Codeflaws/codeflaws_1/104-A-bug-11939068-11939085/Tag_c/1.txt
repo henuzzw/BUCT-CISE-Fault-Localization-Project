@@ -1,0 +1,4 @@
+codeflaws/104-A-bug-11939068-11939085/104-A-11939085.c
+codeflaws/104-A-bug-11939068-11939085/104-A-11939068.c
+8
+[("Replace b'    else if(n==11)a=4;\\n' with b'    else if(n==1)a=4;\\n' at position 9", 8)]

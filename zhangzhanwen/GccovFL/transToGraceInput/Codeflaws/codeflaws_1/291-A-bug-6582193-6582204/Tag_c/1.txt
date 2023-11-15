@@ -1,0 +1,4 @@
+codeflaws/291-A-bug-6582193-6582204/291-A-6582204.c
+codeflaws/291-A-bug-6582193-6582204/291-A-6582193.c
+24
+[("Replace b'   if(a[i]==a[i-1]&&b[i]!=2&&b[i-1]!=2&&a[i]!=0)\\n' with b'   if(a[i]==a[i-1]&&b[i]!=2&&b[i-1]!=2)\\n' at position 25", 24)]

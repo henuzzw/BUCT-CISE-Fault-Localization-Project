@@ -1,4 +1,0 @@
-codeflaws/96-A-bug-18107689-18107712/96-A-18107712.c
-codeflaws/96-A-bug-18107689-18107712/96-A-18107689.c
-23
-[("Replace b'\\t\\t\\ta=0;\\t\\n' with b'\\t\\t\\tb=0;\\t\\n' at position 24", 23)]

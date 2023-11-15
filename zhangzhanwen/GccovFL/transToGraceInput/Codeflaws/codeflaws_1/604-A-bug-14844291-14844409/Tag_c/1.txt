@@ -1,0 +1,4 @@
+codeflaws/604-A-bug-14844291-14844409/604-A-14844409.c
+codeflaws/604-A-bug-14844291-14844409/604-A-14844291.c
+24
+[("Replace b'       k[i]=0.3*x[i];\\n' with b'       k[i]=0.3*m[i];\\n' at position 25", 24)]

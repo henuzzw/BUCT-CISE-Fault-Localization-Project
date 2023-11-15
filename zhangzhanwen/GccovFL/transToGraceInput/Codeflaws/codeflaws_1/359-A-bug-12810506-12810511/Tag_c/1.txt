@@ -1,0 +1,4 @@
+codeflaws/359-A-bug-12810506-12810511/359-A-12810511.c
+codeflaws/359-A-bug-12810506-12810511/359-A-12810506.c
+7
+[("Replace b'\\t\\tfor(j=0;j<m;j++)\\n' with b'\\t\\tfor(j=0;j<n;j++)\\n' at position 8", 7)]

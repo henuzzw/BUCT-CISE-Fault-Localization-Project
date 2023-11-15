@@ -1,0 +1,4 @@
+codeflaws/680-B-bug-18342732-18342779/680-B-18342779.c
+codeflaws/680-B-bug-18342732-18342779/680-B-18342732.c
+11
+[("Replace b'\\t\\tif(b[a-i]==b[a+i]&&b[a-i]==1)\\n' with b'\\t\\tif(b[a-i]==b[a+i]==1)\\n' at position 12", 11)]

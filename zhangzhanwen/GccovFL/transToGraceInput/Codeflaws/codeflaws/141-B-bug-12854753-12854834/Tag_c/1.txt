@@ -1,4 +1,0 @@
-codeflaws/141-B-bug-12854753-12854834/141-B-12854834.c
-codeflaws/141-B-bug-12854753-12854834/141-B-12854753.c
-33
-[("Replace b'                    if(xc>x)\\n' with b'                    if(xc!=x)\\n' at position 34", 33)]

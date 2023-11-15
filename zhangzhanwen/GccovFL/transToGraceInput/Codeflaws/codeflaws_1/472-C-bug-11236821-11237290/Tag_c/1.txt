@@ -1,0 +1,4 @@
+codeflaws/472-C-bug-11236821-11237290/472-C-11237290.c
+codeflaws/472-C-bug-11236821-11237290/472-C-11236821.c
+19
+[("Insert b'\\tc -= 1;\\n' at position 21 in file2", 20)]

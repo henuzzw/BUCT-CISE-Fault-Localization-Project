@@ -1,0 +1,4 @@
+codeflaws/171-D-bug-6192796-6192802/171-D-6192802.c
+codeflaws/171-D-bug-6192796-6192802/171-D-6192796.c
+6
+[('Replace b\'\\tprintf("2");\\n\' with b\'\\tprintf("3");\\n\' at position 7', 6)]

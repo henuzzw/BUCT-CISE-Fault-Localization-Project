@@ -1,0 +1,4 @@
+codeflaws/547-B-bug-15294954-15295204/547-B-15295204.c
+codeflaws/547-B-bug-15294954-15295204/547-B-15294954.c
+99
+[("Replace b'\\twhile(!isempty(mystack))\\n' with b'\\twhile(isempty(mystack))\\n' at position 100", 99)]

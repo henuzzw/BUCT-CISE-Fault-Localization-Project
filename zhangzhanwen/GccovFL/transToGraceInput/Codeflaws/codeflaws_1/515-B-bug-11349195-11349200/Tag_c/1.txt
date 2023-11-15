@@ -1,0 +1,4 @@
+codeflaws/515-B-bug-11349195-11349200/515-B-11349200.c
+codeflaws/515-B-bug-11349195-11349200/515-B-11349195.c
+26
+[("Replace b'\\tfor(i=0;i<=2*m*n;i++){\\n' with b'\\tfor(i=0;i<=m*n;i++){\\n' at position 27", 26)]

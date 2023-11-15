@@ -1,4 +1,0 @@
-codeflaws/4-A-bug-18258396-18258457/4-A-18258457.c
-codeflaws/4-A-bug-18258396-18258457/4-A-18258396.c
-5
-[("Replace b'\\tif (w>=4 && w %2==0)\\n' with b'\\tif (w>=w && w %w==0)\\n' at position 6", 5)]

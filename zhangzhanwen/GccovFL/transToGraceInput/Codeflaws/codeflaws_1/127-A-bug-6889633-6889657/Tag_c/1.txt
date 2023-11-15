@@ -1,0 +1,4 @@
+codeflaws/127-A-bug-6889633-6889657/127-A-6889657.c
+codeflaws/127-A-bug-6889633-6889657/127-A-6889633.c
+20
+[('Replace b\'\\tprintf("%.9lf\\\\n",(ans*k)/50);\\n\' with b\'\\tprintf("%.9lf\\\\n",ans/50);\\n\' at position 21', 20)]

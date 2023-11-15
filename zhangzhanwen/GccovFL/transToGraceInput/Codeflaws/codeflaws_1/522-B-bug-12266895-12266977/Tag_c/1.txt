@@ -1,0 +1,4 @@
+codeflaws/522-B-bug-12266895-12266977/522-B-12266977.c
+codeflaws/522-B-bug-12266895-12266977/522-B-12266895.c
+10
+[("Replace b'    if(h[i]>max[0]){max[1]=max[0];max_index[1]=max_index[0];max[0]=h[i];max_index[0]=i;}\\n' with b'    if(h[i]>max[0]){max[0]=h[i];max_index[0]=i;}\\n' at position 11", 10)]

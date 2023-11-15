@@ -1,4 +1,0 @@
-codeflaws/658-A-bug-17124240-17124253/658-A-17124253.c
-codeflaws/658-A-bug-17124240-17124253/658-A-17124240.c
-17
-[("Replace b'\\tfor(i=n-1;i>=0;i--){\\n' with b'\\tfor(i=n-1;i>0;i--){\\n' at position 18", 17)]

@@ -1,0 +1,4 @@
+codeflaws/670-A-bug-17977538-17977571/670-A-17977571.c
+codeflaws/670-A-bug-17977538-17977571/670-A-17977538.c
+16
+[("Replace b'\\t\\tmax += (days%7)%2;\\n' with b'\\t\\tmax += days%2;\\n' at position 17", 16)]

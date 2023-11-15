@@ -1,0 +1,4 @@
+codeflaws/21-A-bug-809121-809144/21-A-809144.c
+codeflaws/21-A-bug-809121-809144/21-A-809121.c
+26
+[("Replace b'    p = i + 1;\\n' with b'    p = i;\\n' at position 27", 26)]

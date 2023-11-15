@@ -1,0 +1,4 @@
+codeflaws/385-B-bug-9215199-9215223/385-B-9215223.c
+codeflaws/385-B-bug-9215199-9215223/385-B-9215199.c
+5
+[("Replace b'\\tint i, sum = 0, j = -1;\\n' with b'\\tint i, sum = 0, j;\\n' at position 6", 5)]

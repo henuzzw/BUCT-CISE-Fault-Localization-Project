@@ -1,0 +1,4 @@
+codeflaws/125-A-bug-1910803-1910812/125-A-1910812.c
+codeflaws/125-A-bug-1910803-1910812/125-A-1910803.c
+8
+[("Replace b'\\t\\tif(i%12==0&&i!=0){\\n' with b'\\t\\tif(i%12>=6||i%12==0){\\n' at position 9", 8)]

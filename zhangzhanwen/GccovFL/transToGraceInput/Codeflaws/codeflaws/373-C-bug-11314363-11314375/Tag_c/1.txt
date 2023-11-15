@@ -1,4 +1,0 @@
-codeflaws/373-C-bug-11314363-11314375/373-C-11314375.c
-codeflaws/373-C-bug-11314363-11314375/373-C-11314363.c
-1
-[("Replace b'int i,j,k,s,yeni[600000],arr[600000],x,n,bas,orta,son;\\n' with b'int i,j,k,s,yeni[200000],arr[200000],x,n,bas,orta,son;\\n' at position 2", 1)]

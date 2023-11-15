@@ -1,4 +1,0 @@
-codeflaws/379-A-bug-17502392-17502445/379-A-17502445.c
-codeflaws/379-A-bug-17502392-17502445/379-A-17502392.c
-8,10
-[("Insert b'        int x = n % m;\\n' at position 10 in file2", 9), ("Insert b'        if (n != 0) n += x;\\n' at position 13 in file2", 12)]

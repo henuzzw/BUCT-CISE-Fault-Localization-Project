@@ -1,0 +1,4 @@
+codeflaws/672-B-bug-18128123-18128175/672-B-18128175.c
+codeflaws/672-B-bug-18128123-18128175/672-B-18128123.c
+34,36
+[("Delete b'                        a--;\\n' at position 34 in file2", 33), ('Replace b"                else if(arr[str[i]-\'a\']==1)\\n" with b\'                else\\n\' at position 36', 35)]

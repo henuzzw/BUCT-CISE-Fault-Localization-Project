@@ -1,0 +1,4 @@
+codeflaws/124-A-bug-17548415-17548499/124-A-17548499.c
+codeflaws/124-A-bug-17548415-17548499/124-A-17548415.c
+4,5,5
+[("Insert b'    if(a-b<=c)\\n' at position 6 in file2", 5), ("Insert b'    else\\n' at position 8 in file2", 7), ('Insert b\'    printf("%d",c+1);\\n\' at position 9 in file2', 8)]

@@ -1,0 +1,4 @@
+codeflaws/49-A-bug-14244702-14244718/49-A-14244718.c
+codeflaws/49-A-bug-14244702-14244718/49-A-14244702.c
+21
+[('Replace b\'                printf("NO\\\\n");\\n\' with b\'                printf("No\\\\n");\\n\' at position 22', 21)]

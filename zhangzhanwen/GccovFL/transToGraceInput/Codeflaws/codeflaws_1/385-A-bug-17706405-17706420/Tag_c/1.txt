@@ -1,0 +1,4 @@
+codeflaws/385-A-bug-17706405-17706420/385-A-17706420.c
+codeflaws/385-A-bug-17706405-17706420/385-A-17706405.c
+13
+[('Replace b\'    printf("%d\\\\n", ((max - c) > 0)?(max - c):0);\\n\' with b\'    printf("%d\\\\n", max - c);\\n\' at position 14', 13)]

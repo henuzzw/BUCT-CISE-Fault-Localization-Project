@@ -1,0 +1,4 @@
+codeflaws/535-B-bug-16455139-16455151/535-B-16455151.c
+codeflaws/535-B-bug-16455139-16455151/535-B-16455139.c
+9,27
+[('Replace b\'\\n\' with b\'  printf("(%lld)    ",s);\\n\' at position 10', 9), ("Insert b'\\n' at position 29 in file2", 28)]

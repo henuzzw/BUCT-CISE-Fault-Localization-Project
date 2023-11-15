@@ -1,0 +1,4 @@
+codeflaws/252-A-bug-13131259-13131276/252-A-13131276.c
+codeflaws/252-A-bug-13131259-13131276/252-A-13131259.c
+13
+[("Insert b'        if(ans > max) max = ans;\\n' at position 15 in file2", 14)]

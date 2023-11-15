@@ -1,0 +1,4 @@
+codeflaws/401-B-bug-11120244-11120272/401-B-11120272.c
+codeflaws/401-B-bug-11120244-11120272/401-B-11120244.c
+33
+[("Replace b'        else i++;\\n' with b'        i++;\\n' at position 34", 33)]

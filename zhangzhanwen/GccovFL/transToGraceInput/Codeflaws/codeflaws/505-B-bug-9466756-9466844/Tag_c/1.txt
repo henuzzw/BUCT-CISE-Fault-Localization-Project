@@ -1,4 +1,0 @@
-codeflaws/505-B-bug-9466756-9466844/505-B-9466844.c
-codeflaws/505-B-bug-9466756-9466844/505-B-9466756.c
-34
-[('Delete b\'                                printf("i = %d j = %d h = %d\\\\n", i, j, h);\\n\' at position 34 in file2', 33)]

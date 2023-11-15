@@ -1,0 +1,4 @@
+codeflaws/388-A-bug-10430828-10430842/388-A-10430842.c
+codeflaws/388-A-bug-10430828-10430842/388-A-10430828.c
+70
+[("Replace b'\\t\\t\\tif(h[b]<yukseklik || hh[b])\\n' with b'\\t\\t\\tif(h[b]<yukseklik)\\n' at position 71", 70)]

@@ -1,4 +1,0 @@
-codeflaws/612-A-bug-18101020-18101086/612-A-18101086.c
-codeflaws/612-A-bug-18101020-18101086/612-A-18101020.c
-57
-[('Replace b\'            printf("%d\\\\n",i+(n-a*i)/b);\\n\' with b\'\\n\' at position 58', 57)]

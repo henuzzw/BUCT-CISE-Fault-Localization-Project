@@ -1,4 +1,0 @@
-codeflaws/339-D-bug-6713715-6713721/339-D-6713721.c
-codeflaws/339-D-bug-6713715-6713721/339-D-6713715.c
-70
-[('Replace b\'\\t//printf("Done\\\\n");\\n\' with b\'\\tprintf("Done\\\\n");\\n\' at position 71', 70)]

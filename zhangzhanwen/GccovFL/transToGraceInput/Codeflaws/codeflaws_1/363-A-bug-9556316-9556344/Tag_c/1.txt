@@ -1,0 +1,4 @@
+codeflaws/363-A-bug-9556316-9556344/363-A-9556344.c
+codeflaws/363-A-bug-9556316-9556344/363-A-9556316.c
+4,55
+[("Delete b'    while (1){\\n' at position 4 in file2", 3), ("Delete b'    }\\n' at position 54 in file2", 53)]

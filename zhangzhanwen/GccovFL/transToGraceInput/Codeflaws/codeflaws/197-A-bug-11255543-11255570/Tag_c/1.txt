@@ -1,4 +1,0 @@
-codeflaws/197-A-bug-11255543-11255570/197-A-11255570.c
-codeflaws/197-A-bug-11255543-11255570/197-A-11255543.c
-8
-[("Replace b'    if(a<r){\\n' with b'    if(a<=r){\\n' at position 9", 8)]

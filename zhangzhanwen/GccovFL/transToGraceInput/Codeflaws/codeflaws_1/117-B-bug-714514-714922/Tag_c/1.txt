@@ -1,0 +1,4 @@
+codeflaws/117-B-bug-714514-714922/117-B-714922.c
+codeflaws/117-B-bug-714514-714922/117-B-714514.c
+8
+[("Replace b'   if(((long long)i*1000000000LL-1+mod)%mod-mod+1<-b)\\n' with b'   if(i%mod>b)\\n' at position 9", 8)]

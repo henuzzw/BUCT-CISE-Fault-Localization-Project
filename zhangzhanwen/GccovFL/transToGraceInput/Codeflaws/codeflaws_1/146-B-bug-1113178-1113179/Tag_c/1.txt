@@ -1,0 +1,4 @@
+codeflaws/146-B-bug-1113178-1113179/146-B-1113179.c
+codeflaws/146-B-bug-1113178-1113179/146-B-1113178.c
+22
+[("Replace b'  while (c < 1000000) {\\n' with b'  while (c <= 100000) {\\n' at position 23", 22)]

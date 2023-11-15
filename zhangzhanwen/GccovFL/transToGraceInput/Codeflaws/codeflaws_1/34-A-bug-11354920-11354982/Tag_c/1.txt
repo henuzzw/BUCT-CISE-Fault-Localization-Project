@@ -1,0 +1,4 @@
+codeflaws/34-A-bug-11354920-11354982/34-A-11354982.c
+codeflaws/34-A-bug-11354920-11354982/34-A-11354920.c
+10,14,14
+[("Delete b'\\t\\telse if(i==n-1) {if(abs(m-a)<z) t=n,s=1;}\\n' at position 10 in file2", 9), ("Insert b'\\t\\t\\tif(i==n-1) {if(abs(m-a)<z) t=n,s=1;}\\n' at position 15 in file2", 14), ("Insert b'\\n' at position 16 in file2", 15)]

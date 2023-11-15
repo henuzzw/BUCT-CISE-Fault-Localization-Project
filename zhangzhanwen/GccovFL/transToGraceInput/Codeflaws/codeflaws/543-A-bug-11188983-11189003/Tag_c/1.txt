@@ -1,4 +1,0 @@
-codeflaws/543-A-bug-11188983-11189003/543-A-11189003.c
-codeflaws/543-A-bug-11188983-11189003/543-A-11188983.c
-25
-[("Replace b'\\tfor(i = 0; i <= b; i++){\\n' with b'\\tfor(i = 1; i <= b; i++){\\n' at position 26", 25)]

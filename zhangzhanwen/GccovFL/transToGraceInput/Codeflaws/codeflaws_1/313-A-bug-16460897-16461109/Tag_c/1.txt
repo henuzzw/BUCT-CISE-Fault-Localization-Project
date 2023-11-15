@@ -1,0 +1,4 @@
+codeflaws/313-A-bug-16460897-16461109/313-A-16461109.c
+codeflaws/313-A-bug-16460897-16461109/313-A-16460897.c
+14
+[("Replace b'c=(-1*n)%10;\\n' with b'c=n%10;\\n' at position 15", 14)]

@@ -1,0 +1,4 @@
+codeflaws/489-C-bug-15832774-15832808/489-C-15832808.c
+codeflaws/489-C-bug-15832774-15832808/489-C-15832774.c
+7
+[("Replace b'    if((m*9>=s && s) || (m==1 && !s)){\\n' with b'    if(m*9>=s && s){\\n' at position 8", 7)]

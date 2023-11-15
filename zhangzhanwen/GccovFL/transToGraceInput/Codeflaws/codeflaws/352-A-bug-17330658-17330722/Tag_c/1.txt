@@ -1,4 +1,0 @@
-codeflaws/352-A-bug-17330658-17330722/352-A-17330722.c
-codeflaws/352-A-bug-17330658-17330722/352-A-17330658.c
-1,6,11,11
-[("Replace b'int n,a,q,w,x;\\n' with b'int n,a,q,w,t,x;\\n' at position 2", 1), ("Delete b'\\t\\tt+=a;\\n' at position 6 in file2", 5), ("Insert b'\\telse if(!x)\\n' at position 12 in file2", 11), ('Insert b\'\\t\\tputs("0");\\n\' at position 13 in file2', 12)]

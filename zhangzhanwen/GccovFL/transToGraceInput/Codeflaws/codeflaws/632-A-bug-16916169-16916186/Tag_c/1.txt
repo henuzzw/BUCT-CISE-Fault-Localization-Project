@@ -1,4 +1,0 @@
-codeflaws/632-A-bug-16916169-16916186/632-A-16916186.c
-codeflaws/632-A-bug-16916169-16916186/632-A-16916169.c
-17
-[("Replace b'    long long r = 0;\\n' with b'    int r = 0;\\n' at position 18", 17)]

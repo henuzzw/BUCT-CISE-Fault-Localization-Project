@@ -1,0 +1,4 @@
+codeflaws/294-A-bug-6010475-6010501/294-A-6010501.c
+codeflaws/294-A-bug-6010475-6010501/294-A-6010475.c
+16,18
+[("Replace b'            if(num2<temp)\\n' with b'            if(num2<numOwires)\\n' at position 17", 16), ("Delete b'\\n' at position 18 in file2", 17)]

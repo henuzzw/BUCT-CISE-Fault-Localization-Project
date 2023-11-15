@@ -1,0 +1,4 @@
+codeflaws/271-A-bug-18178942-18178961/271-A-18178961.c
+codeflaws/271-A-bug-18178942-18178961/271-A-18178942.c
+5
+[("Replace b'    for (int i=n;;i++)\\n' with b'    for (int i=n;i<9000;i++)\\n' at position 6", 5)]

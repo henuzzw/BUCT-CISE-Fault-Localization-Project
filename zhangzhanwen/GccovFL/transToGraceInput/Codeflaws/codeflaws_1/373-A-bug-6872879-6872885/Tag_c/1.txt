@@ -1,0 +1,4 @@
+codeflaws/373-A-bug-6872879-6872885/373-A-6872885.c
+codeflaws/373-A-bug-6872879-6872885/373-A-6872879.c
+25
+[('Replace b\'\\t\\t\\n\' with b\'\\t\\t\\tprintf("%d",b[i]);\\n\' at position 26', 25)]

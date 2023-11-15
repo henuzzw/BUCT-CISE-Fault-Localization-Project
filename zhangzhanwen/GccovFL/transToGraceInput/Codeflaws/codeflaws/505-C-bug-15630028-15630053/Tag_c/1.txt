@@ -1,4 +1,0 @@
-codeflaws/505-C-bug-15630028-15630053/505-C-15630053.c
-codeflaws/505-C-bug-15630028-15630053/505-C-15630028.c
-37
-[("Insert b'    ans = p[d];\\n' at position 39 in file2", 38)]

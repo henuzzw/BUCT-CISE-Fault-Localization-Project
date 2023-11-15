@@ -1,0 +1,4 @@
+codeflaws/216-B-bug-2008634-2009138/216-B-2009138.c
+codeflaws/216-B-bug-2008634-2009138/216-B-2008634.c
+14,17
+[("Replace b'        return 1;\\n' with b'        return 0;\\n' at position 15", 14), ("Insert b'\\telse if (tot == 0) return 1; /* finish */\\n' at position 19 in file2", 18)]

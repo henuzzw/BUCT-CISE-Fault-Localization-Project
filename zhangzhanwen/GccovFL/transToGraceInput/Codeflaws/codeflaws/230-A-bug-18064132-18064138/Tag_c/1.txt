@@ -1,4 +1,0 @@
-codeflaws/230-A-bug-18064132-18064138/230-A-18064138.c
-codeflaws/230-A-bug-18064132-18064138/230-A-18064132.c
-27
-[("Replace b'       if(m<=cr[i].ar){\\n' with b'       if(m<cr[i].ar){\\n' at position 28", 27)]

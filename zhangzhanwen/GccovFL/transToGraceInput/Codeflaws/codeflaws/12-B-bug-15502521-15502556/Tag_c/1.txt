@@ -1,4 +1,0 @@
-codeflaws/12-B-bug-15502521-15502556/12-B-15502556.c
-codeflaws/12-B-bug-15502521-15502556/12-B-15502521.c
-108,108
-[("Insert b'    else if(n==0 && length>1)\\n' at position 110 in file2", 109), ('Insert b\'        printf("WRONG_ANSWER");\\n\' at position 111 in file2', 110)]

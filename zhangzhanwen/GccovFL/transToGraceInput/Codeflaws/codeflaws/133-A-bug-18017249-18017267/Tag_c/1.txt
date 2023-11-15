@@ -1,4 +1,0 @@
-codeflaws/133-A-bug-18017249-18017267/133-A-18017267.c
-codeflaws/133-A-bug-18017249-18017267/133-A-18017249.c
-16
-[('Replace b"\\t\\tif(str[i]==\'H\' || str[i]==\'Q\' || str[i]==\'9\')\\n" with b"\\t\\tif(str[i]==\'H\' || str[i]==\'Q\' || str[i]==\'9\' || str[i]==\'+\')\\n" at position 17', 16)]

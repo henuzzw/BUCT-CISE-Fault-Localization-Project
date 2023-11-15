@@ -1,4 +1,0 @@
-codeflaws/592-C-bug-14162536-14162647/592-C-14162647.c
-codeflaws/592-C-bug-14162536-14162647/592-C-14162536.c
-4,4
-[("Insert b'        if (x==0) return y;\\n' at position 6 in file2", 5), ("Insert b'        if (y==0) return x;\\n' at position 7 in file2", 6)]

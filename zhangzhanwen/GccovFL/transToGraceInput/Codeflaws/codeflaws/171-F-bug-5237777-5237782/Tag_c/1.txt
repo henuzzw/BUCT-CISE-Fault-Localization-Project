@@ -1,4 +1,0 @@
-codeflaws/171-F-bug-5237777-5237782/171-F-5237782.c
-codeflaws/171-F-bug-5237777-5237782/171-F-5237777.c
-5
-[("Replace b'    long long sushu[100000],emirp[100000],emirp2[100000],prime[100000];\\n' with b'    long long sushu[100000],emirp[2222],emirp2[2222],prime[2222];\\n' at position 6", 5)]

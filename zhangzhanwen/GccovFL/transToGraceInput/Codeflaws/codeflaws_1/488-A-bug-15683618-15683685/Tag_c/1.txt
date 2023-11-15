@@ -1,0 +1,4 @@
+codeflaws/488-A-bug-15683618-15683685/488-A-15683685.c
+codeflaws/488-A-bug-15683618-15683685/488-A-15683618.c
+2
+[("Insert b'    if(n<0) n=-n;\\n' at position 4 in file2", 3)]

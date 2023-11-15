@@ -1,4 +1,0 @@
-codeflaws/208-A-bug-18102368-18102377/208-A-18102377.c
-codeflaws/208-A-bug-18102368-18102377/208-A-18102368.c
-22
-[('Replace b\'    printf("%s",input);\\n\' with b\'    printf("%sk",input);\\n\' at position 23', 22)]

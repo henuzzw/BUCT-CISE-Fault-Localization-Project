@@ -1,4 +1,0 @@
-codeflaws/239-A-bug-14832283-14832425/239-A-14832425.c
-codeflaws/239-A-bug-14832283-14832425/239-A-14832283.c
-5
-[("Replace b'    if (n/a==b/a){\\n' with b'    if (a>b-n){\\n' at position 6", 5)]

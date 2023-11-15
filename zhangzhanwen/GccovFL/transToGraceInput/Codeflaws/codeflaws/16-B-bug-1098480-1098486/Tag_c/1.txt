@@ -1,4 +1,0 @@
-codeflaws/16-B-bug-1098480-1098486/16-B-1098486.c
-codeflaws/16-B-bug-1098480-1098486/16-B-1098480.c
-40
-[("Replace b'    while (n > 0 && i < m)   // i < m, rather careless.\\n' with b'    while (n > 0)\\n' at position 41", 40)]

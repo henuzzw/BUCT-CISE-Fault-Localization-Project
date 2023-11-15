@@ -1,4 +1,0 @@
-codeflaws/12-A-bug-14196802-14196811/12-A-14196811.c
-codeflaws/12-A-bug-14196802-14196811/12-A-14196802.c
-14
-[('Replace b\'    if(mat[0][0] == mat[2][2] && mat[0][1] == mat[2][1] && mat[0][2] == mat[2][0] && mat[1][0] == mat[1][2]) printf("YES");\\n\' with b\'    if(mat[0][0] == mat[2][2] && mat[0][1] == mat[2][1] && mat[0][2] == mat[0][2] && mat[1][0] == mat[1][2]) printf("YES");\\n\' at position 15', 14)]

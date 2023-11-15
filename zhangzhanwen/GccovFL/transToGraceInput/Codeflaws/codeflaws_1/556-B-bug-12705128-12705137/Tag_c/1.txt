@@ -1,0 +1,4 @@
+codeflaws/556-B-bug-12705128-12705137/556-B-12705137.c
+codeflaws/556-B-bug-12705128-12705137/556-B-12705128.c
+22
+[("Replace b'\\treturn 0;\\n' with b'\\treturn 1;\\n' at position 23", 22)]

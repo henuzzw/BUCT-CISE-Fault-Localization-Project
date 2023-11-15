@@ -1,4 +1,0 @@
-codeflaws/69-B-bug-350935-350951/69-B-350951.c
-codeflaws/69-B-bug-350935-350951/69-B-350935.c
-10
-[("Replace b'      //if(b[j]==t&&a[j]<c)a[j]=c;\\n' with b'      if(b[j]==t&&a[j]<c)a[j]=c;\\n' at position 11", 10)]

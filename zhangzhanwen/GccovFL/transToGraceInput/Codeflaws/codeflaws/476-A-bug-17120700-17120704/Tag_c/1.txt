@@ -1,4 +1,0 @@
-codeflaws/476-A-bug-17120700-17120704/476-A-17120704.c
-codeflaws/476-A-bug-17120700-17120704/476-A-17120700.c
-10
-[("Replace b'    while(s<=n){\\n' with b'    while(s<n){\\n' at position 11", 10)]

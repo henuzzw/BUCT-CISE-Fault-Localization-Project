@@ -1,0 +1,4 @@
+codeflaws/469-B-bug-12440186-12440424/469-B-12440424.c
+codeflaws/469-B-bug-12440186-12440424/469-B-12440186.c
+49,59
+[("Replace b'            x[j+l] = 1; \\n' with b'            x[j] = 1; \\n' at position 50", 49), ("Insert b'\\n' at position 61 in file2", 60)]

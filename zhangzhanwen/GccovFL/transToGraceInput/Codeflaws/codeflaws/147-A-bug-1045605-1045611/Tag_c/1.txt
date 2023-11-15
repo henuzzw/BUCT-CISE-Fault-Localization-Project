@@ -1,4 +1,0 @@
-codeflaws/147-A-bug-1045605-1045611/147-A-1045611.c
-codeflaws/147-A-bug-1045605-1045611/147-A-1045605.c
-12
-[('Replace b\'\\t\\t\\tif (strchr(".,!?", s[i]) && i + 1 < len && s[i + 1] != \\\' \\\')\\n\' with b"\\t\\t\\tif (s[i] == \'.\' || s[i] == \',\' || s[i] == \'!\' || s[i] == \'?\')\\n" at position 13', 12)]

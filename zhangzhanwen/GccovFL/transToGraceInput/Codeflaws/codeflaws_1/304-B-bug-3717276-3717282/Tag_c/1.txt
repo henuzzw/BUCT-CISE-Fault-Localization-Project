@@ -1,0 +1,4 @@
+codeflaws/304-B-bug-3717276-3717282/304-B-3717282.c
+codeflaws/304-B-bug-3717276-3717282/304-B-3717276.c
+81,81
+[("Insert b'\\tif (total < 0)\\n' at position 83 in file2", 82), ("Insert b'\\t\\ttotal *= -1;\\n' at position 84 in file2", 83)]

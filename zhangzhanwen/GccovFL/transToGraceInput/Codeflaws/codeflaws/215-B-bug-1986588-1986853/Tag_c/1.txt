@@ -1,4 +1,0 @@
-codeflaws/215-B-bug-1986588-1986853/215-B-1986853.c
-codeflaws/215-B-bug-1986588-1986853/215-B-1986588.c
-62
-[("Replace b'    r2=((float)rm*rm)/(((float)p2m/p1m)*t+1);\\n' with b'    r2=((float)rm*rm)/((p2m/p1m)*t+1);\\n' at position 63", 62)]

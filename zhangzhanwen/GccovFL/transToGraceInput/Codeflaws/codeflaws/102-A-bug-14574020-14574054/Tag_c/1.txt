@@ -1,4 +1,0 @@
-codeflaws/102-A-bug-14574020-14574054/102-A-14574054.c
-codeflaws/102-A-bug-14574020-14574054/102-A-14574020.c
-38
-[("Replace b'    if ( min!=LONG_MAX)\\n' with b'    if ( min )\\n' at position 39", 38)]

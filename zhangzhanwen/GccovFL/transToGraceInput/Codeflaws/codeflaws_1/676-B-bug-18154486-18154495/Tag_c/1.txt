@@ -1,0 +1,4 @@
+codeflaws/676-B-bug-18154486-18154495/676-B-18154495.c
+codeflaws/676-B-bug-18154486-18154495/676-B-18154486.c
+24
+[("Replace b'            if(A[i][j] >= 512) {\\n' with b'            if(A[i][j] == 512) {\\n' at position 25", 24)]

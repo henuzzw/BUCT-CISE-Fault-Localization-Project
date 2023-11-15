@@ -1,0 +1,4 @@
+codeflaws/585-B-bug-15514693-15514749/585-B-15514749.c
+codeflaws/585-B-bug-15514693-15514749/585-B-15514693.c
+62
+[("Replace b'\\t\\t\\tfor (j = 1; j <=199 ; j++)\\n' with b'\\t\\t\\tfor (j = 1; j <=x ; j++)\\n' at position 63", 62)]

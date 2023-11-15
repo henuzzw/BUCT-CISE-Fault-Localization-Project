@@ -1,0 +1,4 @@
+codeflaws/628-C-bug-16210003-16210047/628-C-16210047.c
+codeflaws/628-C-bug-16210003-16210047/628-C-16210003.c
+15
+[('Replace b\'\\t\\t//printf("%d\\\\n",str[i]-\\\'a\\\');\\n\' with b\'\\t\\tprintf("%d\\\\n",str[i]-\\\'a\\\');\\n\' at position 16', 15)]

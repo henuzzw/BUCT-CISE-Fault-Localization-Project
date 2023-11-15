@@ -1,4 +1,0 @@
-codeflaws/45-A-bug-14712476-14712493/45-A-14712493.c
-codeflaws/45-A-bug-14712476-14712493/45-A-14712476.c
-39
-[('Replace b\'    if (bal==12|| bal==0) printf("December");\\n\' with b\'    if (bal==12) printf("December");\\n\' at position 40', 39)]

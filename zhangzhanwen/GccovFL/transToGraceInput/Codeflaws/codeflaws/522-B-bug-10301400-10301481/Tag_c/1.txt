@@ -1,4 +1,0 @@
-codeflaws/522-B-bug-10301400-10301481/522-B-10301481.c
-codeflaws/522-B-bug-10301400-10301481/522-B-10301400.c
-15
-[("Replace b'    if ( hs[i] > mx1 ) mx2 = mx1, mx1 = hs[i];\\n' with b'    if ( hs[i] > mx1 ) mx1 = hs[i];\\n' at position 16", 15)]

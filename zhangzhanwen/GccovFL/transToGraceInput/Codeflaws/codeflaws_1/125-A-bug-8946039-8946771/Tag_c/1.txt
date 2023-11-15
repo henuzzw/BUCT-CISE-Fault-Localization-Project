@@ -1,0 +1,4 @@
+codeflaws/125-A-bug-8946039-8946771/125-A-8946771.c
+codeflaws/125-A-bug-8946039-8946771/125-A-8946039.c
+12,12
+[("Insert b'if(c==12){b++;\\n' at position 14 in file2", 13), ("Insert b'c=0;}\\n' at position 15 in file2", 14)]

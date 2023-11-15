@@ -1,0 +1,4 @@
+codeflaws/208-A-bug-18110250-18110255/208-A-18110255.c
+codeflaws/208-A-bug-18110250-18110255/208-A-18110250.c
+15
+[('Delete b\'printf("%d",arr[t]);\\n\' at position 15 in file2', 14)]

@@ -1,4 +1,0 @@
-codeflaws/71-B-bug-1996021-1996033/71-B-1996033.c
-codeflaws/71-B-bug-1996021-1996033/71-B-1996021.c
-21,21,24
-[("Insert b'\\t\\t\\tif(z!=n-1)\\n' at position 23 in file2", 22), ("Insert b'\\t\\t\\t{\\n' at position 24 in file2", 23), ("Insert b'\\t\\t}\\n' at position 28 in file2", 27)]

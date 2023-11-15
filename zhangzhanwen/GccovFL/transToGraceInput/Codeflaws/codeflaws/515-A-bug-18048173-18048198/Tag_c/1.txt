@@ -1,4 +1,0 @@
-codeflaws/515-A-bug-18048173-18048198/515-A-18048198.c
-codeflaws/515-A-bug-18048173-18048198/515-A-18048173.c
-0,5,5
-[("Insert b'#define abs(x) x >= 0 ? x : -x;\\n' at position 2 in file2", 1), ("Insert b'\\ta = abs(a);\\n' at position 8 in file2", 7), ("Insert b'\\tb = abs(b);\\n' at position 9 in file2", 8)]

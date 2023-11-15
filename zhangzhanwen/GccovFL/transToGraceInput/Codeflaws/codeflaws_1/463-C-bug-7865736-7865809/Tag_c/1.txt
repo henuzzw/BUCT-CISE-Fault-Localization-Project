@@ -1,0 +1,4 @@
+codeflaws/463-C-bug-7865736-7865809/463-C-7865809.c
+codeflaws/463-C-bug-7865736-7865809/463-C-7865736.c
+32,32
+[("Replace b'*/  \\n' with b'*/    \\n' at position 33", 32), ("Insert b'    x1 = 0, y1 = 1, x2 = y2 = 0;\\n' at position 34 in file2", 33)]

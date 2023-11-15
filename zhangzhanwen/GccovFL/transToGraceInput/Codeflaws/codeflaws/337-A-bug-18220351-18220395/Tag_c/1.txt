@@ -1,4 +1,0 @@
-codeflaws/337-A-bug-18220351-18220395/337-A-18220395.c
-codeflaws/337-A-bug-18220351-18220395/337-A-18220351.c
-25
-[("Replace b'       r=ara[i+(n-1)]-ara[i];\\n' with b'       r=ara[i+3]-ara[i];\\n' at position 26", 25)]

@@ -1,0 +1,4 @@
+codeflaws/439-A-bug-15285125-15285137/439-A-15285137.c
+codeflaws/439-A-bug-15285125-15285137/439-A-15285125.c
+12,12
+[('Replace b\'        //printf("%d\\\\n",s);\\n\' with b\'        if((d-s)%5==0)\\n\' at position 13', 12), ("Insert b'        if((d-s)>=0)\\n' at position 14 in file2", 13)]

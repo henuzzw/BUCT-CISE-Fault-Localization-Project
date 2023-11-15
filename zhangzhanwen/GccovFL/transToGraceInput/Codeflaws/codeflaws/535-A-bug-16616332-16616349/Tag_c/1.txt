@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-16616332-16616349/535-A-16616349.c
-codeflaws/535-A-bug-16616332-16616349/535-A-16616332.c
-28,28
-[('Insert b"\\t\\tif(arr[0]==\'0\')\\n" at position 30 in file2', 29), ('Insert b\'\\t\\t\\tprintf("zero");\\n\' at position 31 in file2', 30)]

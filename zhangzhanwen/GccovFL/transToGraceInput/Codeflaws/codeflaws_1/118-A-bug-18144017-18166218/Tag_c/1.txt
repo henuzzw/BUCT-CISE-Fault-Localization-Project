@@ -1,0 +1,4 @@
+codeflaws/118-A-bug-18144017-18166218/118-A-18166218.c
+codeflaws/118-A-bug-18144017-18166218/118-A-18144017.c
+41,43
+[('Insert b"    string2[j]=\'\\\\0\';\\n" at position 43 in file2', 42), ("Insert b'    \\n' at position 46 in file2", 45)]

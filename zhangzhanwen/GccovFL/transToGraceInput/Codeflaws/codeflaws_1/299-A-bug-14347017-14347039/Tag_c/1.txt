@@ -1,0 +1,4 @@
+codeflaws/299-A-bug-14347017-14347039/299-A-14347039.c
+codeflaws/299-A-bug-14347017-14347039/299-A-14347017.c
+23,29
+[("Delete b'    }\\n' at position 23 in file2", 22), ("Insert b'    }\\n' at position 30 in file2", 29)]

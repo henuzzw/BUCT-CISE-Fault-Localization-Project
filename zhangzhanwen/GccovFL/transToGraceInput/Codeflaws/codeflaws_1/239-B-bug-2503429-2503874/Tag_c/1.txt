@@ -1,0 +1,4 @@
+codeflaws/239-B-bug-2503429-2503874/239-B-2503874.c
+codeflaws/239-B-bug-2503429-2503874/239-B-2503429.c
+53,66
+[("Insert b'\\t\\t\\t\\t\\t\\tif (xp < cp) cp--;\\n' at position 55 in file2", 54), ("Insert b'\\t\\t\\t\\t\\t\\tif (xp < cp) cp--;\\n' at position 69 in file2", 68)]

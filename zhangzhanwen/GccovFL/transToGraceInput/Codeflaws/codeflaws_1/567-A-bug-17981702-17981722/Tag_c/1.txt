@@ -1,0 +1,4 @@
+codeflaws/567-A-bug-17981702-17981722/567-A-17981722.c
+codeflaws/567-A-bug-17981702-17981722/567-A-17981702.c
+14
+[('Replace b\'    printf("%lld %lld\\\\n",min,max);\\n\' with b\'    printf("%lld %lld\\\\n",max,min);\\n\' at position 15', 14)]

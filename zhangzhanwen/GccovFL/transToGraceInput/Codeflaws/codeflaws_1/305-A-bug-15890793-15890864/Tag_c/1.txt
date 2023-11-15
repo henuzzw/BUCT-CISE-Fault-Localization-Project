@@ -1,0 +1,4 @@
+codeflaws/305-A-bug-15890793-15890864/305-A-15890864.c
+codeflaws/305-A-bug-15890793-15890864/305-A-15890793.c
+53
+[("Replace b'\\tif(b==0&&k!=0&&c==0)\\n' with b'\\tif(b==0&&k!=0)\\n' at position 54", 53)]

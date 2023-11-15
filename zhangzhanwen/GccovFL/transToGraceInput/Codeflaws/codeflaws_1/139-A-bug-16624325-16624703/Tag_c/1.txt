@@ -1,0 +1,4 @@
+codeflaws/139-A-bug-16624325-16624703/139-A-16624703.c
+codeflaws/139-A-bug-16624325-16624703/139-A-16624325.c
+14
+[("Insert b'\\tif (n == 0) n = sum[7];\\n' at position 16 in file2", 15)]

@@ -1,0 +1,4 @@
+codeflaws/439-C-bug-6812085-6812237/439-C-6812237.c
+codeflaws/439-C-bug-6812085-6812237/439-C-6812085.c
+16
+[('Replace b\'\\tif(p)for(k-=(j=p);--j;)printf("1 %u\\\\n",O[--o]);\\n\' with b\'\\tfor(k-=(j=p);--j;)printf("1 %u\\\\n",O[--o]);\\n\' at position 17', 16)]

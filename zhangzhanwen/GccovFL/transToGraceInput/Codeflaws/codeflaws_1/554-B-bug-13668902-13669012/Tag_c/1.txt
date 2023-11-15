@@ -1,0 +1,4 @@
+codeflaws/554-B-bug-13668902-13669012/554-B-13669012.c
+codeflaws/554-B-bug-13668902-13669012/554-B-13668902.c
+20,31
+[('Insert b\'                    //printf("r[i] %s r[j] %s\\\\n",r[i],r[j]);\\n\' at position 22 in file2', 21), ("Replace b'    return 0;\\n' with b'\\n' at position 33", 32)]

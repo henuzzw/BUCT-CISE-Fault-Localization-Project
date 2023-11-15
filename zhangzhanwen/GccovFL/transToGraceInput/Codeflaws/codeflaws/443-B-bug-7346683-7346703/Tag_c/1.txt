@@ -1,4 +1,0 @@
-codeflaws/443-B-bug-7346683-7346703/443-B-7346703.c
-codeflaws/443-B-bug-7346683-7346703/443-B-7346683.c
-114,149
-[('Replace b\'\\t\\tprintf("%d", (k+n) - ((k+n)%2));\\n\' with b\'\\t\\tprintf("%d", (k+n));\\n\' at position 115', 114), ("Replace b'\\treturn 0;\\n' with b'\\t\\n' at position 150", 149)]

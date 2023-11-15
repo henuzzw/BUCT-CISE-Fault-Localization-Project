@@ -1,0 +1,4 @@
+codeflaws/431-A-bug-15567431-15567445/431-A-15567445.c
+codeflaws/431-A-bug-15567431-15567445/431-A-15567431.c
+12
+[('Delete b\'\\tprintf("%d %d %d %d\\\\n",a[1],a[2],a[3],a[4]);\\n\' at position 12 in file2', 11)]

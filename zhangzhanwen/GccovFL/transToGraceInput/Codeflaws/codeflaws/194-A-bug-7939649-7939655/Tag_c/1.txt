@@ -1,4 +1,0 @@
-codeflaws/194-A-bug-7939649-7939655/194-A-7939655.c
-codeflaws/194-A-bug-7939649-7939655/194-A-7939649.c
-5
-[('Replace b\'printf("%d\\\\n", 3 * n - k >= 0? 3 * n - k: 0);\\n\' with b\'printf("%d\\\\n", 3 * n - k);\\n\' at position 6', 5)]

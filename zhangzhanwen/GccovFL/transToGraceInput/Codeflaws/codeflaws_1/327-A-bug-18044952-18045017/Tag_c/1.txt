@@ -1,0 +1,4 @@
+codeflaws/327-A-bug-18044952-18045017/327-A-18045017.c
+codeflaws/327-A-bug-18044952-18045017/327-A-18044952.c
+21,21,21
+[("Insert b'\\t}\\n' at position 23 in file2", 22), ("Insert b'\\tif(tot_ones == n){\\n' at position 24 in file2", 23), ("Insert b'\\t\\treturn n-1;\\n' at position 25 in file2", 24)]

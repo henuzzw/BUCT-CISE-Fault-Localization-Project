@@ -1,4 +1,0 @@
-codeflaws/74-A-bug-7737296-7737317/74-A-7737317.c
-codeflaws/74-A-bug-7737296-7737317/74-A-7737296.c
-8
-[("Replace b'\\tj = -2501;\\n' with b'\\tj = -1;\\n' at position 9", 8)]

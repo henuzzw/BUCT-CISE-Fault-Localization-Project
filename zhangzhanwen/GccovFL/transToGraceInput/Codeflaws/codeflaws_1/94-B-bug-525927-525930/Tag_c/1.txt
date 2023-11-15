@@ -1,0 +1,4 @@
+codeflaws/94-B-bug-525927-525930/94-B-525930.c
+codeflaws/94-B-bug-525927-525930/94-B-525927.c
+8
+[("Replace b'\\t\\twhile(m--)\\n' with b'\\t\\twhile(--m)\\n' at position 9", 8)]

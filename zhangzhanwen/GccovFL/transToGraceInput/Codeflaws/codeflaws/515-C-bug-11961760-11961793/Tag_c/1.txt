@@ -1,4 +1,0 @@
-codeflaws/515-C-bug-11961760-11961793/515-C-11961793.c
-codeflaws/515-C-bug-11961760-11961793/515-C-11961760.c
-48
-[('Replace b"        else if ( s[i] == \'9\')\\n" with b"        else if ( s[i] == \' 9\')\\n" at position 49', 48)]

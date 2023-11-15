@@ -1,0 +1,4 @@
+codeflaws/437-A-bug-15187701-15187707/437-A-15187707.c
+codeflaws/437-A-bug-15187701-15187707/437-A-15187701.c
+18
+[("Replace b'\\t\\tlength[i]=count-2;\\n' with b'\\t\\tlength[i]=count;\\n' at position 19", 18)]

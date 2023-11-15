@@ -1,0 +1,4 @@
+codeflaws/180-C-bug-15764515-15764561/180-C-15764561.c
+codeflaws/180-C-bug-15764515-15764561/180-C-15764515.c
+24,24,24
+[("Insert b'\\tc=l-l1+u1;\\n' at position 26 in file2", 25), ("Insert b'\\tif(c<ans)\\n' at position 27 in file2", 26), ("Insert b'\\tans=c;\\n' at position 28 in file2", 27)]

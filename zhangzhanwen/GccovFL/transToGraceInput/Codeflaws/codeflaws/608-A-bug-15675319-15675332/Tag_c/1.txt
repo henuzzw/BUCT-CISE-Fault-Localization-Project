@@ -1,4 +1,0 @@
-codeflaws/608-A-bug-15675319-15675332/608-A-15675332.c
-codeflaws/608-A-bug-15675319-15675332/608-A-15675319.c
-21
-[('Replace b\'    printf("%d\\\\n", sum);\\n\' with b\'    printf(sum);\\n\' at position 22', 21)]

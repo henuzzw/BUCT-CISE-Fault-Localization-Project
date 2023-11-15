@@ -1,4 +1,0 @@
-codeflaws/402-A-bug-6510690-6510748/402-A-6510748.c
-codeflaws/402-A-bug-6510690-6510748/402-A-6510690.c
-10
-[('Replace b\'    printf("%d\\\\n",max(ceil((double)a/v/k),ceil((double)a/v-b)));\\n\' with b\'    printf("%d\\\\n",max(ceil((double)b/(k-1)),ceil((double)a/v-b)));\\n\' at position 11', 10)]

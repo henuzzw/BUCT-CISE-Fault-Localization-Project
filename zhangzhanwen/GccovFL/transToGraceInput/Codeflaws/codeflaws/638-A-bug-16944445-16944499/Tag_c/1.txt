@@ -1,4 +1,0 @@
-codeflaws/638-A-bug-16944445-16944499/638-A-16944499.c
-codeflaws/638-A-bug-16944445-16944499/638-A-16944445.c
-5
-[('Replace b\'\\tif (a%2==0) printf ("%d",( n/2-a/2+1));\\n\' with b\'\\tif (a%2==0) printf ("%d", a/2);\\n\' at position 6', 5)]

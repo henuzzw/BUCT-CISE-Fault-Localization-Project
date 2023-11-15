@@ -1,4 +1,0 @@
-codeflaws/548-A-bug-16057870-16058252/548-A-16058252.c
-codeflaws/548-A-bug-16057870-16058252/548-A-16057870.c
-18,18,18
-[("Insert b'    }\\n' at position 20 in file2", 19), ("Insert b'    else{\\n' at position 21 in file2", 20), ("Insert b'        flag=1;\\n' at position 22 in file2", 21)]

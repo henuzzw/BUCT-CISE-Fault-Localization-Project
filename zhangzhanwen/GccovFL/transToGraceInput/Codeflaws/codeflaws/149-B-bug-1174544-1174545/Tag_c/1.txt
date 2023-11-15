@@ -1,4 +1,0 @@
-codeflaws/149-B-bug-1174544-1174545/149-B-1174545.c
-codeflaws/149-B-bug-1174544-1174545/149-B-1174544.c
-24
-[("Replace b'\\tfor (i = 2;i < 10000;i++) {\\n' with b'\\tfor (i = 2;i < 100;i++) {\\n' at position 25", 24)]

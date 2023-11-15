@@ -1,4 +1,0 @@
-codeflaws/659-D-bug-17058765-17059198/659-D-17059198.c
-codeflaws/659-D-bug-17058765-17059198/659-D-17058765.c
-32
-[("Replace b'    int ans=0;\\n' with b'    int ans;\\n' at position 33", 32)]

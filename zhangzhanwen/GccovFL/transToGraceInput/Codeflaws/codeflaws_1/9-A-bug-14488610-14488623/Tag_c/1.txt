@@ -1,0 +1,4 @@
+codeflaws/9-A-bug-14488610-14488623/9-A-14488623.c
+codeflaws/9-A-bug-14488610-14488623/9-A-14488610.c
+9
+[('Insert b\'    else if(z==4)printf("2/3");\\n\' at position 11 in file2', 10)]

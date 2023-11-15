@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-16438491-16438553/46-A-16438553.c
-codeflaws/46-A-bug-16438491-16438553/46-A-16438491.c
-8
-[("Replace b'\\t\\tif (sum<=n){\\n' with b'\\t\\tif (sum<n){\\n' at position 9", 8)]

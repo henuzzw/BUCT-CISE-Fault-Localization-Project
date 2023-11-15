@@ -1,4 +1,0 @@
-codeflaws/508-C-bug-9599685-9599842/508-C-9599842.c
-codeflaws/508-C-bug-9599685-9599842/508-C-9599685.c
-16
-[("Replace b'                    for(f = z+1 ; f-z<=t ;++f)\\n' with b'                    for(f = z ; f-z<t ;++f)\\n' at position 17", 16)]

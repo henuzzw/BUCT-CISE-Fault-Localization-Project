@@ -1,0 +1,4 @@
+codeflaws/486-C-bug-17883008-17883033/486-C-17883033.c
+codeflaws/486-C-bug-17883008-17883033/486-C-17883008.c
+38
+[("Replace b'        if(cursor  >= mitad)\\n' with b'        if(cursor  > mitad)\\n' at position 39", 38)]

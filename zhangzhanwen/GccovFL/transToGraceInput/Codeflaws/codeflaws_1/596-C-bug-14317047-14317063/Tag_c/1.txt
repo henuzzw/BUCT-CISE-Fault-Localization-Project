@@ -1,0 +1,4 @@
+codeflaws/596-C-bug-14317047-14317063/596-C-14317063.c
+codeflaws/596-C-bug-14317047-14317063/596-C-14317047.c
+91
+[("Replace b'\\t\\t\\t(x > mx || y > my)) {\\n' with b'\\t\\t\\t(x >= mx || y >= my)) {\\n' at position 92", 91)]

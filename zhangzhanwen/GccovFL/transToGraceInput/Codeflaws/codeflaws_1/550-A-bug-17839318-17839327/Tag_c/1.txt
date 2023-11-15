@@ -1,0 +1,4 @@
+codeflaws/550-A-bug-17839318-17839327/550-A-17839327.c
+codeflaws/550-A-bug-17839318-17839327/550-A-17839318.c
+13
+[("Replace b'   else if((m=strstr(ch,str2))&&(strstr(m+2,str1)))\\n' with b'   else if((m=strstr(ch,str1))&&(strstr(m+2,str2)))\\n' at position 14", 13)]

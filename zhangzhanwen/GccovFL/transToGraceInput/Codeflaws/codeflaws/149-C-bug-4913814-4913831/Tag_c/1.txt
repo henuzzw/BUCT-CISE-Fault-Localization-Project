@@ -1,4 +1,0 @@
-codeflaws/149-C-bug-4913814-4913831/149-C-4913831.c
-codeflaws/149-C-bug-4913814-4913831/149-C-4913814.c
-13
-[("Replace b'\\treturn (-((boy *)x)->power) + ((boy *)y)->power;\\n' with b'\\treturn (-((boy *)x)->power) + ((boy *)x)->power;\\n' at position 14", 13)]

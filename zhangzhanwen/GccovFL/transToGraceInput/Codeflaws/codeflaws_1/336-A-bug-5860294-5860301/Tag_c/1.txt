@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-5860294-5860301/336-A-5860301.c
+codeflaws/336-A-bug-5860294-5860301/336-A-5860294.c
+30,33
+[('Replace b\'        printf("0 -%d %d 0",m,m);\\n\' with b\'        printf("0 %d -%d 0",m,m);\\n\' at position 31', 30), ("Insert b'\\n' at position 35 in file2", 34)]

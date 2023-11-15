@@ -1,4 +1,0 @@
-codeflaws/176-D-bug-1589777-1589940/176-D-1589940.c
-codeflaws/176-D-bug-1589777-1589940/176-D-1589777.c
-75
-[("Replace b'      if(n1 == dame || (i!=mx && (n1 > dp1[i+1] || (n1==dp1[i+1] && n2>=dp2[i+1])))){\\n' with b'      if(n1 == dame || (i!=mx && n1 > dp1[i+1] || (n1==dp1[i+1] && n2>=dp2[i+1]))){\\n' at position 76", 75)]

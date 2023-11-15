@@ -1,4 +1,0 @@
-codeflaws/108-A-bug-13026009-13026023/108-A-13026023.c
-codeflaws/108-A-bug-13026009-13026023/108-A-13026009.c
-17
-[('Replace b\'\\t\\t\\tprintf("%02d:%02d",x,f);\\n\' with b\'\\t\\t\\tprintf("%02d:%02dl",x,f);\\n\' at position 18', 17)]

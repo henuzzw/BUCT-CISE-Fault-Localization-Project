@@ -1,0 +1,4 @@
+codeflaws/9-B-bug-1970440-1970445/9-B-1970445.c
+codeflaws/9-B-bug-1970440-1970445/9-B-1970440.c
+13
+[("Replace b'        if(min>=s){\\n' with b'        if(min-s>0.000000001){\\n' at position 14", 13)]

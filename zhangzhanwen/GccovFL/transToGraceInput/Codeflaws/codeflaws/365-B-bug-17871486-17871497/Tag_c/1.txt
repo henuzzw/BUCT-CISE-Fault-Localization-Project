@@ -1,4 +1,0 @@
-codeflaws/365-B-bug-17871486-17871497/365-B-17871497.c
-codeflaws/365-B-bug-17871486-17871497/365-B-17871486.c
-3
-[("Replace b'int a[11000000];\\n' with b'int a[110];\\n' at position 4", 3)]

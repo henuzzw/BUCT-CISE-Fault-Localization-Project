@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include<string.h>
+int main(int argc, char *argv[])
+{
+long long int x,y,a,b,c,d,i,t,s=0;
+char r[1000001];
+scanf("%lld %lld %lld %lld %lld",&t,&a,&b,&c,&d);
+scanf("%s",&r);
+x=c-a;
+y=d-b;
+for(i=0;i<t;i++)
+{
+    if(y==0&&x==0)
+        break;
+  else  if(r[i]=='E'&&x>0)
+    {
+        x=x-1;
+    }
+    else if (r[i]=='S'&&y<0)
+    {
+        y=y+1;
+    }
+    else if(r[i]=='W'&&x<0)
+    {
+        x=x+1;
+    }
+    else if(r[i]=='N'&&y>0)
+    {
+        y=y-1;
+    }
+    s=s+1;
+}
+if(s==t&&(y!=0||x!=0))
+printf("-1");
+else
+    printf("%lld",s);
+    return 0;
+
+}

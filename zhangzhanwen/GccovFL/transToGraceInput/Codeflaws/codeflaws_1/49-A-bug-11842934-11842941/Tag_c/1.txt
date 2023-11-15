@@ -1,0 +1,4 @@
+codeflaws/49-A-bug-11842934-11842941/49-A-11842941.c
+codeflaws/49-A-bug-11842934-11842941/49-A-11842934.c
+9
+[('Replace b"    while(str[len] == \' \')\\n" with b"    while(str[len==\' \'])\\n" at position 10', 9)]

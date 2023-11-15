@@ -1,0 +1,4 @@
+codeflaws/398-A-bug-5929922-5929934/398-A-5929934.c
+codeflaws/398-A-bug-5929922-5929934/398-A-5929922.c
+18
+[('Replace b\'            printf("%lld\\\\n", -b*b);\\n\' with b\'            printf("%lld\\\\n", b*b);\\n\' at position 19', 18)]

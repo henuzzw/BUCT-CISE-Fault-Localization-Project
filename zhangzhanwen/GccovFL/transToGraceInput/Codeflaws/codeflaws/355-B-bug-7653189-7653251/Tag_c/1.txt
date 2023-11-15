@@ -1,4 +1,0 @@
-codeflaws/355-B-bug-7653189-7653251/355-B-7653251.c
-codeflaws/355-B-bug-7653189-7653251/355-B-7653189.c
-21
-[("Replace b'\\t\\t\\th[i]=b[i]*c1;\\n' with b'\\t\\t\\th[i]=a[i]*c1;\\n' at position 22", 21)]

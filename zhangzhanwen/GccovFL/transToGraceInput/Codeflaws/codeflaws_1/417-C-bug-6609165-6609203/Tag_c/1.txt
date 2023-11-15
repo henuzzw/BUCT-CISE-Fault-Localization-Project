@@ -1,0 +1,4 @@
+codeflaws/417-C-bug-6609165-6609203/417-C-6609203.c
+codeflaws/417-C-bug-6609165-6609203/417-C-6609165.c
+4
+[("Replace b'  if( x>(n-1)/2){\\n' with b'  if((n-1) % x !=0 || n==1){\\n' at position 5", 4)]

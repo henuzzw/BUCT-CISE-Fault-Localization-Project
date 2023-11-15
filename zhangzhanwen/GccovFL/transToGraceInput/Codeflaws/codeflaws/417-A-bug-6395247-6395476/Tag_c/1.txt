@@ -1,4 +1,0 @@
-codeflaws/417-A-bug-6395247-6395476/417-A-6395476.c
-codeflaws/417-A-bug-6395247-6395476/417-A-6395247.c
-22
-[("Replace b'   if(((l*d)>c) && (n>1) && (ratio<d))\\n' with b'   if(((l*d)>c) && (n>1))\\n' at position 23", 22)]

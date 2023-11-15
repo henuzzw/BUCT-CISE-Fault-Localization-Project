@@ -1,0 +1,4 @@
+codeflaws/471-A-bug-15956940-15957234/471-A-15957234.c
+codeflaws/471-A-bug-15956940-15957234/471-A-15956940.c
+31
+[("Replace b'{if(arr[0]==arr[1]   && arr[5]==arr[4])\\n' with b'{if(arr[0]==arr[1])\\n' at position 32", 31)]

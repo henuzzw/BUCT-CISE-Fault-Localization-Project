@@ -1,0 +1,4 @@
+codeflaws/99-B-bug-557486-557714/99-B-557714.c
+codeflaws/99-B-bug-557486-557714/99-B-557486.c
+18
+[("Replace b'            else {a = i; b = k; c = -num; } \\n' with b'            else {a = i; b = k; c = num; } \\n' at position 19", 18)]

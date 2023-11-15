@@ -1,4 +1,0 @@
-codeflaws/47-A-bug-17260366-17260380/47-A-17260380.c
-codeflaws/47-A-bug-17260366-17260380/47-A-17260366.c
-18
-[('Replace b\'                printf("NO");\\n\' with b\'                printf("N0");\\n\' at position 19', 18)]

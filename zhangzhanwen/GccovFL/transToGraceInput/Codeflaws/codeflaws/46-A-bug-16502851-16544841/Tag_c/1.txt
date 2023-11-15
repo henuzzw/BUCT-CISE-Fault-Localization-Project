@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-16502851-16544841/46-A-16544841.c
-codeflaws/46-A-bug-16502851-16544841/46-A-16502851.c
-9,10
-[("Replace b'        if(sum>n) sum=sum%n;\\n' with b'        sum=sum%n;\\n' at position 10", 9), ("Delete b'\\n' at position 10 in file2", 9)]

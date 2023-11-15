@@ -1,4 +1,0 @@
-codeflaws/355-A-bug-12485885-12485900/355-A-12485900.c
-codeflaws/355-A-bug-12485885-12485900/355-A-12485885.c
-6
-[('Replace b\'\\t\\tprintf("No solution");\\n\' with b\'\\t\\tprintf("NO SOLUTION");\\n\' at position 7', 6)]

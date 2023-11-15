@@ -1,0 +1,4 @@
+codeflaws/405-B-bug-12287356-12287584/405-B-12287584.c
+codeflaws/405-B-bug-12287356-12287584/405-B-12287356.c
+36,39,40
+[('Insert b\'\\t\\t\\t//printf("yes .. oflag = %d , nflag = %d, ans = %d\\\\n", oflag, nflag, ans);\\n\' at position 38 in file2', 37), ("Delete b'\\t\\t\\t\\tbreak;\\n' at position 40 in file2", 39), ("Insert b'\\t\\t\\tbreak;\\n' at position 42 in file2", 41)]

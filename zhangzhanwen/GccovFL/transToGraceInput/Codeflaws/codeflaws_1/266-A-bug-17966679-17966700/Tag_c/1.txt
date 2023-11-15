@@ -1,0 +1,4 @@
+codeflaws/266-A-bug-17966679-17966700/266-A-17966700.c
+codeflaws/266-A-bug-17966679-17966700/266-A-17966679.c
+6
+[('Insert b\'\\tscanf("%d",&i);\\n\' at position 8 in file2', 7)]

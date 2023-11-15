@@ -1,0 +1,4 @@
+codeflaws/75-A-bug-14683488-14683500/75-A-14683500.c
+codeflaws/75-A-bug-14683488-14683500/75-A-14683488.c
+8,9
+[("Delete b'      n=n/10;\\n' at position 8 in file2", 7), ("Insert b'    n=n/10;\\n' at position 10 in file2", 9)]

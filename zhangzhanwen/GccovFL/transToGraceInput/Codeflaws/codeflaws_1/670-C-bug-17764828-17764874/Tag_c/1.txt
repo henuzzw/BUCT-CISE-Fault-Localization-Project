@@ -1,0 +1,4 @@
+codeflaws/670-C-bug-17764828-17764874/670-C-17764874.c
+codeflaws/670-C-bug-17764828-17764874/670-C-17764828.c
+61
+[("Replace b'\\tint\\tans = 1;\\n' with b'\\tint\\tans = -1;\\n' at position 62", 61)]

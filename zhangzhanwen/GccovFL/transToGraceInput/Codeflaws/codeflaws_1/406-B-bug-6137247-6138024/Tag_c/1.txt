@@ -1,0 +1,4 @@
+codeflaws/406-B-bug-6137247-6138024/406-B-6138024.c
+codeflaws/406-B-bug-6137247-6138024/406-B-6137247.c
+13
+[("Replace b'        if ( a[Nmax-scn] ) {\\n' with b'        if ( a[n-scn] ) {\\n' at position 14", 13)]

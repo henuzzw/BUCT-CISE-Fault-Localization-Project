@@ -1,4 +1,0 @@
-codeflaws/360-B-bug-5113185-5113199/360-B-5113199.c
-codeflaws/360-B-bug-5113185-5113199/360-B-5113185.c
-16
-[("Replace b'                dp[i] = MIN(dp[i], dp[j] + i - j - 1);\\n' with b'                dp[i] = MIN(dp[i], dp[j] + j - i - 1);\\n' at position 17", 16)]

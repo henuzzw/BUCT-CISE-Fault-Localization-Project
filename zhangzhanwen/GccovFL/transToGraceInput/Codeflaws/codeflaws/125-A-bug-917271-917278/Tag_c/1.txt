@@ -1,4 +1,0 @@
-codeflaws/125-A-bug-917271-917278/125-A-917278.c
-codeflaws/125-A-bug-917271-917278/125-A-917271.c
-7
-[('Replace b\'    printf("%d ",a = (n+1) / 36);\\n\' with b\'    printf("%d ",a = n / 36);\\n\' at position 8', 7)]

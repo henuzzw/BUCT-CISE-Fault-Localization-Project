@@ -1,0 +1,4 @@
+codeflaws/540-A-bug-17978917-17978962/540-A-17978962.c
+codeflaws/540-A-bug-17978917-17978962/540-A-17978917.c
+16
+[('Replace b\'     printf("%d",dif);\\n\' with b\'     printf("dif=%d\\\\n",dif);\\n\' at position 17', 16)]

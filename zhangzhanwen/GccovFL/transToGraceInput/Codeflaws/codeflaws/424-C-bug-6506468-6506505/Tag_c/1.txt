@@ -1,4 +1,0 @@
-codeflaws/424-C-bug-6506468-6506505/424-C-6506505.c
-codeflaws/424-C-bug-6506468-6506505/424-C-6506468.c
-16
-[("Replace b'    p ^= (((n/i)%2) * xs[i-1]) ^ xs[n%i];\\n' with b'    p ^= (((n/i)%2) * xs[i]) ^ xs[n%i];\\n' at position 17", 16)]

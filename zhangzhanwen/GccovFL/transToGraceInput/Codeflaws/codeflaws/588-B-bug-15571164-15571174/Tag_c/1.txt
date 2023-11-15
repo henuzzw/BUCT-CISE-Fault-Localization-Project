@@ -1,4 +1,0 @@
-codeflaws/588-B-bug-15571164-15571174/588-B-15571174.c
-codeflaws/588-B-bug-15571164-15571174/588-B-15571164.c
-5
-[("Replace b'\\t\\tfor (i=10000000; i>=2 ; i--)\\n' with b'\\t\\tfor (i=100000; i>=2 ; i--)\\n' at position 6", 5)]

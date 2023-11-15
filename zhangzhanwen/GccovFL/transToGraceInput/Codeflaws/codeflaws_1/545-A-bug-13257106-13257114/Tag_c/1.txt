@@ -1,0 +1,4 @@
+codeflaws/545-A-bug-13257106-13257114/545-A-13257114.c
+codeflaws/545-A-bug-13257106-13257114/545-A-13257106.c
+8
+[("Replace b'            if(!(a[i][j]) || (a[i][j]) == -1) {\\n' with b'            if(!(a[i][j])) {\\n' at position 9", 8)]

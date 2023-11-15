@@ -1,0 +1,4 @@
+codeflaws/230-A-bug-18215529-18215595/230-A-18215595.c
+codeflaws/230-A-bug-18215529-18215595/230-A-18215529.c
+14
+[("Replace b'\\t\\t\\tif((s>x[j])&&(b[j]==0))\\n' with b'\\t\\t\\tif((s>=x[j])&&(b[j]==0))\\n' at position 15", 14)]

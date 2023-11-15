@@ -1,4 +1,0 @@
-codeflaws/228-A-bug-18063728-18063771/228-A-18063771.c
-codeflaws/228-A-bug-18063728-18063771/228-A-18063728.c
-5,6
-[("Replace b'for(j=0;j<i;j++) if(a[j]==a[i]){ k++; break;}}\\n' with b'for(j=0;j<i;j++) if(a[j]==a[i]) k++;\\n' at position 6", 5), ("Delete b'}\\n' at position 6 in file2", 5)]

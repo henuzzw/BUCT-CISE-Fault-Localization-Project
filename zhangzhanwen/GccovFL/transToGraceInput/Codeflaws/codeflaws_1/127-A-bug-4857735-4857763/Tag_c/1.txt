@@ -1,0 +1,4 @@
+codeflaws/127-A-bug-4857735-4857763/127-A-4857763.c
+codeflaws/127-A-bug-4857735-4857763/127-A-4857735.c
+18
+[('Replace b\'\\tprintf("%.9lf",sumlen*k/50.00);\\n\' with b\'\\tprintf("%.9lf",sumlen/5.00);\\n\' at position 19', 18)]

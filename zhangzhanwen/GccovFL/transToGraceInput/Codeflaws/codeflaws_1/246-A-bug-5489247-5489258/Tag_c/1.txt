@@ -1,0 +1,4 @@
+codeflaws/246-A-bug-5489247-5489258/246-A-5489258.c
+codeflaws/246-A-bug-5489247-5489258/246-A-5489247.c
+1
+[("Delete b'}\\n' at position 1 in file2", 0)]

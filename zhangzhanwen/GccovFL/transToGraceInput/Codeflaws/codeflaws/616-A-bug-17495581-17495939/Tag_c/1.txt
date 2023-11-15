@@ -1,4 +1,0 @@
-codeflaws/616-A-bug-17495581-17495939/616-A-17495939.c
-codeflaws/616-A-bug-17495581-17495939/616-A-17495581.c
-22,22
-[('Replace b\'    if(a[m]==\\\'\\\\0\\\'&& b[n]==\\\'\\\\0\\\') printf("=");\\n\' with b\'    if(lengthA>lengthB) printf(">");\\n\' at position 23', 22), ('Insert b\'    else if(lengthA>lengthB) printf(">");\\n\' at position 24 in file2', 23)]

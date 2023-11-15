@@ -1,0 +1,4 @@
+codeflaws/441-C-bug-6962731-6962747/441-C-6962747.c
+codeflaws/441-C-bug-6962731-6962747/441-C-6962731.c
+17
+[("Replace b'if((count%e==0 && fi==0 && ew==c-1) || (count==e+s%c && fi==1 && ew==c-1))\\n' with b'if(count%e==0 && fi==0 && ew==c-1)\\n' at position 18", 17)]

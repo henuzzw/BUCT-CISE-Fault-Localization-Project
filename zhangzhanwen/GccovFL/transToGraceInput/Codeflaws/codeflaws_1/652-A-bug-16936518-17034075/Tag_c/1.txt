@@ -1,0 +1,4 @@
+codeflaws/652-A-bug-16936518-17034075/652-A-17034075.c
+codeflaws/652-A-bug-16936518-17034075/652-A-16936518.c
+5
+[("Replace b'\\tif(a*8+h1>=h2)\\n' with b'\\tif(a*8+h1>h2)\\n' at position 6", 5)]

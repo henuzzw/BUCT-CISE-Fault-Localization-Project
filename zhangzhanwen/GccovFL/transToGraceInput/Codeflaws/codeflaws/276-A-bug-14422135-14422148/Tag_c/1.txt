@@ -1,4 +1,0 @@
-codeflaws/276-A-bug-14422135-14422148/276-A-14422148.c
-codeflaws/276-A-bug-14422135-14422148/276-A-14422135.c
-5
-[("Replace b'    long long int n,k,i,f,t,sum=-1000000000000000000,c;\\n' with b'    long long int n,k,i,f,t,sum=0,c;\\n' at position 6", 5)]

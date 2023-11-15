@@ -1,4 +1,0 @@
-codeflaws/257-A-bug-4611748-4611754/257-A-4611754.c
-codeflaws/257-A-bug-4611748-4611754/257-A-4611748.c
-41
-[("Replace b'    if(m<=k)\\n' with b'    if(m<k)\\n' at position 42", 41)]

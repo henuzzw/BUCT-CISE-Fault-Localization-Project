@@ -1,0 +1,4 @@
+codeflaws/218-A-bug-2052209-2052217/218-A-2052217.c
+codeflaws/218-A-bug-2052209-2052217/218-A-2052209.c
+9
+[("Replace b' for(i=1;i<(2*n+1);i=i+2)\\n' with b' for(i=1;i<(2*n+1);i+2)\\n' at position 10", 9)]

@@ -1,4 +1,0 @@
-codeflaws/94-B-bug-650234-650239/94-B-650239.c
-codeflaws/94-B-bug-650234-650239/94-B-650234.c
-19
-[("Replace b'\\t  for (j = i + 1; j < 5; j++) {\\n' with b'\\t  for (j = i + 1; j < 5; i++) {\\n' at position 20", 19)]

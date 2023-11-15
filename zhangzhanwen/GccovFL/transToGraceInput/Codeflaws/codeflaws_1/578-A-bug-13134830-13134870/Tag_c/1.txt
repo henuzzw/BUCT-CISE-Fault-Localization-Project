@@ -1,0 +1,4 @@
+codeflaws/578-A-bug-13134830-13134870/578-A-13134870.c
+codeflaws/578-A-bug-13134830-13134870/578-A-13134830.c
+9
+[('Replace b\'        printf("%.12f\\\\n",(a+b)/((2.0)*((a+b)/(2*b))));\\n\' with b\'        printf("%.12f\\\\n",(float)(a+b)/(2*(float)((a+b)/(2*b))));\\n\' at position 10', 9)]

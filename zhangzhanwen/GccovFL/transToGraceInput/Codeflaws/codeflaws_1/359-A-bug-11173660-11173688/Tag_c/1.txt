@@ -1,0 +1,4 @@
+codeflaws/359-A-bug-11173660-11173688/359-A-11173688.c
+codeflaws/359-A-bug-11173660-11173688/359-A-11173660.c
+14,14
+[("Insert b'\\t\\t\\tif(a[i][j]==1 && (i==n-1 || j==m-1))\\n' at position 16 in file2", 15), ("Insert b'\\t\\t\\t\\t\\tf1=1;\\n' at position 17 in file2", 16)]

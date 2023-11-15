@@ -1,4 +1,0 @@
-codeflaws/617-B-bug-15676664-15676706/617-B-15676706.c
-codeflaws/617-B-bug-15676664-15676706/617-B-15676664.c
-27
-[('Replace b\'        printf("%lld",ans);\\n\' with b\'        printf("%i64d",ans);\\n\' at position 28', 27)]

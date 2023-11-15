@@ -1,4 +1,0 @@
-codeflaws/581-A-bug-17971620-17971663/581-A-17971663.c
-codeflaws/581-A-bug-17971620-17971663/581-A-17971620.c
-10
-[("Insert b'    else k=b-a;\\n' at position 12 in file2", 11)]

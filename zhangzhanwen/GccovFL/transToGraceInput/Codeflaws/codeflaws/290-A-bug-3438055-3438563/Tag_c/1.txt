@@ -1,4 +1,0 @@
-codeflaws/290-A-bug-3438055-3438563/290-A-3438563.c
-codeflaws/290-A-bug-3438055-3438563/290-A-3438055.c
-35
-[('Replace b\'        case 30: printf("Coolidge"); break;\\n\' with b\'        case 30: printf("Collidge"); break;\\n\' at position 36', 35)]

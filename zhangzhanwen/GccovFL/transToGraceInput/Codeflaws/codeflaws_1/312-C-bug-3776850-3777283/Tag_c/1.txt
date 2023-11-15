@@ -1,0 +1,4 @@
+codeflaws/312-C-bug-3776850-3777283/312-C-3777283.c
+codeflaws/312-C-bug-3776850-3777283/312-C-3776850.c
+5
+[("Replace b'if(k>=(n*(n-1))/2)\\n' with b'if(k>(n*(n-1))/2)\\n' at position 6", 5)]

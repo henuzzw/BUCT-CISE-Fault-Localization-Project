@@ -1,4 +1,0 @@
-codeflaws/4-A-bug-18279795-18282404/4-A-18282404.c
-codeflaws/4-A-bug-18279795-18282404/4-A-18279795.c
-9
-[("Replace b'    if(n<=2)\\n' with b'    if(n<2)\\n' at position 10", 9)]

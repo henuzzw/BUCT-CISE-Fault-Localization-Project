@@ -1,0 +1,4 @@
+codeflaws/413-B-bug-6424843-6424886/413-B-6424886.c
+codeflaws/413-B-bug-6424843-6424886/413-B-6424843.c
+5,6
+[("Delete b'\\n' at position 5 in file2", 4), ('Delete b\'printf("%ld %ld %ld",n,m,k);\\n\' at position 5 in file2', 4)]

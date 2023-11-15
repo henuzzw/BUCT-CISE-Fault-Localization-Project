@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-17699984-17700006/535-A-17700006.c
-codeflaws/535-A-bug-17699984-17700006/535-A-17699984.c
-29
-[('Insert b\'    else if(n==0)printf("zero");\\n\' at position 31 in file2', 30)]

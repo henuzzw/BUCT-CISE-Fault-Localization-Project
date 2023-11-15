@@ -1,0 +1,4 @@
+codeflaws/248-A-bug-4448603-4448609/248-A-4448609.c
+codeflaws/248-A-bug-4448603-4448609/248-A-4448603.c
+22,25
+[('Insert b\'      // printf("%d",x);\\n\' at position 24 in file2', 23), ("Replace b'        for(i=0;i<n;i++)\\n' with b'        for(i=1;i<n;i++)\\n' at position 27", 26)]

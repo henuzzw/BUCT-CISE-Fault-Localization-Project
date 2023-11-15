@@ -1,0 +1,4 @@
+codeflaws/604-B-bug-14775746-14775779/604-B-14775779.c
+codeflaws/604-B-bug-14775746-14775779/604-B-14775746.c
+15
+[("Replace b'            max=a[i]+a[2*c-i+1];\\n' with b'            max=a[i]+a[2*c-1+1];\\n' at position 16", 15)]

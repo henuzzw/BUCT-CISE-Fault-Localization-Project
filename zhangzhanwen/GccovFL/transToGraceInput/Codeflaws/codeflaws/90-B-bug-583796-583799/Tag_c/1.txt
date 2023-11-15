@@ -1,4 +1,0 @@
-codeflaws/90-B-bug-583796-583799/90-B-583799.c
-codeflaws/90-B-bug-583796-583799/90-B-583796.c
-12
-[('Delete b\'    printf("%d %d\\\\n", n, m);\\n\' at position 12 in file2', 11)]

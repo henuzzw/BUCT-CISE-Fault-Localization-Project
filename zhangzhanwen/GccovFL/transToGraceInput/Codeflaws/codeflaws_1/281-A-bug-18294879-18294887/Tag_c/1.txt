@@ -1,0 +1,4 @@
+codeflaws/281-A-bug-18294879-18294887/281-A-18294887.c
+codeflaws/281-A-bug-18294879-18294887/281-A-18294879.c
+5
+[('Replace b\'\\n\' with b\'      printf("%s\\\\n",s);\\n\' at position 6', 5)]

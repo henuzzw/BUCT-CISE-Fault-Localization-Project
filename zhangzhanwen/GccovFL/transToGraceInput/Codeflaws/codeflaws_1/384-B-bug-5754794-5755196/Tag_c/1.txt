@@ -1,0 +1,4 @@
+codeflaws/384-B-bug-5754794-5755196/384-B-5755196.c
+codeflaws/384-B-bug-5754794-5755196/384-B-5754794.c
+4,39
+[('Replace b\'   while(~scanf("%d%d%d",&n,&m,&k))\\n\' with b\'   while(scanf("%d%d%d",&n,&m,&k))\\n\' at position 5', 4), ("Insert b'\\t\\t j--;\\n' at position 41 in file2", 40)]

@@ -1,0 +1,4 @@
+codeflaws/448-B-bug-16434633-16434643/448-B-16434643.c
+codeflaws/448-B-bug-16434633-16434643/448-B-16434633.c
+17
+[("Replace b'        if(ti[i] > si[i]){\\n' with b'        if(ti[i] != si[i]){\\n' at position 18", 17)]

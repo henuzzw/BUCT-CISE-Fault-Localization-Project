@@ -1,4 +1,0 @@
-codeflaws/673-A-bug-18140442-18140446/673-A-18140446.c
-codeflaws/673-A-bug-18140442-18140446/673-A-18140442.c
-17
-[('Replace b\'    printf("%d\\\\n", A[N] + 15 > 90 ? 90 : A[N] + 15);\\n\' with b\'    puts("90");\\n\' at position 18', 17)]

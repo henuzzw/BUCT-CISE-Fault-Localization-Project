@@ -1,0 +1,4 @@
+codeflaws/408-B-bug-6535383-6535401/408-B-6535401.c
+codeflaws/408-B-bug-6535383-6535401/408-B-6535383.c
+8,24
+[("Replace b'    int i, Ans=0;\\n' with b'    int i, Ans;\\n' at position 9", 8), ("Insert b'            break;\\n' at position 26 in file2", 25)]

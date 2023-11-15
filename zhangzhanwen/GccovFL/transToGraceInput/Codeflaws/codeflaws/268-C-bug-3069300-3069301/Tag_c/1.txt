@@ -1,4 +1,0 @@
-codeflaws/268-C-bug-3069300-3069301/268-C-3069301.c
-codeflaws/268-C-bug-3069300-3069301/268-C-3069300.c
-13
-[('Replace b\'    printf("%d\\\\n",min(x,y)+1);\\n\' with b\'    printf("%d\\\\n",min(x,y));\\n\' at position 14', 13)]

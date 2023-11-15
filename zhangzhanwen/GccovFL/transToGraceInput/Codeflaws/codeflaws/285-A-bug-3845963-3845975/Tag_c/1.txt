@@ -1,4 +1,0 @@
-codeflaws/285-A-bug-3845963-3845975/285-A-3845975.c
-codeflaws/285-A-bug-3845963-3845975/285-A-3845963.c
-6
-[('Replace b\'    for(i=n-k;i<=n;i++) printf("%d ",2*n-k-i);\\n\' with b\'    for(i=n-k;i>=n;i++) printf("%d ",2*n-k-i);\\n\' at position 7', 6)]

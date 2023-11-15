@@ -1,0 +1,4 @@
+codeflaws/82-A-bug-16884194-16884217/82-A-16884217.c
+codeflaws/82-A-bug-16884194-16884217/82-A-16884194.c
+4
+[('Replace b\'    scanf("%lld",&n);\\n\' with b\'    scanf("%i64d",&n);\\n\' at position 5', 4)]

@@ -1,0 +1,4 @@
+codeflaws/414-A-bug-17867853-17867871/414-A-17867871.c
+codeflaws/414-A-bug-17867853-17867871/414-A-17867853.c
+13
+[('Replace b\'        if(!m) printf("1");\\n\' with b\'        if(!n) printf("1");\\n\' at position 14', 13)]

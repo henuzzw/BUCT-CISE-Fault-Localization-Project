@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-18358095-18358576/144-A-18358576.c
-codeflaws/144-A-bug-18358095-18358576/144-A-18358095.c
-46
-[("Delete b'            y++;\\n' at position 46 in file2", 45)]

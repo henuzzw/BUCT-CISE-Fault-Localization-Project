@@ -1,4 +1,0 @@
-codeflaws/659-B-bug-17894976-17895095/659-B-17895095.c
-codeflaws/659-B-bug-17894976-17895095/659-B-17894976.c
-51
-[("Replace b'        if (p[i].score == p[i + 2].score || p[i + 1].score == p[i + 2].score) {\\n' with b'        if (p[i].score == p[i + 2].score) {\\n' at position 52", 51)]

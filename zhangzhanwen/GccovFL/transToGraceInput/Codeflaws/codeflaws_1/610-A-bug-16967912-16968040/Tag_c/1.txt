@@ -1,0 +1,4 @@
+codeflaws/610-A-bug-16967912-16968040/610-A-16968040.c
+codeflaws/610-A-bug-16967912-16968040/610-A-16967912.c
+13
+[('Replace b\'            printf("%lld",n/4);\\n\' with b\'            printf("%lld",n/4-1);\\n\' at position 14', 13)]

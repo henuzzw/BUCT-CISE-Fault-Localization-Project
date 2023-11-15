@@ -1,4 +1,0 @@
-codeflaws/160-B-bug-17893090-17893109/160-B-17893109.c
-codeflaws/160-B-bug-17893090-17893109/160-B-17893090.c
-4
-[("Replace b'char a1[550],a2[550];\\n' with b'char a1[55],a2[55];\\n' at position 5", 4)]

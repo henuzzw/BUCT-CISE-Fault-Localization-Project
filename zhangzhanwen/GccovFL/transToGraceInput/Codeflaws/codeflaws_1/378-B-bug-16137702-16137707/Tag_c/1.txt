@@ -1,0 +1,4 @@
+codeflaws/378-B-bug-16137702-16137707/378-B-16137707.c
+codeflaws/378-B-bug-16137702-16137707/378-B-16137702.c
+15
+[("Replace b'\\t\\tif (ara[0][0]<ara[0][1]){\\n' with b'\\t\\tif (ara[0][0]>ara[0][1]){\\n' at position 16", 15)]

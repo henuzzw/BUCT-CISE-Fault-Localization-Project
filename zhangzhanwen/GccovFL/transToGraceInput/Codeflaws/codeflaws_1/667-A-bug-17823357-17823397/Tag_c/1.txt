@@ -1,0 +1,4 @@
+codeflaws/667-A-bug-17823357-17823397/667-A-17823397.c
+codeflaws/667-A-bug-17823357-17823397/667-A-17823357.c
+3
+[("Replace b'    float pi=3.141592653589;\\n' with b'    float pi=3.14;\\n' at position 4", 3)]

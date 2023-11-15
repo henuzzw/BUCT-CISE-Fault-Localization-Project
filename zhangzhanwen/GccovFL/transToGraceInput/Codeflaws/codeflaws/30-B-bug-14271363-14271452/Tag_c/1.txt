@@ -1,4 +1,0 @@
-codeflaws/30-B-bug-14271363-14271452/30-B-14271452.c
-codeflaws/30-B-bug-14271363-14271452/30-B-14271363.c
-8
-[("Replace b'\\tif (a[1][d]>l[a[1][m]]+!(a[1][y]%4)) return 0;\\n' with b'\\tif (a[1][d]>l[m]+!(a[1][y]%4)) return 0;\\n' at position 9", 8)]

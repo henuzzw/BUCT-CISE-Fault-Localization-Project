@@ -1,0 +1,4 @@
+codeflaws/271-C-bug-13011289-13011297/271-C-13011297.c
+codeflaws/271-C-bug-13011289-13011297/271-C-13011289.c
+10
+[("Replace b'a[i] = a[i+1] = (i+1)/2;\\n' with b'a[i] = a[i+1] = i;\\n' at position 11", 10)]

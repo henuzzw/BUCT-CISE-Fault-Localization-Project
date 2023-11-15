@@ -1,0 +1,4 @@
+codeflaws/560-A-bug-16858214-16858245/560-A-16858245.c
+codeflaws/560-A-bug-16858214-16858245/560-A-16858214.c
+10
+[("Replace b'    for(i=1;i<=n;i++){\\n' with b'    for(i=1;i<=5;i++){\\n' at position 11", 10)]

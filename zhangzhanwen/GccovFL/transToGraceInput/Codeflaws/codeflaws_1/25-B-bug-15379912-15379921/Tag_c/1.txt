@@ -1,0 +1,4 @@
+codeflaws/25-B-bug-15379912-15379921/25-B-15379921.c
+codeflaws/25-B-bug-15379912-15379921/25-B-15379912.c
+27,28
+[("Insert b'\\t\\tif (n>3){\\n' at position 29 in file2", 28), ("Insert b'\\t\\t}\\n' at position 31 in file2", 30)]

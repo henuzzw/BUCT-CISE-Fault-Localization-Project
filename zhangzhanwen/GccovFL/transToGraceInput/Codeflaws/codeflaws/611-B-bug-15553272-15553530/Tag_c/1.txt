@@ -1,4 +1,0 @@
-codeflaws/611-B-bug-15553272-15553530/611-B-15553530.c
-codeflaws/611-B-bug-15553272-15553530/611-B-15553272.c
-35
-[("Replace b'\\twhile( i <= lInput2 )\\n' with b'\\twhile( i < lInput2 )\\n' at position 36", 35)]

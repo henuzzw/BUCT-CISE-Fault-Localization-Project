@@ -1,4 +1,0 @@
-codeflaws/268-A-bug-18293322-18293350/268-A-18293350.c
-codeflaws/268-A-bug-18293322-18293350/268-A-18293322.c
-2,15
-[("Delete b'    int T;while(T){\\n' at position 2 in file2", 1), ("Replace b'    return 0;\\n' with b'    }return 0;\\n' at position 15", 14)]

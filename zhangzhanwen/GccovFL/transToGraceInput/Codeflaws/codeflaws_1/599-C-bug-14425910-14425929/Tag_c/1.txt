@@ -1,0 +1,4 @@
+codeflaws/599-C-bug-14425910-14425929/599-C-14425929.c
+codeflaws/599-C-bug-14425910-14425929/599-C-14425910.c
+5
+[("Replace b'     long long int a[1000100],max[100100],min[100100];\\n' with b'     long long int a[100010],max[10010],min[10010];\\n' at position 6", 5)]

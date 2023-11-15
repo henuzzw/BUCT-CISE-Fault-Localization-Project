@@ -1,4 +1,0 @@
-codeflaws/55-B-bug-8621353-8621372/55-B-8621372.c
-codeflaws/55-B-bug-8621353-8621372/55-B-8621353.c
-16
-[("Replace b'    LL min = 0x3f3f3f3f3f3f3f3f;\\n' with b'    LL min = 0x3f3f3f3f;\\n' at position 17", 16)]

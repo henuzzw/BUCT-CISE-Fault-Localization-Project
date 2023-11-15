@@ -1,4 +1,0 @@
-codeflaws/456-B-bug-15610811-15610834/456-B-15610834.c
-codeflaws/456-B-bug-15610811-15610834/456-B-15610811.c
-8
-[("Replace b'    d=a[l-2]*10+a[l-1];\\n' with b'    d=a[l-2]+a[l-1];\\n' at position 9", 8)]

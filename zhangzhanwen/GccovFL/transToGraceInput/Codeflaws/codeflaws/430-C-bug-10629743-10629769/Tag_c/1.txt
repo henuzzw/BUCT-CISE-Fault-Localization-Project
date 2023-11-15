@@ -1,4 +1,0 @@
-codeflaws/430-C-bug-10629743-10629769/430-C-10629769.c
-codeflaws/430-C-bug-10629743-10629769/430-C-10629743.c
-58
-[("Replace b'\\t\\tflipped=0,print[count++]=parentNode;\\n' with b'\\t\\tflipped=0,count++,print[count++]=parentNode;\\n' at position 59", 58)]

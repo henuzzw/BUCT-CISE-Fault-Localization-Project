@@ -1,4 +1,0 @@
-codeflaws/38-C-bug-611235-611238/38-C-611238.c
-codeflaws/38-C-bug-611235-611238/38-C-611235.c
-23
-[("Replace b'    for (i = m; i <= max; i++){\\n' with b'    for (i = min; i <= max; i++){\\n' at position 24", 23)]

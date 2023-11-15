@@ -1,4 +1,0 @@
-codeflaws/580-A-bug-18107163-18107188/580-A-18107188.c
-codeflaws/580-A-bug-18107163-18107188/580-A-18107163.c
-13
-[("Replace b'\\t\\tif(a[i]>=a[i-1]) cnt++;\\n' with b'\\t\\tif(a[i]<=a[i+1]) cnt++;\\n' at position 14", 13)]

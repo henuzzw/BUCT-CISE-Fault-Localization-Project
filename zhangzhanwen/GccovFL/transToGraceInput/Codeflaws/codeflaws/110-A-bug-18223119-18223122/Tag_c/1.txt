@@ -1,4 +1,0 @@
-codeflaws/110-A-bug-18223119-18223122/110-A-18223122.c
-codeflaws/110-A-bug-18223119-18223122/110-A-18223119.c
-12
-[('Delete b\'\\tprintf("%d ",dem);\\n\' at position 12 in file2', 11)]

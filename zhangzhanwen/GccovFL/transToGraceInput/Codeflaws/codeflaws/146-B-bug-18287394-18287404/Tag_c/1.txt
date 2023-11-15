@@ -1,4 +1,0 @@
-codeflaws/146-B-bug-18287394-18287404/146-B-18287404.c
-codeflaws/146-B-bug-18287394-18287404/146-B-18287394.c
-25
-[('Replace b\';\\n\' with b\'   printf("%d ",f(72174994));\\n\' at position 26', 25)]

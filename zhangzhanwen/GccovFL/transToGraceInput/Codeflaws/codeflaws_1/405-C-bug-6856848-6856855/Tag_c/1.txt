@@ -1,0 +1,4 @@
+codeflaws/405-C-bug-6856848-6856855/405-C-6856855.c
+codeflaws/405-C-bug-6856848-6856855/405-C-6856848.c
+31,31
+[("Insert b'\\t\\n' at position 33 in file2", 32), ("Insert b'\\tA = A%2;\\n' at position 34 in file2", 33)]

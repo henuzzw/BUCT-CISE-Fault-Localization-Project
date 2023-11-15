@@ -1,4 +1,0 @@
-codeflaws/490-A-bug-14580360-14580456/490-A-14580456.c
-codeflaws/490-A-bug-14580360-14580456/490-A-14580360.c
-30
-[("Replace b'    if(y<min) {\\n' with b'    else if(y<min){\\n' at position 31", 30)]

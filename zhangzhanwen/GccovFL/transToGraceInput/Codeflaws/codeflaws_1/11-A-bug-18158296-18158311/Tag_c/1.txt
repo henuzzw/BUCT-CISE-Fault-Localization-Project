@@ -1,0 +1,4 @@
+codeflaws/11-A-bug-18158296-18158311/11-A-18158311.c
+codeflaws/11-A-bug-18158296-18158311/11-A-18158296.c
+15
+[("Replace b'#if 1\\n' with b'#if 0\\n' at position 16", 15)]

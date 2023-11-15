@@ -1,0 +1,4 @@
+codeflaws/124-A-bug-17380518-17380581/124-A-17380581.c
+codeflaws/124-A-bug-17380518-17380581/124-A-17380518.c
+5,5
+[('Replace b\'    if(a+b>=n)printf("%d",n-a);\\n\' with b\'    printf("%d",n-a);\\n\' at position 6', 5), ('Insert b\'    else printf("%d",b+1);\\n\' at position 7 in file2', 6)]

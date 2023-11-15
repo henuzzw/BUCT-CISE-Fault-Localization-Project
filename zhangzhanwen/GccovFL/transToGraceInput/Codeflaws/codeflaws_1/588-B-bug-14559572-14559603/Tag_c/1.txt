@@ -1,0 +1,4 @@
+codeflaws/588-B-bug-14559572-14559603/588-B-14559603.c
+codeflaws/588-B-bug-14559572-14559603/588-B-14559572.c
+6
+[("Replace b'\\tfor(i=2,num=n;i*i<=n;i++)\\n' with b'\\tfor(i=2,num=n;i<=n;i++)\\n' at position 7", 6)]

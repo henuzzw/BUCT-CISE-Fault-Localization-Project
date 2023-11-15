@@ -1,0 +1,4 @@
+codeflaws/365-B-bug-11573175-11573200/365-B-11573200.c
+codeflaws/365-B-bug-11573175-11573200/365-B-11573175.c
+8,8
+[("Insert b'        if(cnt>max)\\n' at position 10 in file2", 9), ("Insert b'            max=cnt;\\n' at position 11 in file2", 10)]

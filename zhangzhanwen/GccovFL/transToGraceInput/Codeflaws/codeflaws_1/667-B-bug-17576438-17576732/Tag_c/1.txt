@@ -1,0 +1,4 @@
+codeflaws/667-B-bug-17576438-17576732/667-B-17576732.c
+codeflaws/667-B-bug-17576438-17576732/667-B-17576438.c
+29
+[('Replace b\'    printf("%lld\\\\n", max - min + 1);\\n\' with b\'    printf("%I64", max - min + 1);\\n\' at position 30', 29)]

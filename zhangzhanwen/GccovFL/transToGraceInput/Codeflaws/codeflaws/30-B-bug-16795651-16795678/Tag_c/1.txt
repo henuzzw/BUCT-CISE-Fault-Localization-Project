@@ -1,4 +1,0 @@
-codeflaws/30-B-bug-16795651-16795678/30-B-16795678.c
-codeflaws/30-B-bug-16795651-16795678/30-B-16795651.c
-8
-[("Replace b'    if(18*365+d+m*30+y*365<=dd+mm*30+yy*365){\\n' with b'    if(d+m*30+y*365<=dd+mm*30+yy*365){\\n' at position 9", 8)]

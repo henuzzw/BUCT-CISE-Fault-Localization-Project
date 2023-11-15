@@ -1,4 +1,0 @@
-codeflaws/670-A-bug-17963192-17963395/670-A-17963395.c
-codeflaws/670-A-bug-17963192-17963395/670-A-17963192.c
-9
-[("Replace b'        max=max+1;\\n' with b'        max=1;\\n' at position 10", 9)]

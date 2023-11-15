@@ -1,0 +1,4 @@
+codeflaws/365-B-bug-13532918-13533085/365-B-13533085.c
+codeflaws/365-B-bug-13532918-13533085/365-B-13532918.c
+4,4,4
+[("Insert b'\\n' at position 6 in file2", 5), ("Insert b'if (n==1)\\n' at position 7 in file2", 6), ("Insert b'maxlen-=1;\\n' at position 8 in file2", 7)]

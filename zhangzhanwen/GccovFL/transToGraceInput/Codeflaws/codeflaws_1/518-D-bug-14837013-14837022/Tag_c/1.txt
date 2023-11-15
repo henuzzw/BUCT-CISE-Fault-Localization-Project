@@ -1,0 +1,4 @@
+codeflaws/518-D-bug-14837013-14837022/518-D-14837022.c
+codeflaws/518-D-bug-14837013-14837022/518-D-14837013.c
+14
+[("Replace b'        for(j=1;j<=t;++j)\\n' with b'        for(j=1;j<=i;++j)\\n' at position 15", 14)]

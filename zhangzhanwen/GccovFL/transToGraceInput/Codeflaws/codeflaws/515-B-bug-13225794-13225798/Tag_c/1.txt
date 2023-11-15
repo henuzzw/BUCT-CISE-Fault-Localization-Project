@@ -1,4 +1,0 @@
-codeflaws/515-B-bug-13225794-13225798/515-B-13225798.c
-codeflaws/515-B-bug-13225794-13225798/515-B-13225794.c
-23
-[("Replace b'    for (i = 0; i < n * m * n * m; i++)\\n' with b'    for (i = 0; i < n * m; i++)\\n' at position 24", 23)]

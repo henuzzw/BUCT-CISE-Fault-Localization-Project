@@ -1,4 +1,0 @@
-codeflaws/622-B-bug-16111035-16111084/622-B-16111084.c
-codeflaws/622-B-bug-16111035-16111084/622-B-16111035.c
-5,5
-[('Replace b\'\\tscanf("%d:%d", &reshours, &resmins);\\n\' with b\'\\tscanf("%d %d %d", &reshours, &resmins, &min);\\n\' at position 6', 5), ('Insert b\'\\tscanf("%d", &min);\\n\' at position 7 in file2', 6)]

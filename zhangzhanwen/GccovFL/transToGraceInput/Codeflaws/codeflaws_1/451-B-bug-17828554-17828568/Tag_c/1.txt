@@ -1,0 +1,4 @@
+codeflaws/451-B-bug-17828554-17828568/451-B-17828568.c
+codeflaws/451-B-bug-17828554-17828568/451-B-17828554.c
+26
+[('Replace b\'\\tif(arr[start-1] > arr[end] && start != 0) { printf("no\\\\n"); return(0); }\\n\' with b\'\\tif(arr[start-1] > arr[end]) { printf("no\\\\n"); return(0); }\\n\' at position 27', 26)]

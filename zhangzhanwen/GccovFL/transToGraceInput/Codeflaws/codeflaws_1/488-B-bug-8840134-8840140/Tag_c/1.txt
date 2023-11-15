@@ -1,0 +1,4 @@
+codeflaws/488-B-bug-8840134-8840140/488-B-8840140.c
+codeflaws/488-B-bug-8840134-8840140/488-B-8840134.c
+137
+[("Insert b'        qsort(T,4,sizeof(int),cmp);\\n' at position 139 in file2", 138)]

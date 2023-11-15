@@ -1,4 +1,0 @@
-codeflaws/382-A-bug-15682317-15682478/382-A-15682478.c
-codeflaws/382-A-bug-15682317-15682478/382-A-15682317.c
-27
-[('Replace b\'            for(k=i+j;k<strlen(added);k++) printf("%c",added[k]);\\n\' with b\'            for(k=0;k<(left-right);k++) printf("%c",added[k+j+i]);\\n\' at position 28', 27)]

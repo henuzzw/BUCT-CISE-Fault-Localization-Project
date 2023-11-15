@@ -1,4 +1,0 @@
-codeflaws/560-B-bug-13872905-13872973/560-B-13872973.c
-codeflaws/560-B-bug-13872905-13872973/560-B-13872905.c
-44
-[("Replace b'        else if(a2+a3<=b1&&b3<=a1)\\n' with b'        else if(a2+a3<=b1)\\n' at position 45", 44)]

@@ -1,4 +1,0 @@
-codeflaws/513-C-bug-9757714-9757790/513-C-9757790.c
-codeflaws/513-C-bug-9757714-9757790/513-C-9757714.c
-101
-[('Replace b\'\\tprintf("%.9lf\\\\n", p);\\n\' with b\'\\tprintf("%lf\\\\n", p);\\n\' at position 102', 101)]

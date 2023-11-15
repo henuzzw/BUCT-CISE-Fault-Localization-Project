@@ -1,4 +1,0 @@
-codeflaws/433-A-bug-15145370-15145379/433-A-15145379.c
-codeflaws/433-A-bug-15145370-15145379/433-A-15145370.c
-13
-[('Insert b\'    else if(cunto%2==1 && cunte%2==0) printf("NO");\\n\' at position 15 in file2', 14)]

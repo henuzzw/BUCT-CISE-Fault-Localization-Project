@@ -1,4 +1,0 @@
-codeflaws/18-B-bug-15989356-15989429/18-B-15989429.c
-codeflaws/18-B-bug-15989356-15989429/18-B-15989356.c
-15
-[("Replace b'        if(bobcrd<(k-1)*m){\\n' with b'        if(bobcrd<=(k-1)*m){\\n' at position 16", 15)]

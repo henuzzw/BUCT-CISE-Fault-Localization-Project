@@ -1,0 +1,4 @@
+codeflaws/38-B-bug-6667973-6668109/38-B-6668109.c
+codeflaws/38-B-bug-6667973-6668109/38-B-6667973.c
+39,41
+[('Delete b\'                printf ("%c  ", MAT[i][j]);\\n\' at position 39 in file2', 38), ('Delete b\'            puts ("");\\n\' at position 40 in file2', 39)]

@@ -1,4 +1,0 @@
-codeflaws/337-A-bug-18227162-18227183/337-A-18227183.c
-codeflaws/337-A-bug-18227162-18227183/337-A-18227162.c
-20
-[("Replace b'\\tfor(int i = 0; i < m-n+1; i++){\\n' with b'\\tfor(int i = 0; i < m-n; i++){\\n' at position 21", 20)]

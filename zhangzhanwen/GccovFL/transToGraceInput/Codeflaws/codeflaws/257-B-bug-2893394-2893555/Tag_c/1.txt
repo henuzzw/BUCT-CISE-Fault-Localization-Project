@@ -1,4 +1,0 @@
-codeflaws/257-B-bug-2893394-2893555/257-B-2893555.c
-codeflaws/257-B-bug-2893394-2893555/257-B-2893394.c
-4
-[("Replace b'char a[1000001];\\n' with b'char a[100001],b[100001];\\n' at position 5", 4)]

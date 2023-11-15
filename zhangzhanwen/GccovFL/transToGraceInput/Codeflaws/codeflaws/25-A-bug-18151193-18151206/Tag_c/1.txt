@@ -1,4 +1,0 @@
-codeflaws/25-A-bug-18151193-18151206/25-A-18151206.c
-codeflaws/25-A-bug-18151193-18151206/25-A-18151193.c
-4
-[("Replace b'for(x=1;x<=n;x++){\\n' with b'for(x=1;x<n;x++){\\n' at position 5", 4)]

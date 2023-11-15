@@ -1,0 +1,4 @@
+codeflaws/415-D-bug-6331272-6331501/415-D-6331501.c
+codeflaws/415-D-bug-6331272-6331501/415-D-6331272.c
+1
+[("Replace b'int a[2002][2002] = {0};\\n' with b'int a[2000][2000] = {0};\\n' at position 2", 1)]

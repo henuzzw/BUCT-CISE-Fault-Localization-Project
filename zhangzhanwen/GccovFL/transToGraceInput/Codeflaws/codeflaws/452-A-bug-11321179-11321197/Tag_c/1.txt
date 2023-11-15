@@ -1,4 +1,0 @@
-codeflaws/452-A-bug-11321179-11321197/452-A-11321197.c
-codeflaws/452-A-bug-11321179-11321197/452-A-11321179.c
-56
-[("Replace b'\\t\\t\\t\\tif(count[j]==x && strlen(c[j])==n)\\n' with b'\\t\\t\\t\\tif(count[j]==x)\\n' at position 57", 56)]

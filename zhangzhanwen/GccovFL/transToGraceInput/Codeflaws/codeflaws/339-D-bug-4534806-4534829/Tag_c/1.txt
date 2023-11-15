@@ -1,4 +1,0 @@
-codeflaws/339-D-bug-4534806-4534829/339-D-4534829.c
-codeflaws/339-D-bug-4534806-4534829/339-D-4534806.c
-14
-[("Replace b'    for (j = 0; j < m; j++) {\\n' with b'    for (i = 0; i < m; i++) {\\n' at position 15", 14)]

@@ -1,0 +1,4 @@
+codeflaws/449-C-bug-7213990-7213998/449-C-7213998.c
+codeflaws/449-C-bug-7213990-7213998/449-C-7213990.c
+28
+[('Replace b\'\\t\\tputs("0");\\n\' with b\'\\t\\tputs("");\\n\' at position 29', 28)]

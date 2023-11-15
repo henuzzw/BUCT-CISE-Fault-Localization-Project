@@ -1,4 +1,0 @@
-codeflaws/584-D-bug-13460760-13460842/584-D-13460842.c
-codeflaws/584-D-bug-13460760-13460842/584-D-13460760.c
-35,35
-[('Replace b\'   // printf("%d",check(3));\\n\' with b\'    for(i=2;i<p/2;i++){\\n\' at position 36', 35), ("Insert b'    for(i=2;i<=p/2;i++){\\n' at position 37 in file2", 36)]

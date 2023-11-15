@@ -1,0 +1,4 @@
+codeflaws/471-B-bug-10608918-10609550/471-B-10609550.c
+codeflaws/471-B-bug-10608918-10609550/471-B-10608918.c
+87
+[('Replace b\'\\t\\t\\t\\t\\tprintf("%d %d %d ",c[i+2],c[i],c[i+1]);\\n\' with b\'\\t\\t\\t\\t\\tprintf("%d %d %d ",c[i],c[i+2],c[i+1]);\\n\' at position 88', 87)]

@@ -1,0 +1,4 @@
+codeflaws/268-B-bug-18098312-18098395/268-B-18098395.c
+codeflaws/268-B-bug-18098312-18098395/268-B-18098312.c
+8
+[("Replace b'\\t\\tsum+=(i*(n-i))+1;\\n' with b'\\t\\tsum+=(2*(n-i))+1;\\n' at position 9", 8)]

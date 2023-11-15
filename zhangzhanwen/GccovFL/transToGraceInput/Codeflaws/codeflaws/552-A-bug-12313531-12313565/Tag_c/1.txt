@@ -1,4 +1,0 @@
-codeflaws/552-A-bug-12313531-12313565/552-A-12313565.c
-codeflaws/552-A-bug-12313531-12313565/552-A-12313531.c
-3
-[("Replace b'\\tint array[102][102]={0};\\n' with b'\\tint array[102][102];\\n' at position 4", 3)]

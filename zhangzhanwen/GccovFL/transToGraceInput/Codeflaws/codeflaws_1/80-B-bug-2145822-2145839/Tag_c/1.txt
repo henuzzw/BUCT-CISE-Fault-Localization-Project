@@ -1,0 +1,4 @@
+codeflaws/80-B-bug-2145822-2145839/80-B-2145839.c
+codeflaws/80-B-bug-2145822-2145839/80-B-2145822.c
+9
+[('Replace b\' printf("%.1f %d",((h+(float)m/60)*30>360)?(h+(float)m/60)*30-360:(h+(float)m/60)*30,m*6);\\n\' with b\' printf("%.1f %d",(h+(float)m/60)*30,m*6);\\n\' at position 10', 9)]

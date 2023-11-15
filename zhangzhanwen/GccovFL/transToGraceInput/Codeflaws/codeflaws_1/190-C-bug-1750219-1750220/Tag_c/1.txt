@@ -1,0 +1,4 @@
+codeflaws/190-C-bug-1750219-1750220/190-C-1750220.c
+codeflaws/190-C-bug-1750219-1750220/190-C-1750219.c
+46
+[('Replace b\'        printf("Error occurred");\\n\' with b\'        printf("Error occured");\\n\' at position 47', 46)]

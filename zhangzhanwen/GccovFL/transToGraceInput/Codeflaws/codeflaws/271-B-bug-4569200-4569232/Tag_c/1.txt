@@ -1,4 +1,0 @@
-codeflaws/271-B-bug-4569200-4569232/271-B-4569232.c
-codeflaws/271-B-bug-4569200-4569232/271-B-4569200.c
-2
-[("Replace b'int p[1000001],pr[100000],count=0,a[510][510];\\n' with b'int p[100000],pr[100000],count=0,a[510][510];\\n' at position 3", 2)]

@@ -1,0 +1,4 @@
+codeflaws/109-B-bug-647331-647411/109-B-647411.c
+codeflaws/109-B-bug-647331-647411/109-B-647331.c
+73
+[("Replace b'    if(i+K+1>=nl) break;\\n' with b'    if(i+K+2>=nl) break;\\n' at position 74", 73)]

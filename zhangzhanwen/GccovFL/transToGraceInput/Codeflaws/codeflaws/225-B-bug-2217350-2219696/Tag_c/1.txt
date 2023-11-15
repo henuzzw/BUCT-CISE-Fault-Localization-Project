@@ -1,4 +1,0 @@
-codeflaws/225-B-bug-2217350-2219696/225-B-2219696.c
-codeflaws/225-B-bug-2217350-2219696/225-B-2217350.c
-22
-[("Replace b'    if(k>=32|| s<(1<<k)){\\n' with b'    if(k>=32){\\n' at position 23", 22)]

@@ -1,0 +1,4 @@
+codeflaws/52-A-bug-17870503-17870539/52-A-17870539.c
+codeflaws/52-A-bug-17870503-17870539/52-A-17870503.c
+4
+[("Replace b'\\tint n, x[3] = {0, 0, 0};\\n' with b'\\tint n, x[3];\\n' at position 5", 4)]

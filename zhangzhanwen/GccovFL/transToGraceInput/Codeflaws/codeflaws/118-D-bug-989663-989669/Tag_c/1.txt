@@ -1,4 +1,0 @@
-codeflaws/118-D-bug-989663-989669/118-D-989669.c
-codeflaws/118-D-bug-989663-989669/118-D-989663.c
-27
-[('Replace b\'   printf("%d\\\\n", (tab[n1][n2][0]+tab[n1][n2][1])%100000000);\\n\' with b\'   printf("%d\\\\n", tab[n1][n2][0]+tab[n1][n2][1]);\\n\' at position 28', 27)]

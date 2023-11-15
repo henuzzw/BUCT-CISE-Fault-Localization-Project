@@ -1,4 +1,0 @@
-codeflaws/673-A-bug-18259860-18259895/673-A-18259895.c
-codeflaws/673-A-bug-18259860-18259895/673-A-18259860.c
-11
-[("Replace b'        if(s[0]>=16){\\n' with b'        if(s[0]==16){\\n' at position 12", 11)]

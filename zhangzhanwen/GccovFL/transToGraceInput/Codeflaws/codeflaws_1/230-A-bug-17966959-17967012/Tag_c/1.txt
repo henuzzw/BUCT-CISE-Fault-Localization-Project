@@ -1,0 +1,4 @@
+codeflaws/230-A-bug-17966959-17967012/230-A-17967012.c
+codeflaws/230-A-bug-17966959-17967012/230-A-17966959.c
+51
+[("Replace b'\\t\\tif(s>sd[i])\\n' with b'\\t\\tif(s>=sd[i])\\n' at position 52", 51)]

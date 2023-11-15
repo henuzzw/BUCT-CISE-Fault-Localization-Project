@@ -1,4 +1,0 @@
-codeflaws/245-E-bug-10540276-10540280/245-E-10540280.c
-codeflaws/245-E-bug-10540276-10540280/245-E-10540276.c
-3
-[("Replace b'int a,b,k,r,t,i,j,max,min;\\n' with b'int a,b,k,r,t,i,j,max,min=9999;\\n' at position 4", 3)]

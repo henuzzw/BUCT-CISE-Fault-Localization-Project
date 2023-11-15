@@ -1,0 +1,4 @@
+codeflaws/4-B-bug-12979060-12979073/4-B-12979073.c
+codeflaws/4-B-bug-12979060-12979073/4-B-12979060.c
+12
+[("Replace b'    if(n>sum2 || n<sum1)\\n' with b'    if(n>sum2 && n<sum1)\\n' at position 13", 12)]

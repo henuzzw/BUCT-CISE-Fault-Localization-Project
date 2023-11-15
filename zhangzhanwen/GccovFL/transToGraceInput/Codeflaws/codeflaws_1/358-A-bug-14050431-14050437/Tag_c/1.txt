@@ -1,0 +1,4 @@
+codeflaws/358-A-bug-14050431-14050437/358-A-14050437.c
+codeflaws/358-A-bug-14050431-14050437/358-A-14050431.c
+24
+[("Replace b'        ptr->b = aux;\\n' with b'        ptr->b = ptr->a;\\n' at position 25", 24)]

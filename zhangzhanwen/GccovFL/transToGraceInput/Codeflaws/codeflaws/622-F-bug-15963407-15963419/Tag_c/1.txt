@@ -1,4 +1,0 @@
-codeflaws/622-F-bug-15963407-15963419/622-F-15963419.c
-codeflaws/622-F-bug-15963407-15963419/622-F-15963407.c
-24
-[("Replace b'    if (!--k&&n>1)r--;\\n' with b'    if (!--k)r--;\\n' at position 25", 24)]

@@ -1,0 +1,4 @@
+codeflaws/586-E-bug-13614855-13614869/586-E-13614869.c
+codeflaws/586-E-bug-13614855-13614869/586-E-13614855.c
+14
+[('Replace b\'    //printf("%lld",test);\\n\' with b\'    printf("%lld",test);\\n\' at position 15', 14)]

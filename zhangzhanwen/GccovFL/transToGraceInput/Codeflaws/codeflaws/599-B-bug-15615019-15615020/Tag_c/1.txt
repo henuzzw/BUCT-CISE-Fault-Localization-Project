@@ -1,4 +1,0 @@
-codeflaws/599-B-bug-15615019-15615020/599-B-15615020.c
-codeflaws/599-B-bug-15615019-15615020/599-B-15615019.c
-30
-[("Replace b'            Ans[i + 1] = Flag[b];\\n' with b'            Ans[i + 122] = Flag[b];\\n' at position 31", 30)]

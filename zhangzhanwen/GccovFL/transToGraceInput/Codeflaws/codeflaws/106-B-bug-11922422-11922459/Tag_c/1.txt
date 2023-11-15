@@ -1,4 +1,0 @@
-codeflaws/106-B-bug-11922422-11922459/106-B-11922459.c
-codeflaws/106-B-bug-11922422-11922459/106-B-11922422.c
-20
-[("Replace b'             if (a[i][j]>=a[k][j])\\n' with b'             if (a[i][j]>a[k][j])\\n' at position 21", 20)]

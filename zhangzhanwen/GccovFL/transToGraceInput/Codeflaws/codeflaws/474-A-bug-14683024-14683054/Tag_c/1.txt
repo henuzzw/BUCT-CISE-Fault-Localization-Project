@@ -1,4 +1,0 @@
-codeflaws/474-A-bug-14683024-14683054/474-A-14683054.c
-codeflaws/474-A-bug-14683024-14683054/474-A-14683024.c
-33,62
-[('Delete b\'if(direction==\\\'R\\\'&&a[i]==\\\'w\\\') {printf("/");}\\n\' at position 33 in file2', 32), ("Replace b'return 0;}' with b'return 0;}\\n' at position 62", 61)]

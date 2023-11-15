@@ -1,0 +1,4 @@
+codeflaws/275-A-bug-9485090-9485094/275-A-9485094.c
+codeflaws/275-A-bug-9485090-9485094/275-A-9485090.c
+0,0,3
+[("Insert b'#include<stdlib.h>\\n' at position 2 in file2", 1), ("Insert b'#include<string.h>\\n' at position 3 in file2", 2), ("Insert b'\\tmemset(A,0,25*sizeof(int));\\n' at position 7 in file2", 6)]

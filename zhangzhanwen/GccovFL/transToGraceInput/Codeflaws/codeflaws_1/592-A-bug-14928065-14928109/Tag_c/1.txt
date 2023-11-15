@@ -1,0 +1,4 @@
+codeflaws/592-A-bug-14928065-14928109/592-A-14928109.c
+codeflaws/592-A-bug-14928065-14928109/592-A-14928065.c
+42
+[("Replace b'            if(g>(9-h)&&g>=finalW){\\n' with b'            if(g>(9-x)&&g>=finalW){\\n' at position 43", 42)]

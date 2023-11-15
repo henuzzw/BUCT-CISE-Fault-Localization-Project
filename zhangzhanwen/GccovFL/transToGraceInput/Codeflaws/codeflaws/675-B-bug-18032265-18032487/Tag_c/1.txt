@@ -1,4 +1,0 @@
-codeflaws/675-B-bug-18032265-18032487/675-B-18032487.c
-codeflaws/675-B-bug-18032265-18032487/675-B-18032265.c
-19,19
-[('Replace b\'\\n\' with b\'  printf("%d",n*count);\\n\' at position 20', 19), ('Insert b\'  printf("%lld",(long long int) n*count);\\n\' at position 21 in file2', 20)]

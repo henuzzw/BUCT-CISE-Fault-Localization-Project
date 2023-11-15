@@ -1,0 +1,4 @@
+codeflaws/45-A-bug-9385439-9385455/45-A-9385455.c
+codeflaws/45-A-bug-9385439-9385455/45-A-9385439.c
+46
+[('Replace b\'\\t\\tcase 10:printf("October");break;\\n\' with b\'\\t\\tcase 10:printf("Octobar");break;\\n\' at position 47', 46)]

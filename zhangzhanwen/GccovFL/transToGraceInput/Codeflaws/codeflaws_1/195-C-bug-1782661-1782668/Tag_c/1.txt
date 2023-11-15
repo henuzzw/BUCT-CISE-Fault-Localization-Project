@@ -1,0 +1,4 @@
+codeflaws/195-C-bug-1782661-1782668/195-C-1782668.c
+codeflaws/195-C-bug-1782661-1782668/195-C-1782661.c
+58,58
+[("Insert b'                } else {\\n' at position 60 in file2", 59), ('Insert b"                    while (s[j] != \')\') j++;\\n" at position 61 in file2', 60)]

@@ -1,0 +1,4 @@
+codeflaws/469-B-bug-14541678-14542042/469-B-14542042.c
+codeflaws/469-B-bug-14541678-14542042/469-B-14541678.c
+20
+[("Replace b'            if(a[k][0]>= min && a[k][0]<= max   || a[k][1]>= min && a[k][1]<= max  || min>=a[k][0]&&min<=a[k][1] /* || max>=a[k][0]&&max<=a[k][1]*/){\\n' with b'            if(a[k][0]>= min && a[k][0]<= max   || a[k][1]>= min && a[k][1]<= max){\\n' at position 21", 20)]

@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-17990334-17990357/478-A-17990357.c
-codeflaws/478-A-bug-17990334-17990357/478-A-17990334.c
-8
-[('Replace b\'        printf("-1");\\n\' with b\'        printf("0");\\n\' at position 9', 8)]

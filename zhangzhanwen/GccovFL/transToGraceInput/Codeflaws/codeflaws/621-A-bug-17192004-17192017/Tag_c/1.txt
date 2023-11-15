@@ -1,4 +1,0 @@
-codeflaws/621-A-bug-17192004-17192017/621-A-17192017.c
-codeflaws/621-A-bug-17192004-17192017/621-A-17192004.c
-6
-[("Replace b'\\tlong long n,a,min=1e9+1,sum=0,i;\\n' with b'\\tlong long n,a,min=1e9+1,sum,i;\\n' at position 7", 6)]

@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-17331392-17331402/144-A-17331402.c
-codeflaws/144-A-bug-17331392-17331402/144-A-17331392.c
-29
-[('Delete b\'    printf("%d %d\\\\n",j,k);\\n\' at position 29 in file2', 28)]

@@ -1,4 +1,0 @@
-codeflaws/10-A-bug-5914564-5914663/10-A-5914663.c
-codeflaws/10-A-bug-5914564-5914663/10-A-5914564.c
-19,19
-[("Insert b'            else\\n' at position 21 in file2", 20), ("Insert b'                power+=(a-lr-t1)*p2;\\n' at position 22 in file2", 21)]

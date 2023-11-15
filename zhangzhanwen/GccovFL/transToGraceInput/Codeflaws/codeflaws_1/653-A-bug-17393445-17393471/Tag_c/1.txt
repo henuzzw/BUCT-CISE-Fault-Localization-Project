@@ -1,0 +1,4 @@
+codeflaws/653-A-bug-17393445-17393471/653-A-17393471.c
+codeflaws/653-A-bug-17393445-17393471/653-A-17393445.c
+21
+[("Insert b'\\t\\t\\t\\treturn 0;\\n' at position 23 in file2", 22)]

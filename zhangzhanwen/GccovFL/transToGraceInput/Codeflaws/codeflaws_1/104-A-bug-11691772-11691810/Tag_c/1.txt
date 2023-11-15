@@ -1,0 +1,4 @@
+codeflaws/104-A-bug-11691772-11691810/104-A-11691810.c
+codeflaws/104-A-bug-11691772-11691810/104-A-11691772.c
+8
+[("Replace b'    else if(n<=21&&s>=1)\\n' with b'    else if(n<20&&s>=2)\\n' at position 9", 8)]

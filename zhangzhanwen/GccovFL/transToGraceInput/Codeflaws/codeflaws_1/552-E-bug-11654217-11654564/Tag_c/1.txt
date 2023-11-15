@@ -1,0 +1,4 @@
+codeflaws/552-E-bug-11654217-11654564/552-E-11654564.c
+codeflaws/552-E-bug-11654217-11654564/552-E-11654217.c
+20
+[("Replace b'\\tfor(i=-2;S[i+=2];M[i>>1][j>>1]=M[i>>1][(j-2)>>1])\\n' with b'\\tfor(i=-2;S[i+=2];)\\n' at position 21", 20)]

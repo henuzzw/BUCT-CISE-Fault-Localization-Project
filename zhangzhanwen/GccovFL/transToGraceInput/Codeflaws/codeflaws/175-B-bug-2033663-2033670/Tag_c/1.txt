@@ -1,4 +1,0 @@
-codeflaws/175-B-bug-2033663-2033670/175-B-2033670.c
-codeflaws/175-B-bug-2033663-2033670/175-B-2033663.c
-13
-[("Replace b'  double f1,f2;\\n' with b'  float f1,f2;\\n' at position 14", 13)]

@@ -1,0 +1,4 @@
+codeflaws/355-B-bug-7652589-7652710/355-B-7652710.c
+codeflaws/355-B-bug-7652589-7652710/355-B-7652589.c
+18
+[("Replace b'        int k = (ftrol*c1 > c2 ) ? c2 : ftrol*c1;\\n' with b'        int k = (ftrol*c1 > c3 ) ? c3 : ftrol*c1;\\n' at position 19", 18)]

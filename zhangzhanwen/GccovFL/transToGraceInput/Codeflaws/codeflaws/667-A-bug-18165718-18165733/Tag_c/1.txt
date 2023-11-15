@@ -1,4 +1,0 @@
-codeflaws/667-A-bug-18165718-18165733/667-A-18165733.c
-codeflaws/667-A-bug-18165718-18165733/667-A-18165718.c
-1,1,8
-[("Replace b'#include<math.h>\\n' with b'//#include<math.h>\\n' at position 2", 1), ("Insert b'//#define M_PI   3.14159265358979323846264338327950288\\n' at position 3 in file2", 2), ('Insert b\'\\t\\tprintf("YES\\\\n");\\n\' at position 11 in file2', 10)]

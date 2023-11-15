@@ -1,4 +1,0 @@
-codeflaws/68-A-bug-964607-964609/68-A-964609.c
-codeflaws/68-A-bug-964607-964609/68-A-964607.c
-32
-[('Replace b\'        printf("%d",b-a+1);\\n\' with b\'        printf("%d",b-a);\\n\' at position 33', 32)]

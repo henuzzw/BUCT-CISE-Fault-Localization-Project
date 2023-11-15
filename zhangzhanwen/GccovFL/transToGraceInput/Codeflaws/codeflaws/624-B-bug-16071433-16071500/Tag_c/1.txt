@@ -1,4 +1,0 @@
-codeflaws/624-B-bug-16071433-16071500/624-B-16071500.c
-codeflaws/624-B-bug-16071433-16071500/624-B-16071433.c
-18,20
-[("Insert b'\\t    if(a[i] == 0) break;\\n' at position 20 in file2", 19), ("Delete b'\\t    if(a[i] == 0) break;\\n' at position 21 in file2", 20)]

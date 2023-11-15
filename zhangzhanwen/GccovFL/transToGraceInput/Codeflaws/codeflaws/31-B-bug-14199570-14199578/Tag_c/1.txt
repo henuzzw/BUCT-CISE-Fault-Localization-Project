@@ -1,4 +1,0 @@
-codeflaws/31-B-bug-14199570-14199578/31-B-14199578.c
-codeflaws/31-B-bug-14199570-14199578/31-B-14199570.c
-51
-[("Replace b'    if (wrong || at == 0)\\n' with b'    if (wrong)\\n' at position 52", 51)]

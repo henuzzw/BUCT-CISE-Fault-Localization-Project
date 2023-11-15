@@ -1,4 +1,0 @@
-codeflaws/535-C-bug-10734946-10734954/535-C-10734954.c
-codeflaws/535-C-bug-10734946-10734954/535-C-10734946.c
-19
-[("Replace b'\\t\\te=((t-a)/b)+1;\\n' with b'\\t\\te=((t-a)/b)-1;\\n' at position 20", 19)]

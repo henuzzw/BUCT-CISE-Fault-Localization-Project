@@ -1,4 +1,0 @@
-codeflaws/236-A-bug-18003976-18004085/236-A-18004085.c
-codeflaws/236-A-bug-18003976-18004085/236-A-18003976.c
-5,26
-[('Replace b\'    \\n\' with b\'    printf("enter the name");\\n\' at position 6', 5), ("Replace b'return 0;\\n' with b'        return 0;\\n' at position 27", 26)]

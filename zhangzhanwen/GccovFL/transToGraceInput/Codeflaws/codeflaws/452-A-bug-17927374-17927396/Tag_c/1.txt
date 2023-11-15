@@ -1,4 +1,0 @@
-codeflaws/452-A-bug-17927374-17927396/452-A-17927396.c
-codeflaws/452-A-bug-17927374-17927396/452-A-17927374.c
-14
-[('Replace b\'          else if(str[0]==\\\'s\\\'||str[1]==\\\'y\\\'||str[3]==\\\'v\\\')printf("sylveon\\\\n");\\n\' with b\'          else if(str[1]==\\\'s\\\'||str[2]==\\\'y\\\'||str[3]==\\\'v\\\')printf("sylveon\\\\n");\\n\' at position 15', 14)]

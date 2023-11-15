@@ -1,4 +1,0 @@
-codeflaws/104-A-bug-13890222-13890242/104-A-13890242.c
-codeflaws/104-A-bug-13890222-13890242/104-A-13890222.c
-13
-[("Replace b'    else if(a<=10 || a>21)\\n' with b'    else if(a<=10)\\n' at position 14", 13)]

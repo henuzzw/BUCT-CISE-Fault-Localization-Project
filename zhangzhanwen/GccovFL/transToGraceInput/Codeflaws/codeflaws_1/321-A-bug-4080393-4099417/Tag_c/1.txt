@@ -1,0 +1,4 @@
+codeflaws/321-A-bug-4080393-4099417/321-A-4099417.c
+codeflaws/321-A-bug-4080393-4099417/321-A-4080393.c
+35
+[('Replace b\'            if((float)(a-pos_x[i])/dx==(float)(b-pos_y[i])/dy && (a-pos_x[i])%dx==0 && ((dx>0 && (a-pos_x[i])>=0)||(dx<0 && (a-pos_x[i])<=0))) {printf("Yes"); return 0;}\\n\' with b\'            if((float)(a-pos_x[i])/dx==(float)(b-pos_y[i])/dy && ((dx>0 && (a-pos_x[i])>=0)||(dx<0 && (a-pos_x[i])<=0))) {printf("Yes"); return 0;}\\n\' at position 36', 35)]

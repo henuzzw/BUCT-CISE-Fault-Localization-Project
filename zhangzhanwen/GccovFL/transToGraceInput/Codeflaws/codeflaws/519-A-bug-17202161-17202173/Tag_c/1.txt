@@ -1,4 +1,0 @@
-codeflaws/519-A-bug-17202161-17202173/519-A-17202173.c
-codeflaws/519-A-bug-17202161-17202173/519-A-17202161.c
-55
-[("Replace b'                b+=1;\\n' with b'                b+=3;\\n' at position 56", 55)]

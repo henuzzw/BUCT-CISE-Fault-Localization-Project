@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-17544897-17544911/478-A-17544911.c
-codeflaws/478-A-bug-17544897-17544911/478-A-17544897.c
-8
-[("Replace b'    if(sum%5==0 && sum!=0)\\n' with b'    if(sum%5==0)\\n' at position 9", 8)]

@@ -1,4 +1,0 @@
-codeflaws/472-A-bug-18257011-18257052/472-A-18257052.c
-codeflaws/472-A-bug-18257011-18257052/472-A-18257011.c
-15
-[('Replace b\'\\t\\t\\t\\tprintf("8 9\\\\n");\\n\' with b\'\\t\\t\\t\\tprintf("6 9\\\\n");\\n\' at position 16', 15)]

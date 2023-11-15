@@ -1,0 +1,4 @@
+codeflaws/208-A-bug-18351096-18351104/208-A-18351104.c
+codeflaws/208-A-bug-18351096-18351104/208-A-18351096.c
+12
+[("Replace b'    for(i=0, j=0; i<len;) {\\n' with b'    for(i=3, j=0; i<len;) {\\n' at position 13", 12)]

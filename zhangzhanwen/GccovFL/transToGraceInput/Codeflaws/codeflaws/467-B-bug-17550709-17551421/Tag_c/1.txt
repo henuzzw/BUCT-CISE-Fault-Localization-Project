@@ -1,4 +1,0 @@
-codeflaws/467-B-bug-17550709-17551421/467-B-17551421.c
-codeflaws/467-B-bug-17550709-17551421/467-B-17550709.c
-12
-[("Replace b'        if(__builtin_popcount(arr[n]^arr[m])<=k)  sum++;\\n' with b'        if ((arr[n] >= arr[m]-k) && (arr[n] <= arr[m]+k)) sum++;\\n' at position 13", 12)]

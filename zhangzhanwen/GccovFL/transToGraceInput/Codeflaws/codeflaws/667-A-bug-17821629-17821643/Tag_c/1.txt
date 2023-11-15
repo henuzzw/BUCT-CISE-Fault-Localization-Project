@@ -1,4 +1,0 @@
-codeflaws/667-A-bug-17821629-17821643/667-A-17821643.c
-codeflaws/667-A-bug-17821629-17821643/667-A-17821629.c
-3
-[("Replace b'\\tdouble d,h,v,e,pi=3.141592653589,a,z;\\n' with b'\\tdouble d,h,v,e,pi=3.14159,a,z;\\n' at position 4", 3)]

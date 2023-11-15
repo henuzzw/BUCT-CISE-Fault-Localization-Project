@@ -1,0 +1,4 @@
+codeflaws/276-B-bug-14833281-14833300/276-B-14833300.c
+codeflaws/276-B-bug-14833281-14833300/276-B-14833281.c
+15
+[("Replace b'\\tif(j!=0 && j%2==0)\\n' with b'\\tif(j%2==0)\\n' at position 16", 15)]

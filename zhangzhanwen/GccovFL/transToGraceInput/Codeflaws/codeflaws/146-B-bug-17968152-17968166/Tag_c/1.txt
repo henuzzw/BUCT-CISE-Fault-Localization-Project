@@ -1,4 +1,0 @@
-codeflaws/146-B-bug-17968152-17968166/146-B-17968166.c
-codeflaws/146-B-bug-17968152-17968166/146-B-17968152.c
-26
-[("Replace b'\\tc=a+1;\\n' with b'\\tc=a;\\n' at position 27", 26)]

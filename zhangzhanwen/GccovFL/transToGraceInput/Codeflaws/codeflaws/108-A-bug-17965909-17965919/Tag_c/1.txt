@@ -1,4 +1,0 @@
-codeflaws/108-A-bug-17965909-17965919/108-A-17965919.c
-codeflaws/108-A-bug-17965909-17965919/108-A-17965909.c
-20
-[("Replace b'    if(num2<pnum1 && pnum1<60)\\n' with b'    if(num2<pnum1 && pnum1<=60)\\n' at position 21", 20)]

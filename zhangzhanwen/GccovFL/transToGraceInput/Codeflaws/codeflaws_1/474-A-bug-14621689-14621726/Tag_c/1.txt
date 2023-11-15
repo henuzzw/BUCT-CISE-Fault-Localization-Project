@@ -1,0 +1,4 @@
+codeflaws/474-A-bug-14621689-14621726/474-A-14621726.c
+codeflaws/474-A-bug-14621689-14621726/474-A-14621689.c
+5
+[('Replace b\'    char k[] = "qwertyuiopasdfghjkl;zxcvbnm,./";\\n\' with b\'    char k[] = "qwertyuiopasdfghjkl;zxcvbnm,../";\\n\' at position 6', 5)]

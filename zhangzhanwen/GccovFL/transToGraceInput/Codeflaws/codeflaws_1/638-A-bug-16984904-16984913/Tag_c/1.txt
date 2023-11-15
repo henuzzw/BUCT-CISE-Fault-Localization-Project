@@ -1,0 +1,4 @@
+codeflaws/638-A-bug-16984904-16984913/638-A-16984913.c
+codeflaws/638-A-bug-16984904-16984913/638-A-16984904.c
+8
+[('Replace b\' \\tprintf("%d",(n/2)-(a/2)+1);\\n\' with b\' \\tprintf("%d",(n/2)-a+1);\\n\' at position 9', 8)]

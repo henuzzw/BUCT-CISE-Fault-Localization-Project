@@ -1,4 +1,0 @@
-codeflaws/233-B-bug-2440068-2440084/233-B-2440084.c
-codeflaws/233-B-bug-2440068-2440084/233-B-2440068.c
-15
-[("Replace b'        tmp=j;\\n' with b'        tmp=i;\\n' at position 16", 15)]

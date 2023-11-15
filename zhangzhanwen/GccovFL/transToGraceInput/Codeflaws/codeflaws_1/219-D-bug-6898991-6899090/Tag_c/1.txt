@@ -1,0 +1,4 @@
+codeflaws/219-D-bug-6898991-6899090/219-D-6899090.c
+codeflaws/219-D-bug-6898991-6899090/219-D-6898991.c
+49
+[("Insert b'            reds[temp->a] = reds[index];\\n' at position 51 in file2", 50)]

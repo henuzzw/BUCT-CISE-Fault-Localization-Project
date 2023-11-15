@@ -1,4 +1,0 @@
-codeflaws/84-A-bug-9385925-9385936/84-A-9385936.c
-codeflaws/84-A-bug-9385925-9385936/84-A-9385925.c
-1,2
-[('Replace b\'int main(int a, char *argv[]){scanf("%d",&a);printf("%d",a+a/2);return 0;}\\n\' with b\'int main(int a, char *argv[]){scanf("%d",&a);printf("%d",3/2*a);return 0;\\n\' at position 2', 1), ("Delete b'}\\n' at position 2 in file2", 1)]

@@ -1,4 +1,0 @@
-codeflaws/680-A-bug-18334741-18334774/680-A-18334774.c
-codeflaws/680-A-bug-18334741-18334774/680-A-18334741.c
-8,22
-[("Insert b'\\tint actual = 0;\\n' at position 10 in file2", 9), ("Replace b'\\t\\t\\tif( vec[i+1] == vec[k] && vec[i+1] != vecAux[0] ){\\n' with b'\\t\\t\\tif( vec[i+1] == vec[k] ){\\n' at position 24", 23)]

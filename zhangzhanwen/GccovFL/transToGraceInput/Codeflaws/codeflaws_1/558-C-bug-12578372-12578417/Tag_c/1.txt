@@ -1,0 +1,4 @@
+codeflaws/558-C-bug-12578372-12578417/558-C-12578417.c
+codeflaws/558-C-bug-12578372-12578417/558-C-12578372.c
+72
+[("Replace b'    if (best > pasi[i] && washere[i] == n)\\n' with b'    if (best > pasi[i] && pasi[i] != 0 && washere[i] == n)\\n' at position 73", 72)]

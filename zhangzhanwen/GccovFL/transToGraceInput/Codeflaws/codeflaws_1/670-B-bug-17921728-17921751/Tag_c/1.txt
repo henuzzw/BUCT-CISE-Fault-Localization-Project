@@ -1,0 +1,4 @@
+codeflaws/670-B-bug-17921728-17921751/670-B-17921751.c
+codeflaws/670-B-bug-17921728-17921751/670-B-17921728.c
+20
+[('Replace b\'        printf("%d\\\\n", arr[i - 2]);\\n\' with b\'        printf("%d\\\\n", arr[i]);\\n\' at position 21', 20)]

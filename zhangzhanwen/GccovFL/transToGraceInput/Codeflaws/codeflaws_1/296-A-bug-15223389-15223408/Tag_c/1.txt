@@ -1,0 +1,4 @@
+codeflaws/296-A-bug-15223389-15223408/296-A-15223408.c
+codeflaws/296-A-bug-15223389-15223408/296-A-15223389.c
+13
+[("Insert b'\\t\\tcount=0;\\n' at position 15 in file2", 14)]

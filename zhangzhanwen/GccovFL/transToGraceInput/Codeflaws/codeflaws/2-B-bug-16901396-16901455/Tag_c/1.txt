@@ -1,4 +1,0 @@
-codeflaws/2-B-bug-16901396-16901455/2-B-16901455.c
-codeflaws/2-B-bug-16901396-16901455/2-B-16901396.c
-59
-[("Replace b'    fiveMin[0][0].five=fiveNum(board[0][0]);\\n' with b'    fiveMin[0][0].two=fiveNum(board[0][0]);\\n' at position 60", 59)]

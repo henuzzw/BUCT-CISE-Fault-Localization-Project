@@ -1,4 +1,0 @@
-codeflaws/489-C-bug-17034948-17034962/489-C-17034962.c
-codeflaws/489-C-bug-17034948-17034962/489-C-17034948.c
-40,43
-[('Delete b\'    printf("%s ",max);\\n\' at position 40 in file2', 39), ('Insert b\'        printf(" %s",max);\\n\' at position 44 in file2', 43)]

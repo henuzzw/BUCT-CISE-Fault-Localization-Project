@@ -1,0 +1,4 @@
+codeflaws/56-B-bug-257805-257826/56-B-257826.c
+codeflaws/56-B-bug-257805-257826/56-B-257805.c
+19
+[("Replace b'            if(num[j]!=j)break;\\n' with b'            if(num[j]!=n)break;\\n' at position 20", 19)]

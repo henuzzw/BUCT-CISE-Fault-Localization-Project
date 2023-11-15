@@ -1,0 +1,4 @@
+codeflaws/328-A-bug-4553345-4553356/328-A-4553356.c
+codeflaws/328-A-bug-4553345-4553356/328-A-4553345.c
+35
+[('Replace b\'        printf("%.0f\\\\n",next);\\n\' with b\'        printf("%d\\\\n",next);\\n\' at position 36', 35)]

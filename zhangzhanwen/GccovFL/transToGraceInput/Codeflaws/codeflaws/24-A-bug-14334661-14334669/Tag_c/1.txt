@@ -1,4 +1,0 @@
-codeflaws/24-A-bug-14334661-14334669/24-A-14334669.c
-codeflaws/24-A-bug-14334661-14334669/24-A-14334661.c
-15,17
-[('Delete b\'\\tprintf("%d %d\\\\n",a,b);\\n\' at position 15 in file2', 14), ('Delete b\'\\tprintf("%d\\\\n",a);\\n\' at position 16 in file2', 15)]

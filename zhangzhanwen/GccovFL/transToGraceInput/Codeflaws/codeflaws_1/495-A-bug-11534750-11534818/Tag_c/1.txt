@@ -1,0 +1,4 @@
+codeflaws/495-A-bug-11534750-11534818/495-A-11534818.c
+codeflaws/495-A-bug-11534750-11534818/495-A-11534750.c
+13
+[('Replace b"        else if(n[i]==\'5\')d*=4;\\n" with b"        else if(n[i]==\'5\')d*=2;\\n" at position 14', 13)]

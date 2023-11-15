@@ -1,4 +1,0 @@
-codeflaws/104-C-bug-7622744-7622748/104-C-7622748.c
-codeflaws/104-C-bug-7622744-7622748/104-C-7622744.c
-31
-[('Replace b\'        printf("FHTAGN!");\\n\' with b\'        printf("FHTAGN");\\n\' at position 32', 31)]

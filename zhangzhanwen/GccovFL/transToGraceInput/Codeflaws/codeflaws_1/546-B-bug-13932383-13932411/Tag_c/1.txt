@@ -1,0 +1,4 @@
+codeflaws/546-B-bug-13932383-13932411/546-B-13932411.c
+codeflaws/546-B-bug-13932383-13932411/546-B-13932383.c
+38
+[("Delete b'            answer+=((i-1)*dif);\\n' at position 38 in file2", 37)]

@@ -1,0 +1,4 @@
+codeflaws/676-A-bug-18184926-18185014/676-A-18185014.c
+codeflaws/676-A-bug-18184926-18185014/676-A-18184926.c
+15,44
+[("Replace b'\\t\\tif(min > a[i])\\n' with b'\\t\\telse if(min > a[i])\\n' at position 16", 15), ("Replace b'return 0;\\n' with b'  return 0;\\n' at position 45", 44)]

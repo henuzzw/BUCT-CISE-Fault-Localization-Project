@@ -1,4 +1,0 @@
-codeflaws/519-B-bug-17041730-17043099/519-B-17043099.c
-codeflaws/519-B-bug-17041730-17043099/519-B-17041730.c
-3
-[("Replace b'\\tunsigned long long a=0, b=0, c=0;\\n' with b'\\tunsigned long long a, b, c;\\n' at position 4", 3)]

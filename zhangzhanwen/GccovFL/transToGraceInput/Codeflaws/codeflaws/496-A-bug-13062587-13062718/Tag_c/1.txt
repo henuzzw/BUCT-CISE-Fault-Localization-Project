@@ -1,4 +1,0 @@
-codeflaws/496-A-bug-13062587-13062718/496-A-13062718.c
-codeflaws/496-A-bug-13062587-13062718/496-A-13062587.c
-24
-[("Replace b'\\t\\t\\t\\tif(largest[i]<greater){greater=largest[i];}\\n' with b'\\t\\t\\t\\tif(largest[i]<greater)greater=largest[x];\\n' at position 25", 24)]

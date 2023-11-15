@@ -1,4 +1,0 @@
-codeflaws/48-A-bug-18336507-18336566/48-A-18336566.c
-codeflaws/48-A-bug-18336507-18336566/48-A-18336507.c
-13
-[('Replace b"    }else if(s==2&&r==1){for(i=0;i<3;i++) if(a[i]==\'r\') break;\\n" with b"    }else if(s==2&&r==1){for(i=0;i<3;i++) if(a[i]==\'p\') break;\\n" at position 14', 13)]

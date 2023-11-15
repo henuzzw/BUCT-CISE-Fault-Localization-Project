@@ -1,4 +1,0 @@
-codeflaws/515-C-bug-13798865-13798998/515-C-13798998.c
-codeflaws/515-C-bug-13798865-13798998/515-C-13798865.c
-14
-[("Replace b'int a2=data[2]+2*data[4]+3*data[8]+data[9];\\n' with b'int a2=data[2]+2*data[4]+data[6]+3*data[8]+3*data[9];\\n' at position 15", 14)]

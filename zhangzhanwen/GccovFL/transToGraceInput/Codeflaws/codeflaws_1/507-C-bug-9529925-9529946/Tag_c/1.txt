@@ -1,0 +1,4 @@
+codeflaws/507-C-bug-9529925-9529946/507-C-9529946.c
+codeflaws/507-C-bug-9529925-9529946/507-C-9529925.c
+20
+[('Delete b\'    printf("%lld\\\\n",a[2]);\\n\' at position 20 in file2', 19)]

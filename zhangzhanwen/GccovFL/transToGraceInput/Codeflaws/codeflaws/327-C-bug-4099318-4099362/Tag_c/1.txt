@@ -1,4 +1,0 @@
-codeflaws/327-C-bug-4099318-4099362/327-C-4099362.c
-codeflaws/327-C-bug-4099318-4099362/327-C-4099318.c
-33
-[("Replace b'        t=(t+p[i])%MOD;\\n' with b'        t=t+p[i];\\n' at position 34", 33)]

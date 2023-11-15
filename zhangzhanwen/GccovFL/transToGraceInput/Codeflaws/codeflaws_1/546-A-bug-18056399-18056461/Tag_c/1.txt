@@ -1,0 +1,4 @@
+codeflaws/546-A-bug-18056399-18056461/546-A-18056461.c
+codeflaws/546-A-bug-18056399-18056461/546-A-18056399.c
+9
+[("Replace b'    if(x>n)\\n' with b'    if(x>w)\\n' at position 10", 9)]

@@ -1,0 +1,4 @@
+codeflaws/17-B-bug-7993385-7993409/17-B-7993409.c
+codeflaws/17-B-bug-7993385-7993409/17-B-7993385.c
+19
+[("Replace b'            if((c< x[b]) || (x[b]==-1)) x[b] = c;\\n' with b'            if(c>= x[b]) x[b] = c;\\n' at position 20", 19)]

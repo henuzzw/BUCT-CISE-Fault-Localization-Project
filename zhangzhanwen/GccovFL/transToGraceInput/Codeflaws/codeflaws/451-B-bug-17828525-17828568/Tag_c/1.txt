@@ -1,4 +1,0 @@
-codeflaws/451-B-bug-17828525-17828568/451-B-17828568.c
-codeflaws/451-B-bug-17828525-17828568/451-B-17828525.c
-25
-[('Insert b\'\\tif(arr[start-1] > arr[end] && start != 0) { printf("no\\\\n"); return(0); }\\n\' at position 27 in file2', 26)]

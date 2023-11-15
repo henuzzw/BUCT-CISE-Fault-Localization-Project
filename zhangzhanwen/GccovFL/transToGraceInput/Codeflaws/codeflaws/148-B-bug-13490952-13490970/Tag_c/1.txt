@@ -1,4 +1,0 @@
-codeflaws/148-B-bug-13490952-13490970/148-B-13490970.c
-codeflaws/148-B-bug-13490952-13490970/148-B-13490952.c
-15,31
-[("Insert b'    if(vd>vp){\\n' at position 17 in file2", 16), ("Replace b'  }\\n' with b'\\n' at position 33", 32)]

@@ -1,0 +1,4 @@
+codeflaws/116-B-bug-2308784-2308812/116-B-2308812.c
+codeflaws/116-B-bug-2308784-2308812/116-B-2308784.c
+3
+[("Replace b' char a[10][11];\\n' with b' char a[10][10];\\n' at position 4", 3)]

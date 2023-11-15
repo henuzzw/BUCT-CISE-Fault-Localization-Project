@@ -1,4 +1,0 @@
-codeflaws/325-A-bug-4061814-4061951/325-A-4061951.c
-codeflaws/325-A-bug-4061814-4061951/325-A-4061814.c
-28
-[("Replace b'    if(xf && yf && sum == (x1-x0)*(y1-y0) && x1-x0 == y1-y0){\\n' with b'    if(xf && yf && sum == (x1-x0)*(y1-y0)){\\n' at position 29", 28)]

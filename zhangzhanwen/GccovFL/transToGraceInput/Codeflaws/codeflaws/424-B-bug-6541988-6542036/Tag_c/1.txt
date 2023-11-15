@@ -1,4 +1,0 @@
-codeflaws/424-B-bug-6541988-6542036/424-B-6542036.c
-codeflaws/424-B-bug-6541988-6542036/424-B-6541988.c
-36,39,40
-[("Insert b'    sum = s;\\n' at position 38 in file2", 37), ("Delete b'        sum = s;\\n' at position 40 in file2", 39), ("Delete b'\\n' at position 40 in file2", 39)]

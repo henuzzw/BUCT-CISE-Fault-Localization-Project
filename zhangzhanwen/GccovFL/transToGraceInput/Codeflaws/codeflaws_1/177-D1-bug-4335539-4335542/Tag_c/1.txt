@@ -1,0 +1,4 @@
+codeflaws/177-D1-bug-4335539-4335542/177-D1-4335542.c
+codeflaws/177-D1-bug-4335539-4335542/177-D1-4335539.c
+24
+[('Replace b\'printf("%d ",arr[a]);\\n\' with b\'printf("%d",arr[a]);\\n\' at position 25', 24)]

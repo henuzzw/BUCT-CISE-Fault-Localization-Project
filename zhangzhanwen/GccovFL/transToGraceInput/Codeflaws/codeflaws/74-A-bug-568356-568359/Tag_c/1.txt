@@ -1,4 +1,0 @@
-codeflaws/74-A-bug-568356-568359/74-A-568359.c
-codeflaws/74-A-bug-568356-568359/74-A-568356.c
-4
-[("Replace b'    int sh , uh, A, B, C, D, E, n, i, max = -30000 , timi;\\n' with b'    int sh , uh, A, B, C, D, E, n, i, max = 0 , timi;\\n' at position 5", 4)]

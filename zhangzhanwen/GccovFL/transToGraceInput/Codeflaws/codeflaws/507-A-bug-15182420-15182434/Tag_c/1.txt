@@ -1,4 +1,0 @@
-codeflaws/507-A-bug-15182420-15182434/507-A-15182434.c
-codeflaws/507-A-bug-15182420-15182434/507-A-15182420.c
-42,43
-[("Replace b'                if(c[j]==a[i] && c[j]!=0)\\n' with b'                if(c[j]==a[i])\\n' at position 43", 42), ("Insert b'                    c[j]=0;\\n' at position 45 in file2", 44)]

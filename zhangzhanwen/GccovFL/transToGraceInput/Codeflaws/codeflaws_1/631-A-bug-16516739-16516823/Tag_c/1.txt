@@ -1,0 +1,4 @@
+codeflaws/631-A-bug-16516739-16516823/631-A-16516823.c
+codeflaws/631-A-bug-16516739-16516823/631-A-16516739.c
+13
+[('Replace b\'\\t\\tprintf("510\\\\n");\\n\' with b\'\\t\\tprintf("256\\\\n");\\n\' at position 14', 13)]

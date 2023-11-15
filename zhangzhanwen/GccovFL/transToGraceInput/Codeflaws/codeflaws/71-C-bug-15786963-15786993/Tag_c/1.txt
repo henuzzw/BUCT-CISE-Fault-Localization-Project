@@ -1,4 +1,0 @@
-codeflaws/71-C-bug-15786963-15786993/71-C-15786993.c
-codeflaws/71-C-bug-15786963-15786993/71-C-15786963.c
-28
-[("Replace b'\\t\\t\\tif((n/i>2 && check(i)) || ( i>2 && check(n/i)))\\n' with b'\\t\\t\\tif(check(i) || ( i>2 && check(n/i)))\\n' at position 29", 28)]

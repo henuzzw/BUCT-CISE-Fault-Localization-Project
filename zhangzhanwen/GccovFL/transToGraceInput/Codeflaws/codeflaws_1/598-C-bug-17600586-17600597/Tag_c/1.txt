@@ -1,0 +1,4 @@
+codeflaws/598-C-bug-17600586-17600597/598-C-17600597.c
+codeflaws/598-C-bug-17600586-17600597/598-C-17600586.c
+25,40
+[("Replace b'        angle[i].val = acosl(x/sqrtl(x*x+y*y));\\n' with b'        angle[i].val = acos(x/sqrtl(x*x+y*y));\\n' at position 26", 25), ("Delete b'\\n' at position 40 in file2", 39)]

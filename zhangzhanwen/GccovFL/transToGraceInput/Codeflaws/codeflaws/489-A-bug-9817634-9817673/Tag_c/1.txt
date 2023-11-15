@@ -1,4 +1,0 @@
-codeflaws/489-A-bug-9817634-9817673/489-A-9817673.c
-codeflaws/489-A-bug-9817634-9817673/489-A-9817634.c
-4
-[("Replace b'int swap_it[3000][2],min,s=0,num[3000],n,k=0,i,j,temp;\\n' with b'int swap_it[300][300],min,s=0,num[3000],n,k=0,i,j,temp;\\n' at position 5", 4)]

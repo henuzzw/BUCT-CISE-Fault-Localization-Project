@@ -1,4 +1,0 @@
-codeflaws/260-B-bug-2837143-2837375/260-B-2837375.c
-codeflaws/260-B-bug-2837143-2837375/260-B-2837143.c
-50
-[('Replace b\'    printf("%02d-%02d-%d\\\\n", r + 1, q + 1, p + 2013);\\n\' with b\'    printf("%2d-%2d-%d\\\\n", r + 1, q + 1, p + 2013);\\n\' at position 51', 50)]

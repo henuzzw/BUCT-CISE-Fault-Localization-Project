@@ -1,4 +1,0 @@
-codeflaws/157-B-bug-13517559-13517565/157-B-13517565.c
-codeflaws/157-B-bug-13517559-13517565/157-B-13517559.c
-28
-[("Replace b'    sum1=(3.1415926536*sum);\\n' with b'    sum1=((22/7.00)*sum);\\n' at position 29", 28)]

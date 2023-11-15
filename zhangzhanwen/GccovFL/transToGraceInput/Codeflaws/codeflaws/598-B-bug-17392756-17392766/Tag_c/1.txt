@@ -1,4 +1,0 @@
-codeflaws/598-B-bug-17392756-17392766/598-B-17392766.c
-codeflaws/598-B-bug-17392756-17392766/598-B-17392756.c
-5
-[("Insert b'\\tk %= n;\\n' at position 7 in file2", 6)]

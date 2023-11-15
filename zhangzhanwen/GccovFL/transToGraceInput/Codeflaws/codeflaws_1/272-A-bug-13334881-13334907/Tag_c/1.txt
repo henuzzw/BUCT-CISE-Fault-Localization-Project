@@ -1,0 +1,4 @@
+codeflaws/272-A-bug-13334881-13334907/272-A-13334907.c
+codeflaws/272-A-bug-13334881-13334907/272-A-13334881.c
+12
+[('Replace b\'        if(a==0||a>n-4)printf("4");\\n\' with b\'        if(a==0||a>n-5)printf("4");\\n\' at position 13', 12)]

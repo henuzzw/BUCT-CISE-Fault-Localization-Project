@@ -1,0 +1,4 @@
+codeflaws/40-B-bug-180031-180149/40-B-180149.c
+codeflaws/40-B-bug-180031-180149/40-B-180031.c
+21,22
+[('Delete b\'    printf("%u\\\\n");\\n\' at position 21 in file2', 20), ("Delete b'\\n' at position 21 in file2", 20)]

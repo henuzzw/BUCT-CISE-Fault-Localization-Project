@@ -1,0 +1,4 @@
+codeflaws/327-B-bug-12481002-12481059/327-B-12481059.c
+codeflaws/327-B-bug-12481002-12481059/327-B-12481002.c
+10
+[("Replace b'        for(j=2; j>(int)sqrt(i)+1; j++){\\n' with b'        for(j=2; j<(int)sqrt(i)+1; j++){\\n' at position 11", 10)]

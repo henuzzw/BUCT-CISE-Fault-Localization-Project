@@ -1,4 +1,0 @@
-codeflaws/74-A-bug-2909223-2909244/74-A-2909244.c
-codeflaws/74-A-bug-2909223-2909244/74-A-2909223.c
-0,4
-[("Insert b'#include<limits.h>\\n' at position 2 in file2", 1), ("Replace b'\\tint su,nu,a,b,c,d,e,val,ans=0,n,i,max=INT_MIN;\\n' with b'\\tint su,nu,a,b,c,d,e,val,max=0,n,i,ans;\\n' at position 6", 5)]

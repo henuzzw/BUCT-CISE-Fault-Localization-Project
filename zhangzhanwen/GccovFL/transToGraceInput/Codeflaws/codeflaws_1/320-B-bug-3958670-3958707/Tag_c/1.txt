@@ -1,0 +1,4 @@
+codeflaws/320-B-bug-3958670-3958707/320-B-3958707.c
+codeflaws/320-B-bug-3958670-3958707/320-B-3958670.c
+54
+[('Replace b\'\\t\\t\\tprintf("%s\\\\n",kont(b-1,c-1)?"YES":"NO");\\n\' with b\'\\t\\t\\tprintf("%s\\\\n",kont(b,c)?"YES":"NO");\\n\' at position 55', 54)]

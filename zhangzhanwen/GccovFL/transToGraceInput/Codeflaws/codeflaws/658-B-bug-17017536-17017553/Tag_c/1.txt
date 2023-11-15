@@ -1,4 +1,0 @@
-codeflaws/658-B-bug-17017536-17017553/658-B-17017553.c
-codeflaws/658-B-bug-17017536-17017553/658-B-17017536.c
-44
-[("Delete b'break;\\n' at position 44 in file2", 43)]

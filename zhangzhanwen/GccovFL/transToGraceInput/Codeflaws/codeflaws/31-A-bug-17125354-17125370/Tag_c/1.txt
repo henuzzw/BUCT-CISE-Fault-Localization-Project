@@ -1,4 +1,0 @@
-codeflaws/31-A-bug-17125354-17125370/31-A-17125370.c
-codeflaws/31-A-bug-17125354-17125370/31-A-17125354.c
-24
-[("Replace b'\\t\\t\\tif(a[i]+a[j]==a[m] && i!=j){\\n' with b'\\t\\t\\tif(a[i]+a[j]==a[m]){\\n' at position 25", 24)]

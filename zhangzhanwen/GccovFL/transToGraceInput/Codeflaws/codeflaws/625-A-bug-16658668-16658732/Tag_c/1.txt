@@ -1,4 +1,0 @@
-codeflaws/625-A-bug-16658668-16658732/625-A-16658732.c
-codeflaws/625-A-bug-16658668-16658732/625-A-16658668.c
-18
-[("Replace b'        if(n>=b){\\n' with b'        if(n>b){\\n' at position 19", 18)]

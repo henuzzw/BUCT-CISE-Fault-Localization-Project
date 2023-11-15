@@ -1,4 +1,0 @@
-codeflaws/550-D-bug-12590078-12590244/550-D-12590244.c
-codeflaws/550-D-bug-12590078-12590244/550-D-12590078.c
-26
-[('Replace b\'            if(i%2)for(j=x;j<=y;j++)printf("%d %d\\\\n%d %d\\\\n",j,j+p,j+n/2,j+p+n/2);\\n\' with b\'            if(i%p)for(j=x;j<=y;j++)printf("%d %d\\\\n%d %d\\\\n",j,j+p,j+n/2,j+p+n/2);\\n\' at position 27', 26)]

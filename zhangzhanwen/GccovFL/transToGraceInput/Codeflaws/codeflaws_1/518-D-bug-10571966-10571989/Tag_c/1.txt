@@ -1,0 +1,4 @@
+codeflaws/518-D-bug-10571966-10571989/518-D-10571989.c
+codeflaws/518-D-bug-10571966-10571989/518-D-10571966.c
+26
+[('Replace b\'    printf("%.8lf\\\\n", ans);\\n\' with b\'    printf("%g\\\\n", ans);\\n\' at position 27', 26)]

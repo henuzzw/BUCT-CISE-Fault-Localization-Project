@@ -1,4 +1,0 @@
-codeflaws/104-A-bug-7900405-7900409/104-A-7900409.c
-codeflaws/104-A-bug-7900405-7900409/104-A-7900405.c
-10
-[("Replace b'\\telse if(n-10 <10 || n-10 ==11){\\n' with b'\\telse if(n-10 <10){\\n' at position 11", 10)]

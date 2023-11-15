@@ -1,4 +1,0 @@
-codeflaws/208-A-bug-17922157-17922172/208-A-17922172.c
-codeflaws/208-A-bug-17922157-17922172/208-A-17922157.c
-10
-[("Replace b'\\twhile(i < (l))\\n' with b'\\twhile(i < (l-1))\\n' at position 11", 10)]

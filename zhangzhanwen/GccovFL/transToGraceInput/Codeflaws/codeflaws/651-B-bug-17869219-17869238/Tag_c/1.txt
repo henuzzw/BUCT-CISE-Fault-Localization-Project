@@ -1,4 +1,0 @@
-codeflaws/651-B-bug-17869219-17869238/651-B-17869238.c
-codeflaws/651-B-bug-17869219-17869238/651-B-17869219.c
-17,18
-[("Replace b'    for(i=0;i<=1000;i++){\\n' with b'\\n' at position 18", 17), ("Delete b'    for(i=0;i<1000;i++){\\n' at position 18 in file2", 17)]

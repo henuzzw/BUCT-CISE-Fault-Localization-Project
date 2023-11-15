@@ -1,0 +1,4 @@
+codeflaws/231-B-bug-2321700-2321724/231-B-2321724.c
+codeflaws/231-B-bug-2321700-2321724/231-B-2321700.c
+1
+[("Replace b'#define MAX 102\\n' with b'#define MAX 100\\n' at position 2", 1)]

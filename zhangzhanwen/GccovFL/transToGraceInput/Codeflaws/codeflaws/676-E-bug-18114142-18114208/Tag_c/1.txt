@@ -1,4 +1,0 @@
-codeflaws/676-E-bug-18114142-18114208/676-E-18114208.c
-codeflaws/676-E-bug-18114142-18114208/676-E-18114142.c
-1
-[("Replace b'#define MOD 199611267\\n' with b'#define MOD 1000000007\\n' at position 2", 1)]

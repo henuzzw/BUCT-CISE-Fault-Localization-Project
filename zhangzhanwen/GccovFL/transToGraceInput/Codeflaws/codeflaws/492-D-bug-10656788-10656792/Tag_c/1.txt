@@ -1,4 +1,0 @@
-codeflaws/492-D-bug-10656788-10656792/492-D-10656792.c
-codeflaws/492-D-bug-10656788-10656792/492-D-10656788.c
-20
-[('Replace b\'char *name[2] = { "Vanya", "Vova" };\\n\' with b\'char *name[2] = { "HuyND", "KhanhLD" };\\n\' at position 21', 20)]

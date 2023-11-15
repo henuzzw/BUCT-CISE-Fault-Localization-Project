@@ -1,0 +1,4 @@
+codeflaws/263-A-bug-17342324-17342376/263-A-17342376.c
+codeflaws/263-A-bug-17342324-17342376/263-A-17342324.c
+18
+[('Replace b\'    printf("%d",abs(x-2)+abs(y-2));\\n\' with b\'    printf("%d",abs(i-2)+abs(j-2));\\n\' at position 19', 18)]

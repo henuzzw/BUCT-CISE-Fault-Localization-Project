@@ -1,4 +1,0 @@
-codeflaws/393-A-bug-13915169-13915488/393-A-13915488.c
-codeflaws/393-A-bug-13915169-13915488/393-A-13915169.c
-36,37
-[("Replace b'    else n=1+(n-3)/2;\\n' with b'    else if(n==4) n=1;\\n' at position 37", 36), ("Delete b'    else n=(n+2)/3;\\n' at position 37 in file2", 36)]

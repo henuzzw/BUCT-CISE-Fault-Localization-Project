@@ -1,4 +1,0 @@
-codeflaws/488-A-bug-17499195-17499231/488-A-17499231.c
-codeflaws/488-A-bug-17499195-17499231/488-A-17499195.c
-9,25
-[("Replace b'\\t\\tif (k == 8 || k == -8)\\n' with b'\\t\\tif (k == 8)\\n' at position 10", 9), ('Insert b\'\\t//\\tprintf("%d\\\\n",a);\\n\' at position 27 in file2', 26)]

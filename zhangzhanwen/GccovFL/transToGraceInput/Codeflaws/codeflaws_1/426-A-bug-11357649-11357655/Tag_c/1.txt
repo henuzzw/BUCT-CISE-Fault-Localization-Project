@@ -1,0 +1,4 @@
+codeflaws/426-A-bug-11357649-11357655/426-A-11357655.c
+codeflaws/426-A-bug-11357649-11357655/426-A-11357649.c
+9,9
+[("Replace b'        if(max<a)\\n' with b'\\n' at position 10", 9), ("Insert b'            max=a;\\n' at position 11 in file2", 10)]

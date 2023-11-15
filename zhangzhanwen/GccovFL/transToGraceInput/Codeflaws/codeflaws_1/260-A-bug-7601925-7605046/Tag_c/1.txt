@@ -1,0 +1,4 @@
+codeflaws/260-A-bug-7601925-7605046/260-A-7605046.c
+codeflaws/260-A-bug-7601925-7605046/260-A-7601925.c
+18
+[("Replace b'\\tif (a % b == 0)\\n' with b'\\tif (a == b)\\n' at position 19", 18)]

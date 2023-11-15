@@ -1,4 +1,0 @@
-codeflaws/103-B-bug-1812495-1812535/103-B-1812535.c
-codeflaws/103-B-bug-1812495-1812535/103-B-1812495.c
-16
-[("Replace b'    if (b != a) {\\n' with b'    if (b < a) {\\n' at position 17", 16)]

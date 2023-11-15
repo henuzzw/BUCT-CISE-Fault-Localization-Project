@@ -1,4 +1,0 @@
-codeflaws/677-A-bug-18331987-18332002/677-A-18332002.c
-codeflaws/677-A-bug-18331987-18332002/677-A-18331987.c
-5
-[('Replace b\'    while(scanf("%d%d",&n,&h)==2){\\n\' with b\'    while(scanf("%d%d",&n,&h)){\\n\' at position 6', 5)]

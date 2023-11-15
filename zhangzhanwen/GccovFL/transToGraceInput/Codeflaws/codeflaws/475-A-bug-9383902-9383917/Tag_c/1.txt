@@ -1,4 +1,0 @@
-codeflaws/475-A-bug-9383902-9383917/475-A-9383917.c
-codeflaws/475-A-bug-9383902-9383917/475-A-9383902.c
-24
-[('Insert b"\\ts4[1]=\'#\';\\n" at position 26 in file2', 25)]

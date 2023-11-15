@@ -1,4 +1,0 @@
-codeflaws/300-B-bug-4994885-4994897/300-B-4994897.c
-codeflaws/300-B-bug-4994885-4994897/300-B-4994885.c
-38
-[("Insert b'                        if(i>n){fun(m);return 0;}\\n' at position 40 in file2", 39)]

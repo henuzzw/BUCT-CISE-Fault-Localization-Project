@@ -1,0 +1,4 @@
+codeflaws/118-B-bug-15987779-16225517/118-B-16225517.c
+codeflaws/118-B-bug-15987779-16225517/118-B-15987779.c
+13
+[('Replace b\'\\t\\t\\tprintf("%d ",i-j-1);\\n\' with b\'\\t\\t\\tprintf("%d ",j);\\n\' at position 14', 13)]

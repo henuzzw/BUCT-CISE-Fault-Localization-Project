@@ -1,4 +1,0 @@
-codeflaws/278-A-bug-11079686-11079707/278-A-11079707.c
-codeflaws/278-A-bug-11079686-11079707/278-A-11079686.c
-33
-[('Replace b\'    if(d1==d2) printf("%d\\\\n",d1);\\n\' with b\'    if(d1=d2) printf("%d\\\\n",d1);\\n\' at position 34', 33)]

@@ -1,0 +1,4 @@
+codeflaws/225-A-bug-4167347-4167456/225-A-4167456.c
+codeflaws/225-A-bug-4167347-4167456/225-A-4167347.c
+10
+[('Replace b\'if(x==a || x==7-a) printf("NO\\\\n"); else printf("YES\\\\n");\\n\' with b\'if(i==n) printf("YES\\\\n"); else printf("NO\\\\n");\\n\' at position 11', 10)]

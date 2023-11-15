@@ -1,4 +1,0 @@
-codeflaws/287-A-bug-11273662-11273693/287-A-11273693.c
-codeflaws/287-A-bug-11273662-11273693/287-A-11273662.c
-44
-[("Replace b'            if(m>=3)\\n' with b'            if(m>=2)\\n' at position 45", 44)]

@@ -1,0 +1,4 @@
+codeflaws/127-A-bug-7021177-7021232/127-A-7021232.c
+codeflaws/127-A-bug-7021177-7021232/127-A-7021177.c
+8
+[('Delete b\'    printf("%d %d\\\\n",x,y);\\n\' at position 8 in file2', 7)]

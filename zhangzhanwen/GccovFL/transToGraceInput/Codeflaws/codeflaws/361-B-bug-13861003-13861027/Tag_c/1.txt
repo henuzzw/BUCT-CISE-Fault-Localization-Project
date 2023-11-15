@@ -1,4 +1,0 @@
-codeflaws/361-B-bug-13861003-13861027/361-B-13861027.c
-codeflaws/361-B-bug-13861003-13861027/361-B-13861003.c
-5
-[("Replace b'    int n,k,i,j,s[100050];\\n' with b'    int n,k,i,j,s[1000];\\n' at position 6", 5)]

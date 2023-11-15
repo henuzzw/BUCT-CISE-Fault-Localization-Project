@@ -1,0 +1,4 @@
+codeflaws/6-C-bug-12776326-12776346/6-C-12776346.c
+codeflaws/6-C-bug-12776326-12776346/6-C-12776326.c
+7,8,8
+[("Insert b'{\\n' at position 9 in file2", 8), ("Insert b'}\\n' at position 11 in file2", 10), ("Insert b'\\n' at position 12 in file2", 11)]

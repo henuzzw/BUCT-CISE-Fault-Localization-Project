@@ -1,4 +1,0 @@
-codeflaws/39-D-bug-161984-162131/39-D-162131.c
-codeflaws/39-D-bug-161984-162131/39-D-161984.c
-13
-[("Replace b'   if(diffs<3)\\n' with b'   if(diffs==1)\\n' at position 14", 13)]

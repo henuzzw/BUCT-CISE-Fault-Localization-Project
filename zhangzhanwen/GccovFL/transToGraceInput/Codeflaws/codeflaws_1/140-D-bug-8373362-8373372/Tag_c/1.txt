@@ -1,0 +1,4 @@
+codeflaws/140-D-bug-8373362-8373372/140-D-8373372.c
+codeflaws/140-D-bug-8373362-8373372/140-D-8373362.c
+6
+[("Replace b'    int n, i, cont=0, limit, band = 0, penality=0, hora;\\n' with b'    int n, i, cont=0, limit, band = 0, penality, hora;\\n' at position 7", 6)]

@@ -1,4 +1,0 @@
-codeflaws/519-C-bug-13287280-13287402/519-C-13287402.c
-codeflaws/519-C-bug-13287280-13287402/519-C-13287280.c
-7,7,7
-[("Insert b'    }\\n' at position 9 in file2", 8), ("Insert b'    else if(a>=t_div && b<t_div){\\n' at position 10 in file2", 9), ('Insert b\'        printf("%d",b);\\n\' at position 11 in file2', 10)]

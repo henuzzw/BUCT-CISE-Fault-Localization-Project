@@ -1,4 +1,0 @@
-codeflaws/16-B-bug-6128994-6129000/16-B-6129000.c
-codeflaws/16-B-bug-6128994-6129000/16-B-6128994.c
-13
-[("Replace b'\\t\\t\\tif(b[i]<b[j])\\n' with b'\\t\\t\\tif(a[i]<a[j])\\n' at position 14", 13)]

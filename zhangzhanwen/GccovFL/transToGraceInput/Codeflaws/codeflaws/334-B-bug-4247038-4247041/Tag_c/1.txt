@@ -1,4 +1,0 @@
-codeflaws/334-B-bug-4247038-4247041/334-B-4247041.c
-codeflaws/334-B-bug-4247038-4247041/334-B-4247038.c
-39
-[('Delete b\'\\t\\tprintf("done\\\\n");\\t\\n\' at position 39 in file2', 38)]

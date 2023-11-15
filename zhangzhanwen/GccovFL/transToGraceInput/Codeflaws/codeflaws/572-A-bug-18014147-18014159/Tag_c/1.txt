@@ -1,4 +1,0 @@
-codeflaws/572-A-bug-18014147-18014159/572-A-18014159.c
-codeflaws/572-A-bug-18014147-18014159/572-A-18014147.c
-69,98
-[("Replace b'  result= (SA[k]< SB[nb-m+1]);\\n' with b'  result= (A[SA[k]]< B[SB[nb-m+1]]);\\n' at position 70", 69), ("Replace b'  return 0;\\n' with b'  \\n' at position 99", 98)]

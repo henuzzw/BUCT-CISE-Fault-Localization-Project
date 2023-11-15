@@ -1,4 +1,0 @@
-codeflaws/112-C-bug-1370887-1370892/112-C-1370892.c
-codeflaws/112-C-bug-1370887-1370892/112-C-1370887.c
-9
-[('Replace b\'\\t\\tif ((unsigned long long)t*t+n-1<x) printf("-1\\\\n");\\n\' with b\'\\t\\tif ((unsigned long long)t*t<x-n+1) printf("-1\\\\n");\\n\' at position 10', 9)]

@@ -1,4 +1,0 @@
-codeflaws/122-C-bug-8904375-8904400/122-C-8904400.c
-codeflaws/122-C-bug-8904375-8904400/122-C-8904375.c
-24
-[("Replace b'            i=k[j];\\n' with b'            i=k[j]+1;\\n' at position 25", 24)]

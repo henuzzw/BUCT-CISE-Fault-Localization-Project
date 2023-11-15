@@ -1,4 +1,0 @@
-codeflaws/99-E-bug-729773-729777/99-E-729777.c
-codeflaws/99-E-bug-729773-729777/99-E-729773.c
-11
-[('Replace b\'    printf(w>1e-7?"%.9f\\\\n":"My poor head =(\\\\n",w);\\n\' with b\'    printf("%f\\\\n",w);\\n\' at position 12', 11)]

@@ -1,4 +1,0 @@
-codeflaws/460-A-bug-17983350-17983371/460-A-17983371.c
-codeflaws/460-A-bug-17983350-17983371/460-A-17983350.c
-7
-[("Replace b'    for(i=1;;i++)\\n' with b'    for(i=1;i<100;i++)\\n' at position 8", 7)]

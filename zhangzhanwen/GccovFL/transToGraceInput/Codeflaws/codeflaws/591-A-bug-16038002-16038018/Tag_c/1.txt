@@ -1,4 +1,0 @@
-codeflaws/591-A-bug-16038002-16038018/591-A-16038018.c
-codeflaws/591-A-bug-16038002-16038018/591-A-16038002.c
-8
-[('Replace b\'    printf("%lf",l*p/(p+q));\\n\' with b\'    printf("%lf",l*p/p+q);\\n\' at position 9', 8)]

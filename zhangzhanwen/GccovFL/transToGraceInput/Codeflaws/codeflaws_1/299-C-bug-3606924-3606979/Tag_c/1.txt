@@ -1,0 +1,4 @@
+codeflaws/299-C-bug-3606924-3606979/299-C-3606979.c
+codeflaws/299-C-bug-3606924-3606979/299-C-3606924.c
+3
+[("Replace b'char s1[2000010],s2[2000010];\\n' with b'char s1[1000010],s2[1000010];\\n' at position 4", 3)]

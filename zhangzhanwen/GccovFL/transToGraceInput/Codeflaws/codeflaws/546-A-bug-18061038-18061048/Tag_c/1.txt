@@ -1,4 +1,0 @@
-codeflaws/546-A-bug-18061038-18061048/546-A-18061048.c
-codeflaws/546-A-bug-18061038-18061048/546-A-18061038.c
-10,10
-[('Replace b\'        if(chg <= 0) printf("0");\\n\' with b\'        printf("%d\\\\n",chg);\\n\' at position 11', 10), ('Insert b\'        else printf("%d\\\\n",chg);\\n\' at position 12 in file2', 11)]

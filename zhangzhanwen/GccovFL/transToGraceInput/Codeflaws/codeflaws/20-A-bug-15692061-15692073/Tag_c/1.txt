@@ -1,4 +1,0 @@
-codeflaws/20-A-bug-15692061-15692073/20-A-15692073.c
-codeflaws/20-A-bug-15692061-15692073/20-A-15692061.c
-18
-[('Replace b\'\\t\\tprintf("/");\\n\' with b\'\\t\\tprintf("%s",str);\\n\' at position 19', 18)]

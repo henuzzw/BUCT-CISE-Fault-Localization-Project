@@ -1,4 +1,0 @@
-codeflaws/570-A-bug-17548662-17548670/570-A-17548670.c
-codeflaws/570-A-bug-17548662-17548670/570-A-17548662.c
-10
-[("Replace b'        long max = 0; int vote = 0;\\n' with b'        long max = 0; int vote = 1;\\n' at position 11", 10)]

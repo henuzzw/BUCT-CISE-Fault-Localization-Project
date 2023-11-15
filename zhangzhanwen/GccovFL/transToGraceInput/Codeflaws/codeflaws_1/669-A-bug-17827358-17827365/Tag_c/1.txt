@@ -1,0 +1,4 @@
+codeflaws/669-A-bug-17827358-17827365/669-A-17827365.c
+codeflaws/669-A-bug-17827358-17827365/669-A-17827358.c
+6
+[("Replace b'\\tj=2*(n/3);\\n' with b'\\tj=2*n/3;\\n' at position 7", 6)]

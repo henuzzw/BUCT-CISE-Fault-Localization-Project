@@ -1,0 +1,4 @@
+codeflaws/630-C-bug-16509071-16509174/630-C-16509174.c
+codeflaws/630-C-bug-16509071-16509174/630-C-16509071.c
+14
+[('Replace b\'    printf("%lli\\\\n",sum);\\n\' with b\'    printf("%d\\\\n",sum);\\n\' at position 15', 14)]

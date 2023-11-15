@@ -1,0 +1,4 @@
+codeflaws/454-A-bug-14788727-14788751/454-A-14788751.c
+codeflaws/454-A-bug-14788727-14788751/454-A-14788727.c
+18
+[("Replace b'\\tfor(i=1;i<=n/2;i++)\\n' with b'\\tfor(i=0;i<=n/2;i++)\\n' at position 19", 18)]

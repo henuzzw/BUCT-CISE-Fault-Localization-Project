@@ -1,4 +1,0 @@
-codeflaws/624-D-bug-15810925-15811373/624-D-15811373.c
-codeflaws/624-D-bug-15810925-15811373/624-D-15810925.c
-37
-[("Insert b'\\t\\t\\tif(!Li){ans=0;break;}\\n' at position 39 in file2", 38)]

@@ -1,0 +1,4 @@
+codeflaws/134-A-bug-6171147-6171160/134-A-6171160.c
+codeflaws/134-A-bug-6171147-6171160/134-A-6171147.c
+2,8
+[("Delete b'#include <inttypes.h>\\n' at position 2 in file2", 1), ("Replace b'    double sum=0;\\n' with b'    int64_t sum=0;\\n' at position 8", 7)]

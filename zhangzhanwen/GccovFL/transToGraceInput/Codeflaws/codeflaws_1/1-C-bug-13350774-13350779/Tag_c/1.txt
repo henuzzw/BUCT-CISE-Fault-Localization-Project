@@ -1,0 +1,4 @@
+codeflaws/1-C-bug-13350774-13350779/1-C-13350779.c
+codeflaws/1-C-bug-13350774-13350779/1-C-13350774.c
+17
+[("Replace b'    float eps = 0.001 ;\\n' with b'    float eps = 0.005 ;\\n' at position 18", 17)]

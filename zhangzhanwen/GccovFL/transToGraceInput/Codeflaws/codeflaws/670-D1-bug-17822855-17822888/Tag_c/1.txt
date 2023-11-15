@@ -1,4 +1,0 @@
-codeflaws/670-D1-bug-17822855-17822888/670-D1-17822888.c
-codeflaws/670-D1-bug-17822855-17822888/670-D1-17822855.c
-25
-[("Insert b'  val=0;\\n' at position 27 in file2", 26)]

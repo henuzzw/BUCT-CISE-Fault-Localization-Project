@@ -1,4 +1,0 @@
-codeflaws/509-B-bug-9931079-9931109/509-B-9931109.c
-codeflaws/509-B-bug-9931079-9931109/509-B-9931079.c
-27
-[("Replace b'        if(l==k+1)\\n' with b'        if(l==k)\\n' at position 28", 27)]

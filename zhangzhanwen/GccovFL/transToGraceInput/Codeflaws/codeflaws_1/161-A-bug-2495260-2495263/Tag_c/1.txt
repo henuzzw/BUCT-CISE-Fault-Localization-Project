@@ -1,0 +1,4 @@
+codeflaws/161-A-bug-2495260-2495263/161-A-2495263.c
+codeflaws/161-A-bug-2495260-2495263/161-A-2495260.c
+30,31
+[('Delete b\'\\tfreopen("input.txt", "r", stdin);\\n\' at position 30 in file2', 29), ('Delete b\'\\tfreopen("output.txt", "w", stdout);\\n\' at position 30 in file2', 29)]

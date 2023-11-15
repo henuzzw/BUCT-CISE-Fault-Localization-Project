@@ -1,0 +1,4 @@
+codeflaws/16-B-bug-6479653-6479660/16-B-6479660.c
+codeflaws/16-B-bug-6479653-6479660/16-B-6479653.c
+26
+[("Replace b'    for (i = 0, j = 0; i != n && j < m; j++) {\\n' with b'    for (i = 0, j = 0; i != n; j++) {\\n' at position 27", 26)]

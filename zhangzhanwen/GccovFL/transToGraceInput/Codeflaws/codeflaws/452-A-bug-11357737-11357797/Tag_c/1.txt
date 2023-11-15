@@ -1,4 +1,0 @@
-codeflaws/452-A-bug-11357737-11357797/452-A-11357797.c
-codeflaws/452-A-bug-11357737-11357797/452-A-11357737.c
-29
-[("Replace b'            if(check(4)==1) return 0;\\n' with b'            if(check(8)==1) return 0;\\n' at position 30", 29)]

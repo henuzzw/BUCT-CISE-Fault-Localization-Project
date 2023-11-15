@@ -1,0 +1,4 @@
+codeflaws/149-B-bug-1174486-1174545/149-B-1174545.c
+codeflaws/149-B-bug-1174486-1174545/149-B-1174486.c
+30,34,36
+[("Insert b'\\t\\t\\tif (s1 > 60) t++;\\n' at position 32 in file2", 31), ("Insert b'\\t\\t\\tif (s2 > 60) t++;\\n' at position 37 in file2", 36), ('Insert b\'\\t//\\tprintf("i = %d, s1 = %d, s2 = %d, t = %d\\\\n",i,s1,s2,t);\\n\' at position 40 in file2', 39)]

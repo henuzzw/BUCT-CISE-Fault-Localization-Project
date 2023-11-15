@@ -1,0 +1,4 @@
+codeflaws/262-B-bug-4170973-4170993/262-B-4170993.c
+codeflaws/262-B-bug-4170973-4170993/262-B-4170973.c
+16
+[("Replace b'  if (k % 2 == 1) s -= 2*m;\\n' with b'  if (k > 0) s -= 2*m;\\n' at position 17", 16)]

@@ -1,0 +1,4 @@
+codeflaws/469-A-bug-17841611-17841634/469-A-17841634.c
+codeflaws/469-A-bug-17841611-17841634/469-A-17841611.c
+32
+[('Replace b\'\\t\\tprintf("I become the guy.\\\\n");\\n\' with b\'\\t\\tprintf("I become the guy\\\\n");\\n\' at position 33', 32)]

@@ -1,4 +1,0 @@
-codeflaws/570-A-bug-16775706-16775736/570-A-16775736.c
-codeflaws/570-A-bug-16775706-16775736/570-A-16775706.c
-3,9
-[("Replace b'    int n,m,i,j,v,p,k,winner,z,x;\\n' with b'    int n,m,i,j,v,p,k,winner,z,x=0;\\n' at position 4", 3), ("Insert b'        x=0;\\n' at position 11 in file2", 10)]

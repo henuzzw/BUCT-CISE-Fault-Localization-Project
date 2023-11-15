@@ -1,0 +1,4 @@
+codeflaws/53-A-bug-7503835-7503845/53-A-7503845.c
+codeflaws/53-A-bug-7503835-7503845/53-A-7503835.c
+25
+[("Replace b'       if(strcmp(b,c[i])>0)\\n' with b'       if(strcmp(c[i],b)>0)\\n' at position 26", 25)]

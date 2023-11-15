@@ -1,4 +1,0 @@
-codeflaws/80-B-bug-9145958-9145991/80-B-9145991.c
-codeflaws/80-B-bug-9145958-9145991/80-B-9145958.c
-11,11
-[("Replace b'    degree1=p;\\n' with b'    degree1=(0+p);\\n' at position 12", 11), ('Insert b\'    printf("%.1f %d",degree1,(m*6));\\n\' at position 13 in file2', 12)]

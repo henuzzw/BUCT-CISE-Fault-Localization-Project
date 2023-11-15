@@ -1,4 +1,0 @@
-codeflaws/158-A-bug-18164999-18165022/158-A-18165022.c
-codeflaws/158-A-bug-18164999-18165022/158-A-18164999.c
-20
-[("Replace b'     if(arr[pos]==arr[i] &&arr[i]!=0)\\n' with b'     if(arr[pos]==arr[i])\\n' at position 21", 20)]

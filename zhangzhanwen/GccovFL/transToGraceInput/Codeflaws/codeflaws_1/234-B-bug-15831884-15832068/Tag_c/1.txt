@@ -1,0 +1,4 @@
+codeflaws/234-B-bug-15831884-15832068/234-B-15832068.c
+codeflaws/234-B-bug-15831884-15832068/234-B-15831884.c
+12,12
+[('Insert b\'  freopen("input.txt","r",stdin);\\n\' at position 14 in file2', 13), ('Insert b\'  freopen("output.txt","w",stdout);\\n\' at position 15 in file2', 14)]

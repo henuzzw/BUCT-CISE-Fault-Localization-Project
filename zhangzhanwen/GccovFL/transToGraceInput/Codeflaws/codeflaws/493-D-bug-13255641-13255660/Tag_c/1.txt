@@ -1,4 +1,0 @@
-codeflaws/493-D-bug-13255641-13255660/493-D-13255660.c
-codeflaws/493-D-bug-13255641-13255660/493-D-13255641.c
-12
-[('Replace b\'        printf("white\\\\n1 2");\\n\' with b\'        printf("White\\\\n1 2");\\n\' at position 13', 12)]

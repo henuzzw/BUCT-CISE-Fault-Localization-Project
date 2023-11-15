@@ -1,4 +1,0 @@
-codeflaws/146-B-bug-3823679-3823682/146-B-3823682.c
-codeflaws/146-B-bug-3823679-3823682/146-B-3823679.c
-19
-[("Replace b'        if(ma==b && i>a)\\n' with b'        if(ma==b)\\n' at position 20", 19)]

@@ -1,4 +1,0 @@
-codeflaws/492-C-bug-16026643-16026665/492-C-16026665.c
-codeflaws/492-C-bug-16026643-16026665/492-C-16026643.c
-38
-[("Replace b'\\t\\tif(arr[k][1]<r){\\n' with b'\\t\\tif(arr[k][1]<5){\\n' at position 39", 38)]

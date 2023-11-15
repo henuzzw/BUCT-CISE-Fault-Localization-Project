@@ -1,0 +1,4 @@
+codeflaws/14-B-bug-15850390-15850395/14-B-15850395.c
+codeflaws/14-B-bug-15850390-15850395/14-B-15850390.c
+35
+[("Replace b'    if(x0>=xmin && x0<=xmax)\\n' with b'    if(x0>xmin && x0<xmax)\\n' at position 36", 35)]

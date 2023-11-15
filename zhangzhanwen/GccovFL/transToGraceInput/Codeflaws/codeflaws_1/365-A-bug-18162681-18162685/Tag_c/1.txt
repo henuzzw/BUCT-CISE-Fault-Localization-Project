@@ -1,0 +1,4 @@
+codeflaws/365-A-bug-18162681-18162685/365-A-18162685.c
+codeflaws/365-A-bug-18162681-18162685/365-A-18162681.c
+21
+[("Replace b'\\t\\t\\t\\tif(j<=k && (hash[j]==0))\\n' with b'\\t\\t\\t\\tif(j<=k && (hash[j]==1))\\n' at position 22", 21)]

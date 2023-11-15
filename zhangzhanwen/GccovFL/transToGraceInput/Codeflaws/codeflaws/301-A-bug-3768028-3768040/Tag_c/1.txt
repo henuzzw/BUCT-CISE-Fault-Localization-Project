@@ -1,4 +1,0 @@
-codeflaws/301-A-bug-3768028-3768040/301-A-3768040.c
-codeflaws/301-A-bug-3768028-3768040/301-A-3768028.c
-30,30
-[('Replace b\'    // printf("n %d neg %d\\\\n", n, neg);\\n\' with b\'    if (neg % 2 && neg % n % 2 && (n - neg) % n) {\\n\' at position 31', 30), ("Insert b'    if (neg % 2 && neg % n % 2 && n % 2 == 0) {\\n' at position 32 in file2", 31)]

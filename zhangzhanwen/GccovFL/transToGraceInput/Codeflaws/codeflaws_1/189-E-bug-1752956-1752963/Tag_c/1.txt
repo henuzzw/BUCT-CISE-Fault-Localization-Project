@@ -1,0 +1,4 @@
+codeflaws/189-E-bug-1752956-1752963/189-E-1752963.c
+codeflaws/189-E-bug-1752956-1752963/189-E-1752956.c
+54
+[("Insert b'    d[t] = 0;\\n' at position 56 in file2", 55)]

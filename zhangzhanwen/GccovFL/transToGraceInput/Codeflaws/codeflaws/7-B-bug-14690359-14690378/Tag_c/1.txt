@@ -1,4 +1,0 @@
-codeflaws/7-B-bug-14690359-14690378/7-B-14690378.c
-codeflaws/7-B-bug-14690359-14690378/7-B-14690359.c
-61
-[("Replace b'    if(c<=0 || c>100){\\n' with b'    if(c<0 || c>100){\\n' at position 62", 61)]

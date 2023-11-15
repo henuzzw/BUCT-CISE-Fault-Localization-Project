@@ -1,4 +1,0 @@
-codeflaws/133-A-bug-17969403-17975791/133-A-17975791.c
-codeflaws/133-A-bug-17969403-17975791/133-A-17969403.c
-12
-[('Replace b"                if( c == \'H\'||c==\'Q\'||c==\'9\') flag =1; \\n" with b"                if( c == \'H\'||c==\'Q\'||c==\'9\'|| c ==\'+\') flag =1; \\n" at position 13', 12)]

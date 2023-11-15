@@ -1,4 +1,0 @@
-codeflaws/252-A-bug-9396191-9396194/252-A-9396194.c
-codeflaws/252-A-bug-9396191-9396194/252-A-9396191.c
-13
-[("Replace b'\\t\\t\\t for(j = i + 1 ; j < n; j++)\\n' with b'\\t\\t\\t for(j = i ; j < n; j++)\\n' at position 14", 13)]

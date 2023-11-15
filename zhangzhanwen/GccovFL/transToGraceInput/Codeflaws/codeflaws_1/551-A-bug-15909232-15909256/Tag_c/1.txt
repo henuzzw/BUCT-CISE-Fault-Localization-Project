@@ -1,0 +1,4 @@
+codeflaws/551-A-bug-15909232-15909256/551-A-15909256.c
+codeflaws/551-A-bug-15909232-15909256/551-A-15909232.c
+23
+[('Replace b\'printf("%d ",c[i]+1);\\n\' with b\'printf("%d",c[i]+1);\\n\' at position 24', 23)]

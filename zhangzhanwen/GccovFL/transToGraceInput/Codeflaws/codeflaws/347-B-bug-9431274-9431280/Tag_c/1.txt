@@ -1,4 +1,0 @@
-codeflaws/347-B-bug-9431274-9431280/347-B-9431280.c
-codeflaws/347-B-bug-9431274-9431280/347-B-9431274.c
-24
-[("Replace b'    if(k == 0 && j < n){\\n' with b'    if(k == 0){\\n' at position 25", 24)]

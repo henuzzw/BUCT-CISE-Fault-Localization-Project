@@ -1,4 +1,0 @@
-codeflaws/447-A-bug-13123465-13123475/447-A-13123475.c
-codeflaws/447-A-bug-13123465-13123475/447-A-13123465.c
-10
-[('Replace b\'        //printf("temp1[%d]:(%d)",i,temp1[i]);\\n\' with b\'        printf("temp1[%d]:(%d)",i,temp1[i]);\\n\' at position 11', 10)]

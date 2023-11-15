@@ -1,4 +1,0 @@
-codeflaws/46-B-bug-3882481-3882490/46-B-3882490.c
-codeflaws/46-B-bug-3882481-3882490/46-B-3882481.c
-36
-[("Replace b'        for(j=0;j<5;j++)\\n' with b'        for(j=1;j<=5;j++)\\n' at position 37", 36)]

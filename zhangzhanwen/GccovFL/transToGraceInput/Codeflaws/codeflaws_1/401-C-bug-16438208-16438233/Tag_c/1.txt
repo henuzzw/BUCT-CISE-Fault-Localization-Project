@@ -1,0 +1,4 @@
+codeflaws/401-C-bug-16438208-16438233/401-C-16438233.c
+codeflaws/401-C-bug-16438208-16438233/401-C-16438208.c
+27
+[("Replace b'\\t\\tif(zero==one || zero==one+1){\\n' with b'\\t\\tif(zero==one+1){\\n' at position 28", 27)]

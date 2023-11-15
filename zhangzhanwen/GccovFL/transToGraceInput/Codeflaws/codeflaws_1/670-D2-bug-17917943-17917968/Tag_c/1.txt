@@ -1,0 +1,4 @@
+codeflaws/670-D2-bug-17917943-17917968/670-D2-17917968.c
+codeflaws/670-D2-bug-17917943-17917968/670-D2-17917943.c
+38
+[("Replace b'\\t\\t\\tstart=min;\\n' with b'\\t\\t\\tstart=min+1;\\n' at position 39", 38)]

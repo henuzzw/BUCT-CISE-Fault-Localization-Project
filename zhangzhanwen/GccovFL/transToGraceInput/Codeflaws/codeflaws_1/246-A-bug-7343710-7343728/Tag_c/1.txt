@@ -1,0 +1,4 @@
+codeflaws/246-A-bug-7343710-7343728/246-A-7343728.c
+codeflaws/246-A-bug-7343710-7343728/246-A-7343710.c
+7
+[("Replace b'    if (n > 2) {\\n' with b'    if (n > 1) {\\n' at position 8", 7)]

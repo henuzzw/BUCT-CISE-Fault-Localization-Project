@@ -1,0 +1,4 @@
+codeflaws/34-A-bug-7646053-7646105/34-A-7646105.c
+codeflaws/34-A-bug-7646053-7646105/34-A-7646053.c
+13
+[("Replace b'\\tfor(i = 0; i < n - 1; i++){\\n' with b'\\tfor(i = 0; i < n - 2; i++){\\n' at position 14", 13)]

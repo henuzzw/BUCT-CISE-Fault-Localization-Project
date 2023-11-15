@@ -1,4 +1,0 @@
-codeflaws/43-B-bug-2629143-2629156/43-B-2629156.c
-codeflaws/43-B-bug-2629143-2629156/43-B-2629143.c
-27
-[("Replace b'                exit(0);\\n' with b'                exit(1);\\n' at position 28", 27)]

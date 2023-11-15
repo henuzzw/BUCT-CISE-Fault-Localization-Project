@@ -1,0 +1,4 @@
+codeflaws/535-A-bug-16312418-16312451/535-A-16312451.c
+codeflaws/535-A-bug-16312418-16312451/535-A-16312418.c
+33
+[('Replace b\'            printf("thirteen\\\\n");\\n\' with b\'            printf("thirten\\\\n");\\n\' at position 34', 33)]

@@ -1,4 +1,0 @@
-codeflaws/570-B-bug-14659564-14659595/570-B-14659595.c
-codeflaws/570-B-bug-14659564-14659595/570-B-14659564.c
-10
-[("Replace b'    if(_mid==0) m=1;\\n' with b'    if(m==0) m=2;\\n' at position 11", 10)]

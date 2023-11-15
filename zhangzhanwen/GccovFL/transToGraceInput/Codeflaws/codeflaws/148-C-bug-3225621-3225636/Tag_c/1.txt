@@ -1,4 +1,0 @@
-codeflaws/148-C-bug-3225621-3225636/148-C-3225636.c
-codeflaws/148-C-bug-3225621-3225636/148-C-3225621.c
-9
-[("Replace b'  if(b==0 && a+1==n && n!=1)\\n' with b'  if(b==0 && a+1==n)\\n' at position 10", 9)]

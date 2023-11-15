@@ -1,4 +1,0 @@
-codeflaws/168-A-bug-14356546-14356571/168-A-14356571.c
-codeflaws/168-A-bug-14356546-14356571/168-A-14356546.c
-7,7
-[("Insert b'  if(res<0) ans=0;\\n' at position 9 in file2", 8), ("Insert b'  \\n' at position 10 in file2", 9)]

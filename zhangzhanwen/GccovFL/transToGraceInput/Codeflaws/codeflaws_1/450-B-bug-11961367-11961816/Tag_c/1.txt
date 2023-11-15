@@ -1,0 +1,4 @@
+codeflaws/450-B-bug-11961367-11961816/450-B-11961816.c
+codeflaws/450-B-bug-11961367-11961816/450-B-11961367.c
+8
+[('Replace b\'    printf("%lld",ans%1000000007);\\n\' with b\'    printf("%lld",ans);\\n\' at position 9', 8)]

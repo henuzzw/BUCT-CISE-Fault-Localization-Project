@@ -1,4 +1,0 @@
-codeflaws/292-B-bug-9811451-9811523/292-B-9811523.c
-codeflaws/292-B-bug-9811451-9811523/292-B-9811451.c
-37
-[("Replace b'        if (t[i]==2) b++;\\n' with b'        if (t[i]==1) b++;\\n' at position 38", 37)]

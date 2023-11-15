@@ -1,0 +1,4 @@
+codeflaws/441-B-bug-6979392-6979398/441-B-6979398.c
+codeflaws/441-B-bug-6979392-6979398/441-B-6979392.c
+36
+[("Replace b'            while(collected_fruit<capacity && j<tree && ara[j].day<=i)\\n' with b'            while(collected_fruit<capacity && j<tree && ara[j].day>i)\\n' at position 37", 36)]

@@ -1,4 +1,0 @@
-codeflaws/325-A-bug-4061882-4061951/325-A-4061951.c
-codeflaws/325-A-bug-4061882-4061951/325-A-4061882.c
-28,29
-[('Delete b\'    printf("%d   %d   %d\\\\n", xf, yf, sum);\\n\' at position 28 in file2', 27), ('Delete b\'    printf("%d   %d   %d   %d\\\\n", a, b, c, d);\\n\' at position 28 in file2', 27)]

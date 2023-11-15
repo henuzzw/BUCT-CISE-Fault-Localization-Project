@@ -1,4 +1,0 @@
-codeflaws/370-A-bug-13131294-13131325/370-A-13131325.c
-codeflaws/370-A-bug-13131294-13131325/370-A-13131294.c
-16
-[("Replace b'        b=2;\\n' with b'        b=1;\\n' at position 17", 16)]

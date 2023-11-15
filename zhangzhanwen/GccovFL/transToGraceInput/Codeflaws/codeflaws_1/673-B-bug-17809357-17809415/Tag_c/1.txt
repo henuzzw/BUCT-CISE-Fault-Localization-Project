@@ -1,0 +1,4 @@
+codeflaws/673-B-bug-17809357-17809415/673-B-17809415.c
+codeflaws/673-B-bug-17809357-17809415/673-B-17809357.c
+8,8,25
+[('Insert b\'\\tif (m==0) printf("%ld",n-1); \\n\' at position 10 in file2', 9), ("Insert b'\\telse{\\n' at position 11 in file2", 10), ("Insert b'\\t}\\n' at position 29 in file2", 28)]

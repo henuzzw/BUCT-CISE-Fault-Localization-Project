@@ -1,4 +1,0 @@
-codeflaws/325-A-bug-4069075-4069088/325-A-4069088.c
-codeflaws/325-A-bug-4069075-4069088/325-A-4069075.c
-22,23
-[('Replace b\'        if((sum!=(s_x2-s_x1)*(s_y2-s_y1))||(((s_y2-s_y1)!=(s_x2-s_x1))))puts("NO");\\n\' with b\'        printf("%d %d %d %d",s_x1,s_x2,s_y1,s_y2);\\n\' at position 23', 22), ('Delete b\'        if(sum!=(s_x2-s_x1)*(s_y2-s_y1)||(((s_y2-s_y1)!=(s_x2-s_x1))))puts("NO");\\n\' at position 23 in file2', 22)]

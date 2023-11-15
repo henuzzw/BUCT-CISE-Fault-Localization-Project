@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-15235172-15235188/46-A-15235188.c
-codeflaws/46-A-bug-15235172-15235188/46-A-15235172.c
-13
-[("Replace b'\\t\\t\\tg=n;\\n' with b'\\t\\t\\tg=f;\\n' at position 14", 13)]

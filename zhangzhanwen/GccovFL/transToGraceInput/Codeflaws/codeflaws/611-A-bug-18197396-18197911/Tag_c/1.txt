@@ -1,4 +1,0 @@
-codeflaws/611-A-bug-18197396-18197911/611-A-18197911.c
-codeflaws/611-A-bug-18197396-18197911/611-A-18197396.c
-19
-[("Replace b'        else if(n==30) days=11;\\n' with b'        else if(n=30) days=11;\\n' at position 20", 19)]

@@ -1,0 +1,4 @@
+codeflaws/61-C-bug-730460-730463/61-C-730463.c
+codeflaws/61-C-bug-730460-730463/61-C-730460.c
+65,65
+[("Insert b'     } else if (x == 0) {\\n' at position 67 in file2", 66), ('Insert b\'\\t  puts("0");\\n\' at position 68 in file2', 67)]

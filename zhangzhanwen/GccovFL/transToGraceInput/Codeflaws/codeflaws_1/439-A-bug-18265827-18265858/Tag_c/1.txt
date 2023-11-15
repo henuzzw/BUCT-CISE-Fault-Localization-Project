@@ -1,0 +1,4 @@
+codeflaws/439-A-bug-18265827-18265858/439-A-18265858.c
+codeflaws/439-A-bug-18265827-18265858/439-A-18265827.c
+21,21
+[('Replace b\'  //printf("k : %d\\\\n", k);\\n\' with b\'  if ((k % 5) != 0 || (j + (n-1)*10) > d) {\\n\' at position 22', 21), ("Insert b'  if (/*(k % 5) != 0 ||*/(j + (n-1)*10) > d) {\\n' at position 23 in file2", 22)]

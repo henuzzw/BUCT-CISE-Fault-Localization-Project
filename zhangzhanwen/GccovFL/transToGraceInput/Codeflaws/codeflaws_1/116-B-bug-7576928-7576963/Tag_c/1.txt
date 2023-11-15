@@ -1,0 +1,4 @@
+codeflaws/116-B-bug-7576928-7576963/116-B-7576963.c
+codeflaws/116-B-bug-7576928-7576963/116-B-7576928.c
+20
+[('Replace b"                                } else if (d < b - 1 && ZA[c][d + 1] == \'P\') {\\n" with b"                                } else if (d < a - 1 && ZA[c][d + 1] == \'P\') {\\n" at position 21', 20)]

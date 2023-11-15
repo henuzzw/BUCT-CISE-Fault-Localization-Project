@@ -1,0 +1,4 @@
+codeflaws/465-C-bug-7711356-7711501/465-C-7711501.c
+codeflaws/465-C-bug-7711356-7711501/465-C-7711356.c
+33
+[("Replace b'        if(posledni==1&&a[0]==P-1) return 0;\\n' with b'        if(posledni==1&&a[0]==P-1&&stav2==1) return 0;\\n' at position 34", 33)]

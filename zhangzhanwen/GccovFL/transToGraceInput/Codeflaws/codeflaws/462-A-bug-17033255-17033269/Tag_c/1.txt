@@ -1,4 +1,0 @@
-codeflaws/462-A-bug-17033255-17033269/462-A-17033269.c
-codeflaws/462-A-bug-17033255-17033269/462-A-17033255.c
-39
-[('Replace b\'\\t\\t\\t\\tprintf("NO");\\n\' with b\'\\t\\t\\t\\tprintf("N0");\\n\' at position 40', 39)]

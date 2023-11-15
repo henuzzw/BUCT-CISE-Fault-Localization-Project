@@ -1,4 +1,0 @@
-codeflaws/9-A-bug-16987364-16987386/9-A-16987386.c
-codeflaws/9-A-bug-16987364-16987386/9-A-16987364.c
-21
-[('Replace b\'    printf("1/6");\\n\' with b\'    printf("1/1");\\n\' at position 22', 21)]

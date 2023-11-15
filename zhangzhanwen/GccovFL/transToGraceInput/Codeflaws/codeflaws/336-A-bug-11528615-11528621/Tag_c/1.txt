@@ -1,4 +1,0 @@
-codeflaws/336-A-bug-11528615-11528621/336-A-11528621.c
-codeflaws/336-A-bug-11528615-11528621/336-A-11528615.c
-16
-[('Replace b\'\\t\\t\\t\\tprintf("0 %lld %lld 0\\\\n",-x+y,x-y);\\n\' with b\'\\t\\t\\t\\tprintf("0 %lld %lld 0\\\\n",x-y,-x+y);\\n\' at position 17', 16)]

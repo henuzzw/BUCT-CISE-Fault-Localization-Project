@@ -1,4 +1,0 @@
-codeflaws/330-B-bug-14836566-14836577/330-B-14836577.c
-codeflaws/330-B-bug-14836566-14836577/330-B-14836566.c
-17
-[('Insert b\'\\t  printf("%d\\\\n",n-1);\\n\' at position 19 in file2', 18)]

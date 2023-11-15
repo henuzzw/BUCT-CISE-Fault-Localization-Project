@@ -1,4 +1,0 @@
-codeflaws/397-B-bug-6018428-6018433/397-B-6018433.c
-codeflaws/397-B-bug-6018428-6018433/397-B-6018428.c
-14
-[('Replace b\'\\tprintf("No\\\\n");\\n\' with b\'\\tprintf("No%lld\\\\n",p);\\n\' at position 15', 14)]

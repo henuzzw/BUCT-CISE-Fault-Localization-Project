@@ -1,4 +1,0 @@
-codeflaws/127-B-bug-2153652-2153684/127-B-2153684.c
-codeflaws/127-B-bug-2153652-2153684/127-B-2153652.c
-28,28,29
-[("Insert b'    if(b[i]==2)\\n' at position 30 in file2", 29), ("Insert b'    {\\n' at position 31 in file2", 30), ("Insert b'    }\\n' at position 33 in file2", 32)]

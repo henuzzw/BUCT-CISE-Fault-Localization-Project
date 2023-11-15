@@ -1,0 +1,4 @@
+codeflaws/127-B-bug-2567653-2567663/127-B-2567663.c
+codeflaws/127-B-bug-2567653-2567663/127-B-2567653.c
+17
+[("Replace b'            kolpal[a[i]] += 1; \\n' with b'            kolpal[a[i]+1] += 1; \\n' at position 18", 17)]

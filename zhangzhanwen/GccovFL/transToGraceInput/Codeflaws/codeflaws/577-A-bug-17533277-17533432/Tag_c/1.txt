@@ -1,4 +1,0 @@
-codeflaws/577-A-bug-17533277-17533432/577-A-17533432.c
-codeflaws/577-A-bug-17533277-17533432/577-A-17533277.c
-8
-[("Replace b'        if ((x % i == 0) && (x/i <= n)) sum++;\\n' with b'        if ((x % i == 0) && (x/i <= x)) sum++;\\n' at position 9", 8)]

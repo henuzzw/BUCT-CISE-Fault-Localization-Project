@@ -1,0 +1,4 @@
+codeflaws/585-B-bug-13585307-13585419/585-B-13585419.c
+codeflaws/585-B-bug-13585307-13585419/585-B-13585307.c
+7,7
+[('Replace b"\\tif (\'.\' == m[1][idx+1] && \'.\' == m[1][idx+3] && \'.\' == m[1][idx+4])\\n" with b"\\tif (\'.\' == m[1][idx+1] && \'.\' == m[1][idx+3]) return dfs(idx + 3, 1);\\n" at position 8', 7), ("Insert b'\\t\\treturn dfs(idx + 3, 1);\\n' at position 9 in file2", 8)]

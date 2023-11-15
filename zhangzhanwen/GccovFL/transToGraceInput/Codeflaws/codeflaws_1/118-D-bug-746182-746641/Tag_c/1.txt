@@ -1,0 +1,4 @@
+codeflaws/118-D-bug-746182-746641/118-D-746641.c
+codeflaws/118-D-bug-746182-746641/118-D-746182.c
+27
+[('Replace b\'  printf("%d\\\\n", (f[n1][n2][k1] + g[n1][n2][k2]) % R);\\n\' with b\'  printf("%d\\\\n", f[n1][n2][k1] + g[n1][n2][k2]);\\n\' at position 28', 27)]

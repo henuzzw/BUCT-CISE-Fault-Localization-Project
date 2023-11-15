@@ -1,4 +1,0 @@
-codeflaws/34-B-bug-17902339-17902341/34-B-17902341.c
-codeflaws/34-B-bug-17902339-17902341/34-B-17902339.c
-17
-[('Replace b\'\\t\\tprintf("%d",ans*-1);\\n\' with b\'\\t\\tprintf("%d",ans);\\n\' at position 18', 17)]

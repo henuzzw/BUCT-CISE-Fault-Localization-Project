@@ -1,4 +1,0 @@
-codeflaws/230-A-bug-18036681-18036689/230-A-18036689.c
-codeflaws/230-A-bug-18036681-18036689/230-A-18036681.c
-27,28
-[("Delete b'\\tfor(i=0;i<n;i++)\\n' at position 27 in file2", 26), ('Delete b\'\\tprintf("%lld  ",a[i][0]);\\n\' at position 27 in file2', 26)]

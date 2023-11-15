@@ -1,0 +1,4 @@
+codeflaws/496-A-bug-15303159-15303846/496-A-15303846.c
+codeflaws/496-A-bug-15303159-15303846/496-A-15303159.c
+7
+[("Insert b'max=0;\\n' at position 9 in file2", 8)]

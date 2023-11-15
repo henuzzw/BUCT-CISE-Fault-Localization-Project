@@ -1,0 +1,4 @@
+codeflaws/42-A-bug-542240-542248/42-A-542248.c
+codeflaws/42-A-bug-542240-542248/42-A-542240.c
+17
+[("Replace b'    x = (float)V / (float)A;\\n' with b'    x = V / A;\\n' at position 18", 17)]

@@ -1,0 +1,4 @@
+codeflaws/652-A-bug-16950639-16950705/652-A-16950705.c
+codeflaws/652-A-bug-16950639-16950705/652-A-16950639.c
+13
+[("Replace b'        if(a<=b)\\n' with b'        if(a<b)\\n' at position 14", 13)]

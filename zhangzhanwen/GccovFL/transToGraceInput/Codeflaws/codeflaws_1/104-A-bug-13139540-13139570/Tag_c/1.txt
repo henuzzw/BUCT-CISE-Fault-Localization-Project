@@ -1,0 +1,4 @@
+codeflaws/104-A-bug-13139540-13139570/104-A-13139570.c
+codeflaws/104-A-bug-13139540-13139570/104-A-13139540.c
+5
+[('Replace b\'    if(n<=10 || n>21) printf("0");\\n\' with b\'    if(n<=10) printf("0");\\n\' at position 6', 5)]

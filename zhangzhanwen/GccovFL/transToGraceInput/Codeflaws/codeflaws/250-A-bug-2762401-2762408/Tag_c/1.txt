@@ -1,4 +1,0 @@
-codeflaws/250-A-bug-2762401-2762408/250-A-2762408.c
-codeflaws/250-A-bug-2762401-2762408/250-A-2762401.c
-18
-[("Replace b'\\tfolders = ceil(negative/2.0);\\n' with b'\\tfolders = ceil(negative/2);\\n' at position 19", 18)]

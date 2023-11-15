@@ -1,0 +1,4 @@
+codeflaws/467-A-bug-18222319-18222346/467-A-18222346.c
+codeflaws/467-A-bug-18222319-18222346/467-A-18222319.c
+11
+[("Replace b'\\t\\tif(j ==1) if (a[i][0] + 1 < a[i][1]) dem ++;\\n' with b'\\t\\tif (a[i][0] < a[i][1]) dem ++;\\n' at position 12", 11)]

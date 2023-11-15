@@ -1,0 +1,4 @@
+codeflaws/16-B-bug-3929377-3929378/16-B-3929378.c
+codeflaws/16-B-bug-3929377-3929378/16-B-3929377.c
+27
+[('Replace b\'//for(i=0;i<m;i++){printf("%lld %lld\\\\n",b[i],a[i]);}\\n\' with b\'for(i=0;i<m;i++){printf("%lld %lld\\\\n",b[i],a[i]);}\\n\' at position 28', 27)]

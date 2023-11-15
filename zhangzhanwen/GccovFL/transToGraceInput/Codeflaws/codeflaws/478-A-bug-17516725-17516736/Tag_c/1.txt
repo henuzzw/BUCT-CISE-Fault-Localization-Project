@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-17516725-17516736/478-A-17516736.c
-codeflaws/478-A-bug-17516725-17516736/478-A-17516725.c
-10
-[('Replace b\'    printf("%d\\\\n", ((sum % 5 == 0) && (sum != 0))? sum/5 : -1);\\n\' with b\'    printf("%d\\\\n", (sum % 5 == 0)? sum/5 : -1);\\n\' at position 11', 10)]

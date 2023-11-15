@@ -1,4 +1,0 @@
-codeflaws/216-A-bug-12677176-12677205/216-A-12677205.c
-codeflaws/216-A-bug-12677176-12677205/216-A-12677176.c
-7
-[('Replace b\'\\tprintf("%d\\\\n",a*b + b*c + a*c - (a+b+c) +1);\\n\' with b\'\\tprintf("%d\\\\n",(a+b+c)<<1);\\n\' at position 8', 7)]

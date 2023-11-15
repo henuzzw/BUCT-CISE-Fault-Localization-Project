@@ -1,0 +1,4 @@
+codeflaws/327-B-bug-13195725-13195739/327-B-13195739.c
+codeflaws/327-B-bug-13195725-13195739/327-B-13195725.c
+3,3
+[("Insert b'\\n' at position 5 in file2", 4), ('Insert b\'\\tscanf("%d", &n);\\n\' at position 6 in file2', 5)]

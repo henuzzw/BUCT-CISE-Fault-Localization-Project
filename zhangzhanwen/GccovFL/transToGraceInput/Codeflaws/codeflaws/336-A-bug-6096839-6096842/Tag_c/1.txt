@@ -1,4 +1,0 @@
-codeflaws/336-A-bug-6096839-6096842/336-A-6096842.c
-codeflaws/336-A-bug-6096839-6096842/336-A-6096839.c
-17
-[('Replace b\'        printf("%d %d %d %d",-(abs(x)+abs(y)),p,q,-(abs(x)+abs(y)));\\n\' with b\'        printf("%d %d %d %d",-(abs(x)+abs(y)),p,q,(abs(x)+abs(y)));\\n\' at position 18', 17)]

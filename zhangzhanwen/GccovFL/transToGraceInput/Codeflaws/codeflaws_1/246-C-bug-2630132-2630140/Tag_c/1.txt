@@ -1,0 +1,4 @@
+codeflaws/246-C-bug-2630132-2630140/246-C-2630140.c
+codeflaws/246-C-bug-2630132-2630140/246-C-2630132.c
+66
+[("Replace b'\\tfor (i = size; i < n; i++) {\\n' with b'\\tfor (i = 0; i < n-size; i++) {\\n' at position 67", 66)]

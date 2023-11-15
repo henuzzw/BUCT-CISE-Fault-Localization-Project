@@ -1,4 +1,0 @@
-codeflaws/570-B-bug-16693720-16693848/570-B-16693848.c
-codeflaws/570-B-bug-16693720-16693848/570-B-16693720.c
-4,10
-[("Replace b'    double mid;\\n' with b'    float mid;\\n' at position 5", 4), ("Delete b'    \\n' at position 10 in file2", 9)]

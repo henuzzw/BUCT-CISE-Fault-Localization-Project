@@ -1,4 +1,0 @@
-codeflaws/53-C-bug-10604869-10605014/53-C-10605014.c
-codeflaws/53-C-bug-10604869-10605014/53-C-10604869.c
-1,2,4,5,6,7,8,10,11,12
-[("Replace b'int main(int argc, char *argv[]) {\\n' with b'int main(int argc, char *argv[]){\\n' at position 2", 1), ("Replace b'\\tint n,i;\\n' with b'\\tint n,t,k;\\n' at position 3", 2), ("Replace b'\\tfor(i=1;i<=n/2;i++){\\n' with b'\\tk=n-1;\\n' at position 5", 4), ('Replace b\'\\t\\tprintf("%d %d ",i,n-i+1);\\n\' with b\'\\tt=n/2;\\n\' at position 6', 5), ("Delete b'\\twhile(k>t){\\n' at position 6 in file2", 5), ('Delete b\'\\t\\tprintf("%d %d ",n-k,k+1);\\n\' at position 6 in file2', 5), ("Delete b'\\t\\tk--;\\n' at position 6 in file2", 5), ("Replace b'\\tif(n&1)\\n' with b'\\tif(!(n&1))\\n' at position 8", 7), ('Replace b\'\\t\\tprintf("%d",n/2+1);\\n\' with b\'\\t\\tprintf("%d",n/2);\\n\' at position 9', 8), ("Replace b'\\n' with b'\\t\\n' at position 10", 9)]

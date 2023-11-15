@@ -1,0 +1,4 @@
+codeflaws/152-C-bug-4611143-4611154/152-C-4611154.c
+codeflaws/152-C-bug-4611143-4611154/152-C-4611143.c
+3
+[("Replace b' long long int ans=1;\\n' with b' long long int ans;\\n' at position 4", 3)]

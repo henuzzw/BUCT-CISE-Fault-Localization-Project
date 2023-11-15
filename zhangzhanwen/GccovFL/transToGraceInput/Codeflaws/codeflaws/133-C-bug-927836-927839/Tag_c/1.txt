@@ -1,4 +1,0 @@
-codeflaws/133-C-bug-927836-927839/133-C-927839.c
-codeflaws/133-C-bug-927836-927839/133-C-927836.c
-32,32
-[('Replace b\'       //scanf("%s",str);\\n\' with b\'       scanf("%s",str);\\n\' at position 33', 32), ("Insert b'       gets(str);\\n' at position 34 in file2", 33)]

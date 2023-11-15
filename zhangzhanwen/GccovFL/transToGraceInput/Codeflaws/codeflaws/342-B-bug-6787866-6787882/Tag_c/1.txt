@@ -1,4 +1,0 @@
-codeflaws/342-B-bug-6787866-6787882/342-B-6787882.c
-codeflaws/342-B-bug-6787866-6787882/342-B-6787866.c
-13
-[("Replace b'    while(1)\\n' with b'    while(i<=m)\\n' at position 14", 13)]

@@ -1,4 +1,0 @@
-codeflaws/490-C-bug-9390336-9390363/490-C-9390363.c
-codeflaws/490-C-bug-9390336-9390363/490-C-9390336.c
-16
-[("Replace b'\\t\\tr[0]=num%2;\\n' with b'\\t\\tr[0]=num;\\n' at position 17", 16)]

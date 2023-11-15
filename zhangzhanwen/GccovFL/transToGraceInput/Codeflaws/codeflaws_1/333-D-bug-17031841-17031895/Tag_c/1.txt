@@ -1,0 +1,4 @@
+codeflaws/333-D-bug-17031841-17031895/333-D-17031895.c
+codeflaws/333-D-bug-17031841-17031895/333-D-17031841.c
+15
+[("Replace b'            if(!flag[tmp[j]][tmp[k]]) flag[tmp[j]][tmp[k]] = 1;\\n' with b'            if(!flag[j][k]) flag[j][k] = 1;\\n' at position 16", 15)]

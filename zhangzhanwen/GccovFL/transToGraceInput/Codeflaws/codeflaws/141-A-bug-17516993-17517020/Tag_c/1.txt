@@ -1,4 +1,0 @@
-codeflaws/141-A-bug-17516993-17517020/141-A-17517020.c
-codeflaws/141-A-bug-17516993-17517020/141-A-17516993.c
-6
-[("Insert b'    for (i = 0; i < 26; i++) arr[i] = 0;\\n' at position 8 in file2", 7)]

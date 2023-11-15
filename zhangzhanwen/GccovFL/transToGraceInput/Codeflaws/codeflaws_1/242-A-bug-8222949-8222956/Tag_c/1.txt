@@ -1,0 +1,4 @@
+codeflaws/242-A-bug-8222949-8222956/242-A-8222956.c
+codeflaws/242-A-bug-8222949-8222956/242-A-8222949.c
+5
+[("Replace b'\\tint ZA[10000], ZB[10000];\\n' with b'\\tint ZA[100], ZB[100];\\n' at position 6", 5)]

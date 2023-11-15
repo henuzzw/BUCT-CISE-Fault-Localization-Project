@@ -1,4 +1,0 @@
-codeflaws/475-A-bug-9548233-9548277/475-A-9548277.c
-codeflaws/475-A-bug-9548233-9548277/475-A-9548233.c
-55
-[("Replace b'for(i=1;i<=21;i=i+2){\\n' with b'for(i=1;i<11;i=i+2){\\n' at position 56", 55)]

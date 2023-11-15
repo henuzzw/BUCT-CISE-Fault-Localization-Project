@@ -1,4 +1,0 @@
-codeflaws/31-A-bug-6988408-6988411/31-A-6988411.c
-codeflaws/31-A-bug-6988408-6988411/31-A-6988408.c
-17
-[("Replace b'        if(i != j && j != k && k != i && ar[i] + ar[j] == ar[k]) {\\n' with b'        if(ar[i] + ar[j] == ar[k]) {\\n' at position 18", 17)]

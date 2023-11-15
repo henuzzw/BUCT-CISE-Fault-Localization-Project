@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-6758730-6758732/46-A-6758732.c
-codeflaws/46-A-bug-6758730-6758732/46-A-6758730.c
-8,8
-[("Insert b'        if(s==0)\\n' at position 10 in file2", 9), ("Insert b'        s=n;\\n' at position 11 in file2", 10)]

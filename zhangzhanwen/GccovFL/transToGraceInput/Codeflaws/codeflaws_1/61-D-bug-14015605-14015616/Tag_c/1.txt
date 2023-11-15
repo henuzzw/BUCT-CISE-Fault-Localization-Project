@@ -1,0 +1,4 @@
+codeflaws/61-D-bug-14015605-14015616/61-D-14015616.c
+codeflaws/61-D-bug-14015605-14015616/61-D-14015605.c
+53
+[('Replace b\'   printf("%lld\\\\n",(suma*2)-(max));\\n\' with b\'   printf("%lld\\\\n",(suma)-(max));\\n\' at position 54', 53)]

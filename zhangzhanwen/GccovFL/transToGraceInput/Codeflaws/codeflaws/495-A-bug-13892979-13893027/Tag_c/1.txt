@@ -1,4 +1,0 @@
-codeflaws/495-A-bug-13892979-13893027/495-A-13893027.c
-codeflaws/495-A-bug-13892979-13893027/495-A-13892979.c
-54
-[("Replace b'            y = y+3;\\n' with b'            x = x+3;\\n' at position 55", 54)]

@@ -1,0 +1,4 @@
+codeflaws/522-B-bug-10253684-10253737/522-B-10253737.c
+codeflaws/522-B-bug-10253684-10253737/522-B-10253684.c
+29,33
+[("Replace b'                     if(w[a][1]>=max1){\\n' with b'                     if(w[a][1]>max1){\\n' at position 30", 29), ("Insert b'                     if(w[a][1]>max2&&a!=maxs1) max2=w[a][1];\\n' at position 35 in file2", 34)]

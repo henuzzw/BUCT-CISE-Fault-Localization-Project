@@ -1,4 +1,0 @@
-codeflaws/467-A-bug-17705290-17705336/467-A-17705336.c
-codeflaws/467-A-bug-17705290-17705336/467-A-17705290.c
-9,11,12
-[("Insert b'}\\n' at position 11 in file2", 10), ("Replace b'return 0;\\n' with b'}\\n' at position 13", 12), ("Delete b'\\n' at position 13 in file2", 12)]

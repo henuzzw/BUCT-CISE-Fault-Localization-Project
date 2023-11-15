@@ -1,4 +1,0 @@
-codeflaws/446-A-bug-17894979-17895024/446-A-17895024.c
-codeflaws/446-A-bug-17894979-17895024/446-A-17894979.c
-34
-[("Replace b'    for(i=1; i<n-1; ++i) {\\n' with b'    for(i=2; i<n-1; ++i) {\\n' at position 35", 34)]

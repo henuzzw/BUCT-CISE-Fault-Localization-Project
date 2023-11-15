@@ -1,4 +1,0 @@
-codeflaws/197-A-bug-14551772-14551794/197-A-14551794.c
-codeflaws/197-A-bug-14551772-14551794/197-A-14551772.c
-8
-[('Replace b\'        printf("Second\\\\n");\\n\' with b\'        printf("second\\\\n");\\n\' at position 9', 8)]

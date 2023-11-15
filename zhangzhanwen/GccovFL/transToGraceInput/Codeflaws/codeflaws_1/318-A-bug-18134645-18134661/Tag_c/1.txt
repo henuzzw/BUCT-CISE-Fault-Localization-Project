@@ -1,0 +1,4 @@
+codeflaws/318-A-bug-18134645-18134661/318-A-18134661.c
+codeflaws/318-A-bug-18134645-18134661/318-A-18134645.c
+10
+[("Replace b'        mid=n/2+1;\\n' with b'        mid=n/2;\\n' at position 11", 10)]

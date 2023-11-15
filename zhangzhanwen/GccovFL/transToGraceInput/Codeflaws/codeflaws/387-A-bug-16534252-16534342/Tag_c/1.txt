@@ -1,4 +1,0 @@
-codeflaws/387-A-bug-16534252-16534342/387-A-16534342.c
-codeflaws/387-A-bug-16534252-16534342/387-A-16534252.c
-4,12
-[("Replace b'int i,j,k,a,b,c,f;\\n' with b'int i,j,k,a,b,c;\\n' at position 5", 4), ("Insert b'if(c<0 && k>0){k--; c=60+c;}\\n' at position 14 in file2", 13)]

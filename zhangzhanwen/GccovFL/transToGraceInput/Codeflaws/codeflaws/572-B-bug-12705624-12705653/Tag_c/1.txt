@@ -1,4 +1,0 @@
-codeflaws/572-B-bug-12705624-12705653/572-B-12705653.c
-codeflaws/572-B-bug-12705624-12705653/572-B-12705624.c
-12,16
-[("Insert b'\\n' at position 14 in file2", 13), ('Replace b\'        scanf(" %c", &ch);\\n\' with b\'        ch=getchar();\\n\' at position 18', 17)]

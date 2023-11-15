@@ -1,0 +1,4 @@
+codeflaws/366-B-bug-5240575-5240582/366-B-5240582.c
+codeflaws/366-B-bug-5240575-5240582/366-B-5240575.c
+34,37
+[("Replace b'\\n' with b'}\\n' at position 35", 34), ("Insert b'}\\n' at position 39 in file2", 38)]

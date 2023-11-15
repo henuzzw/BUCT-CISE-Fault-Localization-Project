@@ -1,0 +1,4 @@
+codeflaws/42-A-bug-1632826-1632828/42-A-1632828.c
+codeflaws/42-A-bug-1632826-1632828/42-A-1632826.c
+26
+[("Replace b'\\t\\tx = minof(x, (double) b[i] / a[i]);\\n' with b'\\t\\tx = minof(x, b[i] / a[i]);\\n' at position 27", 26)]

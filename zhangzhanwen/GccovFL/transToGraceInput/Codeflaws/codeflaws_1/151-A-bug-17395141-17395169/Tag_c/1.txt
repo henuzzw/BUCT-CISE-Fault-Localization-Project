@@ -1,0 +1,4 @@
+codeflaws/151-A-bug-17395141-17395169/151-A-17395169.c
+codeflaws/151-A-bug-17395141-17395169/151-A-17395141.c
+32,32,32
+[('Insert b\'        printf("%d",a/n);\\n\' at position 34 in file2', 33), ("Insert b'    }\\n' at position 35 in file2", 34), ("Insert b'    else if(a==b && a==z && b==z){\\n' at position 36 in file2", 35)]

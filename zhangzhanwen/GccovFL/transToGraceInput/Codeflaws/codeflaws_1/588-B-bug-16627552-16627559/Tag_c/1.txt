@@ -1,0 +1,4 @@
+codeflaws/588-B-bug-16627552-16627559/588-B-16627559.c
+codeflaws/588-B-bug-16627552-16627559/588-B-16627552.c
+7
+[("Replace b'\\t\\twhile(n%(i*i)==0)\\n' with b'\\t\\tif(n%(i*i)==0)\\n' at position 8", 7)]

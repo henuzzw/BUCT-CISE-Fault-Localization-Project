@@ -1,4 +1,0 @@
-codeflaws/266-B-bug-17873092-17873117/266-B-17873117.c
-codeflaws/266-B-bug-17873092-17873117/266-B-17873092.c
-15
-[('Replace b"            if(ara[k]==\'B\'&&ara[k+1]==\'G\')\\n" with b"            if(ara[k]==\'B\')\\n" at position 16', 15)]

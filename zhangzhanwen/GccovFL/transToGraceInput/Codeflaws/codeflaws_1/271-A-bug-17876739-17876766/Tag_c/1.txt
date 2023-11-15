@@ -1,0 +1,4 @@
+codeflaws/271-A-bug-17876739-17876766/271-A-17876766.c
+codeflaws/271-A-bug-17876739-17876766/271-A-17876739.c
+6
+[("Replace b'    if(n>=1000)\\n' with b'    if(n>=2013)\\n' at position 7", 6)]

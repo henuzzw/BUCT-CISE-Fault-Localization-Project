@@ -1,4 +1,0 @@
-codeflaws/257-A-bug-3069844-3069860/257-A-3069860.c
-codeflaws/257-A-bug-3069844-3069860/257-A-3069844.c
-30
-[("Replace b'    for(i=0;i<=n;i++)\\n' with b'    for(i=0;i<n;i++)\\n' at position 31", 30)]

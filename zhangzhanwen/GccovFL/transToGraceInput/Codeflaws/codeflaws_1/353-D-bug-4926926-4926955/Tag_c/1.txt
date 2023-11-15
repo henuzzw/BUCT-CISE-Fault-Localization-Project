@@ -1,0 +1,4 @@
+codeflaws/353-D-bug-4926926-4926955/353-D-4926955.c
+codeflaws/353-D-bug-4926926-4926955/353-D-4926926.c
+34
+[("Replace b'\\t\\t\\t\\tt[cur] = t[cur-1]+1;\\n' with b'\\t\\t\\t\\tt[cur]++;\\n' at position 35", 34)]

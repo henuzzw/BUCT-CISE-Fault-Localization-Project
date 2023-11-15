@@ -1,0 +1,4 @@
+codeflaws/171-B-bug-14762016-14762649/171-B-14762649.c
+codeflaws/171-B-bug-14762016-14762649/171-B-14762016.c
+14
+[("Replace b'        sum = sum + (2*i-2) * 6;\\n' with b'        sum = sum + (i+1) * 6;\\n' at position 15", 14)]

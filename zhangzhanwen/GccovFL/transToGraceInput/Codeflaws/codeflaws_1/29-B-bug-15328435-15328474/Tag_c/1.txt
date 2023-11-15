@@ -1,0 +1,4 @@
+codeflaws/29-B-bug-15328435-15328474/29-B-15328474.c
+codeflaws/29-B-bug-15328435-15328474/29-B-15328435.c
+15
+[("Replace b'\\t\\tb=g+r-y-w;\\n' with b'\\t\\tb=r-w;\\n' at position 16", 15)]

@@ -1,4 +1,0 @@
-codeflaws/359-A-bug-5182085-5182096/359-A-5182096.c
-codeflaws/359-A-bug-5182085-5182096/359-A-5182085.c
-10
-[("Replace b'\\t\\t\\t\\tif(map[i][j]&&(i==1||j==1||i==n||j==m))\\n' with b'\\t\\t\\t\\tif(map[i][j]&&(i==1||j==1||i==n||j==n))\\n' at position 11", 10)]

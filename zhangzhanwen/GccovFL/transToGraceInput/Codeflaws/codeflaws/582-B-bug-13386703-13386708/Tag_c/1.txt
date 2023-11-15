@@ -1,4 +1,0 @@
-codeflaws/582-B-bug-13386703-13386708/582-B-13386708.c
-codeflaws/582-B-bug-13386703-13386708/582-B-13386703.c
-28
-[("Replace b'        x = F(i, l, r, 1) + (counter[ ar[l] ] * (t - LIM));\\n' with b'        x = F(i, l, r, 1) + (counter[l] * (t - LIM));\\n' at position 29", 28)]

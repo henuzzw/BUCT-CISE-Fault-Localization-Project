@@ -1,0 +1,4 @@
+codeflaws/128-A-bug-865291-865894/128-A-865894.c
+codeflaws/128-A-bug-865291-865894/128-A-865291.c
+18
+[("Replace b'\\t\\t\\t    if (j + l >= 0 && j + l < 8 && k + m >= 0 && k + m < 8) {\\n' with b'\\t\\t\\t    if (j + l > 0 && j + l < 8 && k + m > 0 && k + m < 8) {\\n' at position 19", 18)]

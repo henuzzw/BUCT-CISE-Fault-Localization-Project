@@ -1,0 +1,4 @@
+codeflaws/569-B-bug-16321920-16321990/569-B-16321990.c
+codeflaws/569-B-bug-16321920-16321990/569-B-16321920.c
+10,21
+[("Insert b'\\tif(arr[i]>n)arr[i]=1;\\n' at position 12 in file2", 11), ("Replace b'\\t    //if(arr[i]>n){drr[j]=i;j++;}\\n' with b'\\t    if(arr[i]>n){drr[j]=i;j++;}\\n' at position 23", 22)]

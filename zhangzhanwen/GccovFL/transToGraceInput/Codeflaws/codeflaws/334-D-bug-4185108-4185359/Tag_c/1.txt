@@ -1,4 +1,0 @@
-codeflaws/334-D-bug-4185108-4185359/334-D-4185359.c
-codeflaws/334-D-bug-4185108-4185359/334-D-4185108.c
-18,18,18
-[("Insert b'\\t\\t\\tres++;\\n' at position 20 in file2", 19), ("Insert b'\\tfor(i=2;i<n;i++)\\n' at position 21 in file2", 20), ("Insert b'\\t\\tif(!y[i])\\n' at position 22 in file2", 21)]

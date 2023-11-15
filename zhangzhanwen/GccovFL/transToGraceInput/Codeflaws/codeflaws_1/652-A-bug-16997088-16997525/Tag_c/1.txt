@@ -1,0 +1,4 @@
+codeflaws/652-A-bug-16997088-16997525/652-A-16997525.c
+codeflaws/652-A-bug-16997088-16997525/652-A-16997088.c
+11
+[("Replace b'    if(b>=a && (8*a)<(h2-h1))\\n' with b'    if(b>a && (8*a)<(h2-h1))\\n' at position 12", 11)]

@@ -1,4 +1,0 @@
-codeflaws/312-A-bug-4321548-4321630/312-A-4321630.c
-codeflaws/312-A-bug-4321548-4321630/312-A-4321548.c
-6,6
-[('Replace b\'\\tscanf("%d",&num);\\n\' with b\'\\tscanf("%d\\\\n",&num);\\n\' at position 7', 6), ('Insert b\'\\tscanf("%c",&c);\\n\' at position 8 in file2', 7)]

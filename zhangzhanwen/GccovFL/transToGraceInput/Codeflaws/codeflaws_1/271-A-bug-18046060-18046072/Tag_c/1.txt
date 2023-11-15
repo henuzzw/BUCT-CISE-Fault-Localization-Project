@@ -1,0 +1,4 @@
+codeflaws/271-A-bug-18046060-18046072/271-A-18046072.c
+codeflaws/271-A-bug-18046060-18046072/271-A-18046060.c
+7
+[("Replace b'   for(i=n+1;i<=100000;i++)\\n' with b'   for(i=n+1;i<=9000;i++)\\n' at position 8", 7)]

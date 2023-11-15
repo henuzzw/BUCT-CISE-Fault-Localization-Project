@@ -1,0 +1,4 @@
+codeflaws/672-A-bug-18176720-18176726/672-A-18176726.c
+codeflaws/672-A-bug-18176720-18176726/672-A-18176720.c
+4
+[("Replace b'\\tchar a[10000];\\n' with b'\\tchar a[1000];\\n' at position 5", 4)]

@@ -1,4 +1,0 @@
-codeflaws/609-B-bug-17201065-17201104/609-B-17201104.c
-codeflaws/609-B-bug-17201065-17201104/609-B-17201065.c
-7
-[("Replace b'\\tfor(i=1;i<=m;i++){\\n' with b'\\tfor(i=0;i<n;i++){\\n' at position 8", 7)]

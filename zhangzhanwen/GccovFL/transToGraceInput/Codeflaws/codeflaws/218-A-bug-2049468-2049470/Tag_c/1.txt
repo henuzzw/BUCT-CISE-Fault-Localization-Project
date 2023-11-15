@@ -1,4 +1,0 @@
-codeflaws/218-A-bug-2049468-2049470/218-A-2049470.c
-codeflaws/218-A-bug-2049468-2049470/218-A-2049468.c
-16
-[("Replace b'        if(k==0)\\n' with b'        if(k<0)\\n' at position 17", 16)]

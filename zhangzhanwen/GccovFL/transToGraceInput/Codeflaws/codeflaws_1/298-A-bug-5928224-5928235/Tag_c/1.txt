@@ -1,0 +1,4 @@
+codeflaws/298-A-bug-5928224-5928235/298-A-5928235.c
+codeflaws/298-A-bug-5928224-5928235/298-A-5928224.c
+25
+[("Replace b'        t = -1;\\n' with b'        t = 0;\\n' at position 26", 25)]

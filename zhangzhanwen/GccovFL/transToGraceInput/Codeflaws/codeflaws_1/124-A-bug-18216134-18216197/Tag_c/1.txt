@@ -1,0 +1,4 @@
+codeflaws/124-A-bug-18216134-18216197/124-A-18216197.c
+codeflaws/124-A-bug-18216134-18216197/124-A-18216134.c
+6
+[('Replace b\'printf("%d",q+1);\\n\' with b\'printf("%d",a+1);\\n\' at position 7', 6)]

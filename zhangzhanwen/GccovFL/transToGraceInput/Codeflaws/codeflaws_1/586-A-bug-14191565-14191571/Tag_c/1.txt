@@ -1,0 +1,4 @@
+codeflaws/586-A-bug-14191565-14191571/586-A-14191571.c
+codeflaws/586-A-bug-14191565-14191571/586-A-14191565.c
+20
+[("Replace b'  if(last_1 == first_1 ) {\\n' with b'  if(last_1 == -1) {\\n' at position 21", 20)]

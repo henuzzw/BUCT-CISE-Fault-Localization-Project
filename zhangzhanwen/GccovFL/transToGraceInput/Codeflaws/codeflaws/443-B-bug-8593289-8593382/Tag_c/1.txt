@@ -1,4 +1,0 @@
-codeflaws/443-B-bug-8593289-8593382/443-B-8593382.c
-codeflaws/443-B-bug-8593289-8593382/443-B-8593289.c
-43,47
-[("Replace b'                ans=max(ans,j);\\n' with b'                break;\\n' at position 44", 43), ("Delete b'    ans=max(ans,j);\\n' at position 47 in file2", 46)]

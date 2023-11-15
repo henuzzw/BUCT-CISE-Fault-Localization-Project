@@ -1,0 +1,4 @@
+codeflaws/669-A-bug-17816619-17816658/669-A-17816658.c
+codeflaws/669-A-bug-17816619-17816658/669-A-17816619.c
+14
+[("Replace b'    results = 2*(n/3) + ((n%3)!=0?1:0);\\n' with b'    results = (2*n)/3 + ((n%3)!=0?1:0);\\n' at position 15", 14)]

@@ -1,0 +1,4 @@
+codeflaws/218-C-bug-5956612-5956697/218-C-5956697.c
+codeflaws/218-C-bug-5956612-5956697/218-C-5956612.c
+45
+[("Replace b'    cnt[set_find(i)] = 1;\\n' with b'    cnt[par[i]] = 1;\\n' at position 46", 45)]

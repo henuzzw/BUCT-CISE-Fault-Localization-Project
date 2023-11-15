@@ -1,0 +1,4 @@
+codeflaws/583-B-bug-13420442-13420478/583-B-13420478.c
+codeflaws/583-B-bug-13420442-13420478/583-B-13420442.c
+10
+[('Replace b\'        //printf("finish %d turn %d\\\\n",finish,turn);\\n\' with b\'        printf("finish %d turn %d\\\\n",finish,turn);\\n\' at position 11', 10)]

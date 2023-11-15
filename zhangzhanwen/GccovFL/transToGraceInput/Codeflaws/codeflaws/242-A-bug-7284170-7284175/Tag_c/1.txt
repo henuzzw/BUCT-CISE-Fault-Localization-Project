@@ -1,4 +1,0 @@
-codeflaws/242-A-bug-7284170-7284175/242-A-7284175.c
-codeflaws/242-A-bug-7284170-7284175/242-A-7284170.c
-4,22
-[("Delete b'    while(1) {\\n' at position 4 in file2", 3), ("Delete b'}\\n' at position 21 in file2", 20)]

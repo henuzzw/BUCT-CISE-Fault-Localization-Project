@@ -1,4 +1,0 @@
-codeflaws/205-B-bug-2028965-2029299/205-B-2029299.c
-codeflaws/205-B-bug-2028965-2029299/205-B-2028965.c
-14,16
-[("Replace b'\\n' with b'            y=a[x];\\n' at position 15", 14), ("Insert b'        y=a[x];\\n' at position 18 in file2", 17)]

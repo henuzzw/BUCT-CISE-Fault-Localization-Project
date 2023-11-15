@@ -1,0 +1,4 @@
+codeflaws/417-C-bug-6397030-6397065/417-C-6397065.c
+codeflaws/417-C-bug-6397030-6397065/417-C-6397030.c
+9
+[('Insert b\'    printf("%d\\\\n",n*k);\\n\' at position 11 in file2', 10)]

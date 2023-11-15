@@ -1,4 +1,0 @@
-codeflaws/570-B-bug-13933729-13938156/570-B-13938156.c
-codeflaws/570-B-bug-13933729-13938156/570-B-13933729.c
-5,5
-[('Replace b\'    if(n==1 && m==1){printf("%d",1);}\\n\' with b\'    if(n%2==1 && m*2-1==n)\\n\' at position 6', 5), ("Insert b'    else if(n%2==1 && m*2-1==n)\\n' at position 7 in file2", 6)]

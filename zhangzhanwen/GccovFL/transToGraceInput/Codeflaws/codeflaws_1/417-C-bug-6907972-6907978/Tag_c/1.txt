@@ -1,0 +1,4 @@
+codeflaws/417-C-bug-6907972-6907978/417-C-6907978.c
+codeflaws/417-C-bug-6907972-6907978/417-C-6907972.c
+5
+[('Replace b\'    printf("%d\\\\n",k*n);\\n\' with b\'    printf("%d\\\\n",(n*(n-1))/2);\\n\' at position 6', 5)]

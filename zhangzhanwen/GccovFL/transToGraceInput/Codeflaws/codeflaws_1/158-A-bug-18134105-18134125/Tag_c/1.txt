@@ -1,0 +1,4 @@
+codeflaws/158-A-bug-18134105-18134125/158-A-18134125.c
+codeflaws/158-A-bug-18134105-18134125/158-A-18134105.c
+9
+[("Replace b'\\t\\tif(t[i]>=t[b-1]&&t[i]>0)\\n' with b'\\t\\tif(t[i]>=t[b-1]&&t[b-1]>0)\\n' at position 10", 9)]

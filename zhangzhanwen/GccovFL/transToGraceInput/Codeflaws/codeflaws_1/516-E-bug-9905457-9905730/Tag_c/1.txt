@@ -1,0 +1,4 @@
+codeflaws/516-E-bug-9905457-9905730/516-E-9905730.c
+codeflaws/516-E-bug-9905457-9905730/516-E-9905457.c
+93
+[("Insert b'  first = 0;\\n' at position 95 in file2", 94)]

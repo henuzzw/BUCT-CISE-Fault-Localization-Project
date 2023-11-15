@@ -1,4 +1,0 @@
-codeflaws/221-A-bug-6987806-6987812/221-A-6987812.c
-codeflaws/221-A-bug-6987806-6987812/221-A-6987806.c
-8
-[('Replace b\'    printf("%d ",input);\\n\' with b\'    printf("%d",input);\\n\' at position 9', 8)]

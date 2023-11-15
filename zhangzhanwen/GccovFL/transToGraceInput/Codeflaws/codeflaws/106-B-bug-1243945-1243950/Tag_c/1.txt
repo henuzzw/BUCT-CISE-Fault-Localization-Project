@@ -1,4 +1,0 @@
-codeflaws/106-B-bug-1243945-1243950/106-B-1243950.c
-codeflaws/106-B-bug-1243945-1243950/106-B-1243945.c
-13
-[("Replace b'\\tint i, j, n, index = 1, cost = 1000;\\n' with b'\\tint i, j, n, index = 0, cost = 1000;\\n' at position 14", 13)]

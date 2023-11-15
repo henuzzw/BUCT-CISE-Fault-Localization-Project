@@ -1,0 +1,4 @@
+codeflaws/579-A-bug-17016241-17016267/579-A-17016267.c
+codeflaws/579-A-bug-17016241-17016267/579-A-17016241.c
+4,18,21
+[('Delete b\'   printf("Enter the num of bac you want");\\n\' at position 4 in file2', 3), ("Replace b'\\n' with b'   \\n' at position 18", 17), ("Delete b'\\n' at position 20 in file2", 19)]

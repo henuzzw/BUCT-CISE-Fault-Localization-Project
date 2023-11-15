@@ -1,4 +1,0 @@
-codeflaws/260-D-bug-2845983-2845988/260-D-2845988.c
-codeflaws/260-D-bug-2845983-2845988/260-D-2845983.c
-87,98
-[("Insert b'\\t\\ti++;\\n' at position 89 in file2", 88), ("Insert b'\\t\\tj++;\\n' at position 101 in file2", 100)]

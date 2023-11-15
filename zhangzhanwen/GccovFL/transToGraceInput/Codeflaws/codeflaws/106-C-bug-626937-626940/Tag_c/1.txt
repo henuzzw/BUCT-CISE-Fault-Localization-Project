@@ -1,4 +1,0 @@
-codeflaws/106-C-bug-626937-626940/106-C-626940.c
-codeflaws/106-C-bug-626937-626940/106-C-626937.c
-19,19
-[("Replace b'        da[i][0] = i / c[0] * d[0];\\n' with b'        for(j = 0; j <= m; j++){\\n' at position 20", 19), ("Insert b'        for(j = 1; j <= m; j++){\\n' at position 21 in file2", 20)]

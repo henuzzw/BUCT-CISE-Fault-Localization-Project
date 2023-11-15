@@ -1,0 +1,4 @@
+codeflaws/94-E-bug-520114-520200/94-E-520200.c
+codeflaws/94-E-bug-520114-520200/94-E-520114.c
+40
+[("Insert b'\\tfor(i=1;i<=n;i*=8) ans++;\\n' at position 42 in file2", 41)]

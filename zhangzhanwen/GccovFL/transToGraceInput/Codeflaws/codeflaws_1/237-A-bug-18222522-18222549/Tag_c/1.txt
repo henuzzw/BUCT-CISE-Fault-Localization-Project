@@ -1,0 +1,4 @@
+codeflaws/237-A-bug-18222522-18222549/237-A-18222549.c
+codeflaws/237-A-bug-18222522-18222549/237-A-18222522.c
+3
+[("Replace b'   int a,b,c,i,d,e,count=1,k=1;\\n' with b'   int a,b,c,i,d,e,count=1,k=0;\\n' at position 4", 3)]

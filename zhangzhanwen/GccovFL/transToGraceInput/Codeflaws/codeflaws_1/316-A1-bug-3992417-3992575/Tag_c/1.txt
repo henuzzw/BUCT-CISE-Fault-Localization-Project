@@ -1,0 +1,4 @@
+codeflaws/316-A1-bug-3992417-3992575/316-A1-3992575.c
+codeflaws/316-A1-bug-3992417-3992575/316-A1-3992417.c
+0,18
+[("Insert b'#include <math.h>\\n' at position 2 in file2", 1), ("Replace b'for(i=1;i<=q;i++)ans*=10;\\n' with b'if(q>0)ans=ans*q*10;\\n' at position 20", 19)]

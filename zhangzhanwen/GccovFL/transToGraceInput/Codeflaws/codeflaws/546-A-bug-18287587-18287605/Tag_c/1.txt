@@ -1,4 +1,0 @@
-codeflaws/546-A-bug-18287587-18287605/546-A-18287605.c
-codeflaws/546-A-bug-18287587-18287605/546-A-18287587.c
-13
-[('Replace b\'        printf("\\\\n0");\\n\' with b\'        printf("\\\\n%lld",n);\\n\' at position 14', 13)]

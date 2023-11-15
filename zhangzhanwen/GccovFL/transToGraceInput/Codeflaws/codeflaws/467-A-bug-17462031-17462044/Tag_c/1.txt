@@ -1,4 +1,0 @@
-codeflaws/467-A-bug-17462031-17462044/467-A-17462044.c
-codeflaws/467-A-bug-17462031-17462044/467-A-17462031.c
-9
-[("Replace b'        if(t>=2)\\n' with b'        if(t>2)\\n' at position 10", 9)]

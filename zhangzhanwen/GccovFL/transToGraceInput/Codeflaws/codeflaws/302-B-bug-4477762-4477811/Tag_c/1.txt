@@ -1,4 +1,0 @@
-codeflaws/302-B-bug-4477762-4477811/302-B-4477811.c
-codeflaws/302-B-bug-4477762-4477811/302-B-4477762.c
-27,29
-[('Delete b\'\\t\\tprintf("%d ", cf[i]);\\n\' at position 27 in file2', 26), ('Delete b\'\\tprintf("\\\\n");\\n\' at position 28 in file2', 27)]

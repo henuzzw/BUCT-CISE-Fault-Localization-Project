@@ -1,0 +1,4 @@
+codeflaws/272-B-bug-3149342-3149360/272-B-3149360.c
+codeflaws/272-B-bug-3149342-3149360/272-B-3149342.c
+44,45
+[("Replace b'        Sum+=Cnt*(Cnt-1)/2;\\n' with b'        Sum+=Cnt*(Cnt-1);\\n' at position 45", 44), ('Insert b\'    printf("%lld\\\\n",Sum);\\n\' at position 47 in file2', 46)]

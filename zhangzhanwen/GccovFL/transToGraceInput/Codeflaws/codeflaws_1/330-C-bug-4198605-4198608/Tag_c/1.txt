@@ -1,0 +1,4 @@
+codeflaws/330-C-bug-4198605-4198608/330-C-4198608.c
+codeflaws/330-C-bug-4198605-4198608/330-C-4198605.c
+36
+[("Replace b'       f=1;\\n' with b'       \\n' at position 37", 36)]

@@ -1,4 +1,0 @@
-codeflaws/315-A-bug-6149995-6150754/315-A-6150754.c
-codeflaws/315-A-bug-6149995-6150754/315-A-6149995.c
-16,17,17
-[("Insert b'                {\\n' at position 18 in file2", 17), ("Insert b'                    a[j]=0;\\n' at position 20 in file2", 19), ("Insert b'                }\\n' at position 21 in file2", 20)]

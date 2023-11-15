@@ -1,0 +1,4 @@
+codeflaws/186-D-bug-1671049-1671052/186-D-1671052.c
+codeflaws/186-D-bug-1671049-1671052/186-D-1671049.c
+8
+[('Replace b\'\\tif(t=a+b+c, t==0) printf("%d %d %d\\\\n", 0, 0, 0);\\n\' with b\'\\tif(t=a+b+c, t==0) printf("%d %d %d\\\\n", 1, 1, 1);\\n\' at position 9', 8)]

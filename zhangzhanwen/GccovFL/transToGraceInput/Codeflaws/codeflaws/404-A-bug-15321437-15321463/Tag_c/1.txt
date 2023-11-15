@@ -1,4 +1,0 @@
-codeflaws/404-A-bug-15321437-15321463/404-A-15321463.c
-codeflaws/404-A-bug-15321437-15321463/404-A-15321437.c
-22
-[("Replace b'                    if(m[i][j]!=b||a==b) {\\n' with b'                    if(m[i][j]!=b) {\\n' at position 23", 22)]

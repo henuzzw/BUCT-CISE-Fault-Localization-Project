@@ -1,4 +1,0 @@
-codeflaws/513-A-bug-14705967-14705975/513-A-14705975.c
-codeflaws/513-A-bug-14705967-14705975/513-A-14705967.c
-6
-[('Replace b\'    scanf("%d %d %d %d",&n1,&n2,&k1,&k2);\\n\' with b\'    scanf("%d %d %d %d",n1,n2,k1,k2);\\n\' at position 7', 6)]

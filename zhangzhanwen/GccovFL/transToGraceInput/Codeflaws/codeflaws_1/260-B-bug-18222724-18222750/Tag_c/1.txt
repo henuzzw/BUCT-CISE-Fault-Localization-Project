@@ -1,0 +1,4 @@
+codeflaws/260-B-bug-18222724-18222750/260-B-18222750.c
+codeflaws/260-B-bug-18222724-18222750/260-B-18222724.c
+66
+[('Replace b\'    printf("%02d-%02d-%d\\\\n", dd, mm, yy);\\n\' with b\'    printf("%d-%d-%d\\\\n", dd, mm, yy);\\n\' at position 67', 66)]

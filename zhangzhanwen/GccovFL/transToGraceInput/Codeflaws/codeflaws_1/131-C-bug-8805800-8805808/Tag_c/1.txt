@@ -1,0 +1,4 @@
+codeflaws/131-C-bug-8805800-8805808/131-C-8805808.c
+codeflaws/131-C-bug-8805800-8805808/131-C-8805800.c
+28
+[('Delete b\'            printf("%llu\\\\t%llu\\\\t%llu\\\\n", combinaison(n,i),combinaison(m,t-i),w);\\n\' at position 28 in file2', 27)]

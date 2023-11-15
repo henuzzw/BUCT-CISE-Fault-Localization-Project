@@ -1,4 +1,0 @@
-codeflaws/171-A-bug-17173445-17173460/171-A-17173460.c
-codeflaws/171-A-bug-17173445-17173460/171-A-17173445.c
-4
-[('Replace b\'     scanf("%lld %lld",&a,&b);\\n\' with b\'     scanf("%lld",&b);\\n\' at position 5', 4)]

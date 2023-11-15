@@ -1,0 +1,4 @@
+codeflaws/474-A-bug-16255550-16255583/474-A-16255583.c
+codeflaws/474-A-bug-16255550-16255583/474-A-16255550.c
+15
+[('Replace b" \\t\\tif(choice==\'R\')\\n" with b" \\t\\tif(choice=\'R\')\\n" at position 16', 15)]

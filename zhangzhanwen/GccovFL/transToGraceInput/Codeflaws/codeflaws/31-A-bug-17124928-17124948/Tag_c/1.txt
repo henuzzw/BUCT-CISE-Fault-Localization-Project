@@ -1,4 +1,0 @@
-codeflaws/31-A-bug-17124928-17124948/31-A-17124948.c
-codeflaws/31-A-bug-17124928-17124948/31-A-17124928.c
-28
-[('Replace b\'\\t\\t\\t\\t\\tprintf("%d %d %d",i , j , k);\\n\' with b\'\\t\\t\\t\\t\\tprintf("%d %d %d",a[i] , a[j] , a[k]);\\n\' at position 29', 28)]

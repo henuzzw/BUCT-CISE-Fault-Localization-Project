@@ -1,0 +1,4 @@
+codeflaws/432-A-bug-16886820-16886828/432-A-16886828.c
+codeflaws/432-A-bug-16886820-16886828/432-A-16886820.c
+9
+[('Replace b\'\\t printf("%d",s/3);\\n\' with b\'\\t printf("%d",s);\\n\' at position 10', 9)]

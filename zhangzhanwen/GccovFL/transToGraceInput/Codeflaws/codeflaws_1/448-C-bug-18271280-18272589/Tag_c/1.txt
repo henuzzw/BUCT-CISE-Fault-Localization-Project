@@ -1,0 +1,4 @@
+codeflaws/448-C-bug-18271280-18272589/448-C-18272589.c
+codeflaws/448-C-bug-18271280-18272589/448-C-18271280.c
+18
+[("Replace b'  return min(y - x, acc + mn - offset);\\n' with b'  return acc + min(mn - offset, y - x);\\n' at position 19", 18)]

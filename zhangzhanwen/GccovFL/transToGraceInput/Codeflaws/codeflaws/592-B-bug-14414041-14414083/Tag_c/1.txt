@@ -1,4 +1,0 @@
-codeflaws/592-B-bug-14414041-14414083/592-B-14414083.c
-codeflaws/592-B-bug-14414041-14414083/592-B-14414041.c
-4,4
-[('Replace b\'  long long res=(long long)(n-2)*(long long)(n-2);\\n\' with b\'  printf("%d\\\\n",(n-2)*(n-2));\\n\' at position 5', 4), ('Insert b\'  printf("%lld\\\\n",res);\\n\' at position 6 in file2', 5)]

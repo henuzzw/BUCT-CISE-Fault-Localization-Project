@@ -1,4 +1,0 @@
-codeflaws/421-A-bug-7489051-7489065/421-A-7489065.c
-codeflaws/421-A-bug-7489051-7489065/421-A-7489051.c
-4,6
-[('Insert b\'\\tscanf("%d %d %d",&n,&a,&b);\\n\' at position 6 in file2', 5), ('Delete b\'\\tscanf("%d %d %d",&n,&a,&b);\\n\' at position 7 in file2', 6)]

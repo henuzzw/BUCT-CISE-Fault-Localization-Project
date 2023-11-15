@@ -1,0 +1,4 @@
+codeflaws/276-B-bug-15034096-15034124/276-B-15034124.c
+codeflaws/276-B-bug-15034096-15034124/276-B-15034096.c
+22
+[("Replace b'    if(countP%2==1 || countP==0)\\n' with b'    if(countP%2==1)\\n' at position 23", 22)]

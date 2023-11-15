@@ -1,0 +1,4 @@
+codeflaws/302-C-bug-4052052-4052069/302-C-4052069.c
+codeflaws/302-C-bug-4052052-4052069/302-C-4052052.c
+40,40
+[("Replace b'    if(n%2!=0){}\\n' with b'    if(j%2!=0)\\n' at position 41", 40), ("Insert b'    else if(j%2!=0)\\n' at position 42 in file2", 41)]

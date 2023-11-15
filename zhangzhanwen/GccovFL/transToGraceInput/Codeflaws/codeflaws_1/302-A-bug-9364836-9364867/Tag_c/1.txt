@@ -1,0 +1,4 @@
+codeflaws/302-A-bug-9364836-9364867/302-A-9364867.c
+codeflaws/302-A-bug-9364836-9364867/302-A-9364836.c
+19
+[("Replace b'        if((a-b)%2 && ((b-a+1)/2<=s&&(b-a+1)/2<=t)){\\n' with b'        if((a-b)%2 && (b-a<=s||b-a<=t)){\\n' at position 20", 19)]

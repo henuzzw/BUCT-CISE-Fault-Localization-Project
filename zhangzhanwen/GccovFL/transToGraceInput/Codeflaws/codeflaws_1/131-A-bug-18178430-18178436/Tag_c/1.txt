@@ -1,0 +1,4 @@
+codeflaws/131-A-bug-18178430-18178436/131-A-18178436.c
+codeflaws/131-A-bug-18178430-18178436/131-A-18178430.c
+16
+[('Replace b\'            printf("%c\\\\n",(str[0]-\\\'A\\\'+\\\'a\\\' ) );\\n\' with b\'            printf("%s\\\\n",str);\\n\' at position 17', 16)]

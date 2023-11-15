@@ -1,4 +1,0 @@
-codeflaws/106-B-bug-17271047-17271066/106-B-17271066.c
-codeflaws/106-B-bug-17271047-17271066/106-B-17271047.c
-22
-[("Replace b'    for(int j=1;j+i<=n-1;j++){\\n' with b'    for(int j=1;j+i<=3;j++){\\n' at position 23", 22)]

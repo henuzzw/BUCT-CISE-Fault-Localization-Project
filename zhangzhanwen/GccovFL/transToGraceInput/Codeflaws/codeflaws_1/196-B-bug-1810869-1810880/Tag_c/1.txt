@@ -1,0 +1,4 @@
+codeflaws/196-B-bug-1810869-1810880/196-B-1810880.c
+codeflaws/196-B-bug-1810869-1810880/196-B-1810869.c
+17,17,46
+[("Insert b'    if (px==0) px = n;\\n' at position 19 in file2", 18), ("Insert b'    if (py==0) py = m;\\n' at position 20 in file2", 19), ("Insert b'    \\n' at position 50 in file2", 49)]

@@ -1,4 +1,0 @@
-codeflaws/630-I-bug-16182920-16184224/630-I-16184224.c
-codeflaws/630-I-bug-16182920-16184224/630-I-16182920.c
-6
-[("Replace b'\\tn=4*(2*3*pow(4LL,n-3LL)+(n-3LL)*3*3*pow(4LL,n-4LL));\\n' with b'\\tn=4*(n-1LL)*pow(3LL,n-2LL);\\n' at position 7", 6)]

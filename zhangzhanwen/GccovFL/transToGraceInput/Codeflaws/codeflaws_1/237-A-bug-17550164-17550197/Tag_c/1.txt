@@ -1,0 +1,4 @@
+codeflaws/237-A-bug-17550164-17550197/237-A-17550197.c
+codeflaws/237-A-bug-17550164-17550197/237-A-17550164.c
+6
+[("Replace b'    int x, y, a = -1, b = -1, temp = 1, max = 1;\\n' with b'    int x, y, a = 0, b = 0, temp = 1, max = 1;\\n' at position 7", 6)]

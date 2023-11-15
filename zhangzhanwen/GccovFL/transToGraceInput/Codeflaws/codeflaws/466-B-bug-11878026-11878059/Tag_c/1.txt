@@ -1,4 +1,0 @@
-codeflaws/466-B-bug-11878026-11878059/466-B-11878059.c
-codeflaws/466-B-bug-11878026-11878059/466-B-11878026.c
-41
-[("Replace b'    for(k=n+1;k<g;k++){\\n' with b'    for(k=g-1;k>n;k--){\\n' at position 42", 41)]

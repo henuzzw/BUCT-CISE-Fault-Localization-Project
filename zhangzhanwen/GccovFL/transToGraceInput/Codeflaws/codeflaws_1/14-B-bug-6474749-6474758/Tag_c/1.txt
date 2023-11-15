@@ -1,0 +1,4 @@
+codeflaws/14-B-bug-6474749-6474758/14-B-6474758.c
+codeflaws/14-B-bug-6474749-6474758/14-B-6474749.c
+34
+[("Replace b'            if (d > abs(x - min)) d = abs(x - min);\\n' with b'            if (d > abs(x - min)) d = abs(x - max);\\n' at position 35", 34)]

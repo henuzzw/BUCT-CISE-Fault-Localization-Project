@@ -1,0 +1,4 @@
+codeflaws/62-A-bug-4926337-4926341/62-A-4926341.c
+codeflaws/62-A-bug-4926337-4926341/62-A-4926337.c
+13
+[('Replace b\'printf("YES\\\\n");\\n\' with b\'printf("NO\\\\n");\\n\' at position 14', 13)]

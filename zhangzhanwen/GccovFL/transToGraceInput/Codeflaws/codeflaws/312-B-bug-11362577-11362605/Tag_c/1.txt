@@ -1,4 +1,0 @@
-codeflaws/312-B-bug-11362577-11362605/312-B-11362605.c
-codeflaws/312-B-bug-11362577-11362605/312-B-11362577.c
-6
-[('Replace b\'    printf("%lf\\\\n", a/b/(1-(1-a/b)*(1-c/d)));\\n\' with b\'    printf("%lf\\\\n", a/b/(a-(a/b*c/d)));\\n\' at position 7', 6)]

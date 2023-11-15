@@ -1,0 +1,4 @@
+codeflaws/37-A-bug-15572418-15572426/37-A-15572426.c
+codeflaws/37-A-bug-15572418-15572426/37-A-15572418.c
+21
+[("Replace b'\\t\\tsayac=1;\\n' with b'\\t\\tsayac=0;\\n' at position 22", 21)]

@@ -1,0 +1,4 @@
+codeflaws/225-B-bug-2237428-2237695/225-B-2237695.c
+codeflaws/225-B-bug-2237428-2237695/225-B-2237428.c
+20,28
+[("Delete b'  if(fib[i-2]==s) n--;\\n' at position 20 in file2", 19), ("Insert b'  if(num==1) fib[num++]=0;\\n' at position 29 in file2", 28)]

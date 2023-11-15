@@ -1,4 +1,0 @@
-codeflaws/19-A-bug-14626414-14626510/19-A-14626510.c
-codeflaws/19-A-bug-14626414-14626510/19-A-14626414.c
-28
-[('Delete b\'                        scanf("%c",&c);\\n\' at position 28 in file2', 27)]

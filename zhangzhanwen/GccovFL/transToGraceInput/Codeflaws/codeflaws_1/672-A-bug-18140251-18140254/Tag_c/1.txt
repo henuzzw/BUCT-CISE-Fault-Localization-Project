@@ -1,0 +1,4 @@
+codeflaws/672-A-bug-18140251-18140254/672-A-18140254.c
+codeflaws/672-A-bug-18140251-18140254/672-A-18140251.c
+45
+[('Replace b\'\\tprintf("%c", vec[n-1]);\\n\' with b\'\\tprintf("%c", vec[n]);\\n\' at position 46', 45)]

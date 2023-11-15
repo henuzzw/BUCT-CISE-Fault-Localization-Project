@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-18113959-18114010/535-A-18114010.c
-codeflaws/535-A-bug-18113959-18114010/535-A-18113959.c
-12
-[('Replace b\'        if(!(s%10)) printf("%s\\\\n", array[18+(s/10)]);\\n\' with b\'        if(!(s%10)) printf("%s\\\\n", array[18+(s%10)]);\\n\' at position 13', 12)]

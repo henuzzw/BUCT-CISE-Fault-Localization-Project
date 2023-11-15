@@ -1,4 +1,0 @@
-codeflaws/139-B-bug-1045075-1045083/139-B-1045083.c
-codeflaws/139-B-bug-1045075-1045083/139-B-1045075.c
-26,26
-[("Insert b'\\t\\t\\tif (rl[j] / h[i] == 0)\\n' at position 28 in file2", 27), ("Insert b'\\t\\t\\t\\tcontinue;\\n' at position 29 in file2", 28)]

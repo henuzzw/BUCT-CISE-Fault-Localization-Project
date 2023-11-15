@@ -1,0 +1,4 @@
+codeflaws/471-D-bug-10665713-10665726/471-D-10665726.c
+codeflaws/471-D-bug-10665713-10665726/471-D-10665713.c
+42
+[('Replace b\'        else if(lenT==0)printf("%d\\\\n",x);\\n\' with b\'        else if(lenT==1)printf("%d\\\\n",x);\\n\' at position 43', 42)]

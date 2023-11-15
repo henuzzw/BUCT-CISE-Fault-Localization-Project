@@ -1,0 +1,4 @@
+codeflaws/677-E-bug-18205065-18205068/677-E-18205068.c
+codeflaws/677-E-bug-18205065-18205068/677-E-18205065.c
+75
+[('Delete b\'\\tfor(i=0;++i<=l;)printf("%s\\\\n",B[i]+1);\\n\' at position 75 in file2', 74)]

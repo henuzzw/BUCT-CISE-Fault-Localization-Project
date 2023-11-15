@@ -1,0 +1,4 @@
+codeflaws/134-A-bug-13516451-13516464/134-A-13516464.c
+codeflaws/134-A-bug-13516451-13516464/134-A-13516451.c
+17
+[("Replace b'            x[y]=i;\\n' with b'            x[y]=s[i];\\n' at position 18", 17)]

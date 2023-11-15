@@ -1,0 +1,4 @@
+codeflaws/45-A-bug-14430131-14583799/45-A-14583799.c
+codeflaws/45-A-bug-14430131-14583799/45-A-14430131.c
+48
+[("Replace b'    if(res==0){\\n' with b'    if(y==12){\\n' at position 49", 48)]

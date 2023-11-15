@@ -1,0 +1,4 @@
+codeflaws/143-A-bug-13245338-13245361/143-A-13245361.c
+codeflaws/143-A-bug-13245338-13245361/143-A-13245338.c
+12
+[("Replace b'        if(c<1||c>9||c==a||c==b||x!=c)continue;\\n' with b'        if(c<1||c>9||c==a||c==b||x!=b)continue;\\n' at position 13", 12)]

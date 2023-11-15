@@ -1,0 +1,4 @@
+codeflaws/25-A-bug-18223619-18223646/25-A-18223646.c
+codeflaws/25-A-bug-18223619-18223646/25-A-18223619.c
+3
+[("Replace b'    int n,i,a[99],temp1,temp2,x=0,y=0;\\n' with b'    int n,i,a[99],temp1,temp2,x,y;\\n' at position 4", 3)]

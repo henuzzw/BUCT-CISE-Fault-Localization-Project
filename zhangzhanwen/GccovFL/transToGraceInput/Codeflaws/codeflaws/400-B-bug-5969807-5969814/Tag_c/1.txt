@@ -1,4 +1,0 @@
-codeflaws/400-B-bug-5969807-5969814/400-B-5969814.c
-codeflaws/400-B-bug-5969807-5969814/400-B-5969807.c
-40,41
-[("Delete b'    for(i=0;i<n;i++)\\n' at position 40 in file2", 39), ('Delete b\'        printf(">%d<",x[i]);\\n\' at position 40 in file2', 39)]

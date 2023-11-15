@@ -1,4 +1,0 @@
-codeflaws/439-D-bug-7421327-7421338/439-D-7421338.c
-codeflaws/439-D-bug-7421327-7421338/439-D-7421327.c
-54
-[("Replace b'    while(right-left+1>3)\\n' with b'    while(right-left>3)\\n' at position 55", 54)]

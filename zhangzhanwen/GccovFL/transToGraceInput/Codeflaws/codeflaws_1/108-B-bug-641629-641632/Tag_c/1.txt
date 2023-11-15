@@ -1,0 +1,4 @@
+codeflaws/108-B-bug-641629-641632/108-B-641632.c
+codeflaws/108-B-bug-641629-641632/108-B-641629.c
+16
+[("Replace b'        if (a[i] < a[i + 1] && a[i] * 2 > a[i + 1])\\n' with b'        if (a[i] * 2 > a[i + 1])\\n' at position 17", 16)]

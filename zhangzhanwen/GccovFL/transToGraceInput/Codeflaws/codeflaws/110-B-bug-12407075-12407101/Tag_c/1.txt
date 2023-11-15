@@ -1,4 +1,0 @@
-codeflaws/110-B-bug-12407075-12407101/110-B-12407101.c
-codeflaws/110-B-bug-12407075-12407101/110-B-12407075.c
-70
-[("Replace b'    else if(n%4 == 3)\\n' with b'    else\\n' at position 71", 70)]

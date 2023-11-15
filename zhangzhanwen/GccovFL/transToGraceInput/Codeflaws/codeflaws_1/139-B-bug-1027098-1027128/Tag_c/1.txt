@@ -1,0 +1,4 @@
+codeflaws/139-B-bug-1027098-1027128/139-B-1027128.c
+codeflaws/139-B-bug-1027098-1027128/139-B-1027098.c
+19,28
+[("Insert b'         price=5000000;\\n' at position 21 in file2", 20), ('Insert b\'                //printf("%d\\\\n",price);\\n\' at position 31 in file2', 30)]

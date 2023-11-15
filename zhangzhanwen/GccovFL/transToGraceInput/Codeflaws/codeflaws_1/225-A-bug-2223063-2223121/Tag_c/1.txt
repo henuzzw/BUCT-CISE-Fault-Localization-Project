@@ -1,0 +1,4 @@
+codeflaws/225-A-bug-2223063-2223121/225-A-2223121.c
+codeflaws/225-A-bug-2223063-2223121/225-A-2223063.c
+12
+[("Replace b'\\t\\t\\tif(x==7-m||x==m||y==m||y==7-m||x+y==7)\\n' with b'\\t\\t\\tif(x==7-m||y==7-m||x+y==7)\\n' at position 13", 12)]

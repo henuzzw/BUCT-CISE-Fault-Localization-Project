@@ -1,4 +1,0 @@
-codeflaws/630-L-bug-16201183-16201355/630-L-16201355.c
-codeflaws/630-L-bug-16201183-16201355/630-L-16201183.c
-8,8
-[('Replace b\'\\tn=n%100000LL;\\n\' with b\'\\tprintf("%lld\\\\n",n%100000LL);\\n\' at position 9', 8), ('Insert b\'\\tprintf("%lld%lld%lld%lld%lld",n/10000LL,n/1000LL%10LL,n/100LL%10LL,n/10LL%10LL,n%10LL);\\n\' at position 10 in file2', 9)]

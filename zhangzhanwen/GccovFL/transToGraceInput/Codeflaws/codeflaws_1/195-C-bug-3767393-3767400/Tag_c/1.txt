@@ -1,0 +1,4 @@
+codeflaws/195-C-bug-3767393-3767400/195-C-3767400.c
+codeflaws/195-C-bug-3767393-3767400/195-C-3767393.c
+114
+[('Replace b"    while(line[i] != \',\' && line[i] != \' \')\\n" with b"    while(line[i] != \',\')\\n" at position 115', 114)]

@@ -1,4 +1,0 @@
-codeflaws/499-B-bug-18336591-18336663/499-B-18336663.c
-codeflaws/499-B-bug-18336591-18336663/499-B-18336591.c
-25,30
-[('Insert b\'\\t\\t// printf("%s\\\\n",r[i]);\\n\' at position 27 in file2', 26), ("Replace b'\\t\\tfor(j = 0; j < m; j++)\\n' with b'\\t\\tfor(j = 0; j < n; j++)\\n' at position 32", 31)]

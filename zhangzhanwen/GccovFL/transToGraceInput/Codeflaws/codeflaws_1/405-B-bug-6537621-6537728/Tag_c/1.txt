@@ -1,0 +1,4 @@
+codeflaws/405-B-bug-6537621-6537728/405-B-6537728.c
+codeflaws/405-B-bug-6537621-6537728/405-B-6537621.c
+23,26
+[("Insert b'\\n' at position 25 in file2", 24), ("Replace b'\\t\\tr=r-(n-niz[d-1]);\\n' with b'\\t\\tr=r-(n-niz[d])+1;\\n' at position 28", 27)]

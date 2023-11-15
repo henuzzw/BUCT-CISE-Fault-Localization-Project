@@ -1,4 +1,0 @@
-codeflaws/105-E-bug-15770568-15770675/105-E-15770675.c
-codeflaws/105-E-bug-15770568-15770675/105-E-15770568.c
-100
-[("Replace b'\\t\\t\\t(abs(i-t[1])<=2||abs(i-t[2]<=2)||abs(i-t[3])<=1||i==r))\\n' with b'\\t\\t\\t(abs(i-t[1])<=2||abs(i-t[2]<=2)||i==r))\\n' at position 101", 100)]

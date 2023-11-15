@@ -1,0 +1,4 @@
+codeflaws/526-A-bug-10627114-10627124/526-A-10627124.c
+codeflaws/526-A-bug-10627114-10627124/526-A-10627114.c
+29
+[('Replace b\'            if(C==5){printf("YES");return 0;}\\n\' with b\'            if(C==4){printf("YES");return 0;}\\n\' at position 30', 29)]

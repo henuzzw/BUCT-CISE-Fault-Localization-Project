@@ -1,0 +1,4 @@
+codeflaws/29-B-bug-126756-126759/29-B-126759.c
+codeflaws/29-B-bug-126756-126759/29-B-126756.c
+18
+[("Replace b'  while (sv_time <= time)\\n' with b'  while (sv_time < time)\\n' at position 19", 18)]

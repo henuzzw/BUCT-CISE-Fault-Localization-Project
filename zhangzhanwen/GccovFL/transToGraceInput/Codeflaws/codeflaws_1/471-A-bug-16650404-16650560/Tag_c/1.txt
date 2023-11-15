@@ -1,0 +1,4 @@
+codeflaws/471-A-bug-16650404-16650560/471-A-16650560.c
+codeflaws/471-A-bug-16650404-16650560/471-A-16650404.c
+12,12
+[("Insert b'        if (R[i]==6)\\n' at position 14 in file2", 13), ("Insert b'            yes2=1;\\n' at position 15 in file2", 14)]

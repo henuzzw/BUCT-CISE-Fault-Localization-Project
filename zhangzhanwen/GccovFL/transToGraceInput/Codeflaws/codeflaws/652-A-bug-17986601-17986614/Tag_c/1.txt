@@ -1,4 +1,0 @@
-codeflaws/652-A-bug-17986601-17986614/652-A-17986614.c
-codeflaws/652-A-bug-17986601-17986614/652-A-17986601.c
-22
-[("Replace b'    if ((h2-h1>a*8) && (a<=b))\\n' with b'    if ((h2-h1>a*8) && (h2+a*8-b*12>0) && (a<=b))\\n' at position 23", 22)]

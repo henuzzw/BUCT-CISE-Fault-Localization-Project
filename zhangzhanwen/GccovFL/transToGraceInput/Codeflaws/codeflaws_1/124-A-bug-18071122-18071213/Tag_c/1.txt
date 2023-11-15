@@ -1,0 +1,4 @@
+codeflaws/124-A-bug-18071122-18071213/124-A-18071213.c
+codeflaws/124-A-bug-18071122-18071213/124-A-18071122.c
+7,7
+[('Replace b\'    int x = max(a+1,n-b);\\n\' with b\'    printf("%d", n - max(a+1,n-b) + 1);\\n\' at position 8', 7), ('Insert b\'    printf("%d ", n - x + 1);\\n\' at position 9 in file2', 8)]

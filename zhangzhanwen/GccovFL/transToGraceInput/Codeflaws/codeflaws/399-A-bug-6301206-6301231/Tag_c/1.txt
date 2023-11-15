@@ -1,4 +1,0 @@
-codeflaws/399-A-bug-6301206-6301231/399-A-6301231.c
-codeflaws/399-A-bug-6301206-6301231/399-A-6301206.c
-44
-[("Replace b'                for(i=p-k;i<=p-1;i++)\\n' with b'                for(i=1;i<=p-1;i++)\\n' at position 45", 44)]

@@ -1,0 +1,4 @@
+codeflaws/92-A-bug-17083644-17083683/92-A-17083683.c
+codeflaws/92-A-bug-17083644-17083683/92-A-17083644.c
+9
+[("Replace b'        if(m>=0&&i==n)\\n' with b'        if(m>0&&i==n)\\n' at position 10", 9)]

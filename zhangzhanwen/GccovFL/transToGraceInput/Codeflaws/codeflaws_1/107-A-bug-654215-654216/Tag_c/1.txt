@@ -1,0 +1,4 @@
+codeflaws/107-A-bug-654215-654216/107-A-654216.c
+codeflaws/107-A-bug-654215-654216/107-A-654215.c
+32
+[('Insert b\'        printf("1\\\\n");\\n\' at position 34 in file2', 33)]

@@ -1,0 +1,4 @@
+codeflaws/493-D-bug-8966973-8968080/493-D-8968080.c
+codeflaws/493-D-bug-8966973-8968080/493-D-8966973.c
+4
+[('Replace b\'        if (!(n&1)) printf("white\\\\n1 2\\\\n");\\n\' with b\'        if (n == 2) printf("white\\\\n1 2\\\\n");\\n\' at position 5', 4)]

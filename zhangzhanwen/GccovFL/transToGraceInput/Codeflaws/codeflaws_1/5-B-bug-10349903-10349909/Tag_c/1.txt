@@ -1,0 +1,4 @@
+codeflaws/5-B-bug-10349903-10349909/5-B-10349909.c
+codeflaws/5-B-bug-10349903-10349909/5-B-10349903.c
+29
+[("Replace b'  for (i = 0; i < ll; i ++) {\\n' with b'  for (i = 0; i <= ll; i ++) {\\n' at position 30", 29)]

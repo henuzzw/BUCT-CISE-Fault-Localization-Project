@@ -1,0 +1,4 @@
+codeflaws/616-B-bug-15412047-15412053/616-B-15412053.c
+codeflaws/616-B-bug-15412047-15412053/616-B-15412047.c
+31
+[('Replace b\'        printf("%lld\\\\n",tmp);\\n\' with b\'        printf("%%lld\\\\n",tmp);\\n\' at position 32', 31)]

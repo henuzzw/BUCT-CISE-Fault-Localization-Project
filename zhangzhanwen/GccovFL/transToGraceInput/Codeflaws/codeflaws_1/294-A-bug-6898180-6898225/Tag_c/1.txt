@@ -1,0 +1,4 @@
+codeflaws/294-A-bug-6898180-6898225/294-A-6898225.c
+codeflaws/294-A-bug-6898180-6898225/294-A-6898180.c
+12
+[("Replace b'                if(x<n) a[x]=a[x]+(a[x-1]-y);\\n' with b'                if(x<=5) a[x]=a[x]+(a[x-1]-y);\\n' at position 13", 12)]

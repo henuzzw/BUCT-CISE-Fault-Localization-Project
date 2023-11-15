@@ -1,4 +1,0 @@
-codeflaws/2-C-bug-624302-624303/2-C-624303.c
-codeflaws/2-C-bug-624302-624303/2-C-624302.c
-42
-[('Replace b\'//\\telse printf("%lf", fval(cx, cy));\\n\' with b\'\\telse printf("%lf", fval(cx, cy));\\n\' at position 43', 42)]

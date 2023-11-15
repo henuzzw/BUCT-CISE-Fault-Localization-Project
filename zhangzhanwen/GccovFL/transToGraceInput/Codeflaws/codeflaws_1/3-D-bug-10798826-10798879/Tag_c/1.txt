@@ -1,0 +1,4 @@
+codeflaws/3-D-bug-10798826-10798879/3-D-10798879.c
+codeflaws/3-D-bug-10798826-10798879/3-D-10798826.c
+85,85
+[('Replace b\'\\tif (c != 0) printf("-1\\\\n");\\n\' with b\'\\tprintf("%lld\\\\n%s\\\\n", sum, P);\\n\' at position 86', 85), ('Insert b\'\\telse printf("%lld\\\\n%s\\\\n", sum, P);\\n\' at position 87 in file2', 86)]

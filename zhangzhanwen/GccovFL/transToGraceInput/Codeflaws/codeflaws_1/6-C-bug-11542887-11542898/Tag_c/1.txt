@@ -1,0 +1,4 @@
+codeflaws/6-C-bug-11542887-11542898/6-C-11542898.c
+codeflaws/6-C-bug-11542887-11542898/6-C-11542887.c
+17
+[("Replace b'        if(a<=b){\\n' with b'        if(a<b){\\n' at position 18", 17)]

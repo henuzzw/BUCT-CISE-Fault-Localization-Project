@@ -1,0 +1,4 @@
+codeflaws/368-B-bug-10783633-10783673/368-B-10783673.c
+codeflaws/368-B-bug-10783633-10783673/368-B-10783633.c
+10,23
+[("Insert b'    table[a[n]] = 1;\\n' at position 12 in file2", 11), ('Replace b\'        printf("%d\\\\n",last[t]);\\n\' with b\'        printf("\\\\t%d\\\\n",last[t]);\\n\' at position 25', 24)]

@@ -1,4 +1,0 @@
-codeflaws/20-B-bug-14912668-14912705/20-B-14912705.c
-codeflaws/20-B-bug-14912668-14912705/20-B-14912668.c
-21
-[("Replace b'    else if((float)pow(b,2)==(float)4*a*c)\\n' with b'    else if(pow(b,2)==4*a*c)\\n' at position 22", 21)]

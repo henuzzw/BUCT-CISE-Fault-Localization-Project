@@ -1,4 +1,0 @@
-codeflaws/483-B-bug-9092564-9092589/483-B-9092589.c
-codeflaws/483-B-bug-9092564-9092589/483-B-9092564.c
-16
-[("Replace b'\\tlong long int high = INT_MAX,low=0,mid;\\n' with b'\\tlong long int high=1000000000,low=0,mid;\\n' at position 17", 16)]

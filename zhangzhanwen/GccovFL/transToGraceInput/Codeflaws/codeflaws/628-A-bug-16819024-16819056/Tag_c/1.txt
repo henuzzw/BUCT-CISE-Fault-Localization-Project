@@ -1,4 +1,0 @@
-codeflaws/628-A-bug-16819024-16819056/628-A-16819056.c
-codeflaws/628-A-bug-16819024-16819056/628-A-16819024.c
-30,37
-[('Delete b\'\\tprintf("k : %d\\\\n",k);\\n\' at position 30 in file2', 29), ('Delete b\'\\tprintf("macthes ! %d\\\\n");\\n\' at position 36 in file2', 35)]

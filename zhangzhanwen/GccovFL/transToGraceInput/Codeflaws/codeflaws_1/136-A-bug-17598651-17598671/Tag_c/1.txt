@@ -1,0 +1,4 @@
+codeflaws/136-A-bug-17598651-17598671/136-A-17598671.c
+codeflaws/136-A-bug-17598651-17598671/136-A-17598651.c
+17
+[('Replace b\'        printf("%d ",s[i]);\\n\' with b\'        printf("%d",s[i]);\\n\' at position 18', 17)]

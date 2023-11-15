@@ -1,0 +1,4 @@
+codeflaws/14-B-bug-3846928-3846936/14-B-3846936.c
+codeflaws/14-B-bug-3846928-3846936/14-B-3846928.c
+41
+[('Insert b\'    printf("0");\\n\' at position 43 in file2', 42)]

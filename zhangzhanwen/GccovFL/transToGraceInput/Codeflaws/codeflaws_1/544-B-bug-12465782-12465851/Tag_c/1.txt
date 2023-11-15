@@ -1,0 +1,4 @@
+codeflaws/544-B-bug-12465782-12465851/544-B-12465851.c
+codeflaws/544-B-bug-12465782-12465851/544-B-12465782.c
+11
+[("Replace b'\\t\\tif(i%n==1||i==1)m=1;\\n' with b'\\t\\tif(i%n==1)m=1;\\n' at position 12", 11)]

@@ -1,0 +1,4 @@
+codeflaws/400-A-bug-11086966-11086988/400-A-11086988.c
+codeflaws/400-A-bug-11086966-11086988/400-A-11086966.c
+72
+[('Replace b\'        printf(" %dx%d",d[j],12/d[j]);\\n\' with b\'        printf(" %d*%d",d[j],12/d[j]);\\n\' at position 73', 72)]

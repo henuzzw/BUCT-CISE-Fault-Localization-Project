@@ -1,0 +1,4 @@
+codeflaws/213-C-bug-2794587-2794591/213-C-2794591.c
+codeflaws/213-C-bug-2794587-2794591/213-C-2794587.c
+16
+[("Replace b'            d[1][i][j] = -1000000;\\n' with b'            d[1][i][j] = 0;\\n' at position 17", 16)]

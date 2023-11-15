@@ -1,4 +1,0 @@
-codeflaws/479-D-bug-11780844-11780877/479-D-11780877.c
-codeflaws/479-D-bug-11780844-11780877/479-D-11780844.c
-39
-[("Replace b'\\t\\t\\telse if(binary(a[i]+x-y,0,n-1) != -1 && a[i]+x<=l) {\\n' with b'\\t\\t\\telse if(binary(a[i]+x-y,0,n-1) != -1) {\\n' at position 40", 39)]

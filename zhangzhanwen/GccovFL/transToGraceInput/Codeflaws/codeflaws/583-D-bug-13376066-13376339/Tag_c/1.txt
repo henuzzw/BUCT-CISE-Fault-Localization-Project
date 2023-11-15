@@ -1,4 +1,0 @@
-codeflaws/583-D-bug-13376066-13376339/583-D-13376339.c
-codeflaws/583-D-bug-13376066-13376339/583-D-13376066.c
-32
-[("Replace b'  int time2 = t - time1 - time3;\\n' with b'  int time2 = t - time1 - time2;\\n' at position 33", 32)]

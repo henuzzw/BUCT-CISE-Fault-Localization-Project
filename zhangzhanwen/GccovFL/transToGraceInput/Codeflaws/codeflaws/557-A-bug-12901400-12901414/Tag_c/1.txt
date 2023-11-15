@@ -1,4 +1,0 @@
-codeflaws/557-A-bug-12901400-12901414/557-A-12901414.c
-codeflaws/557-A-bug-12901400-12901414/557-A-12901400.c
-24
-[("Replace b'       if(max[i]-min[i]<=diff)\\n' with b'       if(max[i]<=diff)\\n' at position 25", 24)]

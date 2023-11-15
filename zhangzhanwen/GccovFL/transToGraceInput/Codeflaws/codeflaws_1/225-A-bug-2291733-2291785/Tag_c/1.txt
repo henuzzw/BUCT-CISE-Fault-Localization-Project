@@ -1,0 +1,4 @@
+codeflaws/225-A-bug-2291733-2291785/225-A-2291785.c
+codeflaws/225-A-bug-2291733-2291785/225-A-2291733.c
+22
+[("Replace b'    if ( lf == top || lf == opp(top) || rf == top || rf == opp(top) ) {\\n' with b'    if ( lf == top || rf == top ) {\\n' at position 23", 22)]

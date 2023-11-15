@@ -1,4 +1,0 @@
-codeflaws/357-B-bug-4849399-4849435/357-B-4849435.c
-codeflaws/357-B-bug-4849399-4849435/357-B-4849399.c
-41
-[("Replace b'\\t\\t\\tif(Color[c] > 3)\\n' with b'\\t\\t\\tif(Color[b] > 3)\\n' at position 42", 41)]

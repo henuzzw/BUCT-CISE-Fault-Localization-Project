@@ -1,4 +1,0 @@
-codeflaws/558-A-bug-13728340-13728523/558-A-13728523.c
-codeflaws/558-A-bug-13728340-13728523/558-A-13728340.c
-21
-[("Replace b'\\t\\tfor(b=0;b<=n-2;b++){\\n' with b'\\t\\tfor(b=a;b<=n-2;b++){\\n' at position 22", 21)]

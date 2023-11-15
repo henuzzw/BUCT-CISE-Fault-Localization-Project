@@ -1,0 +1,4 @@
+codeflaws/365-A-bug-17262691-17262721/365-A-17262721.c
+codeflaws/365-A-bug-17262691-17262721/365-A-17262691.c
+8,12
+[("Replace b'\\tshort k,j,i;\\n' with b'\\tshort k,j,i,g=0;\\n' at position 9", 8), ("Insert b'\\t\\tshort g=0;\\n' at position 14 in file2", 13)]

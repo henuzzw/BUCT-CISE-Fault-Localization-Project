@@ -1,0 +1,4 @@
+codeflaws/298-A-bug-15899817-15899871/298-A-15899871.c
+codeflaws/298-A-bug-15899817-15899871/298-A-15899817.c
+44
+[('Replace b\'\\t\\tprintf("%d %d",pos2+1,pos1);\\n\' with b\'\\t\\tprintf("%d %d",pos2+1,pos2);\\n\' at position 45', 44)]

@@ -1,0 +1,4 @@
+codeflaws/166-A-bug-15786911-15786964/166-A-15786964.c
+codeflaws/166-A-bug-15786911-15786964/166-A-15786911.c
+21
+[("Replace b'                if(ara[i][1] > ara[j][1])\\n' with b'                if(ara[i][1] < ara[j][1])\\n' at position 22", 21)]

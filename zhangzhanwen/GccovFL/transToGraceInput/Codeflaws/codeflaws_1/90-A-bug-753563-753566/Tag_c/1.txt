@@ -1,0 +1,4 @@
+codeflaws/90-A-bug-753563-753566/90-A-753566.c
+codeflaws/90-A-bug-753563-753566/90-A-753563.c
+21
+[('Replace b\'  printf("%i",t+29);\\n\' with b\'  printf("%i",t+30);\\n\' at position 22', 21)]

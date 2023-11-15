@@ -1,0 +1,4 @@
+codeflaws/437-B-bug-7809114-7809175/437-B-7809175.c
+codeflaws/437-B-bug-7809114-7809175/437-B-7809114.c
+2
+[("Replace b'#define N 100005\\n' with b'#define N 10005\\n' at position 3", 2)]

@@ -1,4 +1,0 @@
-codeflaws/318-A-bug-18027230-18027237/318-A-18027237.c
-codeflaws/318-A-bug-18027230-18027237/318-A-18027230.c
-10
-[('Replace b\'              \\n\' with b\'               printf("k=%lld  n=%lld",k,n);\\n\' at position 11', 10)]

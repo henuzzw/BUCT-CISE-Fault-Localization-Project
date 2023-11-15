@@ -1,0 +1,4 @@
+codeflaws/471-B-bug-8768506-8768517/471-B-8768517.c
+codeflaws/471-B-bug-8768506-8768517/471-B-8768506.c
+40
+[("Replace b'                if (cnt++ || i) {\\n' with b'                if (cnt++ || i == 2) {\\n' at position 41", 40)]

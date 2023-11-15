@@ -1,4 +1,0 @@
-codeflaws/344-B-bug-17327402-17327661/344-B-17327661.c
-codeflaws/344-B-bug-17327402-17327661/344-B-17327402.c
-37
-[('Replace b\'    printf("%d %d %d",b-i,i,max-i);\\n\' with b\'    printf("%d %d %d",a-i,i,max-i);\\n\' at position 38', 37)]

@@ -1,0 +1,4 @@
+codeflaws/158-A-bug-18297193-18297267/158-A-18297267.c
+codeflaws/158-A-bug-18297193-18297267/158-A-18297193.c
+9
+[("Replace b'      if(score[i]>=score[k-1]&&score[i]>0)c++;\\n' with b'      if(score[i]>=score[k]&&score[k]>0)c++;\\n' at position 10", 9)]

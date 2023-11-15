@@ -1,0 +1,4 @@
+codeflaws/651-A-bug-17711025-17711041/651-A-17711041.c
+codeflaws/651-A-bug-17711025-17711041/651-A-17711025.c
+15
+[("Replace b'            count=0;\\n' with b'            break;\\n' at position 16", 15)]

@@ -1,0 +1,4 @@
+codeflaws/630-L-bug-16229452-16229468/630-L-16229468.c
+codeflaws/630-L-bug-16229452-16229468/630-L-16229452.c
+23
+[('Replace b\'    if (ans == 0) printf("00000");\\n\' with b\'    if (ans == 0) printf("0");\\n\' at position 24', 23)]

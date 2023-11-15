@@ -1,4 +1,0 @@
-codeflaws/147-B-bug-1016631-1016640/147-B-1016640.c
-codeflaws/147-B-bug-1016631-1016640/147-B-1016631.c
-43
-[("Replace b'\\t\\tmul(b[i], b[i-1]);\\n' with b'\\t\\tmul(b[i], a);\\n' at position 44", 43)]

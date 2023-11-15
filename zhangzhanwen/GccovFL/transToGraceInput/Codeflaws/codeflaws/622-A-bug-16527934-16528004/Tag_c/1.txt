@@ -1,4 +1,0 @@
-codeflaws/622-A-bug-16527934-16528004/622-A-16528004.c
-codeflaws/622-A-bug-16527934-16528004/622-A-16527934.c
-17,20
-[('Replace b\'            //printf("%lld",n);\\n\' with b\'            printf("%lld",n);\\n\' at position 18', 17), ('Insert b\'    printf("%lld",n);\\n\' at position 22 in file2', 21)]

@@ -1,0 +1,4 @@
+codeflaws/259-A-bug-9435436-9435451/259-A-9435451.c
+codeflaws/259-A-bug-9435436-9435451/259-A-9435436.c
+9
+[('Replace b\'        if(strcmp(a,"WBWBWBWB") && strcmp(a,"BWBWBWBW"))\\n\' with b\'        if(strcmp(a,"WBWBWBWB")==1 && strcmp(a,"BWBWBWBW")==1)\\n\' at position 10', 9)]

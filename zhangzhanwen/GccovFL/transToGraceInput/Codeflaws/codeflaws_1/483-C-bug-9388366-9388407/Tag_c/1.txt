@@ -1,0 +1,4 @@
+codeflaws/483-C-bug-9388366-9388407/483-C-9388407.c
+codeflaws/483-C-bug-9388366-9388407/483-C-9388366.c
+38
+[("Replace b'\\t\\tfor(i=n-1;i>=0;i--)\\n' with b'\\t\\trep(i,n)\\n' at position 39", 38)]

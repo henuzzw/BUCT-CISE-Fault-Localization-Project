@@ -1,4 +1,0 @@
-codeflaws/414-A-bug-8342658-8342695/414-A-8342695.c
-codeflaws/414-A-bug-8342658-8342695/414-A-8342658.c
-13,13
-[('Replace b\'        if (n == 1 && k == 0) puts("1");\\n\' with b\'        if (k < (n >> 1)) puts("-1");\\n\' at position 14', 13), ('Insert b\'        else if ((k < (n >> 1)) || (n == 1)) puts("-1");\\n\' at position 15 in file2', 14)]

@@ -1,4 +1,0 @@
-codeflaws/146-D-bug-11330003-11330029/146-D-11330029.c
-codeflaws/146-D-bug-11330003-11330029/146-D-11330003.c
-31
-[('Replace b\'\\t\\tprintf("4");\\t\\n\' with b\'\\t\\t\\n\' at position 32', 31)]

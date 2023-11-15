@@ -1,0 +1,4 @@
+codeflaws/581-D-bug-13418033-13418074/581-D-13418074.c
+codeflaws/581-D-bug-13418033-13418074/581-D-13418033.c
+45,46
+[("Replace b'    if(!is_length(p[(j+1)%3], length)) {\\n' with b'    if(is_length(p[(j+1)%3], tmp)) {\\n' at position 46", 45), ("Delete b'\\n' at position 46 in file2", 45)]

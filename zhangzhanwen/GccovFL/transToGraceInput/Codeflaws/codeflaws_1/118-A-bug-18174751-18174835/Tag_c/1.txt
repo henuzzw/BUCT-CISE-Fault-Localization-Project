@@ -1,0 +1,4 @@
+codeflaws/118-A-bug-18174751-18174835/118-A-18174835.c
+codeflaws/118-A-bug-18174751-18174835/118-A-18174751.c
+4,15
+[("Delete b'    //hello\\n' at position 4 in file2", 3), ('Replace b"        if(arr[i]==\'a\' || arr[i]==\'e\' || arr[i]==\'i\' || arr[i]==\'o\' || arr[i]==\'u\' || arr[i]==\'y\')\\n" with b"        if(arr[i]==\'a\' || arr[i]==\'e\' || arr[i]==\'i\' || arr[i]==\'o\' || arr[i]==\'u\')\\n" at position 15', 14)]

@@ -1,0 +1,4 @@
+codeflaws/337-A-bug-18245765-18245779/337-A-18245779.c
+codeflaws/337-A-bug-18245765-18245779/337-A-18245765.c
+6
+[("Insert b'\\tn--;\\n' at position 8 in file2", 7)]

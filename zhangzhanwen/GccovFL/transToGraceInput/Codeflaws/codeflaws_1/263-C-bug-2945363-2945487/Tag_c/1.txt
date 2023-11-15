@@ -1,0 +1,4 @@
+codeflaws/263-C-bug-2945363-2945487/263-C-2945487.c
+codeflaws/263-C-bug-2945363-2945487/263-C-2945363.c
+68,69,80
+[("Insert b'\\t\\tif(a[b][0]==4){fnd=-1;break;}\\n' at position 70 in file2", 69), ("Insert b'\\t\\tif(a[c][0]==4){fnd=-1;break;}\\n' at position 72 in file2", 71), ('Insert b\'\\tif(fnd<0){printf("-1");return 0;}\\n\' at position 84 in file2', 83)]

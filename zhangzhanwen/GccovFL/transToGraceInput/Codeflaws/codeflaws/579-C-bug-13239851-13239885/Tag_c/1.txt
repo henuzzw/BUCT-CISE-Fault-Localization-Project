@@ -1,4 +1,0 @@
-codeflaws/579-C-bug-13239851-13239885/579-C-13239885.c
-codeflaws/579-C-bug-13239851-13239885/579-C-13239851.c
-12
-[("Replace b'return 0;\\n' with b'return -1;\\n' at position 13", 12)]

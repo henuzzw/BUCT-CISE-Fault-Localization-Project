@@ -1,0 +1,4 @@
+codeflaws/129-A-bug-13747072-13747271/129-A-13747271.c
+codeflaws/129-A-bug-13747072-13747271/129-A-13747072.c
+16
+[("Replace b'  if(k%2==1){\\n' with b'  if(k==1){\\n' at position 17", 16)]

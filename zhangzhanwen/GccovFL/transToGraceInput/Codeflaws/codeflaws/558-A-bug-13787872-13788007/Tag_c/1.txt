@@ -1,4 +1,0 @@
-codeflaws/558-A-bug-13787872-13788007/558-A-13788007.c
-codeflaws/558-A-bug-13787872-13788007/558-A-13787872.c
-53
-[("Replace b'        for(i=n-1;i>=n-2*posside-1;i--)\\n' with b'        for(i=0;i<=2*posside;i++)\\n' at position 54", 53)]

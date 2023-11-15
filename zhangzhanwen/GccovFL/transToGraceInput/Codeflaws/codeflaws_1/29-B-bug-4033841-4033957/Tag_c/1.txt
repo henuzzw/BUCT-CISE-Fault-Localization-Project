@@ -1,0 +1,4 @@
+codeflaws/29-B-bug-4033841-4033957/29-B-4033957.c
+codeflaws/29-B-bug-4033841-4033957/29-B-4033841.c
+17
+[("Replace b'q=(float)l/v+(g+r)-q;\\n' with b'q=(float) ((g+r)*v-d+l)/v;\\n' at position 18", 17)]

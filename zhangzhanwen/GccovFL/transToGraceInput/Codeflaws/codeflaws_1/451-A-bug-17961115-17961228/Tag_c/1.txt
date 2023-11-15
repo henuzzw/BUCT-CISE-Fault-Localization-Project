@@ -1,0 +1,4 @@
+codeflaws/451-A-bug-17961115-17961228/451-A-17961228.c
+codeflaws/451-A-bug-17961115-17961228/451-A-17961115.c
+0,6
+[("Insert b'#define min(a,b) (a<b)?a:b\\n' at position 2 in file2", 1), ('Replace b\'        ((min(a,b))%2==0) ? printf("Malvika\\\\n") : printf("Akshat\\\\n");\\n\' with b\'        ((a*b)%2==0) ? printf("Malvika\\\\n") : printf("Akshat");\\n\' at position 8', 7)]

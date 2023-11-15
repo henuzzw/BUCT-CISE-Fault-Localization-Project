@@ -1,4 +1,0 @@
-codeflaws/508-C-bug-9606566-9606584/508-C-9606584.c
-codeflaws/508-C-bug-9606566-9606584/508-C-9606566.c
-12
-[("Insert b'        return 0;\\n' at position 14 in file2", 13)]

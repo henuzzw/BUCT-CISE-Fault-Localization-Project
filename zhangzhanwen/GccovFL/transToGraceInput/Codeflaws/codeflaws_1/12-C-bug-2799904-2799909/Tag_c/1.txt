@@ -1,0 +1,4 @@
+codeflaws/12-C-bug-2799904-2799909/12-C-2799909.c
+codeflaws/12-C-bug-2799904-2799909/12-C-2799904.c
+20
+[("Replace b'    for(i=0;i<m;i++)\\n' with b'    for(i=0;i<n;i++)\\n' at position 21", 20)]

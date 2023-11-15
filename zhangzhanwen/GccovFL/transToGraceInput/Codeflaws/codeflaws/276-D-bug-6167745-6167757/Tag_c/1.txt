@@ -1,4 +1,0 @@
-codeflaws/276-D-bug-6167745-6167757/276-D-6167757.c
-codeflaws/276-D-bug-6167745-6167757/276-D-6167745.c
-46
-[('Replace b\'        printf("%lld",(long long)(pow(2,i+1))-1);\\n\' with b\'        printf("%lld",(long long)(pow(2,i))-1);\\n\' at position 47', 46)]

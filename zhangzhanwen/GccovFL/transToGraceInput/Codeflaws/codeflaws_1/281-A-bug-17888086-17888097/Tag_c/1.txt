@@ -1,0 +1,4 @@
+codeflaws/281-A-bug-17888086-17888097/281-A-17888097.c
+codeflaws/281-A-bug-17888086-17888097/281-A-17888086.c
+4
+[("Replace b'\\tchar string[999];\\n' with b'\\tchar string[100];\\n' at position 5", 4)]

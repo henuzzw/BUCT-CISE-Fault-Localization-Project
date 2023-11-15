@@ -1,0 +1,4 @@
+codeflaws/384-B-bug-5770073-5770120/384-B-5770120.c
+codeflaws/384-B-bug-5770073-5770120/384-B-5770073.c
+5,6
+[('Replace b\'scanf("%d %d %d",&n,&m,&k);\\n\' with b\'scanf("%d %d &d",&n,&m,&k);\\n\' at position 6', 5), ("Insert b'\\n' at position 8 in file2", 7)]

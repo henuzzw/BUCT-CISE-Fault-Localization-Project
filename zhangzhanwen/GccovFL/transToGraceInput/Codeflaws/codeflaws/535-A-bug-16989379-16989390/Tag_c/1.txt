@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-16989379-16989390/535-A-16989390.c
-codeflaws/535-A-bug-16989379-16989390/535-A-16989379.c
-8
-[('Replace b\'    char *z[]={"ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen"};\\n\' with b\'    char *z[]={"ten","eleven","twelve","thirteen","forteen","fifteen","sixteen","seventeen","eighteen","nineteen"};\\n\' at position 9', 8)]

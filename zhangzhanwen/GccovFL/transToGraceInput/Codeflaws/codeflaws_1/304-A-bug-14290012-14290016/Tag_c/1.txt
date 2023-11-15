@@ -1,0 +1,4 @@
+codeflaws/304-A-bug-14290012-14290016/304-A-14290016.c
+codeflaws/304-A-bug-14290012-14290016/304-A-14290012.c
+8
+[('Replace b\'scanf("%d",&n);\\n\' with b\'scanf("%f",&n);\\n\' at position 9', 8)]

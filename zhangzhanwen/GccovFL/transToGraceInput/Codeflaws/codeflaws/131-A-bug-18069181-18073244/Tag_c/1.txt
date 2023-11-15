@@ -1,4 +1,0 @@
-codeflaws/131-A-bug-18069181-18073244/131-A-18073244.c
-codeflaws/131-A-bug-18069181-18073244/131-A-18069181.c
-20
-[("Replace b'\\t\\tfor(i=0;str[i];i++){\\n' with b'\\t\\tfor(i=1;str[i];i++){\\n' at position 21", 20)]

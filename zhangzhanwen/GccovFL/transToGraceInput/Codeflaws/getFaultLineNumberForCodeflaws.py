@@ -5,6 +5,54 @@ from tqdm import tqdm
 
 import common
 
+# 这是对数据集进行符号级别的处理，将数据集中的错误程序和正确程序进行对比，找出错误程序中的错误语句，并将错误语句的行号和列号写入文件夹Tag_c中
+def faultLinePos(str1, str2):
+    len1, len2 = len(str1), len(str2)
+
+    # 初始化一个矩阵，用于保存子问题的编辑距离
+    dp = [[0] * (len2 + 1) for _ in range(len1 + 1)]
+
+    # 初始化第一行和第一列
+    for i in range(len1 + 1):
+        dp[i][0] = i
+    for j in range(len2 + 1):
+        dp[0][j] = j
+
+    # 填充矩阵
+    for i in range(1, len1 + 1):
+        for j in range(1, len2 + 1):
+            if str1[i - 1] == str2[j - 1]:
+                dp[i][j] = dp[i - 1][j - 1]
+            else:
+                dp[i][j] = min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]) + 1
+
+    # 回溯找到不同的位置
+    pos = []
+    i, j = len1, len2
+    while i > 0 and j > 0:
+        if str1[i - 1] == str2[j - 1]:
+            i -= 1
+            j -= 1
+        elif dp[i][j] == dp[i - 1][j] + 1:
+            pos.append(i - 1)
+            i -= 1
+        elif dp[i][j] == dp[i][j - 1] + 1:
+            pos.append(j - 1)
+            j -= 1
+        else:
+            pos.append(i - 1)
+            i -= 1
+            j -= 1
+
+    while i > 0:
+        pos.append(i - 1)
+        i -= 1
+    while j > 0:
+        pos.append(j - 1)
+        j -= 1
+
+    return pos[::-1]
+
 
 # 基于动态规划的语句错误行定位
 # 因为codeflaws没有提供具体的错误行的行号，但是基于抽样观察，我们发现一对程序(正确程序，错误程序)之间的代码几近相似，维度错误之处不同，所以我们使用动态规划实现错误程序到正确程序的编辑距离定位错误语句
@@ -14,6 +62,8 @@ import common
 # dp[i][j][3]
 # dp[i][j][4]错误程序的前j行，编辑成正确程序的前i行的最小编辑距离
 # dp[i][j][5]错误程序的第j行，编辑成正确程序的第i行的最小编辑距离的编辑方式（增删改）
+
+
 
 
 def dpFaultNumber(path, path1, path2,file11,file21):
@@ -31,7 +81,7 @@ def dpFaultNumber(path, path1, path2,file11,file21):
                 continue  # 跳过第一个元素，因为它没有左上角的元素
             # 处理左上角元素
             if i > 0 and j > 0:
-                if file1[i] == file2[j]:
+                if file1[i].strip() == file2[j].strip():
                     dp[i][j][0] = min(dp[i - 1][j - 1][4], dp[i - 1][j][4] + 1, dp[i][j - 1][4] + 1)
                     dp[i][j][4] = dp[i][j][0]
                     dp[i][j][5] = 0
@@ -76,27 +126,27 @@ def dpFaultNumber(path, path1, path2,file11,file21):
             i -= 1
             j -= 1
         elif op_type == 1:  # 替换
-            operations.append((f"Replace {file1[i]} with {file2[j]} at position {i + 1}", i))
+            operations.append(f"{op_type} {i} {j} {faultLinePos(file1[i],file2[j])} {file1[i]} {file2[j]}")
             faultLines.append(j)
             i -= 1
             j -= 1
         elif op_type == 2:  # 插入
-            operations.append((f"Insert {file1[i]} at position {i + 1} in file2", i))
-            i -= 1
+            operations.append(f"{op_type} {i} {j} {file1[i]}  " )
             faultLines.append(j)
+            i -= 1
         elif op_type == 3:  # 删除
-            operations.append((f"Delete {file2[j]} at position {i + 1} in file2", i))
+            operations.append(f"{op_type} {j} {file2[j]}" )
             faultLines.append(j)
             j -= 1
 
     # 处理剩余的元素
     while i > 0:
-        operations.append((f"Insert {file1[i]} at the beginning of file2", i))
         i -= 1
+        operations.append(f"{2} {i} {j} {file1[i]}  ")
     while j > 0:
-        operations.append((f"Delete {file2[j]} at the beginning of file2", i))
-        faultLines.append(j)
         j -= 1
+        operations.append(f"{3} {j} {file2[j]}")
+        faultLines.append(j)
 
     # 反转编辑操作列表，以便按编辑顺序输出
     operations.reverse()
@@ -227,21 +277,16 @@ def read(path):
     with open(path, 'rb') as f:
         item = f.readlines()
         return item
-
-
 def DealWithTheErrorTestSuit(path):
     dirList = os.listdir(path)
     for dirName in dirList:
         fileList = os.listdir(os.path.join(path, dirName))
-
         for fileName in dirList:
             filePath = os.path.join(os.path.join(path, dirName, fileName))
 
 
 def DealWithTheDirStruct(path):
     dirList = os.listdir(path)
-
-
 if __name__ == "__main__":
     # GetTheFaultLine("test")
     GetTheFaultLine("codeflaws")

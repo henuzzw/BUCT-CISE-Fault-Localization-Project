@@ -1,4 +1,0 @@
-codeflaws/88-B-bug-7300568-7300608/88-B-7300608.c
-codeflaws/88-B-bug-7300568-7300608/88-B-7300568.c
-13
-[("Replace b'        if(p*p>x*x&&i>a)break;\\n' with b'        if(p*p>x*x)break;\\n' at position 14", 13)]

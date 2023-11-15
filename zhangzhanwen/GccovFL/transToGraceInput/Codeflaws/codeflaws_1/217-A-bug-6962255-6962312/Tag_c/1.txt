@@ -1,0 +1,4 @@
+codeflaws/217-A-bug-6962255-6962312/217-A-6962312.c
+codeflaws/217-A-bug-6962255-6962312/217-A-6962255.c
+43,43
+[("Insert b'    Visited[start] = 1;\\n' at position 45 in file2", 44), ("Insert b'    Queue[0] = start;\\n' at position 46 in file2", 45)]

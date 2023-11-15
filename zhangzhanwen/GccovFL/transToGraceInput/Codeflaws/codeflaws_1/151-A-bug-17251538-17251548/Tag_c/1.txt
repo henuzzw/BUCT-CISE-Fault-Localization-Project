@@ -1,0 +1,4 @@
+codeflaws/151-A-bug-17251538-17251548/151-A-17251548.c
+codeflaws/151-A-bug-17251538-17251548/151-A-17251538.c
+16
+[('Replace b\'printf("%d",MIN(MIN(((k*l)/nl),c*d),p/np)/n);\\n\' with b\'printf("%d",MIN(MIN(((k*l)/n),c*d),p/np)/nl);\\n\' at position 17', 16)]

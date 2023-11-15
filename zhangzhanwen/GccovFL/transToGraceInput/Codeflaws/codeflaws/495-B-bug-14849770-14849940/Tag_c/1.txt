@@ -1,4 +1,0 @@
-codeflaws/495-B-bug-14849770-14849940/495-B-14849940.c
-codeflaws/495-B-bug-14849770-14849940/495-B-14849770.c
-21
-[("Replace b'                if(i>b&&(i!=ans/i))\\n' with b'                if(i>b)\\n' at position 22", 21)]

@@ -1,0 +1,4 @@
+codeflaws/198-A-bug-9617580-9617604/198-A-9617604.c
+codeflaws/198-A-bug-9617580-9617604/198-A-9617580.c
+8
+[("Replace b'    while(x <= t){\\n' with b'    while(x < t){\\n' at position 9", 8)]

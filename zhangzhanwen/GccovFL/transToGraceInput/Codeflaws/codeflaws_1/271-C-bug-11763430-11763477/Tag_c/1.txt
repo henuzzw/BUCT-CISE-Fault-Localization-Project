@@ -1,0 +1,4 @@
+codeflaws/271-C-bug-11763430-11763477/271-C-11763477.c
+codeflaws/271-C-bug-11763430-11763477/271-C-11763430.c
+20
+[("Replace b'                if(i%(c-1)==0)\\n' with b'                if(i%(b-1)==0)\\n' at position 21", 20)]

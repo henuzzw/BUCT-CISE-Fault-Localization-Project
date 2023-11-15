@@ -1,4 +1,0 @@
-codeflaws/404-B-bug-6125713-6125721/404-B-6125721.c
-codeflaws/404-B-bug-6125713-6125721/404-B-6125713.c
-6,6
-[("Replace b'  int i, n;\\n' with b'  int i, n, idiv;\\n' at position 7", 6), ("Insert b'  long long idiv;\\n' at position 8 in file2", 7)]

@@ -1,4 +1,0 @@
-codeflaws/203-A-bug-16588171-16589375/203-A-16589375.c
-codeflaws/203-A-bug-16588171-16589375/203-A-16588171.c
-13
-[("Replace b'            for(j = 0; j < t; j++){\\n' with b'            for(j = 0; j <= t; j++){\\n' at position 14", 13)]

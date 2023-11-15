@@ -1,0 +1,4 @@
+codeflaws/281-B-bug-3848683-3848827/281-B-3848827.c
+codeflaws/281-B-bug-3848683-3848827/281-B-3848683.c
+19
+[('Replace b\' scanf("%lf",&n);if(x==7&&y==6&&n==3){printf("1/1");return 0;}\\n\' with b\' scanf("%lf",&n);\\n\' at position 20', 19)]

@@ -1,4 +1,0 @@
-codeflaws/302-B-bug-3882820-3882827/302-B-3882827.c
-codeflaws/302-B-bug-3882820-3882827/302-B-3882820.c
-6
-[("Replace b'    long long int s[100500],a,b;\\n' with b'    long long int s[20000],a,b;\\n' at position 7", 6)]

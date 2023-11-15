@@ -1,0 +1,4 @@
+codeflaws/230-A-bug-18123389-18123399/230-A-18123399.c
+codeflaws/230-A-bug-18123389-18123399/230-A-18123389.c
+32
+[("Replace b'            if(x[i][0]>=(s))\\n' with b'            if(x[i][0]>(s))\\n' at position 33", 32)]

@@ -1,4 +1,0 @@
-codeflaws/263-B-bug-4589098-4589276/263-B-4589276.c
-codeflaws/263-B-bug-4589098-4589276/263-B-4589098.c
-14
-[("Replace b'    while(j>=0&&a[j]>a[l])\\n' with b'    while(j>0&&a[j]>a[l])\\n' at position 15", 14)]

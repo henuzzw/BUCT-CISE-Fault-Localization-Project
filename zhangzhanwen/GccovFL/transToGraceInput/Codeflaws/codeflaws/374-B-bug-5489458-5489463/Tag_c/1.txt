@@ -1,4 +1,0 @@
-codeflaws/374-B-bug-5489458-5489463/374-B-5489463.c
-codeflaws/374-B-bug-5489458-5489463/374-B-5489458.c
-21,29
-[("Insert b'\\t\\t\\tif(cnt%2==0) cnt=1;\\n' at position 23 in file2", 22), ("Replace b'\\n' with b' \\tif(k==1&&(m[0]%2==0)) ans=1;\\n' at position 31", 30)]

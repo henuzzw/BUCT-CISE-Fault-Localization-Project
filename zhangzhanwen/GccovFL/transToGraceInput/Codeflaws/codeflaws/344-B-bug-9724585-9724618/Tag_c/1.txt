@@ -1,4 +1,0 @@
-codeflaws/344-B-bug-9724585-9724618/344-B-9724618.c
-codeflaws/344-B-bug-9724585-9724618/344-B-9724585.c
-6,20
-[("Replace b'\\tif((a+b+c)%2)\\n' with b'\\tif(0)\\n' at position 7", 6), ("Replace b'\\treturn 0;\\n' with b'return 0;\\n' at position 21", 20)]

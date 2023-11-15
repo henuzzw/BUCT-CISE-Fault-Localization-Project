@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-11816636-11816663/46-A-11816663.c
-codeflaws/46-A-bug-11816636-11816663/46-A-11816636.c
-5,6,6
-[("Insert b'\\t\\tif(sum%n != 0)\\n' at position 7 in file2", 6), ("Insert b'\\t\\telse\\n' at position 9 in file2", 8), ('Insert b\'\\t\\t\\tprintf("%d ",n);\\n\' at position 10 in file2', 9)]

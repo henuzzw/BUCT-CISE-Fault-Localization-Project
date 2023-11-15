@@ -1,0 +1,4 @@
+codeflaws/456-A-bug-18227110-18227127/456-A-18227127.c
+codeflaws/456-A-bug-18227110-18227127/456-A-18227110.c
+10
+[("Insert b'        n--;\\n' at position 12 in file2", 11)]

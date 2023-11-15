@@ -1,0 +1,4 @@
+codeflaws/225-A-bug-2227511-2227557/225-A-2227557.c
+codeflaws/225-A-bug-2227511-2227557/225-A-2227511.c
+10,10,10
+[("Insert b'                    if(a[i][0]==t||7-a[i][0]==t||a[i][1]==t||a[i][0]==t)\\n' at position 12 in file2", 11), ('Insert b\'                    {printf("NO\\\\n");\\n\' at position 13 in file2', 12), ("Insert b'                    break;}\\n' at position 14 in file2", 13)]

@@ -1,4 +1,0 @@
-codeflaws/394-B-bug-6063330-6063352/394-B-6063352.c
-codeflaws/394-B-bug-6063330-6063352/394-B-6063330.c
-16,17,17
-[("Insert b'\\t\\t\\tif(j!=0)\\n' at position 18 in file2", 17), ("Insert b'\\t\\t\\telse\\n' at position 20 in file2", 19), ("Insert b'\\t\\t\\ty[j]=k;\\n' at position 21 in file2", 20)]

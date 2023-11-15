@@ -1,4 +1,0 @@
-codeflaws/550-C-bug-16701994-16702029/550-C-16702029.c
-codeflaws/550-C-bug-16701994-16702029/550-C-16701994.c
-16
-[("Replace b'            for(b=a+1;b<x;b++){\\n' with b'            for(b=0;b<x;b++){\\n' at position 17", 16)]

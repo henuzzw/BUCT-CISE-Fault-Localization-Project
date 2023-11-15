@@ -1,4 +1,0 @@
-codeflaws/611-A-bug-18184082-18184103/611-A-18184103.c
-codeflaws/611-A-bug-18184082-18184103/611-A-18184082.c
-12
-[('Replace b\'        if(n == 6 || n == 5)printf("53");\\n\' with b\'        if(n == 6)printf("53");\\n\' at position 13', 12)]

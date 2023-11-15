@@ -1,4 +1,0 @@
-codeflaws/236-A-bug-18104030-18104053/236-A-18104053.c
-codeflaws/236-A-bug-18104030-18104053/236-A-18104030.c
-4
-[("Replace b'    char str[101],temp;\\n' with b'    char str[20],temp;\\n' at position 5", 4)]

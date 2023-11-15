@@ -1,4 +1,0 @@
-codeflaws/94-B-bug-562660-562666/94-B-562666.c
-codeflaws/94-B-bug-562660-562666/94-B-562660.c
-8
-[('Replace b\'    while (scanf("%d", &m) == 1) {\\n\' with b\'    while (scanf("%d", &m) == 1 && m) {\\n\' at position 9', 8)]

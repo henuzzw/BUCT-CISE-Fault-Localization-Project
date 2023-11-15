@@ -1,4 +1,0 @@
-codeflaws/624-B-bug-16010781-16010782/624-B-16010782.c
-codeflaws/624-B-bug-16010781-16010782/624-B-16010781.c
-24,28
-[("Insert b'\\t/*\\n' at position 26 in file2", 25), ("Insert b'\\t*/\\n' at position 31 in file2", 30)]

@@ -1,4 +1,0 @@
-codeflaws/534-A-bug-14917939-14917955/534-A-14917955.c
-codeflaws/534-A-bug-14917939-14917955/534-A-14917939.c
-19
-[('Insert b\'            printf("%d\\\\n", n);\\n\' at position 21 in file2', 20)]

@@ -1,0 +1,4 @@
+codeflaws/138-B-bug-976565-977115/138-B-977115.c
+codeflaws/138-B-bug-976565-977115/138-B-976565.c
+48,48
+[("Insert b'\\t\\t\\t\\tA[k]++;\\n' at position 50 in file2", 49), ("Insert b'\\t\\t\\t\\tB[10-k]++;\\n' at position 51 in file2", 50)]

@@ -1,0 +1,4 @@
+codeflaws/371-C-bug-5389891-5390013/371-C-5390013.c
+codeflaws/371-C-bug-5389891-5390013/371-C-5389891.c
+48,52
+[("Delete b'\\n' at position 48 in file2", 47), ("Replace b'            if(n[0]*d[0]+n[1]*d[1]+n[2]*d[2]==0)\\n' with b'            if(n[0]+n[1]+n[2]==0)\\n' at position 52", 51)]

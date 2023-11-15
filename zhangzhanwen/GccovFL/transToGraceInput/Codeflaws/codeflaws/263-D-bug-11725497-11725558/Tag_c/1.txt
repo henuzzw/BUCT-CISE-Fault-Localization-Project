@@ -1,4 +1,0 @@
-codeflaws/263-D-bug-11725497-11725558/263-D-11725558.c
-codeflaws/263-D-bug-11725497-11725558/263-D-11725497.c
-8,26
-[("Delete b'\\n' at position 8 in file2", 7), ("Replace b'    }s++;\\n' with b'    }\\n' at position 26", 25)]

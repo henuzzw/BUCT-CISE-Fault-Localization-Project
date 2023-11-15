@@ -1,4 +1,0 @@
-codeflaws/363-A-bug-8603306-8603333/363-A-8603333.c
-codeflaws/363-A-bug-8603306-8603333/363-A-8603306.c
-44
-[('Replace b\'    scanf("%lld",&n);\\n\' with b\'    scanf("%l64d",&n);\\n\' at position 45', 44)]

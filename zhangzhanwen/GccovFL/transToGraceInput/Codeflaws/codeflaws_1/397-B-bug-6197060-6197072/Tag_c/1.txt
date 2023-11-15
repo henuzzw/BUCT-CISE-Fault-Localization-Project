@@ -1,0 +1,4 @@
+codeflaws/397-B-bug-6197060-6197072/397-B-6197072.c
+codeflaws/397-B-bug-6197060-6197072/397-B-6197060.c
+18
+[('Replace b\'            m * r >= n ? printf("Yes\\\\n") : printf("No\\\\n");\\n\' with b\'            m * r >= n ? printf("YES\\\\n") : printf("NO\\\\n");\\n\' at position 19', 18)]

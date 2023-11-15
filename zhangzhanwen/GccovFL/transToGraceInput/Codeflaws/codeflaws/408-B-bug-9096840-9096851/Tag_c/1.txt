@@ -1,4 +1,0 @@
-codeflaws/408-B-bug-9096840-9096851/408-B-9096851.c
-codeflaws/408-B-bug-9096840-9096851/408-B-9096840.c
-36
-[("Replace b'            return 0;\\n' with b'            break;\\n' at position 37", 36)]

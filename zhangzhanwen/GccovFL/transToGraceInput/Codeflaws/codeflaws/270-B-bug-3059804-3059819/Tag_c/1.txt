@@ -1,4 +1,0 @@
-codeflaws/270-B-bug-3059804-3059819/270-B-3059819.c
-codeflaws/270-B-bug-3059804-3059819/270-B-3059804.c
-5
-[("Replace b'    for(i=n;i>1;i--)\\n' with b'    for(i=n;i>=1;i--)\\n' at position 6", 5)]

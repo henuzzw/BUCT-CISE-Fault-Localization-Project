@@ -1,4 +1,0 @@
-codeflaws/219-B-bug-2174606-2174633/219-B-2174633.c
-codeflaws/219-B-bug-2174606-2174633/219-B-2174606.c
-20
-[("Replace b'            p = p1 / pow10 * pow10 - 1;\\n' with b'            p = (p / pow10 - 1) * pow10 + a;\\n' at position 21", 20)]

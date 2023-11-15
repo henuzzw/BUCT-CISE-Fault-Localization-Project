@@ -1,4 +1,0 @@
-codeflaws/311-A-bug-3909390-3920914/311-A-3920914.c
-codeflaws/311-A-bug-3909390-3920914/311-A-3909390.c
-6
-[("Replace b'if(sum<=k)\\n' with b'if(sum<k)\\n' at position 7", 6)]

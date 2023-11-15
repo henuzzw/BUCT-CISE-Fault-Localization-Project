@@ -1,0 +1,4 @@
+codeflaws/192-B-bug-15173156-15173181/192-B-15173181.c
+codeflaws/192-B-bug-15173156-15173181/192-B-15173156.c
+16,19
+[("Insert b'        return 0;\\n' at position 18 in file2", 17), ("Replace b'    min=num[1],i=1;\\n' with b'    min=2000,i=1;\\n' at position 21", 20)]

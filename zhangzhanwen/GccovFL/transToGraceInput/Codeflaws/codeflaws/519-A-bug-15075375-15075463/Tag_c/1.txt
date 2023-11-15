@@ -1,4 +1,0 @@
-codeflaws/519-A-bug-15075375-15075463/519-A-15075463.c
-codeflaws/519-A-bug-15075375-15075463/519-A-15075375.c
-3,3
-[("Replace b'    char str[9][9],i;\\n' with b'    char str[9][9],i,count1=0,count2=0,j;\\n' at position 4", 3), ("Insert b'    int count1=0,count2=0,j;\\n' at position 5 in file2", 4)]

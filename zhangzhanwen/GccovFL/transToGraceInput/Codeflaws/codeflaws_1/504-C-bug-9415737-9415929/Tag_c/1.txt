@@ -1,0 +1,4 @@
+codeflaws/504-C-bug-9415737-9415929/504-C-9415929.c
+codeflaws/504-C-bug-9415737-9415929/504-C-9415737.c
+87
+[("Replace b'      if(a[i] != a[N-1-i]) last1 = i;\\n' with b'      if(a[i] == a[N-1-i]) last1 = start;\\n' at position 88", 87)]

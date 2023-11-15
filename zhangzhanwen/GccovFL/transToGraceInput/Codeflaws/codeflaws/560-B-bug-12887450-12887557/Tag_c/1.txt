@@ -1,4 +1,0 @@
-codeflaws/560-B-bug-12887450-12887557/560-B-12887557.c
-codeflaws/560-B-bug-12887450-12887557/560-B-12887450.c
-77
-[("Replace b'  if(f==0)\\n' with b'  else if(f==0)\\n' at position 78", 77)]

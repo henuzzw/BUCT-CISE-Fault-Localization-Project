@@ -1,4 +1,0 @@
-codeflaws/288-A-bug-15596425-15596449/288-A-15596449.c
-codeflaws/288-A-bug-15596425-15596449/288-A-15596425.c
-11
-[("Replace b'    else if(n==1 && k==1)\\n' with b'    else if(n=1 && k==1)\\n' at position 12", 11)]

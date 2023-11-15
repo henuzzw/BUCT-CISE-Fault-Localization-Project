@@ -1,0 +1,4 @@
+codeflaws/369-A-bug-13250132-13250183/369-A-13250183.c
+codeflaws/369-A-bug-13250132-13250183/369-A-13250132.c
+32,33
+[("Delete b'    if(w<k)\\n' at position 32 in file2", 31), ("Delete b'\\n' at position 32 in file2", 31)]

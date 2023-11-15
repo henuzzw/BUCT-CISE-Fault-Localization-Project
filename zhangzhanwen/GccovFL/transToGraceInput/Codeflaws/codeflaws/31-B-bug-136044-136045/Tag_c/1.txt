@@ -1,4 +1,0 @@
-codeflaws/31-B-bug-136044-136045/31-B-136045.c
-codeflaws/31-B-bug-136044-136045/31-B-136044.c
-36,41
-[("Insert b'   end:\\n' at position 38 in file2", 37), ("Delete b'   end:\\n' at position 42 in file2", 41)]

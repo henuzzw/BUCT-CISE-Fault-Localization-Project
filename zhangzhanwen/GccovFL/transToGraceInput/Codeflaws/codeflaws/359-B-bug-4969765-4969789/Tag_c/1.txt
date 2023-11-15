@@ -1,4 +1,0 @@
-codeflaws/359-B-bug-4969765-4969789/359-B-4969789.c
-codeflaws/359-B-bug-4969765-4969789/359-B-4969765.c
-1
-[("Replace b'int A[1000001];\\n' with b'int A[50001];\\n' at position 2", 1)]

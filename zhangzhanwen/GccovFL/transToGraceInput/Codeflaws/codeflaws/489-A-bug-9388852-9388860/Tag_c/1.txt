@@ -1,4 +1,0 @@
-codeflaws/489-A-bug-9388852-9388860/489-A-9388860.c
-codeflaws/489-A-bug-9388852-9388860/489-A-9388852.c
-37
-[("Insert b'\\tif(l)\\n' at position 39 in file2", 38)]

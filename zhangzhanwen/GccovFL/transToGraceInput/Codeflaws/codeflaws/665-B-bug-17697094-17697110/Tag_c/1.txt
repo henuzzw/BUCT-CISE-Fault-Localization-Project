@@ -1,4 +1,0 @@
-codeflaws/665-B-bug-17697094-17697110/665-B-17697110.c
-codeflaws/665-B-bug-17697094-17697110/665-B-17697094.c
-52
-[('Replace b\'\\tprintf("%d\\\\n", time);\\n\' with b\'\\tprintf("total time : %d\\\\n", time);\\n\' at position 53', 52)]

@@ -1,0 +1,4 @@
+codeflaws/226-A-bug-2300522-2300539/226-A-2300539.c
+codeflaws/226-A-bug-2300522-2300539/226-A-2300522.c
+10,11
+[("Insert b'\\tif(ans)\\n' at position 12 in file2", 11), ("Insert b'\\telse return x-1;\\n' at position 14 in file2", 13)]

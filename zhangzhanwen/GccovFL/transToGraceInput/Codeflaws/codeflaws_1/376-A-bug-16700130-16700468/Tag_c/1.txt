@@ -1,0 +1,4 @@
+codeflaws/376-A-bug-16700130-16700468/376-A-16700468.c
+codeflaws/376-A-bug-16700130-16700468/376-A-16700130.c
+29
+[("Replace b'    for (i=pivot+1; i<max; i++)\\n' with b'    for (i=pivot+1; i<strlen(lever); i++)\\n' at position 30", 29)]

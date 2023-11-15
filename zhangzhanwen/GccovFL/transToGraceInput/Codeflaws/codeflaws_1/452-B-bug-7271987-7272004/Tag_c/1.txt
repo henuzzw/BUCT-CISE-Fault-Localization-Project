@@ -1,0 +1,4 @@
+codeflaws/452-B-bug-7271987-7272004/452-B-7272004.c
+codeflaws/452-B-bug-7271987-7272004/452-B-7271987.c
+80,84
+[('Replace b\'\\t\\t\\tprintf("%d %d\\\\n0 0 \\\\n%d 0\\\\n0 %d\\\\n",n,m,n,m);\\n\' with b\'\\t\\t\\tprintf("%d %d\\\\n0 0 \\\\n%d \\\\n0 %d\\\\n",n,m,n,m);\\n\' at position 81', 80), ("Insert b'\\treturn 0;\\n' at position 86 in file2", 85)]

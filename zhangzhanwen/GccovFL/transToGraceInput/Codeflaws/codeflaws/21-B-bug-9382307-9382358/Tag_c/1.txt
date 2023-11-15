@@ -1,4 +1,0 @@
-codeflaws/21-B-bug-9382307-9382358/21-B-9382358.c
-codeflaws/21-B-bug-9382307-9382358/21-B-9382307.c
-6,6,13
-[("Insert b'    if(a[0]==b[0]&&!a[0]&&c[0]) return 0;\\n' at position 8 in file2", 7), ("Insert b'    if(a[1]==b[1]&&!a[1]&&c[1]) return 0;\\n' at position 9 in file2", 8), ("Delete b'    if((!c[0]&&c[1])||(c[0]&&!c[1])) return 0;\\n' at position 15 in file2", 14)]

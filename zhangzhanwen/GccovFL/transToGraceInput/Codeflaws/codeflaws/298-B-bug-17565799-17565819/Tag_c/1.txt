@@ -1,4 +1,0 @@
-codeflaws/298-B-bug-17565799-17565819/298-B-17565819.c
-codeflaws/298-B-bug-17565799-17565819/298-B-17565799.c
-5
-[("Replace b'char r[1000001];\\n' with b'char r[10001];\\n' at position 6", 5)]

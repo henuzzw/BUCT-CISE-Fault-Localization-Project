@@ -1,4 +1,0 @@
-codeflaws/31-A-bug-17852743-17861117/31-A-17861117.c
-codeflaws/31-A-bug-17852743-17861117/31-A-17852743.c
-15,30
-[('Replace b\'\\t\\t\\t\\tprintf("%d %d %d",i+1,j+1,k+1);\\n\' with b\'\\t\\t\\t\\tprintf("%d %d %d",a[i],a[j],a[k]);\\n\' at position 16', 15), ("Insert b'\\n' at position 32 in file2", 31)]

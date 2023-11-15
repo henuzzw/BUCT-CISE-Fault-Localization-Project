@@ -1,4 +1,0 @@
-codeflaws/81-B-bug-5908654-5908668/81-B-5908668.c
-codeflaws/81-B-bug-5908654-5908668/81-B-5908654.c
-4
-[("Replace b'    char A[999999] , B[999999];\\n' with b'    char A[300] , B[300];\\n' at position 5", 4)]

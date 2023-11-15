@@ -1,0 +1,4 @@
+codeflaws/144-B-bug-8683528-8683923/144-B-8683923.c
+codeflaws/144-B-bug-8683528-8683923/144-B-8683528.c
+40
+[("Replace b'    for(i = (x1 < x2 ? x1 : x2) + 1, j = y1 < y2 ? y1 : y2, k = (x1 > x2 ? x1 : x2) - 1;i <= k;i++)\\n' with b'    for(i = (x1 < x2 ? x1 : x2) + 1, j = y1 < y2 ? y1 : y2, k = (y1 > y2 ? y1 : y2) - 1;i <= k;i++)\\n' at position 41", 40)]

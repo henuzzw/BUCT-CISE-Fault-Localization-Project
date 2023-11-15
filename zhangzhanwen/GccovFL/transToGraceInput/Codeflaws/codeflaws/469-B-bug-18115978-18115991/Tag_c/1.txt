@@ -1,4 +1,0 @@
-codeflaws/469-B-bug-18115978-18115991/469-B-18115991.c
-codeflaws/469-B-bug-18115978-18115991/469-B-18115978.c
-4
-[("Replace b'    int p, q, l, r, i, a, b, c[51], d[51], t1[2001]={0}, ans=0, j, k;\\n' with b'    int p, q, l, r, i, a, b, c[51], d[51], t1[1001]={0}, ans=0, j, k;\\n' at position 5", 4)]

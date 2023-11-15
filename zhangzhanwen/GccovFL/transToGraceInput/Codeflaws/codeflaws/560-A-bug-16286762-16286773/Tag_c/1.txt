@@ -1,4 +1,0 @@
-codeflaws/560-A-bug-16286762-16286773/560-A-16286773.c
-codeflaws/560-A-bug-16286762-16286773/560-A-16286762.c
-12
-[('Replace b\'\\t    \\tprintf("1\\\\n");\\n\' with b\'\\t    \\tprintf("%d\\\\n",t-1);\\n\' at position 13', 12)]

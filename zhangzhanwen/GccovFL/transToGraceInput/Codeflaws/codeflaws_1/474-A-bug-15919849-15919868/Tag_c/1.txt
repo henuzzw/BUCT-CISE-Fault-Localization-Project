@@ -1,0 +1,4 @@
+codeflaws/474-A-bug-15919849-15919868/474-A-15919868.c
+codeflaws/474-A-bug-15919849-15919868/474-A-15919849.c
+20
+[("Replace b'                msg[m++]=a[j+sh];\\n' with b'                msg[m++]=a[j-1];\\n' at position 21", 20)]

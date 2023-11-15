@@ -1,0 +1,4 @@
+codeflaws/478-A-bug-18101429-18101578/478-A-18101578.c
+codeflaws/478-A-bug-18101429-18101578/478-A-18101429.c
+9
+[("Replace b'\\tif(sum%5==0&&sum!=0)\\n' with b'\\tif(sum%5==0)\\n' at position 10", 9)]

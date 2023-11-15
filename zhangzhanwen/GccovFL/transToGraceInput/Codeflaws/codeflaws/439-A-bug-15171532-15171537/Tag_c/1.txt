@@ -1,4 +1,0 @@
-codeflaws/439-A-bug-15171532-15171537/439-A-15171537.c
-codeflaws/439-A-bug-15171532-15171537/439-A-15171532.c
-12
-[('Replace b\'printf("-1");\\n\' with b\'printf("0");\\n\' at position 13', 12)]

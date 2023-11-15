@@ -1,4 +1,0 @@
-codeflaws/407-B-bug-11837310-11837325/407-B-11837325.c
-codeflaws/407-B-bug-11837310-11837325/407-B-11837310.c
-9
-[("Replace b'\\t\\ta[i+1]=(a[i]*2+2-a[p[i]]+mod)%mod;\\n' with b'\\t\\ta[i+1]=(a[i]*2+2-a[p[i]])%mod;\\n' at position 10", 9)]

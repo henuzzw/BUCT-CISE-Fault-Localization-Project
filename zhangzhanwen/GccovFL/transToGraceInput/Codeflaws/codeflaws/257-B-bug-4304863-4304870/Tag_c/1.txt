@@ -1,4 +1,0 @@
-codeflaws/257-B-bug-4304863-4304870/257-B-4304870.c
-codeflaws/257-B-bug-4304863-4304870/257-B-4304863.c
-4
-[('Delete b\'    scanf("%d",&t);\\n\' at position 4 in file2', 3)]

@@ -1,4 +1,0 @@
-codeflaws/47-A-bug-16672494-16672523/47-A-16672523.c
-codeflaws/47-A-bug-16672494-16672523/47-A-16672494.c
-8
-[('Replace b\'\\tif(sum==n){printf("YES"); break;}\\n\' with b\'\\tif(sum==n){printf("Yes"); break;}\\n\' at position 9', 8)]

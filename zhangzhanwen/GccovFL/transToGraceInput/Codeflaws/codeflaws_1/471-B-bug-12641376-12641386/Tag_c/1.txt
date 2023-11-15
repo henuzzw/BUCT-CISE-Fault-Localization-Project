@@ -1,0 +1,4 @@
+codeflaws/471-B-bug-12641376-12641386/471-B-12641386.c
+codeflaws/471-B-bug-12641376-12641386/471-B-12641376.c
+23,37
+[("Insert b'\\n' at position 25 in file2", 24), ('Insert b\'    printf("YES\\\\n");\\n\' at position 40 in file2', 39)]

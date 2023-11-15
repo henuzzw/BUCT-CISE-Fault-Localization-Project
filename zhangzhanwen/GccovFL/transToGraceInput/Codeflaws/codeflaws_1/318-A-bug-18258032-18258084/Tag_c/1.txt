@@ -1,0 +1,4 @@
+codeflaws/318-A-bug-18258032-18258084/318-A-18258084.c
+codeflaws/318-A-bug-18258032-18258084/318-A-18258032.c
+9
+[('Replace b\'\\tif (k<=(n+1)/2) printf("%lld",2*k-1);\\n\' with b\'\\tif (k<=n/2) printf("%lld",2*k-1);\\n\' at position 10', 9)]

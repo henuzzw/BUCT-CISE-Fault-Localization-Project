@@ -1,4 +1,0 @@
-codeflaws/665-A-bug-17599900-17599922/665-A-17599922.c
-codeflaws/665-A-bug-17599900-17599922/665-A-17599900.c
-10
-[("Replace b'    t2=t1+ta;\\n' with b'    t2=h+ta;\\n' at position 11", 10)]

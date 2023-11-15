@@ -1,0 +1,4 @@
+codeflaws/362-A-bug-5867750-5867825/362-A-5867825.c
+codeflaws/362-A-bug-5867750-5867825/362-A-5867750.c
+34
+[("Replace b'                if((abs(r1-r2)%4==0)&&((abs(c1-c2))%4==0))\\n' with b'                if((abs(r1-r2)+abs(c1-c2))%4==0)\\n' at position 35", 34)]

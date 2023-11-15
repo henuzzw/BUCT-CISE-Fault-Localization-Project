@@ -1,0 +1,4 @@
+codeflaws/621-C-bug-16012389-16012404/621-C-16012404.c
+codeflaws/621-C-bug-16012389-16012404/621-C-16012389.c
+17
+[('Replace b\'//printf("d %d\\\\n",d);\\n\' with b\'printf("d %d\\\\n",d);\\n\' at position 18', 17)]

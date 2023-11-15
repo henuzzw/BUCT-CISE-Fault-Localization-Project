@@ -1,4 +1,0 @@
-codeflaws/496-A-bug-17591463-17591615/496-A-17591615.c
-codeflaws/496-A-bug-17591463-17591615/496-A-17591463.c
-11,34
-[("Insert b'        max=0;\\n' at position 13 in file2", 12), ("Replace b'}' with b'}\\n' at position 36", 35)]

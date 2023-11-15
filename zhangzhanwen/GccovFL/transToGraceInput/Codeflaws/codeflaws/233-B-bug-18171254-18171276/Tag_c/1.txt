@@ -1,4 +1,0 @@
-codeflaws/233-B-bug-18171254-18171276/233-B-18171276.c
-codeflaws/233-B-bug-18171254-18171276/233-B-18171254.c
-28
-[("Insert b'        sq--;\\n' at position 30 in file2", 29)]

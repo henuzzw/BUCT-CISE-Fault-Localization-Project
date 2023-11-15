@@ -1,0 +1,4 @@
+codeflaws/375-A-bug-5528494-5528496/375-A-5528496.c
+codeflaws/375-A-bug-5528494-5528496/375-A-5528494.c
+52
+[("Replace b'        else if((c == 1 || c == 6 || c == 9 || c == 8) && numCheck[(c-1)/2] == 0)\\n' with b'        else if(c == 1 || c == 6 || c == 9 || c == 8)\\n' at position 53", 52)]

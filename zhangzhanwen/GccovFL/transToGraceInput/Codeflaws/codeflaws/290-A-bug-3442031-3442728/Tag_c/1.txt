@@ -1,4 +1,0 @@
-codeflaws/290-A-bug-3442031-3442728/290-A-3442728.c
-codeflaws/290-A-bug-3442031-3442728/290-A-3442031.c
-28
-[('Replace b\'"Cleveland",\\n\' with b\'"Cleceland",\\n\' at position 29', 28)]

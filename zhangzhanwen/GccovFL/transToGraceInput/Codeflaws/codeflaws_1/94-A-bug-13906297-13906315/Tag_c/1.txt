@@ -1,0 +1,4 @@
+codeflaws/94-A-bug-13906297-13906315/94-A-13906315.c
+codeflaws/94-A-bug-13906297-13906315/94-A-13906297.c
+35
+[("Replace b'    for(i=0; i < 8; i++)\\n' with b'    for(i=0; i < 10; i++)\\n' at position 36", 35)]

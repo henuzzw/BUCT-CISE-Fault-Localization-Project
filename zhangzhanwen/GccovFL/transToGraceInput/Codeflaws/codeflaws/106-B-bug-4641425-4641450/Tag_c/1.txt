@@ -1,4 +1,0 @@
-codeflaws/106-B-bug-4641425-4641450/106-B-4641450.c
-codeflaws/106-B-bug-4641425-4641450/106-B-4641425.c
-20
-[("Replace b'        if(cost[i]<=min){\\n' with b'        if(cost[i]<min){\\n' at position 21", 20)]

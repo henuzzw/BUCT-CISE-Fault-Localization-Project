@@ -1,0 +1,4 @@
+codeflaws/330-B-bug-4143300-4143301/330-B-4143301.c
+codeflaws/330-B-bug-4143300-4143301/330-B-4143300.c
+33
+[("Replace b'    long int i = 0, count[1001] = {0}, count_ = 0, v, not_v, p, a[1001][1001] = {0}, min_ind, check[1001] = {0};\\n' with b'    long int i = 0, count[101] = {0}, count_ = 0, v, not_v, p, a[101][101] = {0}, min_ind, check[101] = {0};\\n' at position 34", 33)]

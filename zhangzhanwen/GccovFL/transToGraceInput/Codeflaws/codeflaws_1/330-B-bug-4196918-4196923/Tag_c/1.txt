@@ -1,0 +1,4 @@
+codeflaws/330-B-bug-4196918-4196923/330-B-4196923.c
+codeflaws/330-B-bug-4196918-4196923/330-B-4196918.c
+19
+[('Replace b\'       printf("%d\\\\n",n-1);\\n\' with b\'       printf("%d\\\\n",n);\\n\' at position 20', 19)]

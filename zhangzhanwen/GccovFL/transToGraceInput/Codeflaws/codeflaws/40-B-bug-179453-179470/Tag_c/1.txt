@@ -1,4 +1,0 @@
-codeflaws/40-B-bug-179453-179470/40-B-179470.c
-codeflaws/40-B-bug-179453-179470/40-B-179453.c
-29
-[("Replace b'     for(j=1;j<=m;j++)\\n' with b'     for(j=1;j<=n;j++)\\n' at position 30", 29)]

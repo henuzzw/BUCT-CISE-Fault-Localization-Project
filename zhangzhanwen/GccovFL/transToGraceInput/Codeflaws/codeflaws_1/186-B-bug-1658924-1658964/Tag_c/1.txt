@@ -1,0 +1,4 @@
+codeflaws/186-B-bug-1658924-1658964/186-B-1658964.c
+codeflaws/186-B-bug-1658924-1658964/186-B-1658924.c
+45,46
+[("Delete b'\\t\\t\\n' at position 45 in file2", 44), ('Delete b\'\\t\\tprintf("h1 = %lf, h2 = %lf\\\\n", h1, h2);\\n\' at position 45 in file2', 44)]

@@ -1,4 +1,0 @@
-codeflaws/568-A-bug-12727384-12727415/568-A-12727415.c
-codeflaws/568-A-bug-12727384-12727415/568-A-12727384.c
-42,42
-[("Replace b'    int Ans = -1, p, q, i;\\n' with b'    int Ans = -1, pi = 0, rub = 0, p, q, i;\\n' at position 43", 42), ("Insert b'    long long pi = 0, rub = 0;\\n' at position 44 in file2", 43)]

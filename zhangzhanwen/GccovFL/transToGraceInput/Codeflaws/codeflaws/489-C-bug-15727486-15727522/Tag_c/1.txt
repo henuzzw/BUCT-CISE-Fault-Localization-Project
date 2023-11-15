@@ -1,4 +1,0 @@
-codeflaws/489-C-bug-15727486-15727522/489-C-15727522.c
-codeflaws/489-C-bug-15727486-15727522/489-C-15727486.c
-10
-[("Replace b'    if(sum == 0  && n == 1) {\\n' with b'    if(sum == 0) {\\n' at position 11", 10)]

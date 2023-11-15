@@ -1,0 +1,4 @@
+codeflaws/533-C-bug-11110039-11110056/533-C-11110056.c
+codeflaws/533-C-bug-11110039-11110056/533-C-11110039.c
+7
+[("Replace b'    else if((a<c&&b>d)||(a>c&&b<=d)||(a>=c&&b>d)){\\n' with b'    else if((a<c&&b>d)||(a>c&&b<d)||(a>=c&&b>d)){\\n' at position 8", 7)]

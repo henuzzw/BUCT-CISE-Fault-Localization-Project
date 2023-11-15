@@ -1,0 +1,4 @@
+codeflaws/272-B-bug-3149351-3149360/272-B-3149360.c
+codeflaws/272-B-bug-3149351-3149360/272-B-3149351.c
+44
+[("Replace b'        Sum+=Cnt*(Cnt-1)/2;\\n' with b'        Sum+=Cnt*(Cnt-1);\\n' at position 45", 44)]

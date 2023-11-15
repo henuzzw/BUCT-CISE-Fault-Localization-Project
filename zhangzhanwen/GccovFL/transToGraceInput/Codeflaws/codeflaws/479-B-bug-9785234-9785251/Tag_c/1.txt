@@ -1,4 +1,0 @@
-codeflaws/479-B-bug-9785234-9785251/479-B-9785251.c
-codeflaws/479-B-bug-9785234-9785251/479-B-9785234.c
-37
-[("Replace b'            xk[m][1] = a[n-1];\\n' with b'            xk[m][1] = a[1];\\n' at position 38", 37)]

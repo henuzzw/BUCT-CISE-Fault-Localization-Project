@@ -1,4 +1,0 @@
-codeflaws/501-B-bug-10350396-10350412/501-B-10350412.c
-codeflaws/501-B-bug-10350396-10350412/501-B-10350396.c
-37
-[('Insert b\'\\t\\tprintf("%d\\\\n",hi);\\n\' at position 39 in file2', 38)]

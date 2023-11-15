@@ -1,0 +1,4 @@
+codeflaws/81-B-bug-5828640-5828650/81-B-5828650.c
+codeflaws/81-B-bug-5828640-5828650/81-B-5828640.c
+48
+[('Replace b"        if((print[i]==\' \' && isdigit(print[i-1]) && print[i+1]==\',\') || (print[i]==\' \' && print[i-1] == \'.\' && isdigit(print[i+1])) || (print[i]==\' \' && print[i-1] == \'.\' && print[i+1]==\',\'))\\n" with b"        if((print[i]==\' \' && isdigit(print[i-1]) && print[i+1]==\',\') || (print[i]==\' \' && print[i-1] == \'.\' && isdigit(print[i+1])))\\n" at position 49', 48)]

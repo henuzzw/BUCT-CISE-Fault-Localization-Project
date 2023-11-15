@@ -1,0 +1,4 @@
+codeflaws/268-C-bug-11976151-11976224/268-C-11976224.c
+codeflaws/268-C-bug-11976151-11976224/268-C-11976151.c
+8
+[("Replace b'    k=m;\\n' with b'    k=(n>m)?n:m;\\n' at position 9", 8)]

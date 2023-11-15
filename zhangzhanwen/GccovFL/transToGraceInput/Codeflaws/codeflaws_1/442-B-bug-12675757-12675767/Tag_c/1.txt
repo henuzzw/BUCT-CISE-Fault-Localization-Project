@@ -1,0 +1,4 @@
+codeflaws/442-B-bug-12675757-12675767/442-B-12675767.c
+codeflaws/442-B-bug-12675757-12675767/442-B-12675757.c
+29
+[('Replace b\'\\t\\t//printf("tmp = %.12lf\\\\n", tmp);\\n\' with b\'\\t\\tprintf("tmp = %.12lf\\\\n", tmp);\\n\' at position 30', 29)]

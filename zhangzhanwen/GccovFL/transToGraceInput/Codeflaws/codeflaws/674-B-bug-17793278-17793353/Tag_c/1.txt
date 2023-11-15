@@ -1,4 +1,0 @@
-codeflaws/674-B-bug-17793278-17793353/674-B-17793353.c
-codeflaws/674-B-bug-17793278-17793353/674-B-17793278.c
-9
-[("Replace b'\\tfor(fi=n;fi==a||fi==b||fi==c||fi==d;--fi);\\n' with b'\\tfor(fi=n;fi==a||fi==b||fi==c||fi==d;++fi);\\n' at position 10", 9)]

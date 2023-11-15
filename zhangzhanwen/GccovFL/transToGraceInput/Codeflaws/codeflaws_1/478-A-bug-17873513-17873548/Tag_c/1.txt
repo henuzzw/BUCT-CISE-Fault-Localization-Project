@@ -1,0 +1,4 @@
+codeflaws/478-A-bug-17873513-17873548/478-A-17873548.c
+codeflaws/478-A-bug-17873513-17873548/478-A-17873513.c
+11
+[("Replace b'\\tif(sum==avg*5&&sum!=0)\\n' with b'\\tif(sum==avg*5)\\n' at position 12", 11)]

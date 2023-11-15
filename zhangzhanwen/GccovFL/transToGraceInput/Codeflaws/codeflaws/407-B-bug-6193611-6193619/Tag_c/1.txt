@@ -1,4 +1,0 @@
-codeflaws/407-B-bug-6193611-6193619/407-B-6193619.c
-codeflaws/407-B-bug-6193611-6193619/407-B-6193611.c
-13
-[("Replace b'        dp[i] = (sum[i] - sum[p[i] - 1] + 2 + 1000000007LL + 1000000007LL) % 1000000007LL;\\n' with b'        dp[i] = (sum[i] - sum[p[i]] + 2 + 1000000007LL + 1000000007LL) % 1000000007LL;\\n' at position 14", 13)]

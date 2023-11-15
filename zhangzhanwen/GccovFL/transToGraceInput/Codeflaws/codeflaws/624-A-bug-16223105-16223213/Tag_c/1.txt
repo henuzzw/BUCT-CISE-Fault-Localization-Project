@@ -1,4 +1,0 @@
-codeflaws/624-A-bug-16223105-16223213/624-A-16223213.c
-codeflaws/624-A-bug-16223105-16223213/624-A-16223105.c
-10
-[("Replace b'    dtime = ((L-d)*1.0 / (v1 + v2));\\n' with b'    dtime = (L / (v1 + v2));\\n' at position 11", 10)]

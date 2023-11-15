@@ -1,0 +1,4 @@
+codeflaws/501-C-bug-9416146-9416176/501-C-9416176.c
+codeflaws/501-C-bug-9416146-9416176/501-C-9416146.c
+57
+[('Replace b\'    // printf("%d ^ %d = %d\\\\n", vertex[pos].xor,vertex[pos].number,tmp);\\n\' with b\'    printf("%d ^ %d = %d\\\\n", vertex[pos].xor,vertex[pos].number,tmp);\\n\' at position 58', 57)]

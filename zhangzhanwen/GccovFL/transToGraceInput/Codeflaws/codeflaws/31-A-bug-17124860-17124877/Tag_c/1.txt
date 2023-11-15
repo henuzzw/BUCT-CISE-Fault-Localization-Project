@@ -1,4 +1,0 @@
-codeflaws/31-A-bug-17124860-17124877/31-A-17124877.c
-codeflaws/31-A-bug-17124860-17124877/31-A-17124860.c
-7
-[('Replace b\'\\t\\tscanf("%d",&arr[i]);\\n\' with b\'\\t\\tscanf("%d",arr[i]);\\n\' at position 8', 7)]

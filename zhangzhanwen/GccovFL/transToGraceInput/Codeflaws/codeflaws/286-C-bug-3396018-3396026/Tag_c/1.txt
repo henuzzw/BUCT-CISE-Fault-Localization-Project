@@ -1,4 +1,0 @@
-codeflaws/286-C-bug-3396018-3396026/286-C-3396026.c
-codeflaws/286-C-bug-3396018-3396026/286-C-3396018.c
-17
-[("Replace b'\\t\\tif (a[j] < 0) x[++t] = -a[j];\\n' with b'\\t\\tif (a[j] < 0) x[++t] = a[j];\\n' at position 18", 17)]

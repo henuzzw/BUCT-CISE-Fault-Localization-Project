@@ -1,0 +1,4 @@
+codeflaws/14-B-bug-10930781-10930890/14-B-10930890.c
+codeflaws/14-B-bug-10930781-10930890/14-B-10930781.c
+23
+[("Replace b'        if(c>b || d<a){\\n' with b'        if(c>b){\\n' at position 24", 23)]

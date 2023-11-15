@@ -1,0 +1,4 @@
+codeflaws/359-A-bug-9156471-9156476/359-A-9156476.c
+codeflaws/359-A-bug-9156471-9156476/359-A-9156471.c
+9
+[("Replace b'            if (cur && (i == 0 || i == n - 1 || j == 0 || j == m - 1)) {\\n' with b'            if (i == 0 || i == n - 1 || j == 0 || j == m - 1) {\\n' at position 10", 9)]

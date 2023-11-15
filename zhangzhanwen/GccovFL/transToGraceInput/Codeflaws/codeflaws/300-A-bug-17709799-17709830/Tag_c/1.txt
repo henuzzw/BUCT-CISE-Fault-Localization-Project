@@ -1,4 +1,0 @@
-codeflaws/300-A-bug-17709799-17709830/300-A-17709830.c
-codeflaws/300-A-bug-17709799-17709830/300-A-17709799.c
-57
-[("Replace b'    zero.array[zero.size++] = negative.array[--negative.size];\\n' with b'    zero.array[zero.size++] = negative.array[negative.size--];\\n' at position 58", 57)]

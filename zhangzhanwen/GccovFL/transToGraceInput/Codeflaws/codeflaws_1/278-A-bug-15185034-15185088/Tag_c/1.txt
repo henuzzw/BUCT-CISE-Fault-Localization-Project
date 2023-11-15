@@ -1,0 +1,4 @@
+codeflaws/278-A-bug-15185034-15185088/278-A-15185088.c
+codeflaws/278-A-bug-15185034-15185088/278-A-15185034.c
+31
+[("Replace b'        for(i=t-1; i!=s-1; i++)\\n' with b'        for(i=t; i!=s; i++)\\n' at position 32", 31)]

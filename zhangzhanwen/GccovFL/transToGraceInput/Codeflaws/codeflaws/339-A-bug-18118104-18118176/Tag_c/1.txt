@@ -1,4 +1,0 @@
-codeflaws/339-A-bug-18118104-18118176/339-A-18118176.c
-codeflaws/339-A-bug-18118104-18118176/339-A-18118104.c
-21
-[("Replace b'    for(i=0;i<strlen(str);i++){\\n' with b'    for(i=0;i<101;i++){\\n' at position 22", 21)]

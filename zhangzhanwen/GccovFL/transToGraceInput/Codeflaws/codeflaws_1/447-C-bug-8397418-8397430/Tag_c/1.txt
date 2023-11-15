@@ -1,0 +1,4 @@
+codeflaws/447-C-bug-8397418-8397430/447-C-8397430.c
+codeflaws/447-C-bug-8397418-8397430/447-C-8397418.c
+25
+[('Replace b\'    //  printf("%d %d\\\\n", d[0][i], d[1][i]);\\n\' with b\'        printf("%d %d\\\\n", d[0][i], d[1][i]);\\n\' at position 26', 25)]

@@ -1,4 +1,0 @@
-codeflaws/34-B-bug-15790037-15790052/34-B-15790052.c
-codeflaws/34-B-bug-15790037-15790052/34-B-15790037.c
-34
-[("Replace b'\\tfor (i=0;i<m;i++){\\n' with b'\\tfor (i=0;i<l;i++){\\n' at position 35", 34)]

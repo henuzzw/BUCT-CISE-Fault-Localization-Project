@@ -1,4 +1,0 @@
-codeflaws/507-B-bug-17316554-17316592/507-B-17316592.c
-codeflaws/507-B-bug-17316554-17316592/507-B-17316554.c
-25
-[('Replace b\'\\tprintf("%lld\\\\n",(long long int)(ans/(2*r)) + (ans/(2*r) != (int)ans/(2*r)));\\n\' with b\'\\tprintf("%lld\\\\n",(long long int)(ans/(2*r) + 1));\\n\' at position 26', 25)]

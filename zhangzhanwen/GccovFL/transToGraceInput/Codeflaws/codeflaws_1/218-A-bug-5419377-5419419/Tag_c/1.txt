@@ -1,0 +1,4 @@
+codeflaws/218-A-bug-5419377-5419419/218-A-5419419.c
+codeflaws/218-A-bug-5419377-5419419/218-A-5419377.c
+5
+[("Replace b'    int long long r[2*n+1];\\n' with b'    int long long r[100];\\n' at position 6", 5)]

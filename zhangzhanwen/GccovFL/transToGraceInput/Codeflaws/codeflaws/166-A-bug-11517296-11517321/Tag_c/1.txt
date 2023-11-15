@@ -1,4 +1,0 @@
-codeflaws/166-A-bug-11517296-11517321/166-A-11517321.c
-codeflaws/166-A-bug-11517296-11517321/166-A-11517296.c
-31
-[("Insert b'    k--;\\n' at position 33 in file2", 32)]

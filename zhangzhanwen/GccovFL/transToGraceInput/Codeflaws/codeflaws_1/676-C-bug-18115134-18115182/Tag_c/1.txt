@@ -1,0 +1,4 @@
+codeflaws/676-C-bug-18115134-18115182/676-C-18115182.c
+codeflaws/676-C-bug-18115134-18115182/676-C-18115134.c
+19,42
+[('Insert b\'if(j==1&&k==1||m>=j||m>=k){printf("%d",n); return 0;}\\n\' at position 21 in file2', 20), ("Delete b'return 0;\\n' at position 43 in file2", 42)]

@@ -1,4 +1,0 @@
-codeflaws/106-C-bug-4414918-4414927/106-C-4414927.c
-codeflaws/106-C-bug-4414918-4414927/106-C-4414918.c
-2
-[("Replace b'int dp[1001][3000];\\n' with b'int dp[1001][1000];\\n' at position 3", 2)]

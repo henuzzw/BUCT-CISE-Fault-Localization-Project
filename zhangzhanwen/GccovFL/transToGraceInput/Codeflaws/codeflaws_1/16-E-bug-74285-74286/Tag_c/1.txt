@@ -1,0 +1,4 @@
+codeflaws/16-E-bug-74285-74286/16-E-74286.c
+codeflaws/16-E-bug-74285-74286/16-E-74285.c
+28
+[("Insert b'    tmp=1;\\n' at position 30 in file2", 29)]

@@ -1,0 +1,4 @@
+codeflaws/471-B-bug-12600748-12600884/471-B-12600884.c
+codeflaws/471-B-bug-12600748-12600884/471-B-12600748.c
+54,54,54
+[("Insert b'                if(ara[i] == ara[i + 1]){\\n' at position 56 in file2", 55), ("Insert b'                    ara_3[i + 1][1] = ara_3[i][0];\\n' at position 57 in file2", 56), ("Insert b'                }\\n' at position 58 in file2", 57)]

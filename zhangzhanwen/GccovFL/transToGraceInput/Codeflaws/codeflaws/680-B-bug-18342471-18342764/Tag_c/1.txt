@@ -1,4 +1,0 @@
-codeflaws/680-B-bug-18342471-18342764/680-B-18342764.c
-codeflaws/680-B-bug-18342471-18342764/680-B-18342471.c
-17
-[("Replace b'\\t\\tfor(int j=1;j<=k-i;j++)\\n' with b'\\t\\tfor(int j=1;j<k-i;j++)\\n' at position 18", 17)]

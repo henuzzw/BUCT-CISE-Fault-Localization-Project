@@ -1,4 +1,0 @@
-codeflaws/371-C-bug-15833782-15833872/371-C-15833872.c
-codeflaws/371-C-bug-15833782-15833872/371-C-15833782.c
-32,37
-[('Insert b\'   // printf("%d\\\\n",sand_price);\\n\' at position 34 in file2', 33), ("Replace b'    if(s_num != 0)  b = (int)ceil( 1.0*s_valid/s_num );\\n' with b'    if(b_num != 0)  b = (int)ceil( 1.0*s_valid/s_num );\\n' at position 39", 38)]

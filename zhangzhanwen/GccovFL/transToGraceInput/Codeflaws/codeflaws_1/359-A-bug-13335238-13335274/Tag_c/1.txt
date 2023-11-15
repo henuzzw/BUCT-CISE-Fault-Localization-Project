@@ -1,0 +1,4 @@
+codeflaws/359-A-bug-13335238-13335274/359-A-13335274.c
+codeflaws/359-A-bug-13335238-13335274/359-A-13335238.c
+99
+[('Replace b\'        printf("4");\\n\' with b\'        printf("2");\\n\' at position 100', 99)]

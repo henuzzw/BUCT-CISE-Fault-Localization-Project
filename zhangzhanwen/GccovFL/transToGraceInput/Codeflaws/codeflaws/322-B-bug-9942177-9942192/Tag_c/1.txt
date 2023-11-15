@@ -1,4 +1,0 @@
-codeflaws/322-B-bug-9942177-9942192/322-B-9942192.c
-codeflaws/322-B-bug-9942177-9942192/322-B-9942177.c
-11
-[("Replace b'    int ans1 = 0, ans2 = 0, ans3 = 0;\\n' with b'    int ans1, ans2, ans3;\\n' at position 12", 11)]

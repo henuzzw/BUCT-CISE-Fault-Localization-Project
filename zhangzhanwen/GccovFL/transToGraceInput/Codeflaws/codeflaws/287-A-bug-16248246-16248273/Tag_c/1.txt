@@ -1,4 +1,0 @@
-codeflaws/287-A-bug-16248246-16248273/287-A-16248273.c
-codeflaws/287-A-bug-16248246-16248273/287-A-16248246.c
-4
-[('Replace b"#define BLACK\\t\'#\'\\n" with b"#define BLACK\\t\'a\'\\n" at position 5', 4)]

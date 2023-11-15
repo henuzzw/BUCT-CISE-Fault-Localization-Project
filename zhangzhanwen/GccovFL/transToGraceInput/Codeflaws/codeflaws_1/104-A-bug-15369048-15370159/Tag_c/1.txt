@@ -1,0 +1,4 @@
+codeflaws/104-A-bug-15369048-15370159/104-A-15370159.c
+codeflaws/104-A-bug-15369048-15370159/104-A-15369048.c
+18,18
+[('Insert b\'        printf("0");\\n\' at position 20 in file2', 19), ("Insert b'    if(x<0)\\n' at position 21 in file2", 20)]

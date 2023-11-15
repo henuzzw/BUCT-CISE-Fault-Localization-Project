@@ -1,0 +1,4 @@
+codeflaws/479-A-bug-18240880-18240906/479-A-18240906.c
+codeflaws/479-A-bug-18240880-18240906/479-A-18240880.c
+16
+[("Replace b'    for(i=0; i!=6; i++)\\n' with b'    for(i=0; i!=5; i++)\\n' at position 17", 16)]

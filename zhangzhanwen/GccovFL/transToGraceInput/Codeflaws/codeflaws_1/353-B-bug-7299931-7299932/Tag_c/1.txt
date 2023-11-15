@@ -1,0 +1,4 @@
+codeflaws/353-B-bug-7299931-7299932/353-B-7299932.c
+codeflaws/353-B-bug-7299931-7299932/353-B-7299931.c
+96
+[('Replace b\'    printf("%d \\\\n",d1*d2);\\n\' with b\'    printf("%d",d1*d2);\\n\' at position 97', 96)]

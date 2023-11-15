@@ -1,0 +1,4 @@
+codeflaws/483-C-bug-11168180-11168213/483-C-11168213.c
+codeflaws/483-C-bug-11168180-11168213/483-C-11168180.c
+17
+[("Replace b'\\t\\t\\tk*=-1;\\n' with b'\\t\\t\\tk*=-k;\\n' at position 18", 17)]

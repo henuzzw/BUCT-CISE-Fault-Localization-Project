@@ -1,0 +1,4 @@
+codeflaws/55-C-bug-4110201-4110222/55-C-4110222.c
+codeflaws/55-C-bug-4110201-4110222/55-C-4110201.c
+16
+[("Replace b'        if (x <= 5 || y <= 5 || x >= w-4 || y >= h-4) {\\n' with b'        if (x <= 4 || y <= 4 || x >= w-3 || y >= h-3) {\\n' at position 17", 16)]

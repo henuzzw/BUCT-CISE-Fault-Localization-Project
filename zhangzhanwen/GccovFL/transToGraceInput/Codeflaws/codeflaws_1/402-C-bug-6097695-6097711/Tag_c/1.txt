@@ -1,0 +1,4 @@
+codeflaws/402-C-bug-6097695-6097711/402-C-6097711.c
+codeflaws/402-C-bug-6097695-6097711/402-C-6097695.c
+3,6
+[("Replace b'    int t,n,p,a[25][25],i,j,k;\\n' with b'    int t,n,p,a[25][25],i,j,count=0,k;\\n' at position 4", 3), ("Insert b'        int count=0;\\n' at position 8 in file2", 7)]

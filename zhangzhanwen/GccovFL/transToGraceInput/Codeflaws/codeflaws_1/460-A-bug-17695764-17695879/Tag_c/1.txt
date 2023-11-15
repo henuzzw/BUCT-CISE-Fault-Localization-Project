@@ -1,0 +1,4 @@
+codeflaws/460-A-bug-17695764-17695879/460-A-17695879.c
+codeflaws/460-A-bug-17695764-17695879/460-A-17695764.c
+6
+[("Replace b'\\tfor(i=1;i<=n;i++,t++)\\n' with b'\\tfor(i=1;i<=9;i++,t++)\\n' at position 7", 6)]

@@ -1,0 +1,4 @@
+codeflaws/474-A-bug-15925943-15925951/474-A-15925951.c
+codeflaws/474-A-bug-15925943-15925951/474-A-15925943.c
+5
+[('Replace b\'\\tchar a,ars[30]={"qwertyuiopasdfghjkl;zxcvbnm,./"},arr[103];\\n\' with b\'\\tchar a,ars[30]={"qwertyuiopasdfghjkl;zxcvbnm,./"},arr[50];\\n\' at position 6', 5)]

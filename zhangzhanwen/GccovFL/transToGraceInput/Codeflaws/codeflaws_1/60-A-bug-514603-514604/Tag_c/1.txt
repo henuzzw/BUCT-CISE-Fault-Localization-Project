@@ -1,0 +1,4 @@
+codeflaws/60-A-bug-514603-514604/60-A-514604.c
+codeflaws/60-A-bug-514603-514604/60-A-514603.c
+41
+[("Replace b'    else if(right == 1001 && left < 1000 && left < n)\\n' with b'    else if(right == 1001 && left < 1000)\\n' at position 42", 41)]
