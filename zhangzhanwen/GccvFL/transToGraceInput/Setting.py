@@ -26,6 +26,8 @@ getAcInfo = False
 # 是否生成WA代码的覆盖信息
 getWaInfo = True
 
+# test
+
 # 无需配置，用于存储路径的key
 problemDirName = 'path'
 
