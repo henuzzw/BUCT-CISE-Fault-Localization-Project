@@ -3,6 +3,8 @@ import os
 import subprocess
 ecode='utf-8' # 以utf-8的形式接收子程序控制台信息
 
+# test
+
 """返回当前路径下的文件以及文件夹路径"""
 
 def dirList(path=""):
