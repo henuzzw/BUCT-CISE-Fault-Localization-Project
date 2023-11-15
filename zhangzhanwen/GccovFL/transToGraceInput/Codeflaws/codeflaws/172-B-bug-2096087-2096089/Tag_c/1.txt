@@ -1,0 +1,4 @@
+codeflaws/172-B-bug-2096087-2096089/172-B-2096089.c
+codeflaws/172-B-bug-2096087-2096089/172-B-2096087.c
+5
+[("Delete b's[0]=r;\\n' at position 5 in file2", 4)]

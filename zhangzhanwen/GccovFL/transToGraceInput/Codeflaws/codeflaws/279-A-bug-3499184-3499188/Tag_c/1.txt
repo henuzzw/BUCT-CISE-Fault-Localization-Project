@@ -1,0 +1,4 @@
+codeflaws/279-A-bug-3499184-3499188/279-A-3499188.c
+codeflaws/279-A-bug-3499184-3499188/279-A-3499184.c
+48
+[('Replace b\'\\tprintf("%d\\\\n",Res-1);\\n\' with b\'\\tprintf("%d\\\\n",Res);\\n\' at position 49', 48)]

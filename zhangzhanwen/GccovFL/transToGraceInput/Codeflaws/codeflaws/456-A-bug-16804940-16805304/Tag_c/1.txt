@@ -1,0 +1,4 @@
+codeflaws/456-A-bug-16804940-16805304/456-A-16805304.c
+codeflaws/456-A-bug-16804940-16805304/456-A-16804940.c
+11,23
+[("Insert b'   \\n' at position 13 in file2", 12), ("Replace b'  if(f==1||(n==100000&&a[0][0]==1)||(n==3&&a[1][0]==1))\\n' with b'  if(f==1||(n==100000&&a[0][0]==1))\\n' at position 25", 24)]

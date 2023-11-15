@@ -1,0 +1,28 @@
+        -:    0:Source:../WA_c/271916_buggy.c
+        -:    0:Graph:271916_buggy.gcno
+        -:    0:Data:271916_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        1:    5:    int n,count=0,a,b,c;
+        1:    6:    scanf("%d",&n);
+        6:    7:    for(a=1; a<=n; a++)
+        -:    8:    {
+       30:    9:        for(b=1; b<=n; b++)
+        -:   10:        {
+      150:   11:            for(c=1; c<=n; c++)
+        -:   12:            {
+      125:   13:                if((a+b)>c && (a+c)>b && (b+c)>a)
+        -:   14:                {
+       65:   15:                    count++;
+        -:   16:                }
+        -:   17:            }
+        -:   18:        }
+        -:   19:    }
+        1:   20:    count=(((count-n)/n)+n);
+        1:   21:    printf("Number of possible triangles is %d",count);
+        1:   22:    return 0;
+        -:   23:}

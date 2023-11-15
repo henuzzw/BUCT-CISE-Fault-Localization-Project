@@ -1,0 +1,4 @@
+codeflaws/151-A-bug-17894582-17894687/151-A-17894687.c
+codeflaws/151-A-bug-17894582-17894687/151-A-17894582.c
+7
+[("Replace b'p = p/(np*n);\\n' with b'p = p/n;\\n' at position 8", 7)]

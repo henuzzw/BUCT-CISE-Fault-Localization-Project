@@ -1,0 +1,4 @@
+codeflaws/332-A-bug-4164851-4164917/332-A-4164917.c
+codeflaws/332-A-bug-4164851-4164917/332-A-4164851.c
+15
+[("Replace b'    if(time%num==0 && sequence[t-num-3]==sequence[t-num-2] && sequence[t-num-2]==sequence[t-num-1])count--;\\n' with b'    if(time%t==1)count--;\\n' at position 16", 15)]

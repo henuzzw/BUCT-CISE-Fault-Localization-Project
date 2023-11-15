@@ -1,0 +1,4 @@
+codeflaws/270-B-bug-5512793-5512829/270-B-5512829.c
+codeflaws/270-B-bug-5512793-5512829/270-B-5512793.c
+6
+[("Replace b'    int a[100000];\\n' with b'    int a[10000];\\n' at position 7", 6)]

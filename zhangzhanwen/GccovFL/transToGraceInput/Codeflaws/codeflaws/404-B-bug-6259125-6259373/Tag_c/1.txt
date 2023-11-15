@@ -1,0 +1,4 @@
+codeflaws/404-B-bug-6259125-6259373/404-B-6259373.c
+codeflaws/404-B-bug-6259125-6259373/404-B-6259125.c
+36
+[("Replace b'        long long pos=temp/a;\\n' with b'        int pos=temp/a;\\n' at position 37", 36)]

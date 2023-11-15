@@ -1,0 +1,4 @@
+codeflaws/500-C-bug-11925082-11925093/500-C-11925093.c
+codeflaws/500-C-bug-11925082-11925093/500-C-11925082.c
+6
+[("Replace b'    int ara[501],c[501],d[1001],a[501];\\n' with b'    int ara[m+1],c[n+1],d[m+1],a[n+1];\\n' at position 7", 6)]

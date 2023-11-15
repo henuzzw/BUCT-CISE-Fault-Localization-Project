@@ -1,0 +1,4 @@
+codeflaws/290-B-bug-3451027-3451032/290-B-3451032.c
+codeflaws/290-B-bug-3451027-3451032/290-B-3451027.c
+7
+[('Replace b\'    scanf("%d%d",&x,&y);\\n\' with b\'    scanf("%d",&x,&y);\\n\' at position 8', 7)]

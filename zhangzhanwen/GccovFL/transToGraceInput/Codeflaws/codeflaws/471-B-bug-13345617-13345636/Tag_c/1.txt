@@ -1,0 +1,4 @@
+codeflaws/471-B-bug-13345617-13345636/471-B-13345636.c
+codeflaws/471-B-bug-13345617-13345636/471-B-13345617.c
+89
+[('Replace b\'        \\n\' with b\'            printf("flag=0\\\\n");\\n\' at position 90', 89)]

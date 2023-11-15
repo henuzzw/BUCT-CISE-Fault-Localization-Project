@@ -1,0 +1,4 @@
+codeflaws/612-A-bug-15846264-15846281/612-A-15846281.c
+codeflaws/612-A-bug-15846264-15846281/612-A-15846264.c
+124
+[('Replace b\'\\n\' with b\'            printf("zew %d|",j);\\n\' at position 125', 124)]

@@ -1,0 +1,4 @@
+codeflaws/257-A-bug-17975370-17975380/257-A-17975380.c
+codeflaws/257-A-bug-17975370-17975380/257-A-17975370.c
+19
+[("Replace b'    for(i=0; i<=n; i++)\\n' with b'    for(i=0; i<n; i++)\\n' at position 20", 19)]

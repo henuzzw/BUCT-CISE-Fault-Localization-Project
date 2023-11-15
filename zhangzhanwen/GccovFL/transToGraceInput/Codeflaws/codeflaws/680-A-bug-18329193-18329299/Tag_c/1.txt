@@ -1,0 +1,4 @@
+codeflaws/680-A-bug-18329193-18329299/680-A-18329299.c
+codeflaws/680-A-bug-18329193-18329299/680-A-18329193.c
+85
+[("Replace b'                temp = a[i]; flag = 1;\\n' with b'                temp = a[i];\\n' at position 86", 85)]

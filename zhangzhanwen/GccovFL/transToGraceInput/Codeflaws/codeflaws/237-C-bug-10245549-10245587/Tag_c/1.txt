@@ -1,0 +1,4 @@
+codeflaws/237-C-bug-10245549-10245587/237-C-10245587.c
+codeflaws/237-C-bug-10245549-10245587/237-C-10245549.c
+32
+[("Replace b'\\tint lo = 0, hi = b-a+1, ans = -1, mid;\\n' with b'\\tint lo = 0, hi = b, ans = -1, mid;\\n' at position 33", 32)]

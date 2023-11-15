@@ -1,0 +1,4 @@
+codeflaws/174-B-bug-1504776-1504783/174-B-1504783.c
+codeflaws/174-B-bug-1504776-1504783/174-B-1504776.c
+19
+[("Replace b'\\t\\t\\tif (i<1 || i>8)\\n' with b'\\t\\t\\tif (i<1 || i>7)\\n' at position 20", 19)]

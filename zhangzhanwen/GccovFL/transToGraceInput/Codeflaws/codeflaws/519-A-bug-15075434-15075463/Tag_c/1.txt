@@ -1,0 +1,4 @@
+codeflaws/519-A-bug-15075434-15075463/519-A-15075463.c
+codeflaws/519-A-bug-15075434-15075463/519-A-15075434.c
+47
+[('Delete b\'    printf("%d %d",count1,count2);\\n\' at position 47 in file2', 46)]

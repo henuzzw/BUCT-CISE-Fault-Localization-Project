@@ -1,0 +1,4 @@
+codeflaws/276-D-bug-11924073-11924104/276-D-11924104.c
+codeflaws/276-D-bug-11924073-11924104/276-D-11924073.c
+2
+[("Replace b'void convert(int a[],long long int n,int i)\\n' with b'void convert(int a[],int n,int i)\\n' at position 3", 2)]

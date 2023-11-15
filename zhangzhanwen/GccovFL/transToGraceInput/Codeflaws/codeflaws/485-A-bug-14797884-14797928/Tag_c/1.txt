@@ -1,0 +1,4 @@
+codeflaws/485-A-bug-14797884-14797928/485-A-14797928.c
+codeflaws/485-A-bug-14797884-14797928/485-A-14797884.c
+10
+[("Replace b'        if(a>b*25) break;\\n' with b'        if(a>b*b) break;\\n' at position 11", 10)]

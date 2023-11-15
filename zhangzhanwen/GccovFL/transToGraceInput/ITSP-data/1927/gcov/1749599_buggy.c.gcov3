@@ -1,0 +1,31 @@
+        -:    0:Source:../WA_c/1749599_buggy.c
+        -:    0:Graph:1749599_buggy.gcno
+        -:    0:Data:1749599_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <bits/stdc++.h>
+        -:    2:using namespace std;
+        -:    3:
+        9:    4:int gcd(int a, int b)
+        -:    5:{
+        9:    6:    if(b)
+        -:    7:    {
+        6:    8:        return gcd(b, a % b);
+        -:    9:    }
+        -:   10:    else
+        3:   11:        return a;
+        -:   12:}
+        -:   13:
+        1:   14:int main()
+        -:   15:{
+        -:   16:    int T;
+        1:   17:    cin >> T;
+        4:   18:    for(int i = 0; i < T; i++)
+        -:   19:    {
+        -:   20:        int x, y;
+        3:   21:        cin >> x >> y;
+        3:   22:        int t = gcd(x, y) + x + y;
+        3:   23:        cout << t << endl;
+        -:   24:    }
+        -:   25:
+        4:   26:}

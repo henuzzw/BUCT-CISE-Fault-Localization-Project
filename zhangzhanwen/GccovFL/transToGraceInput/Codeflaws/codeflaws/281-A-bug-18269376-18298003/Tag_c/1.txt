@@ -1,0 +1,4 @@
+codeflaws/281-A-bug-18269376-18298003/281-A-18298003.c
+codeflaws/281-A-bug-18269376-18298003/281-A-18269376.c
+0,5
+[("Insert b'#include <string.h>\\n' at position 2 in file2", 1), ("Replace b'   char str[1000];\\n' with b'   char str[100];\\n' at position 7", 6)]

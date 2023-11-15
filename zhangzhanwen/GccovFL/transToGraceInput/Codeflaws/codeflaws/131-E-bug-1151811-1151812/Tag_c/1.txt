@@ -1,0 +1,4 @@
+codeflaws/131-E-bug-1151811-1151812/131-E-1151812.c
+codeflaws/131-E-bug-1151811-1151812/131-E-1151811.c
+55
+[("Replace b'\\t\\tfor (i = 0; i < 3*n; i++) {\\n' with b'\\t\\tfor (i = 0; i < 2*n; i++) {\\n' at position 56", 55)]

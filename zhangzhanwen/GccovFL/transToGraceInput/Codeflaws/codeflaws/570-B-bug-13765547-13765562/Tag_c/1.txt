@@ -1,0 +1,4 @@
+codeflaws/570-B-bug-13765547-13765562/570-B-13765562.c
+codeflaws/570-B-bug-13765547-13765562/570-B-13765547.c
+11
+[('Replace b\'       {  printf("%lld\\\\n",m); return 0;}\\n\' with b\'         printf("%lld\\\\n",m);\\n\' at position 12', 11)]

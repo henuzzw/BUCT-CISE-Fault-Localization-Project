@@ -1,0 +1,4 @@
+codeflaws/289-B-bug-4082382-4082392/289-B-4082392.c
+codeflaws/289-B-bug-4082382-4082392/289-B-4082382.c
+17
+[('Replace b\'        printf("0");\\n\' with b\'        printf("-1");\\n\' at position 18', 17)]

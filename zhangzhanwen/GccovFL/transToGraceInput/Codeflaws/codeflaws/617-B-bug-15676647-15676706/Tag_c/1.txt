@@ -1,0 +1,4 @@
+codeflaws/617-B-bug-15676647-15676706/617-B-15676706.c
+codeflaws/617-B-bug-15676647-15676706/617-B-15676647.c
+27
+[('Replace b\'        printf("%lld",ans);\\n\' with b\'        printf("%l64d",ans);\\n\' at position 28', 27)]

@@ -1,0 +1,4 @@
+codeflaws/2-C-bug-17379993-17380021/2-C-17380021.c
+codeflaws/2-C-bug-17379993-17380021/2-C-17379993.c
+16
+[('Replace b\'        scanf("%d%d%d",&p[i][0],&p[i][1],&r[i]);\\n\' with b\'        scanf("%lf%lf%lf",p[i][0],p[i][1],r[i]);\\n\' at position 17', 16)]

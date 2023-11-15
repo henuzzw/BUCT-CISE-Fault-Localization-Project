@@ -1,0 +1,4 @@
+codeflaws/281-A-bug-17554682-17554840/281-A-17554840.c
+codeflaws/281-A-bug-17554682-17554840/281-A-17554682.c
+4
+[("Replace b'    char ar[100000];\\n' with b'    char ar[10];\\n' at position 5", 4)]

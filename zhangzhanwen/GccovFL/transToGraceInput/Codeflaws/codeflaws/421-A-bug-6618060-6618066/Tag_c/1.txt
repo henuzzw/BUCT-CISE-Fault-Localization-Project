@@ -1,0 +1,4 @@
+codeflaws/421-A-bug-6618060-6618066/421-A-6618066.c
+codeflaws/421-A-bug-6618060-6618066/421-A-6618060.c
+26
+[('Replace b\'        printf("%d ",z[i]);\\n\' with b\'        printf("%d",z[i]);\\n\' at position 27', 26)]

@@ -1,0 +1,4 @@
+codeflaws/588-B-bug-15035408-15035413/588-B-15035413.c
+codeflaws/588-B-bug-15035408-15035413/588-B-15035408.c
+8
+[('Replace b\'printf("%lld",n);\\n\' with b\'printf("%d",n);\\n\' at position 9', 8)]

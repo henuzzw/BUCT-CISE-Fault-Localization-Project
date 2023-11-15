@@ -1,0 +1,4 @@
+codeflaws/215-D-bug-2210630-2210639/215-D-2210639.c
+codeflaws/215-D-bug-2210630-2210639/215-D-2210630.c
+9
+[("Replace b'          if(T[n]==t[n]||t[n]>T[n])\\n' with b'          if(T[n]==t[n])\\n' at position 10", 9)]

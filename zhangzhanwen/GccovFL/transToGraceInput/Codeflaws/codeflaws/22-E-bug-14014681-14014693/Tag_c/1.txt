@@ -1,0 +1,4 @@
+codeflaws/22-E-bug-14014681-14014693/22-E-14014693.c
+codeflaws/22-E-bug-14014681-14014693/22-E-14014681.c
+49
+[("Insert b'        return 0;\\n' at position 51 in file2", 50)]

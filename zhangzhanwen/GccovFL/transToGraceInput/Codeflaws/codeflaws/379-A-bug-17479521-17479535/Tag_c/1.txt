@@ -1,0 +1,4 @@
+codeflaws/379-A-bug-17479521-17479535/379-A-17479535.c
+codeflaws/379-A-bug-17479521-17479535/379-A-17479521.c
+6
+[("Replace b'\\twhile(a/b!=0)\\n' with b'\\twhile(a/b==0)\\n' at position 7", 6)]

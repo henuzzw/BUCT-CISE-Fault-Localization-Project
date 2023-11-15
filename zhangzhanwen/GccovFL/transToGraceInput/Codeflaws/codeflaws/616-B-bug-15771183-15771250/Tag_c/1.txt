@@ -1,0 +1,4 @@
+codeflaws/616-B-bug-15771183-15771250/616-B-15771250.c
+codeflaws/616-B-bug-15771183-15771250/616-B-15771183.c
+43
+[("Replace b'    for(j = 0; j < numAlleys; j++) {\\n' with b'    for(j = 0; j < numStreets; j++) {\\n' at position 44", 43)]

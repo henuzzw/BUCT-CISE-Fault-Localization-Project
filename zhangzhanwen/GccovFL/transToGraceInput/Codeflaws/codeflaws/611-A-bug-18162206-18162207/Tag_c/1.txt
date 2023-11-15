@@ -1,0 +1,4 @@
+codeflaws/611-A-bug-18162206-18162207/611-A-18162207.c
+codeflaws/611-A-bug-18162206-18162207/611-A-18162206.c
+8
+[('Replace b\'else if(strcmp(s,"month")==0){if(a==30)ans=11;\\n\' with b\'else if(strcmp(s,"month")==0){if(a==30)ans==11;\\n\' at position 9', 8)]

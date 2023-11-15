@@ -1,0 +1,4 @@
+codeflaws/451-A-bug-18252349-18252359/451-A-18252359.c
+codeflaws/451-A-bug-18252349-18252359/451-A-18252349.c
+0,11
+[("Insert b'#include <stdlib.h>\\n' at position 2 in file2", 1), ("Replace b'\\tif (i%2==0) \\n' with b'\\tif (i%2!= 0 ) \\n' at position 13", 12)]

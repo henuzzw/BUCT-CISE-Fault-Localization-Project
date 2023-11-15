@@ -1,0 +1,4 @@
+codeflaws/10-A-bug-7731197-7731208/10-A-7731208.c
+codeflaws/10-A-bug-7731197-7731208/10-A-7731197.c
+24
+[("Insert b'      last = b;\\n' at position 26 in file2", 25)]

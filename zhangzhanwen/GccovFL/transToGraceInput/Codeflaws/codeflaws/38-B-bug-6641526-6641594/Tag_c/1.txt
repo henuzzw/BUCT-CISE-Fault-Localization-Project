@@ -1,0 +1,4 @@
+codeflaws/38-B-bug-6641526-6641594/38-B-6641594.c
+codeflaws/38-B-bug-6641526-6641594/38-B-6641526.c
+28
+[("Replace b'    /*imprimir(tablero);*/\\n' with b'    imprimir(tablero);\\n' at position 29", 28)]

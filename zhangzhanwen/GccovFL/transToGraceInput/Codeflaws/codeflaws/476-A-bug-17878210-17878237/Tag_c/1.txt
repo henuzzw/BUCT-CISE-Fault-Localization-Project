@@ -1,0 +1,4 @@
+codeflaws/476-A-bug-17878210-17878237/476-A-17878237.c
+codeflaws/476-A-bug-17878210-17878237/476-A-17878210.c
+14
+[("Replace b'\\tif(n>=m)\\n' with b'\\tif(i>m)\\n' at position 15", 14)]

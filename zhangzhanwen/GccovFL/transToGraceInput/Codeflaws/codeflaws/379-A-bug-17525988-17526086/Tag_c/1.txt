@@ -1,0 +1,4 @@
+codeflaws/379-A-bug-17525988-17526086/379-A-17526086.c
+codeflaws/379-A-bug-17525988-17526086/379-A-17525988.c
+5
+[('Replace b\'    for(scanf("%d %d", &a, &b), res = a; a/b; res+=a/b, a=a/b+a%b);\\n\' with b\'    for(scanf("%d %d", &a, &b), res = a; a=a/b; res+=a);\\n\' at position 6', 5)]

@@ -1,0 +1,4 @@
+codeflaws/127-A-bug-13419090-13419121/127-A-13419121.c
+codeflaws/127-A-bug-13419090-13419121/127-A-13419090.c
+22
+[("Replace b'    p=(dist/50)*k;\\n' with b'    p=dist/50;\\n' at position 23", 22)]

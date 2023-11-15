@@ -1,0 +1,4 @@
+codeflaws/118-A-bug-18278479-18278495/118-A-18278495.c
+codeflaws/118-A-bug-18278479-18278495/118-A-18278479.c
+37
+[("Replace b'char s[100],c[200];\\n' with b'char s[100],c[100];\\n' at position 38", 37)]

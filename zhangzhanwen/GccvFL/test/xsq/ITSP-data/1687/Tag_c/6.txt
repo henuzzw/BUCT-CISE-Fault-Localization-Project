@@ -1,4 +1,0 @@
-466060_buggy.c
-466060_correct.c
-19
-sum计算错误

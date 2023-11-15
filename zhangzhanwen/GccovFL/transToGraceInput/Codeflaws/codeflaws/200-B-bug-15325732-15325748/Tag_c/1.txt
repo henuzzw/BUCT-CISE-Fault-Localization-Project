@@ -1,0 +1,4 @@
+codeflaws/200-B-bug-15325732-15325748/200-B-15325748.c
+codeflaws/200-B-bug-15325732-15325748/200-B-15325732.c
+17,17,24
+[("Insert b'\\t//float ans = sum / n;\\n' at position 19 in file2", 18), ('Insert b\'\\tprintf("%f", sum / n);\\n\' at position 20 in file2', 19), ('Delete b\'\\tprintf("%f",sum);\\n\' at position 26 in file2', 25)]

@@ -1,0 +1,4 @@
+codeflaws/675-A-bug-18280739-18280915/675-A-18280915.c
+codeflaws/675-A-bug-18280739-18280915/675-A-18280739.c
+9,10
+[('Replace b\' if(p<0) printf("NO"); else { if((p-(int)p)==0) printf("YES"); else printf("NO"); }}\\n\' with b\' if(p>0 && ((p-(int)p)==0)) printf("YES");\\n\' at position 10', 9), ('Delete b\' else printf("NO"); }\\n\' at position 10 in file2', 9)]

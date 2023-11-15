@@ -1,0 +1,4 @@
+codeflaws/288-C-bug-3459393-3459497/288-C-3459497.c
+codeflaws/288-C-bug-3459393-3459497/288-C-3459393.c
+9
+[("Replace b'\\tfor ( k = n; k >= 0; --k )\\n' with b'\\tfor ( k = n; k; --k )\\n' at position 10", 9)]

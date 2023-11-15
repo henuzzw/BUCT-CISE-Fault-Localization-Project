@@ -1,0 +1,4 @@
+codeflaws/622-B-bug-16220785-16220807/622-B-16220807.c
+codeflaws/622-B-bug-16220785-16220807/622-B-16220785.c
+29,31
+[('Delete b\'\\tprintf("Time: ");\\n\' at position 29 in file2', 28), ('Delete b\'\\tprintf("Time+: ");\\n\' at position 30 in file2', 29)]

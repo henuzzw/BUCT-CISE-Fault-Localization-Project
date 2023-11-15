@@ -1,0 +1,41 @@
+        -:    0:Source:../WA_c/271754_buggy.c
+        -:    0:Graph:271754_buggy.gcno
+        -:    0:Data:271754_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main()
+        -:    3:{
+        -:    4:    int num,n1,n2,n3,n4,n5;
+        1:    5:    scanf("%d",&num);
+        1:    6:    n5=num%10;
+        1:    7:    n4=((num%100)-n5)/10;
+        1:    8:    n3=((num%1000)-n5-(n4*10))/100;
+        1:    9:    n2=((num%10000)-n5-(n4*10)-(n3*100))/1000;
+        1:   10:    n1=num/10000;
+        1:   11:    if(num>=10000)
+        -:   12:    {
+    #####:   13:        printf("Reverse of %d is %d%d%d%d%d",num,n5,n4,n3,n2,n1);
+        -:   14:    }
+        1:   15:    else if(num>=1000)
+        -:   16:    {
+        1:   17:        printf("Reverse of %d is %d%d%d%d",num,n5,n4,n3,n2);
+        -:   18:    }
+    #####:   19:    else if(num>100)
+        -:   20:    {
+    #####:   21:        printf("Reverse of %d is %d%d%d",num,n5,n4,n3);
+        -:   22:    }
+    #####:   23:    else if(num>=10)
+        -:   24:    {
+    #####:   25:        printf("Reverse of %d is %d%d",num,n5,n4);
+        -:   26:    }
+    #####:   27:    else if((num==10000)||(num==1000)||(num==100)||(num==10))
+        -:   28:    {
+    #####:   29:        printf("Reverse of %d is 1",num);
+        -:   30:    }
+        -:   31:    else
+        -:   32:    {
+    #####:   33:        printf("Reverse of %d is %d",num,n5);
+        -:   34:    }
+        1:   35:    return 0;
+        -:   36:}

@@ -1,0 +1,4 @@
+codeflaws/553-B-bug-11750480-11750562/553-B-11750562.c
+codeflaws/553-B-bug-11750480-11750562/553-B-11750480.c
+9
+[("Replace b'void F(int n, long long k, int inc){\\n' with b'void F(int n, int k, int inc){\\n' at position 10", 9)]

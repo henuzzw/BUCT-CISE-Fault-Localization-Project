@@ -1,0 +1,4 @@
+codeflaws/82-B-bug-1147223-1147225/82-B-1147225.c
+codeflaws/82-B-bug-1147223-1147225/82-B-1147223.c
+52,52
+[("Insert b'        \\n' at position 54 in file2", 53), ("Insert b'        return 0;\\n' at position 55 in file2", 54)]

@@ -1,0 +1,4 @@
+codeflaws/14-D-bug-13962610-13962664/14-D-13962664.c
+codeflaws/14-D-bug-13962610-13962664/14-D-13962610.c
+39,39
+[("Replace b'      }else\\n' with b'      }\\n' at position 40", 39), ("Insert b'        distancia2=max(profundidad,distancia2);\\n' at position 41 in file2", 40)]

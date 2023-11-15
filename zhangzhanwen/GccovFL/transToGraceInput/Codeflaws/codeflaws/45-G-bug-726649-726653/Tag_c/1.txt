@@ -1,0 +1,4 @@
+codeflaws/45-G-bug-726649-726653/45-G-726653.c
+codeflaws/45-G-bug-726649-726653/45-G-726649.c
+20,20
+[("Replace b'  if (p[S]) {\\n' with b'  if (p[S-2]) {\\n' at position 21", 20), ("Insert b'  } else if (p[S-2]) {\\n' at position 22 in file2", 21)]

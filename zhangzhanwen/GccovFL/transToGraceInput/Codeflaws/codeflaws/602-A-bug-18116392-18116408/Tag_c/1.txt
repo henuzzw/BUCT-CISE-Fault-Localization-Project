@@ -1,0 +1,4 @@
+codeflaws/602-A-bug-18116392-18116408/602-A-18116408.c
+codeflaws/602-A-bug-18116392-18116408/602-A-18116392.c
+23
+[('Delete b\'        printf("%lld %lld",xd,yd);\\n\' at position 23 in file2', 22)]

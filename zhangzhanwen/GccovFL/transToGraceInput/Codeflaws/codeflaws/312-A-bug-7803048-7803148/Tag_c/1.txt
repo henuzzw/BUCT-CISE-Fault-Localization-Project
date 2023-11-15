@@ -1,0 +1,4 @@
+codeflaws/312-A-bug-7803048-7803148/312-A-7803148.c
+codeflaws/312-A-bug-7803048-7803148/312-A-7803048.c
+9
+[('Replace b\'\\t\\tscanf("%*[\\\\n]%[^\\\\n]", ZA);\\n\' with b\'\\t\\tscanf("\\\\n%[^\\\\n]", ZA);\\n\' at position 10', 9)]

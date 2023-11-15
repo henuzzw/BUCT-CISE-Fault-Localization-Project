@@ -1,0 +1,4 @@
+codeflaws/34-A-bug-14685934-14686061/34-A-14686061.c
+codeflaws/34-A-bug-14685934-14686061/34-A-14685934.c
+26,30
+[("Replace b'        else d = y - y0;\\n' with b'        d = y - y0;\\n' at position 27", 26), ("Insert b'                d0 = d;\\n' at position 32 in file2", 31)]

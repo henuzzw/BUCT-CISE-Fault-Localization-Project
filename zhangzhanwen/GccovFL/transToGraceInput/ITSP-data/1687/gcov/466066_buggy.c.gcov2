@@ -1,0 +1,48 @@
+        -:    0:Source:../WA_c/466066_buggy.c
+        -:    0:Graph:466066_buggy.gcno
+        -:    0:Data:466066_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<cstdio>
+        -:    3:#include<algorithm>
+        -:    4:using namespace std;
+       54:    5:long long findx(long long a, long long b)
+        -:    6:{
+        -:    7:    long long c, x, y;
+       54:    8:    if(a >= b)
+        -:    9:    {
+       52:   10:        x = a;
+       52:   11:        y = b;
+        -:   12:    }
+        -:   13:    else
+        -:   14:    {
+        2:   15:        x = b;
+        2:   16:        y = a;
+        -:   17:    }
+       54:   18:    c = x % y;
+       54:   19:    if(c == 0)
+        -:   20:    {
+        6:   21:        return y;
+        -:   22:    }
+        -:   23:    else
+        -:   24:    {
+       48:   25:        return findx(y, c);
+        -:   26:    }
+        -:   27:}
+        1:   28:int main()
+        -:   29:{
+        -:   30:    int k;
+        1:   31:    scanf("%d", &k);
+       13:   32:    while(k--)
+        -:   33:    {
+        -:   34:        long long a, b;
+        6:   35:        scanf("%lld %lld", &a, &b);
+        -:   36:        long long p, x, y;
+        6:   37:        p = findx(a, b) + 1;
+        6:   38:        x = a / p;
+        6:   39:        y = b / p;
+        6:   40:        cout << x + y << endl;
+        -:   41:    }
+        1:   42:    return 0;
+        3:   43:}

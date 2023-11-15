@@ -1,0 +1,4 @@
+codeflaws/181-A-bug-8356596-8356613/181-A-8356613.c
+codeflaws/181-A-bug-8356596-8356613/181-A-8356596.c
+13
+[('Replace b\'\\t\\t\\tscanf(" %c",&caracter);\\n\' with b\'\\t\\t\\tscanf("%c",&caracter);\\n\' at position 14', 13)]

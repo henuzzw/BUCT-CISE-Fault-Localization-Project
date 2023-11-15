@@ -1,0 +1,4 @@
+codeflaws/76-E-bug-382566-382568/76-E-382568.c
+codeflaws/76-E-bug-382566-382568/76-E-382566.c
+9
+[("Replace b'  long long d=0, s1=0, s2=0;\\n' with b'  long long d, s1, s2;\\n' at position 10", 9)]

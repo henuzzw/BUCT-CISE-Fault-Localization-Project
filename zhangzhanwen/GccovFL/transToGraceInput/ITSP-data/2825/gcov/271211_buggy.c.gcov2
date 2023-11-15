@@ -1,0 +1,31 @@
+        -:    0:Source:../WA_c/271211_buggy.c
+        -:    0:Graph:271211_buggy.gcno
+        -:    0:Data:271211_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        1:    3:int main()
+        -:    4:{
+        -:    5:    float x,y;//cordinate of the center of the circle
+        -:    6:    float r;// radius of the circle
+        -:    7:    float x1,y1;// the another cordinate provided by user
+        1:    8:    scanf("%f%f%f%f%f",&x,&y,&r,&x1,&y1);
+        1:    9:    float a=(x1-x)*(x1-x);
+        1:   10:    float b=(y1-y)*(y1-y);
+        1:   11:    float c=a+b;//distance between origen and cordinates providade by user
+        1:   12:    float d=sqrtf(c);
+        1:   13:    if(c<r)
+        -:   14:    {
+    #####:   15:        printf("Point is inside the Circle.");
+        -:   16:    }
+        1:   17:    else if(c==r)
+        -:   18:    {
+    #####:   19:        printf("Point is on the Circle.");
+        -:   20:    }
+        -:   21:    else
+        -:   22:    {
+        1:   23:        printf("Point is outside the Circle.");
+        -:   24:    }
+        1:   25:    return 0;
+        -:   26:}

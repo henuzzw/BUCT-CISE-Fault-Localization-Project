@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-13180078-13180211/336-A-13180211.c
+codeflaws/336-A-bug-13180078-13180211/336-A-13180078.c
+8
+[("Replace b'    if(x<0&&y<0) {x1=x+y; y1=0; x2=0; y2=x+y;}\\n' with b'    if(x<0&&y<0) {x1=x+y; y1=0; x2=0; y=x+y;}\\n' at position 9", 8)]

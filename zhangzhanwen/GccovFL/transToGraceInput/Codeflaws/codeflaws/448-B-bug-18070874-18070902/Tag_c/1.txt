@@ -1,0 +1,4 @@
+codeflaws/448-B-bug-18070874-18070902/448-B-18070902.c
+codeflaws/448-B-bug-18070874-18070902/448-B-18070874.c
+31
+[("Replace b'            while(a[i]==b[j] && i<lena && j<lenb)\\n' with b'            while(a[i]==b[j])\\n' at position 32", 31)]

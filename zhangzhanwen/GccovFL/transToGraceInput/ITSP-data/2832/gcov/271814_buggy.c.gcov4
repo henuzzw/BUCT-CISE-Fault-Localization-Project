@@ -1,0 +1,69 @@
+        -:    0:Source:../WA_c/271814_buggy.c
+        -:    0:Graph:271814_buggy.gcno
+        -:    0:Data:271814_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        -:    5:    int a,b,c; // a,b,c represent three sides of a triangle
+        1:    6:    scanf ("%d",&a);
+        1:    7:    scanf ("%d",&b);
+        1:    8:    scanf ("%d",&c);
+        -:    9:
+        1:   10:    if (a+b<c||b+c<a||c+a<b)
+        -:   11:
+        -:   12:    {
+    #####:   13:        printf ("Invalid Triangle");
+        -:   14:    }
+        -:   15:
+        -:   16:    else
+        -:   17:    {
+        1:   18:        if (c>=a && c>=b)
+        1:   19:            if ((((a*a)+(b*b))>c*c)&& ((a+b)>c))
+        -:   20:            {
+    #####:   21:                printf ("Acute Triangle");
+        -:   22:            }
+        1:   23:            else if ((((a*a)+(b*b))<c*c)&& ((a+b)>c))
+        -:   24:            {
+        1:   25:                printf ("Obtuse Triangle");
+        -:   26:            }
+    #####:   27:            else if ((((a*a)+(b*b))==c*c)&& ((a+b)>c))
+        -:   28:            {
+    #####:   29:                printf ("Right Triangle");
+        -:   30:            }
+        -:   31:
+        1:   32:        if (a>=b && a>=c)
+        -:   33:
+    #####:   34:            if ((((c*c)+(b*b))>a*a)&& ((a+b)>c))
+        -:   35:            {
+    #####:   36:                printf ("Acute Triangle");
+        -:   37:            }
+    #####:   38:            else if ((((c*c)+(b*b))<a*a)&& ((a+b)>c))
+        -:   39:            {
+    #####:   40:                printf ("Obtuse Triangle");
+        -:   41:            }
+    #####:   42:            else if ((((c*c)+(b*b))==a*a)&& ((a+b)>c))
+        -:   43:            {
+    #####:   44:                printf ("Right Triangle");
+        -:   45:            }
+        -:   46:
+        1:   47:        if (b>=a && b>=c)
+        -:   48:
+    #####:   49:            if ((((a*a)+(c*c))>b*b)&& ((a+b)>c))
+        -:   50:            {
+    #####:   51:                printf ("Acute Triangle");
+        -:   52:            }
+    #####:   53:            else if ((((a*a)+(c*c))<b*b)&& ((a+b)>c))
+        -:   54:            {
+    #####:   55:                printf ("Obtuse Triangle");
+        -:   56:            }
+    #####:   57:            else if ((((a*a)+(c*c))==b*b)&& ((a+b)>c))
+        -:   58:            {
+    #####:   59:                printf ("Right Triangle");
+        -:   60:            }
+        -:   61:    }
+        -:   62:
+        1:   63:    return 0;
+        -:   64:}

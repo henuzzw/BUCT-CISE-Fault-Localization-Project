@@ -1,0 +1,4 @@
+codeflaws/270-B-bug-3912548-3912572/270-B-3912572.c
+codeflaws/270-B-bug-3912548-3912572/270-B-3912548.c
+10
+[("Replace b'            sum=i+1;\\n' with b'            sum++;\\n' at position 11", 10)]

@@ -1,0 +1,4 @@
+codeflaws/403-A-bug-6100756-6100800/403-A-6100800.c
+codeflaws/403-A-bug-6100756-6100800/403-A-6100756.c
+60
+[("Insert b'       first_free_pos = 0;\\n' at position 62 in file2", 61)]

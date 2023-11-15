@@ -1,0 +1,4 @@
+codeflaws/221-A-bug-15554174-15554248/221-A-15554248.c
+codeflaws/221-A-bug-15554174-15554248/221-A-15554174.c
+3
+[("Replace b'int n,i,j,a[10000],temp;\\n' with b'int n,i,j,a[101],temp;\\n' at position 4", 3)]

@@ -1,0 +1,4 @@
+codeflaws/282-C-bug-4170078-4170152/282-C-4170152.c
+codeflaws/282-C-bug-4170078-4170152/282-C-4170078.c
+4,14
+[("Insert b'  *l = 0;\\n' at position 6 in file2", 5), ('Replace b\'  printf ("%s\\\\n", lx == ly && p == q ? "YES" : "NO");\\n\' with b\'  printf ("%s\\\\n", lx != ly || lx == 1 && p != q || !p && q ? "NO" : "YES");\\n\' at position 16', 15)]

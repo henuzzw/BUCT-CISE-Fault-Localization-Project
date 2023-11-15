@@ -1,0 +1,4 @@
+codeflaws/299-A-bug-14347069-14347114/299-A-14347114.c
+codeflaws/299-A-bug-14347069-14347114/299-A-14347069.c
+11
+[("Replace b'\\tfor (i=1;i<n;i++) {\\n' with b'\\tfor (i=1;i<n-1;i++) {\\n' at position 12", 11)]

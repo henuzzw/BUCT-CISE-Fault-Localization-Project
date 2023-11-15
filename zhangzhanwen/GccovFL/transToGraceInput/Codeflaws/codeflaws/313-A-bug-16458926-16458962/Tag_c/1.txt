@@ -1,0 +1,4 @@
+codeflaws/313-A-bug-16458926-16458962/313-A-16458962.c
+codeflaws/313-A-bug-16458926-16458962/313-A-16458926.c
+6
+[('Replace b\'    printf("%d",a);\\n\' with b\'    printf("u have max account");\\n\' at position 7', 6)]

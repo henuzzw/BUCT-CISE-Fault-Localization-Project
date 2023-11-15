@@ -1,0 +1,4 @@
+codeflaws/472-C-bug-11315043-11315053/472-C-11315053.c
+codeflaws/472-C-bug-11315043-11315053/472-C-11315043.c
+23
+[('Replace b\'\\t//FILE *fin = freopen("input.txt", "r", stdin);\\n\' with b\'\\tFILE *fin = freopen("input.txt", "r", stdin);\\n\' at position 24', 23)]

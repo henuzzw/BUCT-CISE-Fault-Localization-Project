@@ -1,0 +1,4 @@
+codeflaws/103-A-bug-18288288-18288294/103-A-18288294.c
+codeflaws/103-A-bug-18288288-18288294/103-A-18288288.c
+3
+[('Replace b\'\\tfor(;scanf("%d",&a)+1;R+=1+i++*~-a);\\n\' with b\'\\tfor(;scanf("%d",&a);R+=1+i++*~-a);\\n\' at position 4', 3)]

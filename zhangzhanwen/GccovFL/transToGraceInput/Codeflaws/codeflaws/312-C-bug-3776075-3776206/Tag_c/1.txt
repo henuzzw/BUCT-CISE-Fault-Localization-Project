@@ -1,0 +1,4 @@
+codeflaws/312-C-bug-3776075-3776206/312-C-3776206.c
+codeflaws/312-C-bug-3776075-3776206/312-C-3776075.c
+4
+[("Replace b'    if(((a*(a-1))/2)>b){\\n' with b'    if(((a*(a-1))/2)+1>b){\\n' at position 5", 4)]

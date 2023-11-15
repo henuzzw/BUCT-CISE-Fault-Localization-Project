@@ -1,0 +1,4 @@
+codeflaws/509-B-bug-17431605-17431632/509-B-17431632.c
+codeflaws/509-B-bug-17431605-17431632/509-B-17431605.c
+21
+[('Replace b\'                    if(k>d){k=1;printf("%d ",k);}\\n\' with b\'                    if(j>d){k=1;printf("%d ",k);}\\n\' at position 22', 21)]

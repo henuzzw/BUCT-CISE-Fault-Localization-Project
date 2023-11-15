@@ -1,0 +1,4 @@
+codeflaws/567-C-bug-12479920-12480054/567-C-12480054.c
+codeflaws/567-C-bug-12479920-12480054/567-C-12479920.c
+119
+[("Replace b'        if(A[i].val % K != 0 || A[i].val >= 1000000000 / K + 1 || A[i].val <= -1000000000 / K - 1) {\\n' with b'        if(A[i].val % K != 0 || A[i].val >= 1000000000 / K + 1) {\\n' at position 120", 119)]

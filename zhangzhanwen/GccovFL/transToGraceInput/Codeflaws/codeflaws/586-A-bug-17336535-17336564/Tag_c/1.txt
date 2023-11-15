@@ -1,0 +1,4 @@
+codeflaws/586-A-bug-17336535-17336564/586-A-17336564.c
+codeflaws/586-A-bug-17336535-17336564/586-A-17336535.c
+38,38,38
+[("Insert b'\\tFOR(i, 1, n-1)\\n' at position 40 in file2", 39), ("Insert b'\\t\\tif(a[i] == 2 && a[i+1] == 0)\\n' at position 41 in file2", 40), ("Insert b'\\t\\t\\ta[i+1] = 2;\\n' at position 42 in file2", 41)]

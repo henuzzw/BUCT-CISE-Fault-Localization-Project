@@ -1,0 +1,4 @@
+codeflaws/275-A-bug-4451705-4451715/275-A-4451715.c
+codeflaws/275-A-bug-4451705-4451715/275-A-4451705.c
+72,74,75
+[("Delete b'            if(j==3)\\n' at position 72 in file2", 71), ("Delete b'            else\\n' at position 73 in file2", 72), ('Delete b\'            printf("%d ",b[i][j]);\\n\' at position 73 in file2', 72)]

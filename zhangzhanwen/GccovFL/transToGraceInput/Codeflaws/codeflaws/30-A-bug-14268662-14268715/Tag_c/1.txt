@@ -1,0 +1,4 @@
+codeflaws/30-A-bug-14268662-14268715/30-A-14268715.c
+codeflaws/30-A-bug-14268662-14268715/30-A-14268662.c
+9,11
+[("Replace b'\\twhile (p*p<b*b&&x*x<b*b) {\\n' with b'\\twhile (p*p<b*b) {\\n' at position 10", 9), ('Delete b\'\\t\\tprintf("%lld\\\\n",x);\\n\' at position 11 in file2', 10)]

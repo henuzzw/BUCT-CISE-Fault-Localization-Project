@@ -1,0 +1,38 @@
+        -:    0:Source:../WA_c/1063153_buggy.c
+        -:    0:Graph:1063153_buggy.gcno
+        -:    0:Data:1063153_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <iostream>
+        -:    2:using namespace std;
+        -:    3:int num;
+       11:    4:void sp(int n)
+        -:    5:{
+        -:    6:    int m;
+       11:    7:    if (n >= 3)
+        -:    8:    {
+        8:    9:        m = n / 3;
+        8:   10:        n = n - 2 * m;
+        8:   11:        num += m;
+        8:   12:        if (n >= 3)
+        -:   13:        {
+        4:   14:            sp(n);
+        -:   15:        }
+        -:   16:        else
+        -:   17:        {
+        4:   18:            n = n + 1;
+        4:   19:            sp(n);
+        -:   20:        }
+        -:   21:    }
+       11:   22:}
+        4:   23:int main()
+        -:   24:{
+        -:   25:    int n;
+        7:   26:    while (cin >> n && n)
+        -:   27:    { 
+        3:   28:        num = 0;
+        3:   29:        num++;
+        3:   30:        sp(n);
+        3:   31:        cout << num << endl;
+        -:   32:    }
+        4:   33:}

@@ -1,0 +1,4 @@
+codeflaws/412-A-bug-6408434-6408530/412-A-6408530.c
+codeflaws/412-A-bug-6408434-6408530/412-A-6408434.c
+27
+[("Replace b'        q = k - 1;\\n' with b'        q = n - 1;\\n' at position 28", 27)]

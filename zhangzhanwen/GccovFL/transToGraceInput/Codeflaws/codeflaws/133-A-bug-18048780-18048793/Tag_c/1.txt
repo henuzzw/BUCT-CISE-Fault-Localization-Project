@@ -1,0 +1,4 @@
+codeflaws/133-A-bug-18048780-18048793/133-A-18048793.c
+codeflaws/133-A-bug-18048780-18048793/133-A-18048780.c
+3
+[("Replace b'#define LEN 3\\n' with b'#define LEN 4\\n' at position 4", 3)]

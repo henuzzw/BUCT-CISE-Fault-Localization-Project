@@ -1,0 +1,4 @@
+codeflaws/214-B-bug-4068083-4068178/214-B-4068178.c
+codeflaws/214-B-bug-4068083-4068178/214-B-4068083.c
+51
+[("Replace b'\\t\\t\\t\\t\\tif(num[n-3]==0)\\n' with b'\\t\\t\\t\\t\\tif(num[i-3]==0)\\n' at position 52", 51)]

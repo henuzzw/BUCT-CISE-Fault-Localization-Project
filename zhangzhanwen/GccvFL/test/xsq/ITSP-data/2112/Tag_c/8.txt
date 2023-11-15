@@ -1,4 +1,0 @@
-1437179_buggy.c
-1437179_correct.c
-27
-count多减了一次

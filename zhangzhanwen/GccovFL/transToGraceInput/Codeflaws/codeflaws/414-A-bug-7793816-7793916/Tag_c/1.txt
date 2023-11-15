@@ -1,0 +1,4 @@
+codeflaws/414-A-bug-7793816-7793916/414-A-7793916.c
+codeflaws/414-A-bug-7793816-7793916/414-A-7793816.c
+7
+[("Replace b'\\tif (a == 1 && b > 0 || a > 1 && b == 0 || b < a / 2)\\n' with b'\\tif (b < a / 2)\\n' at position 8", 7)]

@@ -1,0 +1,4 @@
+codeflaws/190-B-bug-5821087-5821284/190-B-5821284.c
+codeflaws/190-B-bug-5821087-5821284/190-B-5821087.c
+12
+[("Replace b'        rad = 0;\\n' with b'        rad = (r1+r2) - d;\\n' at position 13", 12)]

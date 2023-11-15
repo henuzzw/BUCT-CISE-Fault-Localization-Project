@@ -1,0 +1,4 @@
+codeflaws/463-A-bug-17903389-17903403/463-A-17903403.c
+codeflaws/463-A-bug-17903389-17903403/463-A-17903389.c
+33
+[("Replace b'\\tint a,b,c,q=0,d,t=100000,k=1;\\n' with b'\\tint a,b,c,q=0,d,t=10000,k=1;\\n' at position 34", 33)]

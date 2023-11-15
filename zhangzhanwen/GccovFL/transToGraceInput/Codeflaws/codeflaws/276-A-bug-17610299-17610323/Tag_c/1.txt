@@ -1,0 +1,4 @@
+codeflaws/276-A-bug-17610299-17610323/276-A-17610323.c
+codeflaws/276-A-bug-17610299-17610323/276-A-17610299.c
+3
+[("Replace b'    int n,k,t,f=0,i,j,m=0,q=-1000000000,p=0,w=0;\\n' with b'    int n,k,t,f=0,i,j,m=0,q=-999999999999,p=0,w=0;\\n' at position 4", 3)]

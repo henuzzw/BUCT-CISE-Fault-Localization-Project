@@ -1,0 +1,63 @@
+        -:    0:Source:../WA_c/277849_buggy.c
+        -:    0:Graph:277849_buggy.gcno
+        -:    0:Data:277849_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        -:    3:int check_prime(int num);
+       78:    4:int check_prime(int num)
+        -:    5:{
+        -:    6:    int i,d;
+       78:    7:    i=2;
+        -:    8:
+      238:    9:    while (i<sqrt(num))
+        -:   10:    {
+      128:   11:        d=num%i;
+      128:   12:        if (d==0)
+        -:   13:        {
+       48:   14:            return 0; //0 if not prime
+        -:   15:        }
+        -:   16:        else
+        -:   17:        {
+       80:   18:            i++;
+        -:   19:        }
+        -:   20:    }
+       30:   21:    if (i==num)
+        -:   22:    {
+        2:   23:        int b=sqrt(num);
+        2:   24:        if (i==(b+1))
+        -:   25:        {
+        2:   26:            return 1;    //1 if prime
+        -:   27:        }
+        -:   28:    }
+        -:   29:    else
+        -:   30:    {
+       28:   31:        return 0;   //if input is 0 or 1
+        -:   32:    }
+    #####:   33:}
+        -:   34:
+        1:   35:int main()
+        -:   36:{
+        -:   37:    int n,i,a,b;
+        1:   38:    i=2;
+        1:   39:    scanf ("%d",&n);
+       79:   40:    while (n-2>=i)
+        -:   41:    {
+       39:   42:        a=check_prime(n-i);
+       39:   43:        b=check_prime(i);
+       39:   44:        if (a==1 && b==1)
+        -:   45:        {
+    #####:   46:            printf("Yes");
+        -:   47:        }
+        -:   48:        else
+        -:   49:        {
+       39:   50:            i++;
+        -:   51:        }
+        -:   52:    }
+        1:   53:    if (i==(n-1))
+        -:   54:    {
+        1:   55:        printf ("No");
+        -:   56:    }
+        1:   57:    return 0;
+        -:   58:}

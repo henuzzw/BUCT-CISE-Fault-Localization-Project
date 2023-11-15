@@ -1,0 +1,4 @@
+codeflaws/69-B-bug-18294344-18294349/69-B-18294349.c
+codeflaws/69-B-bug-18294344-18294349/69-B-18294344.c
+6
+[("Replace b'        tt[i]=1001, cc[i]=1001;\\n' with b'        tt[i]=1000, cc[i]=1000;\\n' at position 7", 6)]

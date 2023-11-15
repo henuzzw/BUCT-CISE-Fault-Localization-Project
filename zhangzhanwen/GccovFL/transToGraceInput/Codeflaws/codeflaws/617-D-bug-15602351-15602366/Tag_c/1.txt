@@ -1,0 +1,4 @@
+codeflaws/617-D-bug-15602351-15602366/617-D-15602366.c
+codeflaws/617-D-bug-15602351-15602366/617-D-15602351.c
+29
+[("Replace b'    return v>min(x,y) && v<max(x,y);\\n' with b'    return v>=min(x,y) && v<=max(x,y);\\n' at position 30", 29)]

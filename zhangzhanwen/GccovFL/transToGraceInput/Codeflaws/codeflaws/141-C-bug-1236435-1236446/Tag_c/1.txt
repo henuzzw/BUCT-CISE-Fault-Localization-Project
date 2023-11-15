@@ -1,0 +1,4 @@
+codeflaws/141-C-bug-1236435-1236446/141-C-1236446.c
+codeflaws/141-C-bug-1236435-1236446/141-C-1236435.c
+13,14
+[("Replace b'\\tchar s[3000][15], c;\\n' with b'\\tchar s[3000][10], c;\\n' at position 14", 13), ("Delete b'\\tchar name[3000][10];\\n' at position 14 in file2", 13)]

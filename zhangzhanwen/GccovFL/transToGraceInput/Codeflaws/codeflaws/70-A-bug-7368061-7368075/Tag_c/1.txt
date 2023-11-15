@@ -1,0 +1,4 @@
+codeflaws/70-A-bug-7368061-7368075/70-A-7368075.c
+codeflaws/70-A-bug-7368061-7368075/70-A-7368061.c
+7
+[('Replace b\'\\t\\tprintf("1\\\\n");\\n\' with b\'\\t\\tprintf("0\\\\n");\\n\' at position 8', 7)]

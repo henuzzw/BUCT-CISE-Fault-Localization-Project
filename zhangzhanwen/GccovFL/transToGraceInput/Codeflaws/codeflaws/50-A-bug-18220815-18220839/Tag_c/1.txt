@@ -1,0 +1,4 @@
+codeflaws/50-A-bug-18220815-18220839/50-A-18220839.c
+codeflaws/50-A-bug-18220815-18220839/50-A-18220815.c
+6
+[("Replace b'   if (1<=m&&m<=n&&n<=16){\\n' with b'   if (1<m&&m<=n&&n<16){\\n' at position 7", 6)]

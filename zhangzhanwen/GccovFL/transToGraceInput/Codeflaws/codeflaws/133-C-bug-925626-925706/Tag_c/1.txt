@@ -1,0 +1,4 @@
+codeflaws/133-C-bug-925626-925706/133-C-925706.c
+codeflaws/133-C-bug-925626-925706/133-C-925626.c
+49
+[("Replace b'    int len = i;\\n' with b'    int len = i+1;\\n' at position 50", 49)]

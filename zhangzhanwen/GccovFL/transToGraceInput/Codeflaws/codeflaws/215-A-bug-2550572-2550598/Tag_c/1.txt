@@ -1,0 +1,4 @@
+codeflaws/215-A-bug-2550572-2550598/215-A-2550598.c
+codeflaws/215-A-bug-2550572-2550598/215-A-2550572.c
+5
+[("Replace b'\\tfor(i=0;i<n;i++)for(j=0;j<m;j++)if(B[j]%A[i]==0)if((d=B[j]/A[i])>M)M=d,r=1;else if(d==M)r++;\\n' with b'\\tfor(i=0;i<n;i++)for(j=0;j<m;j++)if(B[j]%A[i]==0)if((d=B[j]/A[i])>M)M=d,r=1;else r++;\\n' at position 6", 5)]

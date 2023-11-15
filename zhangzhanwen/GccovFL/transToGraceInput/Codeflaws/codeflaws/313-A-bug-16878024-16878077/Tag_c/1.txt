@@ -1,0 +1,4 @@
+codeflaws/313-A-bug-16878024-16878077/313-A-16878077.c
+codeflaws/313-A-bug-16878024-16878077/313-A-16878024.c
+9
+[("Replace b'    else if(n<0 && -n/10<10 && -n%10==0)\\n' with b'    else if(n<0 && -n/10<10)\\n' at position 10", 9)]

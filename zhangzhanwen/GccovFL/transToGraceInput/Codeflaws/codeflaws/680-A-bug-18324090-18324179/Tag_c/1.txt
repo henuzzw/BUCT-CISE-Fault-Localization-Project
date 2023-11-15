@@ -1,0 +1,4 @@
+codeflaws/680-A-bug-18324090-18324179/680-A-18324179.c
+codeflaws/680-A-bug-18324090-18324179/680-A-18324090.c
+22,23
+[("Replace b'\\tfor(j = 0; dou[j][0]; j++);\\n' with b'\\tfor(j = 0; dou[j][0]; j++)\\n' at position 23", 22), ('Delete b\'\\t\\tprintf("%d %d\\\\n",dou[j][0],j);\\n\' at position 23 in file2', 22)]

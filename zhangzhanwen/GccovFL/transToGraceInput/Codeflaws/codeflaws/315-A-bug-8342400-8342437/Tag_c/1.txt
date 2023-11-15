@@ -1,0 +1,4 @@
+codeflaws/315-A-bug-8342400-8342437/315-A-8342437.c
+codeflaws/315-A-bug-8342400-8342437/315-A-8342400.c
+18
+[("Replace b'                v[i]=1;\\n' with b'                v[j]=1;\\n' at position 19", 18)]

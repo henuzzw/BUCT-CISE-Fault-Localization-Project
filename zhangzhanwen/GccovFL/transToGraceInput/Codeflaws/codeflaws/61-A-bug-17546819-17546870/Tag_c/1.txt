@@ -1,0 +1,4 @@
+codeflaws/61-A-bug-17546819-17546870/61-A-17546870.c
+codeflaws/61-A-bug-17546819-17546870/61-A-17546819.c
+6
+[("Replace b'    for (i=0;s1[i];i++)\\n' with b'    for (i=0;i<s1[i];i++)\\n' at position 7", 6)]

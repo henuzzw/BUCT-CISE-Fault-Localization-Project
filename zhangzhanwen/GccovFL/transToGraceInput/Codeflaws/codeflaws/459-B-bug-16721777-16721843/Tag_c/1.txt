@@ -1,0 +1,4 @@
+codeflaws/459-B-bug-16721777-16721843/459-B-16721843.c
+codeflaws/459-B-bug-16721777-16721843/459-B-16721777.c
+45
+[('Replace b\'     printf("%d %lld",abs(max-min),(long long int)(((long long int)1+((long long int)a-1))*(((long long int)a-1)/2.0)));\\n\' with b\'     printf("%d %d",abs(max-min),(int)((1+a)*(a/2.0)));\\n\' at position 46', 45)]

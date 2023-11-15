@@ -1,0 +1,4 @@
+codeflaws/660-D-bug-17329245-17329254/660-D-17329254.c
+codeflaws/660-D-bug-17329245-17329254/660-D-17329245.c
+58
+[('Replace b\'\\t\\t\\t// printf("%09d - %d %d [%d %d %d %d]\\\\n", h, pa->x, pa->y, x[i], y[i], x[j], y[j]);\\n\' with b\'\\t\\t\\tprintf("%09d - %d %d [%d %d %d %d]\\\\n", h, pa->x, pa->y, x[i], y[i], x[j], y[j]);\\n\' at position 59', 58)]

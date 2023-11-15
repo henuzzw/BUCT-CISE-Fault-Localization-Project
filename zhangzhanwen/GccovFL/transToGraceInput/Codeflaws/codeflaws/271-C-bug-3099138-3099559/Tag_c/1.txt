@@ -1,0 +1,4 @@
+codeflaws/271-C-bug-3099138-3099559/271-C-3099559.c
+codeflaws/271-C-bug-3099138-3099559/271-C-3099138.c
+22
+[("Replace b'            return k - (i - (k+1));\\n' with b'            return k - (i - k+1);\\n' at position 23", 22)]

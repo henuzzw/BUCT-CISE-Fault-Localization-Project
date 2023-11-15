@@ -1,0 +1,4 @@
+codeflaws/61-C-bug-1155121-1155128/61-C-1155128.c
+codeflaws/61-C-bug-1155121-1155128/61-C-1155121.c
+54,54
+[("Insert b'\\t\\tif (c == 0)\\n' at position 56 in file2", 55), ("Insert b'\\t\\t\\td[dn++] = 0;\\n' at position 57 in file2", 56)]

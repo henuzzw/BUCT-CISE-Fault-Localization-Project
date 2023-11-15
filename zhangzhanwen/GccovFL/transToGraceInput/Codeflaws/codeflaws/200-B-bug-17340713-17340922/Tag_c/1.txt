@@ -1,0 +1,4 @@
+codeflaws/200-B-bug-17340713-17340922/200-B-17340922.c
+codeflaws/200-B-bug-17340713-17340922/200-B-17340713.c
+11
+[('Replace b\'\\n\' with b\'        puts("x");\\n\' at position 12', 11)]

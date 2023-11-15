@@ -1,0 +1,4 @@
+codeflaws/110-B-bug-1946038-1946080/110-B-1946080.c
+codeflaws/110-B-bug-1946038-1946080/110-B-1946038.c
+7
+[('Replace b\'    for(i=0;i<(n%4);i++)printf("%c",s[i]);\\n\' with b\'    for(i=1;i<=(n%4);i++)printf("%c",s[i]);\\n\' at position 8', 7)]

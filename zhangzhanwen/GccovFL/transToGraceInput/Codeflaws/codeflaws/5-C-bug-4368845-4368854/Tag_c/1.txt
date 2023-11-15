@@ -1,0 +1,4 @@
+codeflaws/5-C-bug-4368845-4368854/5-C-4368854.c
+codeflaws/5-C-bug-4368845-4368854/5-C-4368845.c
+25,25
+[("Insert b'                    } else {\\n' at position 27 in file2", 26), ("Insert b'                        minLeft[right]=left;\\n' at position 28 in file2", 27)]

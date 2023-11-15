@@ -1,0 +1,4 @@
+codeflaws/450-B-bug-13881854-13881890/450-B-13881890.c
+codeflaws/450-B-bug-13881854-13881890/450-B-13881854.c
+55
+[('Replace b\'\\t//printf("%d=%d*%d+%d*%d\\\\n",fn,a[n%6],x,b[n%6],y);\\n\' with b\'\\tprintf("%d=%d*%d+%d*%d\\\\n",fn,a[n%6],x,b[n%6],y);\\n\' at position 56', 55)]

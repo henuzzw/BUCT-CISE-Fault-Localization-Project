@@ -1,0 +1,4 @@
+codeflaws/466-A-bug-17830015-17830047/466-A-17830047.c
+codeflaws/466-A-bug-17830015-17830047/466-A-17830015.c
+11
+[("Replace b'        if(n*a<b)\\n' with b'        if(a<b)\\n' at position 12", 11)]

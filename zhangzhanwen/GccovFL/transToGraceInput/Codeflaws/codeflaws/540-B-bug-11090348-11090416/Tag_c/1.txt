@@ -1,0 +1,4 @@
+codeflaws/540-B-bug-11090348-11090416/540-B-11090416.c
+codeflaws/540-B-bug-11090348-11090416/540-B-11090348.c
+132
+[("Insert b'        lt=index;\\n' at position 134 in file2", 133)]

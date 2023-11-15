@@ -1,0 +1,4 @@
+codeflaws/208-A-bug-17292049-17292076/208-A-17292076.c
+codeflaws/208-A-bug-17292049-17292076/208-A-17292049.c
+21
+[('Replace b"\\tx[i] = \'\\\\0\';\\n" with b\'\\n\' at position 22', 21)]

@@ -1,0 +1,4 @@
+codeflaws/38-A-bug-13670543-13866202/38-A-13866202.c
+codeflaws/38-A-bug-13670543-13866202/38-A-13670543.c
+4
+[("Replace b'    int i,j,l,m,n,sum=0,A[100],B[100];\\n' with b'    int i,j,l,m,n,sum=0,A[50],B[50];\\n' at position 5", 4)]

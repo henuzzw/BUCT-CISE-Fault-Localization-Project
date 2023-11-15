@@ -1,0 +1,4 @@
+codeflaws/257-A-bug-5818000-5818012/257-A-5818012.c
+codeflaws/257-A-bug-5818000-5818012/257-A-5818000.c
+30
+[("Replace b'        if(i==n&&max>=m||i!=n)\\n' with b'        if(i!=n)\\n' at position 31", 30)]

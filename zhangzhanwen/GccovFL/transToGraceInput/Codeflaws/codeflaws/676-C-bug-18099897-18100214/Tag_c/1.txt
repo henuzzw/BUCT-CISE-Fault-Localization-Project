@@ -1,0 +1,4 @@
+codeflaws/676-C-bug-18099897-18100214/676-C-18100214.c
+codeflaws/676-C-bug-18099897-18100214/676-C-18099897.c
+23,27
+[("Replace b'\\tlong long l=1,r=N+1,mid,flag,ans=0;\\n' with b'\\tlong long l=1,r=N,mid,flag,ans=0;\\n' at position 24", 23), ('Delete b\'\\t//\\tprintf("%lld %lld %lld\\\\n",mid,l,r);\\n\' at position 27 in file2', 26)]

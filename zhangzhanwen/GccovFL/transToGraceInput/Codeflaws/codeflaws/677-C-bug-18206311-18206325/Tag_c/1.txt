@@ -1,0 +1,4 @@
+codeflaws/677-C-bug-18206311-18206325/677-C-18206325.c
+codeflaws/677-C-bug-18206311-18206325/677-C-18206311.c
+23
+[("Replace b'        ans %= 1000000007;\\n' with b'        ans &= 1000000007;\\n' at position 24", 23)]

@@ -1,0 +1,4 @@
+codeflaws/55-A-bug-252924-252926/55-A-252926.c
+codeflaws/55-A-bug-252924-252926/55-A-252924.c
+6
+[("Replace b'    int nv = n;\\n' with b'    int nv = n - 1;\\n' at position 7", 6)]

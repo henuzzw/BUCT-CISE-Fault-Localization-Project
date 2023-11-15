@@ -1,0 +1,4 @@
+codeflaws/80-A-bug-15193653-15193669/80-A-15193669.c
+codeflaws/80-A-bug-15193653-15193669/80-A-15193653.c
+21
+[("Replace b'    if(count>=1) {\\n' with b'    if(count==1) {\\n' at position 22", 21)]

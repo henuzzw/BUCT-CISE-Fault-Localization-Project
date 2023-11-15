@@ -1,0 +1,4 @@
+codeflaws/114-A-bug-17914312-17914321/114-A-17914321.c
+codeflaws/114-A-bug-17914312-17914321/114-A-17914312.c
+26,26
+[("Insert b'\\telse\\n' at position 28 in file2", 27), ('Insert b\'\\tprintf("NO");\\n\' at position 29 in file2', 28)]

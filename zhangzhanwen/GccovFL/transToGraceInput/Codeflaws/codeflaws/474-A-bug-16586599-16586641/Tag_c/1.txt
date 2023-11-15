@@ -1,0 +1,4 @@
+codeflaws/474-A-bug-16586599-16586641/474-A-16586641.c
+codeflaws/474-A-bug-16586599-16586641/474-A-16586599.c
+111,111,111
+[("Insert b'                }\\n' at position 113 in file2", 112), ('Insert b"                else if(a[i]==\'i\') {\\n" at position 114 in file2', 113), ('Insert b"                    a[i]=\'o\';\\n" at position 115 in file2', 114)]

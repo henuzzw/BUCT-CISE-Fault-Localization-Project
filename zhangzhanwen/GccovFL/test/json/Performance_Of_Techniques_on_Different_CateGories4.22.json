@@ -1,0 +1,2738 @@
+{
+  "GNNStu.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 27
+      },
+      {
+        "type": "top3",
+        "val": 72
+      },
+      {
+        "type": "top5",
+        "val": 84
+      },
+      {
+        "type": "top10",
+        "val": 91
+      },
+      {
+        "type": "EXAM",
+        "val": 11.74093318334078
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.1290212437729756
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 41
+      },
+      {
+        "type": "top3",
+        "val": 104
+      },
+      {
+        "type": "top5",
+        "val": 134
+      },
+      {
+        "type": "top10",
+        "val": 169
+      },
+      {
+        "type": "EXAM",
+        "val": 48.59411312245199
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2033226490479163
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 21
+      },
+      {
+        "type": "top3",
+        "val": 31
+      },
+      {
+        "type": "top5",
+        "val": 38
+      },
+      {
+        "type": "top10",
+        "val": 47
+      },
+      {
+        "type": "EXAM",
+        "val": 6.972417004501198
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.12450744650894996
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 17
+      },
+      {
+        "type": "top3",
+        "val": 40
+      },
+      {
+        "type": "top5",
+        "val": 55
+      },
+      {
+        "type": "top10",
+        "val": 78
+      },
+      {
+        "type": "EXAM",
+        "val": 36.99365208969173
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.31087102596379607
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 64
+      },
+      {
+        "type": "top3",
+        "val": 100
+      },
+      {
+        "type": "top5",
+        "val": 116
+      },
+      {
+        "type": "top10",
+        "val": 143
+      },
+      {
+        "type": "EXAM",
+        "val": 28.23418053793775
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.17757346250275313
+      }
+    ]
+  },
+  "Grace.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 19
+      },
+      {
+        "type": "top3",
+        "val": 58
+      },
+      {
+        "type": "top5",
+        "val": 82
+      },
+      {
+        "type": "top10",
+        "val": 89
+      },
+      {
+        "type": "EXAM",
+        "val": 14.565525992019671
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.16006072518702935
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 31
+      },
+      {
+        "type": "top3",
+        "val": 92
+      },
+      {
+        "type": "top5",
+        "val": 123
+      },
+      {
+        "type": "top10",
+        "val": 164
+      },
+      {
+        "type": "EXAM",
+        "val": 54.04245477536365
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2261190576375048
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 8
+      },
+      {
+        "type": "top3",
+        "val": 22
+      },
+      {
+        "type": "top5",
+        "val": 26
+      },
+      {
+        "type": "top10",
+        "val": 40
+      },
+      {
+        "type": "EXAM",
+        "val": 11.232257119439335
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.20057601998998814
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 14
+      },
+      {
+        "type": "top3",
+        "val": 39
+      },
+      {
+        "type": "top5",
+        "val": 50
+      },
+      {
+        "type": "top10",
+        "val": 76
+      },
+      {
+        "type": "EXAM",
+        "val": 34.51151733998389
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2900127507561671
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 28
+      },
+      {
+        "type": "top3",
+        "val": 75
+      },
+      {
+        "type": "top5",
+        "val": 101
+      },
+      {
+        "type": "top10",
+        "val": 137
+      },
+      {
+        "type": "EXAM",
+        "val": 35.341353750396856
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.22227266509683558
+      }
+    ]
+  },
+  "SBFL(Dstar)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 5
+      },
+      {
+        "type": "top3",
+        "val": 29
+      },
+      {
+        "type": "top5",
+        "val": 47
+      },
+      {
+        "type": "top10",
+        "val": 51
+      },
+      {
+        "type": "EXAM",
+        "val": 49.002533957849984
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5384893841521976
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 12
+      },
+      {
+        "type": "top3",
+        "val": 41
+      },
+      {
+        "type": "top5",
+        "val": 64
+      },
+      {
+        "type": "top10",
+        "val": 103
+      },
+      {
+        "type": "EXAM",
+        "val": 126.66561125949542
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5299816370690185
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 2
+      },
+      {
+        "type": "top10",
+        "val": 7
+      },
+      {
+        "type": "EXAM",
+        "val": 49.21125385300218
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.8787723902321817
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 7
+      },
+      {
+        "type": "top5",
+        "val": 12
+      },
+      {
+        "type": "top10",
+        "val": 31
+      },
+      {
+        "type": "EXAM",
+        "val": 87.75228615823086
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.737414169396898
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 2
+      },
+      {
+        "type": "top5",
+        "val": 2
+      },
+      {
+        "type": "top10",
+        "val": 2
+      },
+      {
+        "type": "EXAM",
+        "val": 155.4180941879207
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.9774722904900673
+      }
+    ]
+  },
+  "SBFL(Jaccard)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 7
+      },
+      {
+        "type": "top3",
+        "val": 7
+      },
+      {
+        "type": "top5",
+        "val": 18
+      },
+      {
+        "type": "top10",
+        "val": 86
+      },
+      {
+        "type": "EXAM",
+        "val": 32.02087211191063
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3518777155155014
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 19
+      },
+      {
+        "type": "top3",
+        "val": 33
+      },
+      {
+        "type": "top5",
+        "val": 45
+      },
+      {
+        "type": "top10",
+        "val": 118
+      },
+      {
+        "type": "EXAM",
+        "val": 111.49898723789718
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4665229591543815
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 8
+      },
+      {
+        "type": "EXAM",
+        "val": 22.53033391406298
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4023273913225532
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 2
+      },
+      {
+        "type": "top5",
+        "val": 5
+      },
+      {
+        "type": "top10",
+        "val": 34
+      },
+      {
+        "type": "EXAM",
+        "val": 63.02048178848716
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5295838805755223
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 1
+      },
+      {
+        "type": "top5",
+        "val": 1
+      },
+      {
+        "type": "top10",
+        "val": 34
+      },
+      {
+        "type": "EXAM",
+        "val": 83.20970540874445
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5233314805581413
+      }
+    ]
+  },
+  "SBFL(Ochiai)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 7
+      },
+      {
+        "type": "top3",
+        "val": 7
+      },
+      {
+        "type": "top5",
+        "val": 18
+      },
+      {
+        "type": "top10",
+        "val": 86
+      },
+      {
+        "type": "EXAM",
+        "val": 32.02087211191063
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3518777155155014
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 19
+      },
+      {
+        "type": "top3",
+        "val": 33
+      },
+      {
+        "type": "top5",
+        "val": 45
+      },
+      {
+        "type": "top10",
+        "val": 118
+      },
+      {
+        "type": "EXAM",
+        "val": 111.47196021087017
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4664098753592894
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 8
+      },
+      {
+        "type": "EXAM",
+        "val": 22.53033391406298
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4023273913225532
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 2
+      },
+      {
+        "type": "top5",
+        "val": 5
+      },
+      {
+        "type": "top10",
+        "val": 34
+      },
+      {
+        "type": "EXAM",
+        "val": 63.02048178848716
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5295838805755223
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 1
+      },
+      {
+        "type": "top5",
+        "val": 1
+      },
+      {
+        "type": "top10",
+        "val": 34
+      },
+      {
+        "type": "EXAM",
+        "val": 83.20970540874445
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5233314805581413
+      }
+    ]
+  },
+  "SBFL(Op2)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 7
+      },
+      {
+        "type": "top3",
+        "val": 7
+      },
+      {
+        "type": "top5",
+        "val": 18
+      },
+      {
+        "type": "top10",
+        "val": 86
+      },
+      {
+        "type": "EXAM",
+        "val": 32.02087211191063
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3518777155155014
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 19
+      },
+      {
+        "type": "top3",
+        "val": 33
+      },
+      {
+        "type": "top5",
+        "val": 45
+      },
+      {
+        "type": "top10",
+        "val": 118
+      },
+      {
+        "type": "EXAM",
+        "val": 109.53046845914821
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.45828647890856994
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 8
+      },
+      {
+        "type": "EXAM",
+        "val": 21.108532966195682
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.37693808868206574
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 2
+      },
+      {
+        "type": "top5",
+        "val": 5
+      },
+      {
+        "type": "top10",
+        "val": 34
+      },
+      {
+        "type": "EXAM",
+        "val": 63.02048178848716
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5295838805755223
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 1
+      },
+      {
+        "type": "top5",
+        "val": 1
+      },
+      {
+        "type": "top10",
+        "val": 34
+      },
+      {
+        "type": "EXAM",
+        "val": 83.20970540874445
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5233314805581413
+      }
+    ]
+  },
+  "SBFL(Tarantula)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 7
+      },
+      {
+        "type": "top3",
+        "val": 7
+      },
+      {
+        "type": "top5",
+        "val": 16
+      },
+      {
+        "type": "top10",
+        "val": 80
+      },
+      {
+        "type": "EXAM",
+        "val": 35.53563279236604
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.39050145925676966
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 19
+      },
+      {
+        "type": "top3",
+        "val": 34
+      },
+      {
+        "type": "top5",
+        "val": 41
+      },
+      {
+        "type": "top10",
+        "val": 105
+      },
+      {
+        "type": "EXAM",
+        "val": 115.30469512400752
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4824464231130022
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 0
+      },
+      {
+        "type": "top10",
+        "val": 0
+      },
+      {
+        "type": "EXAM",
+        "val": 31.59314469905715
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.564163298197449
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 2
+      },
+      {
+        "type": "top5",
+        "val": 6
+      },
+      {
+        "type": "top10",
+        "val": 31
+      },
+      {
+        "type": "EXAM",
+        "val": 65.08281114050398
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5469143793319662
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 1
+      },
+      {
+        "type": "top5",
+        "val": 1
+      },
+      {
+        "type": "top10",
+        "val": 31
+      },
+      {
+        "type": "EXAM",
+        "val": 84.53987788105012
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5316973451638373
+      }
+    ]
+  },
+  "VFL(Dstar)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 4
+      },
+      {
+        "type": "top3",
+        "val": 23
+      },
+      {
+        "type": "top5",
+        "val": 35
+      },
+      {
+        "type": "top10",
+        "val": 58
+      },
+      {
+        "type": "EXAM",
+        "val": 47.398492948642264
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5208625598751897
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 4
+      },
+      {
+        "type": "top3",
+        "val": 29
+      },
+      {
+        "type": "top5",
+        "val": 45
+      },
+      {
+        "type": "top10",
+        "val": 86
+      },
+      {
+        "type": "EXAM",
+        "val": 127.08801045258964
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5317489977095801
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 3
+      },
+      {
+        "type": "top5",
+        "val": 13
+      },
+      {
+        "type": "top10",
+        "val": 20
+      },
+      {
+        "type": "EXAM",
+        "val": 17.561804056971006
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.31360364387448225
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 3
+      },
+      {
+        "type": "top5",
+        "val": 30
+      },
+      {
+        "type": "top10",
+        "val": 56
+      },
+      {
+        "type": "EXAM",
+        "val": 54.93855654440588
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.46166854238996535
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 6
+      },
+      {
+        "type": "top10",
+        "val": 75
+      },
+      {
+        "type": "EXAM",
+        "val": 71.82686297836443
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.451741276593487
+      }
+    ]
+  },
+  "VFL(Jaccard)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 11
+      },
+      {
+        "type": "top5",
+        "val": 43
+      },
+      {
+        "type": "top10",
+        "val": 55
+      },
+      {
+        "type": "EXAM",
+        "val": 48.95577453056556
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5379755442919293
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 5
+      },
+      {
+        "type": "top3",
+        "val": 30
+      },
+      {
+        "type": "top5",
+        "val": 53
+      },
+      {
+        "type": "top10",
+        "val": 85
+      },
+      {
+        "type": "EXAM",
+        "val": 126.91891152671577
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5310414708230785
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 12
+      },
+      {
+        "type": "top10",
+        "val": 26
+      },
+      {
+        "type": "EXAM",
+        "val": 15.380747453980849
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2746562045353723
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 5
+      },
+      {
+        "type": "top5",
+        "val": 38
+      },
+      {
+        "type": "top10",
+        "val": 65
+      },
+      {
+        "type": "EXAM",
+        "val": 54.868323306854165
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.46107834711642154
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 20
+      },
+      {
+        "type": "top5",
+        "val": 42
+      },
+      {
+        "type": "top10",
+        "val": 123
+      },
+      {
+        "type": "EXAM",
+        "val": 50.91352504504209
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.32021084933988736
+      }
+    ]
+  },
+  "VFL(Ochiai)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 2
+      },
+      {
+        "type": "top3",
+        "val": 11
+      },
+      {
+        "type": "top5",
+        "val": 43
+      },
+      {
+        "type": "top10",
+        "val": 55
+      },
+      {
+        "type": "EXAM",
+        "val": 48.95577453056556
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5379755442919293
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 5
+      },
+      {
+        "type": "top3",
+        "val": 30
+      },
+      {
+        "type": "top5",
+        "val": 53
+      },
+      {
+        "type": "top10",
+        "val": 83
+      },
+      {
+        "type": "EXAM",
+        "val": 127.62566533935195
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5339985997462425
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 12
+      },
+      {
+        "type": "top10",
+        "val": 26
+      },
+      {
+        "type": "EXAM",
+        "val": 15.26652466556205
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2726165118850366
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 5
+      },
+      {
+        "type": "top5",
+        "val": 38
+      },
+      {
+        "type": "top10",
+        "val": 65
+      },
+      {
+        "type": "EXAM",
+        "val": 54.868323306854165
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.46107834711642154
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 20
+      },
+      {
+        "type": "top5",
+        "val": 42
+      },
+      {
+        "type": "top10",
+        "val": 123
+      },
+      {
+        "type": "EXAM",
+        "val": 50.91352504504209
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.32021084933988736
+      }
+    ]
+  },
+  "VFL(Op2)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 4
+      },
+      {
+        "type": "top3",
+        "val": 13
+      },
+      {
+        "type": "top5",
+        "val": 43
+      },
+      {
+        "type": "top10",
+        "val": 55
+      },
+      {
+        "type": "EXAM",
+        "val": 48.410319985111016
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5319815382979233
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 5
+      },
+      {
+        "type": "top3",
+        "val": 28
+      },
+      {
+        "type": "top5",
+        "val": 52
+      },
+      {
+        "type": "top10",
+        "val": 86
+      },
+      {
+        "type": "EXAM",
+        "val": 125.61990848384761
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.525606311647898
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 12
+      },
+      {
+        "type": "top10",
+        "val": 26
+      },
+      {
+        "type": "EXAM",
+        "val": 14.262264041658574
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.25468328645818883
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 6
+      },
+      {
+        "type": "top5",
+        "val": 38
+      },
+      {
+        "type": "top10",
+        "val": 65
+      },
+      {
+        "type": "EXAM",
+        "val": 54.66139501228052
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.45933945388471026
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 20
+      },
+      {
+        "type": "top5",
+        "val": 42
+      },
+      {
+        "type": "top10",
+        "val": 123
+      },
+      {
+        "type": "EXAM",
+        "val": 50.84155534807239
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.31975820973630437
+      }
+    ]
+  },
+  "VFL(Tarantula)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 1
+      },
+      {
+        "type": "top3",
+        "val": 8
+      },
+      {
+        "type": "top5",
+        "val": 48
+      },
+      {
+        "type": "top10",
+        "val": 63
+      },
+      {
+        "type": "EXAM",
+        "val": 42.57593652306128
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.46786743431935474
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 5
+      },
+      {
+        "type": "top3",
+        "val": 28
+      },
+      {
+        "type": "top5",
+        "val": 49
+      },
+      {
+        "type": "top10",
+        "val": 77
+      },
+      {
+        "type": "EXAM",
+        "val": 129.1489293322451
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5403720892562557
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 0
+      },
+      {
+        "type": "top5",
+        "val": 4
+      },
+      {
+        "type": "top10",
+        "val": 24
+      },
+      {
+        "type": "EXAM",
+        "val": 16.67038172055506
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2976853878670546
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 4
+      },
+      {
+        "type": "top5",
+        "val": 37
+      },
+      {
+        "type": "top10",
+        "val": 68
+      },
+      {
+        "type": "EXAM",
+        "val": 51.2871084362332
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4309841045061613
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 17
+      },
+      {
+        "type": "top5",
+        "val": 40
+      },
+      {
+        "type": "top10",
+        "val": 118
+      },
+      {
+        "type": "EXAM",
+        "val": 51.97956259052039
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.32691548799069425
+      }
+    ]
+  },
+  "VSBFL(Dstar)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 8
+      },
+      {
+        "type": "top3",
+        "val": 46
+      },
+      {
+        "type": "top5",
+        "val": 70
+      },
+      {
+        "type": "top10",
+        "val": 75
+      },
+      {
+        "type": "EXAM",
+        "val": 28.14290073068455
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3092626453921379
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 17
+      },
+      {
+        "type": "top3",
+        "val": 67
+      },
+      {
+        "type": "top5",
+        "val": 97
+      },
+      {
+        "type": "top10",
+        "val": 126
+      },
+      {
+        "type": "EXAM",
+        "val": 89.8243400485207
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3758340587804213
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 1
+      },
+      {
+        "type": "top3",
+        "val": 5
+      },
+      {
+        "type": "top5",
+        "val": 9
+      },
+      {
+        "type": "top10",
+        "val": 21
+      },
+      {
+        "type": "EXAM",
+        "val": 18.503275968965646
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.33041564230295795
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 9
+      },
+      {
+        "type": "top3",
+        "val": 30
+      },
+      {
+        "type": "top5",
+        "val": 41
+      },
+      {
+        "type": "top10",
+        "val": 58
+      },
+      {
+        "type": "EXAM",
+        "val": 61.74244449597985
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5188440713947887
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 7
+      },
+      {
+        "type": "top3",
+        "val": 49
+      },
+      {
+        "type": "top5",
+        "val": 122
+      },
+      {
+        "type": "top10",
+        "val": 154
+      },
+      {
+        "type": "EXAM",
+        "val": 31.02125232692725
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.19510221589262422
+      }
+    ]
+  },
+  "VSBFL(Jaccard)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 9
+      },
+      {
+        "type": "top3",
+        "val": 27
+      },
+      {
+        "type": "top5",
+        "val": 36
+      },
+      {
+        "type": "top10",
+        "val": 88
+      },
+      {
+        "type": "EXAM",
+        "val": 26.228829882750567
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2882288998104458
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 22
+      },
+      {
+        "type": "top3",
+        "val": 47
+      },
+      {
+        "type": "top5",
+        "val": 62
+      },
+      {
+        "type": "top10",
+        "val": 126
+      },
+      {
+        "type": "EXAM",
+        "val": 88.75133832395929
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.37134451181572925
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 1
+      },
+      {
+        "type": "top3",
+        "val": 18
+      },
+      {
+        "type": "top5",
+        "val": 21
+      },
+      {
+        "type": "top10",
+        "val": 41
+      },
+      {
+        "type": "EXAM",
+        "val": 12.602952810809064
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.22505272876444757
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 11
+      },
+      {
+        "type": "top3",
+        "val": 26
+      },
+      {
+        "type": "top5",
+        "val": 35
+      },
+      {
+        "type": "top10",
+        "val": 58
+      },
+      {
+        "type": "EXAM",
+        "val": 52.81442588555317
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.44381870492061487
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 6
+      },
+      {
+        "type": "top3",
+        "val": 75
+      },
+      {
+        "type": "top5",
+        "val": 133
+      },
+      {
+        "type": "top10",
+        "val": 159
+      },
+      {
+        "type": "EXAM",
+        "val": 25.934827007914414
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.16311211954663155
+      }
+    ]
+  },
+  "VSBFL(Ochiai)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 9
+      },
+      {
+        "type": "top3",
+        "val": 28
+      },
+      {
+        "type": "top5",
+        "val": 36
+      },
+      {
+        "type": "top10",
+        "val": 88
+      },
+      {
+        "type": "EXAM",
+        "val": 26.19657181823444
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2878744155849938
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 22
+      },
+      {
+        "type": "top3",
+        "val": 47
+      },
+      {
+        "type": "top5",
+        "val": 62
+      },
+      {
+        "type": "top10",
+        "val": 127
+      },
+      {
+        "type": "EXAM",
+        "val": 88.0017287757922
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3682080701915992
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 1
+      },
+      {
+        "type": "top3",
+        "val": 19
+      },
+      {
+        "type": "top5",
+        "val": 21
+      },
+      {
+        "type": "top10",
+        "val": 42
+      },
+      {
+        "type": "EXAM",
+        "val": 12.514046437874368
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2234651149620423
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 10
+      },
+      {
+        "type": "top3",
+        "val": 27
+      },
+      {
+        "type": "top5",
+        "val": 35
+      },
+      {
+        "type": "top10",
+        "val": 58
+      },
+      {
+        "type": "EXAM",
+        "val": 52.86021343134072
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4442034742129472
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 6
+      },
+      {
+        "type": "top3",
+        "val": 75
+      },
+      {
+        "type": "top5",
+        "val": 132
+      },
+      {
+        "type": "top10",
+        "val": 159
+      },
+      {
+        "type": "EXAM",
+        "val": 25.959827007914416
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.16326935225103406
+      }
+    ]
+  },
+  "VSBFL(Op2)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 9
+      },
+      {
+        "type": "top3",
+        "val": 25
+      },
+      {
+        "type": "top5",
+        "val": 34
+      },
+      {
+        "type": "top10",
+        "val": 88
+      },
+      {
+        "type": "EXAM",
+        "val": 26.79005760273191
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.29439623739265836
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 21
+      },
+      {
+        "type": "top3",
+        "val": 46
+      },
+      {
+        "type": "top5",
+        "val": 63
+      },
+      {
+        "type": "top10",
+        "val": 129
+      },
+      {
+        "type": "EXAM",
+        "val": 85.35814247716687
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.3571470396534178
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 1
+      },
+      {
+        "type": "top3",
+        "val": 17
+      },
+      {
+        "type": "top5",
+        "val": 20
+      },
+      {
+        "type": "top10",
+        "val": 41
+      },
+      {
+        "type": "EXAM",
+        "val": 11.421408788828666
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.20395372837194045
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 11
+      },
+      {
+        "type": "top3",
+        "val": 26
+      },
+      {
+        "type": "top5",
+        "val": 35
+      },
+      {
+        "type": "top10",
+        "val": 57
+      },
+      {
+        "type": "EXAM",
+        "val": 53.28656230768959
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4477862378797445
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 6
+      },
+      {
+        "type": "top3",
+        "val": 76
+      },
+      {
+        "type": "top5",
+        "val": 133
+      },
+      {
+        "type": "top10",
+        "val": 159
+      },
+      {
+        "type": "EXAM",
+        "val": 25.844827007914414
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.16254608181078248
+      }
+    ]
+  },
+  "VSBFL(Tarantula)_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 10
+      },
+      {
+        "type": "top3",
+        "val": 64
+      },
+      {
+        "type": "top5",
+        "val": 76
+      },
+      {
+        "type": "top10",
+        "val": 85
+      },
+      {
+        "type": "EXAM",
+        "val": 18.349602935773564
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.201643988305204
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 25
+      },
+      {
+        "type": "top3",
+        "val": 87
+      },
+      {
+        "type": "top5",
+        "val": 104
+      },
+      {
+        "type": "top10",
+        "val": 135
+      },
+      {
+        "type": "EXAM",
+        "val": 88.42808336193748
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.36999198059388066
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 0
+      },
+      {
+        "type": "top3",
+        "val": 11
+      },
+      {
+        "type": "top5",
+        "val": 16
+      },
+      {
+        "type": "top10",
+        "val": 37
+      },
+      {
+        "type": "EXAM",
+        "val": 14.105710490533106
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.2518876873309483
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 11
+      },
+      {
+        "type": "top3",
+        "val": 32
+      },
+      {
+        "type": "top5",
+        "val": 43
+      },
+      {
+        "type": "top10",
+        "val": 61
+      },
+      {
+        "type": "EXAM",
+        "val": 55.135062094574664
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.4633198495342409
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 6
+      },
+      {
+        "type": "top3",
+        "val": 75
+      },
+      {
+        "type": "top5",
+        "val": 132
+      },
+      {
+        "type": "top10",
+        "val": 159
+      },
+      {
+        "type": "EXAM",
+        "val": 25.736117072222275
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.16186237152341054
+      }
+    ]
+  },
+  "VsusFL_res_sus.xlsxresult.json": {
+    "SimpleExpressions": [
+      {
+        "type": "top1",
+        "val": 17
+      },
+      {
+        "type": "top3",
+        "val": 67
+      },
+      {
+        "type": "top5",
+        "val": 74
+      },
+      {
+        "type": "top10",
+        "val": 76
+      },
+      {
+        "type": "EXAM",
+        "val": 24.097164691584872
+      },
+      {
+        "type": "errLineNum",
+        "val": 91
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.26480400759983375
+      }
+    ],
+    "Conditionals_C": [
+      {
+        "type": "top1",
+        "val": 12
+      },
+      {
+        "type": "top3",
+        "val": 84
+      },
+      {
+        "type": "top5",
+        "val": 95
+      },
+      {
+        "type": "top10",
+        "val": 95
+      },
+      {
+        "type": "EXAM",
+        "val": 125.05208390714694
+      },
+      {
+        "type": "errLineNum",
+        "val": 239
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.5232304765989412
+      }
+    ],
+    "Conditionals_C++ ": [
+      {
+        "type": "top1",
+        "val": 36
+      },
+      {
+        "type": "top3",
+        "val": 48
+      },
+      {
+        "type": "top5",
+        "val": 51
+      },
+      {
+        "type": "top10",
+        "val": 51
+      },
+      {
+        "type": "EXAM",
+        "val": 5.264112266982435
+      },
+      {
+        "type": "errLineNum",
+        "val": 56
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.09400200476754349
+      }
+    ],
+    "Loops_C": [
+      {
+        "type": "top1",
+        "val": 17
+      },
+      {
+        "type": "top3",
+        "val": 34
+      },
+      {
+        "type": "top5",
+        "val": 37
+      },
+      {
+        "type": "top10",
+        "val": 40
+      },
+      {
+        "type": "EXAM",
+        "val": 76.18340713289513
+      },
+      {
+        "type": "errLineNum",
+        "val": 119
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.6401966985957573
+      }
+    ],
+    "Loops_C++": [
+      {
+        "type": "top1",
+        "val": 108
+      },
+      {
+        "type": "top3",
+        "val": 153
+      },
+      {
+        "type": "top5",
+        "val": 158
+      },
+      {
+        "type": "top10",
+        "val": 158
+      },
+      {
+        "type": "EXAM",
+        "val": 10.381568542557016
+      },
+      {
+        "type": "errLineNum",
+        "val": 159
+      },
+      {
+        "type": "A-EXAM",
+        "val": 0.06529288391545293
+      }
+    ]
+  }
+}

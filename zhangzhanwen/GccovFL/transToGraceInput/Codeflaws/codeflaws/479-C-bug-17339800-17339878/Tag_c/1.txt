@@ -1,0 +1,4 @@
+codeflaws/479-C-bug-17339800-17339878/479-C-17339878.c
+codeflaws/479-C-bug-17339800-17339878/479-C-17339800.c
+23
+[("Replace b'yapi _[MAX];void yap (int bas, int son, yapi a[]){int yer=0,i,x=bas,y=(son+bas)/2+1,ort=(son+bas)/2;while(x<=ort&&y<=son)_[yer++]=(a[x].a<=a[y].a)?a[x++]:a[y++];while(x<=ort)_[yer++]=a[x++];while(y<=son)_[yer++]=a[y++];for(i=0;i<yer;i++)a[bas+i]=_[i];}void sort(int bas,int son,yapi a[]){int ort=(bas+son)/2;if(son==bas)return;sort(bas,ort,a);sort(ort+1,son,a);yap(bas,son,a);}\\n' with b'yapi _[MAX];void yap (int bas, int son, yapi a[]){int yer=0,i,x=bas,y=(son+bas)/2+1,ort=(son+bas)/2;while(x<=ort&&y<=son)_[yer++]=(a[x].a<a[y].a)?a[x++]:a[y++];while(x<=ort)_[yer++]=a[x++];while(y<=son)_[yer++]=a[y++];for(i=0;i<yer;i++)a[bas+i]=_[i];}void sort(int bas,int son,yapi a[]){int ort=(bas+son)/2;if(son==bas)return;sort(bas,ort,a);sort(ort+1,son,a);yap(bas,son,a);}\\n' at position 24", 23)]

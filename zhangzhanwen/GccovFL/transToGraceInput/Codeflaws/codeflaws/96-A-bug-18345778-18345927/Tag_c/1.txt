@@ -1,0 +1,4 @@
+codeflaws/96-A-bug-18345778-18345927/96-A-18345927.c
+codeflaws/96-A-bug-18345778-18345927/96-A-18345778.c
+20
+[("Replace b'            if(count==6)\\n' with b'            if(count>=7)\\n' at position 21", 20)]

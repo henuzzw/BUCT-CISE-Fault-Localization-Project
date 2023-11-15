@@ -1,0 +1,4 @@
+codeflaws/320-A-bug-16763087-16763591/320-A-16763591.c
+codeflaws/320-A-bug-16763087-16763591/320-A-16763087.c
+5,14
+[("Replace b'    char pstr[11];\\n' with b'    char pstr[10];\\n' at position 6", 5), ('Insert b"       else if((res==8)&&(pstr[O-1]==\'1\')){bol=1;}\\n" at position 16 in file2', 15)]

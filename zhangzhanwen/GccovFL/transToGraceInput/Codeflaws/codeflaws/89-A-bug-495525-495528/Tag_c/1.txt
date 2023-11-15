@@ -1,0 +1,4 @@
+codeflaws/89-A-bug-495525-495528/89-A-495528.c
+codeflaws/89-A-bug-495525-495528/89-A-495525.c
+11
+[("Replace b'      ans=min((long long)m/((n+1)/2)*k,1000000);\\n' with b'      ans=min((long long)k/((n+1)/2)*m,1000000);\\n' at position 12", 11)]

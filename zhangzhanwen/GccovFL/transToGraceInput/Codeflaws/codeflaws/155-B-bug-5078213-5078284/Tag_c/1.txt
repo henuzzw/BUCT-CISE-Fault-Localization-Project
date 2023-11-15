@@ -1,0 +1,4 @@
+codeflaws/155-B-bug-5078213-5078284/155-B-5078284.c
+codeflaws/155-B-bug-5078213-5078284/155-B-5078213.c
+11
+[("Replace b'         if ((*(d*)m).a>(*(d*)n).a)\\n' with b'         if ((*(d*)m).a>(*(d*)n).b)\\n' at position 12", 11)]

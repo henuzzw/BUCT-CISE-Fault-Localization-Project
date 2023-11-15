@@ -1,0 +1,4 @@
+codeflaws/219-A-bug-17460365-17460407/219-A-17460407.c
+codeflaws/219-A-bug-17460365-17460407/219-A-17460365.c
+41
+[('Replace b\'   //printf("%d %d %d",hash[0],hash[1],hash[2]);\\n\' with b\'   printf("%d %d %d",hash[0],hash[1],hash[2]);\\n\' at position 42', 41)]

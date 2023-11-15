@@ -1,0 +1,4 @@
+codeflaws/160-B-bug-14660992-14661027/160-B-14661027.c
+codeflaws/160-B-bug-14660992-14661027/160-B-14660992.c
+41
+[("Replace b'        if ((d == -1 && s[i] >= s[n+i]) || (d == 1 && s[i] <= s[n+i]))\\n' with b'        if ((d == -1 && s[i] > s[n+i]) || (d == 1 && s[i] < s[n+i]))\\n' at position 42", 41)]

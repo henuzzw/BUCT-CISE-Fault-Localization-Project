@@ -1,0 +1,4 @@
+codeflaws/407-B-bug-6204749-6204831/407-B-6204831.c
+codeflaws/407-B-bug-6204749-6204831/407-B-6204749.c
+17,17
+[('Replace b\'         if (b[i]<0) b[i]+=MOD;\\n\' with b\'         printf("%d %d\\\\n",i,b[i]);\\n\' at position 18', 17), ('Insert b\'      //   printf("%d %d\\\\n",i,b[i]);\\n\' at position 19 in file2', 18)]

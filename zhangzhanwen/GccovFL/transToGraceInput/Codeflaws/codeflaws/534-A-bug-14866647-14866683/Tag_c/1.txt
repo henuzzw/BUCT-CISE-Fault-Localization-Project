@@ -1,0 +1,4 @@
+codeflaws/534-A-bug-14866647-14866683/534-A-14866683.c
+codeflaws/534-A-bug-14866647-14866683/534-A-14866647.c
+34
+[('Replace b\'        for(m=0; m<n; m++){\\n\' with b"        for(m=0; roll[m]!=\'\\\\n\'; m++){\\n" at position 35', 34)]

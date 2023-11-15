@@ -1,0 +1,4 @@
+codeflaws/166-A-bug-10695723-10695839/166-A-10695839.c
+codeflaws/166-A-bug-10695723-10695839/166-A-10695723.c
+20
+[("Replace b'            if((A[j].problems < A[j+1].problems)||((A[j].problems ==A[j+1].problems)&&(A[j].time >A[j+1].time)))\\n' with b'            if((A[j].problems < A[j+1].problems)||((A[j].problems ==A[j+1].problems)&&(A[j].time <A[j+1].time)))\\n' at position 21", 20)]

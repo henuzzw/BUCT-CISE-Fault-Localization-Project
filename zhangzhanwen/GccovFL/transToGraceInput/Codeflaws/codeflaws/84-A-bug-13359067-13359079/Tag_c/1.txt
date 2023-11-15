@@ -1,0 +1,4 @@
+codeflaws/84-A-bug-13359067-13359079/84-A-13359079.c
+codeflaws/84-A-bug-13359067-13359079/84-A-13359067.c
+18
+[('Replace b\'    printf("%d",n+i);\\n\' with b\'    scanf("%d",n+i);\\n\' at position 19', 18)]

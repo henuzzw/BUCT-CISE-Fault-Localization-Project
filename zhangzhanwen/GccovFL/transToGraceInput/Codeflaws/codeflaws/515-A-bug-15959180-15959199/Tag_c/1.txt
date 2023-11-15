@@ -1,0 +1,4 @@
+codeflaws/515-A-bug-15959180-15959199/515-A-15959199.c
+codeflaws/515-A-bug-15959180-15959199/515-A-15959180.c
+18
+[("Replace b'  leftover_steps = steps - (abs(x) + abs(y));                                   \\n' with b'  leftover_steps = steps - (x + y);                                             \\n' at position 19", 18)]

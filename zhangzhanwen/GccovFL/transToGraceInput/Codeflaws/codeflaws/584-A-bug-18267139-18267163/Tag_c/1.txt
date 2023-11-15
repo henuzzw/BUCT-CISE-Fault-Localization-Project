@@ -1,0 +1,4 @@
+codeflaws/584-A-bug-18267139-18267163/584-A-18267163.c
+codeflaws/584-A-bug-18267139-18267163/584-A-18267139.c
+8
+[("Replace b'\\tif ((n==1) && (t == 10)){\\n' with b'\\tif (n<10){\\n' at position 9", 8)]

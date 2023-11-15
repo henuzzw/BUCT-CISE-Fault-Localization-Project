@@ -1,0 +1,4 @@
+codeflaws/556-B-bug-13572610-13572621/556-B-13572621.c
+codeflaws/556-B-bug-13572610-13572621/556-B-13572610.c
+62
+[("Replace b'        if((a[i]-a[i-1])!=1) {\\n' with b'        if((a[i]-a[i-1])==0) {\\n' at position 63", 62)]

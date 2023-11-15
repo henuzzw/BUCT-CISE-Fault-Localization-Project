@@ -1,0 +1,64 @@
+        -:    0:Source:../WA_c/1364916_buggy.c
+        -:    0:Graph:1364916_buggy.gcno
+        -:    0:Data:1364916_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <bits/stdc++.h>
+        -:    2:using namespace std;
+        -:    3:typedef long long ll;
+       98:    4:int main()
+        -:    5:{
+        -:    6:    ll n;
+      195:    7:    while(cin >> n)
+        -:    8:    {
+        -:    9:        ll i;
+       97:   10:        ll m = floor(sqrt(n) + 0.5);
+       97:   11:        if(m * m == n)
+        -:   12:        {
+        9:   13:            i = sqrt(n);
+        -:   14:        }
+        -:   15:        else
+        -:   16:        {
+       88:   17:            i = (ll)sqrt(n) + 1;
+       88:   18:            if(i % 2 == 0)
+       44:   19:                i++;
+        -:   20:        }
+       97:   21:        ll t = i / 2;
+       97:   22:        ll t1 = -i / 2;
+       97:   23:        t1--;
+       97:   24:        ll shang = i * i - t, zuoshang = i * i - t * 2, zuo = i * i - t * 3, zuoxia = i * i - t * 4, xia = i * i - t * 5, youxia = i * i - t * 6, you = i * i - t * 7, youshang = i * i;
+       97:   25:        if(n == youshang)
+        -:   26:        {
+        9:   27:            printf("(%d,%d)\n", t1, t);
+        -:   28:        }
+       88:   29:        else if(n == zuoshang)
+        -:   30:        {
+        1:   31:            printf("(%d,%d)\n", t1, t1);
+        -:   32:        }
+       87:   33:        else if(n == zuoxia)
+        -:   34:        {
+        1:   35:            printf("(%d,%d)\n", t, t1);
+        -:   36:        }
+       86:   37:        else if(n == youxia)
+        -:   38:        {
+        1:   39:            printf("(%d,%d)\n", t, t);
+        -:   40:        }
+       85:   41:        else if(n > zuoshang && n < youshang)
+        -:   42:        {
+       30:   43:            printf("(%d,%d)\n", t1, n - shang);
+        -:   44:        }
+       55:   45:        else if(n < zuoxia && n > youxia)
+        -:   46:        {
+       14:   47:            printf("(%d,%d)\n", t, xia - n);
+        -:   48:        }
+       41:   49:        else if(n < zuoshang && n > zuoxia)
+        -:   50:        {
+       12:   51:            printf("(%d,%d)\n", zuo - n, t1);
+        -:   52:        }
+       29:   53:        else if(n < youxia)
+        -:   54:        {
+       29:   55:            printf("(%d,%d)\n", n - you, t);
+        -:   56:        }
+        -:   57:
+        -:   58:    }
+        4:   59:}

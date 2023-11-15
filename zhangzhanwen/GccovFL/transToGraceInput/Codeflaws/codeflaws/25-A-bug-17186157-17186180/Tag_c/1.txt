@@ -1,0 +1,4 @@
+codeflaws/25-A-bug-17186157-17186180/25-A-17186180.c
+codeflaws/25-A-bug-17186157-17186180/25-A-17186157.c
+6
+[("Replace b'\\tint ev,od,n[101],l,i,x=1,even=0,odd=0;\\n' with b'\\tint ev,od,n[101],l,i,x=1,even=0,odd=2;\\n' at position 7", 6)]

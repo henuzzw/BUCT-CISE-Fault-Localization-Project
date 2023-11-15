@@ -1,0 +1,4 @@
+codeflaws/334-A-bug-12769895-12769932/334-A-12769932.c
+codeflaws/334-A-bug-12769895-12769932/334-A-12769895.c
+5
+[('Replace b\'    for(i = 1, j = n * n; j > i; i++, j--) printf("%d %d\\\\n", i, j);\\n\' with b\'    for(i = 1, j = n * n; i <= n; i++, j--) printf("%d %d\\\\n", i, j);\\n\' at position 6', 5)]

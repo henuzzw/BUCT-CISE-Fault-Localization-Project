@@ -1,0 +1,4 @@
+codeflaws/572-B-bug-12691093-12691097/572-B-12691097.c
+codeflaws/572-B-bug-12691093-12691097/572-B-12691093.c
+52
+[("Replace b'    for(i = 0; i < s && i < SizeB; ++i) {\\n' with b'    for(i = 0; i < s; ++i) {\\n' at position 53", 52)]

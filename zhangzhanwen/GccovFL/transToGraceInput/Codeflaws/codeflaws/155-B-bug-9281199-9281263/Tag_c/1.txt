@@ -1,0 +1,4 @@
+codeflaws/155-B-bug-9281199-9281263/155-B-9281263.c
+codeflaws/155-B-bug-9281199-9281263/155-B-9281199.c
+37
+[("Replace b'            *n=*n-1;\\n' with b'            n--;\\n' at position 38", 37)]

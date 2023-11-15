@@ -1,0 +1,4 @@
+codeflaws/475-A-bug-13253543-13253559/475-A-13253559.c
+codeflaws/475-A-bug-13253543-13253559/475-A-13253543.c
+299
+[('Replace b\'\\t\\tprintf("|O.O.O.O.O.O.O.O.O.O.#.|.|)\\\\n");\\n\' with b\'\\t\\tprintf("|O.O.O.O.O.O.O.O.O.O.#.|.|\\\\n)");\\n\' at position 300', 299)]

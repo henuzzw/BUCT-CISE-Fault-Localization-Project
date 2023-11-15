@@ -1,0 +1,4 @@
+codeflaws/298-A-bug-17564161-17564303/298-A-17564303.c
+codeflaws/298-A-bug-17564161-17564303/298-A-17564161.c
+46
+[('Replace b\'    printf("%d %d",k+t,t);\\n\' with b\'    printf("%d %d",t+1,k+t+1);\\n\' at position 47', 46)]

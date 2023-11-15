@@ -1,0 +1,4 @@
+codeflaws/262-A-bug-17287012-17287027/262-A-17287027.c
+codeflaws/262-A-bug-17287012-17287027/262-A-17287012.c
+38
+[("Replace b'\\t\\tfor(i=1;i<=9;i++){\\n' with b'\\t\\tfor(i=1;i<9;i++){\\n' at position 39", 38)]

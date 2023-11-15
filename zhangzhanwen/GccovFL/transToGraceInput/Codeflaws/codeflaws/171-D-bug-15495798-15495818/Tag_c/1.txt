@@ -1,0 +1,4 @@
+codeflaws/171-D-bug-15495798-15495818/171-D-15495818.c
+codeflaws/171-D-bug-15495798-15495818/171-D-15495798.c
+20
+[('Replace b\'\\t\\t\\tprintf("1");\\t\\n\' with b\'\\t\\t\\tprintf("5");\\t\\n\' at position 21', 20)]

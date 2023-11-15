@@ -1,0 +1,4 @@
+codeflaws/208-A-bug-18266864-18266892/208-A-18266892.c
+codeflaws/208-A-bug-18266864-18266892/208-A-18266864.c
+11
+[('Replace b"    if(str[i]==\'W\'&&str[i+1]==\'U\'&&str[i+2]==\'B\')\\n" with b"    if(str[i]==\'W\',str[i+1]==\'U\',str[i+2]==\'B\')\\n" at position 12', 11)]

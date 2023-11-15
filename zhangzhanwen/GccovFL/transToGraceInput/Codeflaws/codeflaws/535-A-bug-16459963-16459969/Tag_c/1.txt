@@ -1,0 +1,4 @@
+codeflaws/535-A-bug-16459963-16459969/535-A-16459969.c
+codeflaws/535-A-bug-16459963-16459969/535-A-16459963.c
+3
+[('Replace b\'char a[50][50] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"}, b[50][50] = {"twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"};\\n\' with b\'char a[50][50] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"}, b[50][50] = {"twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety"};\\n\' at position 4', 3)]

@@ -1,0 +1,4 @@
+codeflaws/44-A-bug-1646893-1646899/44-A-1646899.c
+codeflaws/44-A-bug-1646893-1646899/44-A-1646893.c
+10,18
+[('Insert b\'        strcat(leaf," ");\\n\' at position 12 in file2', 11), ('Insert b\'            strcat(leaf," ");\\n\' at position 21 in file2', 20)]

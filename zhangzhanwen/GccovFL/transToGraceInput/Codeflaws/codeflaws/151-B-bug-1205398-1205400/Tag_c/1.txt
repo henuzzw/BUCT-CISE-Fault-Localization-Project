@@ -1,0 +1,4 @@
+codeflaws/151-B-bug-1205398-1205400/151-B-1205400.c
+codeflaws/151-B-bug-1205398-1205400/151-B-1205398.c
+30,33,36
+[('Delete b\'\\tputs("taxi");\\n\' at position 30 in file2', 29), ('Delete b\'\\tputs("pizza");\\n\' at position 32 in file2', 31), ('Delete b\'\\tputs("girl");\\n\' at position 34 in file2', 33)]

@@ -1,0 +1,4 @@
+codeflaws/262-B-bug-17302084-17304989/262-B-17304989.c
+codeflaws/262-B-bug-17302084-17304989/262-B-17302084.c
+19
+[("Replace b'int n, k, i, mn, top, a[MAX] = {INT_MAX};\\n' with b'int n, k, i, mn, top, a[MAX];\\n' at position 20", 19)]

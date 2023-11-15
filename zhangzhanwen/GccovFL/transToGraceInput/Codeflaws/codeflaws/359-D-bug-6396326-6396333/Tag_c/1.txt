@@ -1,0 +1,4 @@
+codeflaws/359-D-bug-6396326-6396333/359-D-6396333.c
+codeflaws/359-D-bug-6396326-6396333/359-D-6396326.c
+32
+[("Replace b'\\t\\tif (R[i] - L[i] == best && (!ansCnt || ans[ansCnt-1] != L[i]))\\n' with b'\\t\\tif (R[i] - L[i] == best && ans[ansCnt-1] != L[i])\\n' at position 33", 32)]

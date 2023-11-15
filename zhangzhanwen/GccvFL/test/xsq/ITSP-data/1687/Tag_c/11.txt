@@ -1,4 +1,0 @@
-466110_buggy.c
-466110_correct.c
-22
-sum多减了1

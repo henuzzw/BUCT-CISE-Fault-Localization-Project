@@ -1,0 +1,4 @@
+codeflaws/366-A-bug-5318865-5318920/366-A-5318920.c
+codeflaws/366-A-bug-5318865-5318920/366-A-5318865.c
+78
+[("Insert b'    else\\n' at position 80 in file2", 79)]

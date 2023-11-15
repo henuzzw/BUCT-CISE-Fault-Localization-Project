@@ -1,0 +1,4 @@
+codeflaws/113-A-bug-691902-691903/113-A-691903.c
+codeflaws/113-A-bug-691902-691903/113-A-691902.c
+19
+[("Replace b'        if (strcmp(input + strlen(input) - strlen(s2), s2) == 0) return FEMININE;\\n' with b'        if (strcmp(input + strlen(input) - strlen(s2), s2) == 0) return MASCULINE;\\n' at position 20", 19)]

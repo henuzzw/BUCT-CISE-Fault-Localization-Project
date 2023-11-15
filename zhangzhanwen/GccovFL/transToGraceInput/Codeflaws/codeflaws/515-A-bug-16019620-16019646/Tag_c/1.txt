@@ -1,0 +1,4 @@
+codeflaws/515-A-bug-16019620-16019646/515-A-16019646.c
+codeflaws/515-A-bug-16019620-16019646/515-A-16019620.c
+5,7
+[("Delete b'    p=s-(a+b);\\n' at position 5 in file2", 4), ("Insert b'    p=s-(a+b);\\n' at position 8 in file2", 7)]

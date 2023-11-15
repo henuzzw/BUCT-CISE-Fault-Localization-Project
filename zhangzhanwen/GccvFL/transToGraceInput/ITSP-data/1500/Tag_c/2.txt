@@ -1,4 +1,0 @@
-264115_buggy.c
-264115_correct.c
-23
-index多加了一次

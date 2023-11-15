@@ -1,0 +1,4 @@
+codeflaws/657-B-bug-17001280-17002157/657-B-17002157.c
+codeflaws/657-B-bug-17001280-17002157/657-B-17001280.c
+19
+[("Replace b'\\t\\tfor(i=-1;++i<=x;)D[i]=A[i]=-A[i];\\n' with b'\\t\\tfor(i=-1;++i<=x;)D[i]=-A[i];\\n' at position 20", 19)]

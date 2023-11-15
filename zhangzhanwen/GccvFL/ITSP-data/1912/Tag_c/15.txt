@@ -1,4 +1,0 @@
-444226_buggy.c
-444226_correct.c
-10
-for循环异常

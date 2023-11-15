@@ -1,0 +1,4 @@
+codeflaws/518-E-bug-10047047-10047080/518-E-10047080.c
+codeflaws/518-E-bug-10047047-10047080/518-E-10047047.c
+48
+[('Replace b\'                }\\n\' with b\'                }printf("%d",a[0]);for(i=1;i<n;i++)printf(" %d",a[i]);printf("\\\\n");continue;\\n\' at position 49', 48)]

@@ -1,0 +1,4 @@
+codeflaws/197-B-bug-3733432-3733445/197-B-3733445.c
+codeflaws/197-B-bug-3733432-3733445/197-B-3733432.c
+24
+[("Replace b'            while(p%i==0&&q%i==0)\\n' with b'            if(p%i==0&&q%i==0)\\n' at position 25", 24)]

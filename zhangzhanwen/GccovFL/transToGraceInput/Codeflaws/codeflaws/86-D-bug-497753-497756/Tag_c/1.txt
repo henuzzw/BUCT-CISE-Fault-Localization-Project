@@ -1,0 +1,4 @@
+codeflaws/86-D-bug-497753-497756/86-D-497756.c
+codeflaws/86-D-bug-497753-497756/86-D-497753.c
+35
+[("Replace b'    for(;ques[j].r>ques[l].r;j--);\\n' with b'    for(;ques[j].r>ques[l].l;j--);\\n' at position 36", 35)]

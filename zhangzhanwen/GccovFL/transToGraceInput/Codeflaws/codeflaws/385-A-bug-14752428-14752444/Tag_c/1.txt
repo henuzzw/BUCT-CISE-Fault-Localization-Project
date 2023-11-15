@@ -1,0 +1,4 @@
+codeflaws/385-A-bug-14752428-14752444/385-A-14752444.c
+codeflaws/385-A-bug-14752428-14752444/385-A-14752428.c
+23,23,23
+[("Insert b'    if(num < 0){\\n' at position 25 in file2", 24), ("Insert b'           num = 0;\\n' at position 26 in file2", 25), ("Insert b'    }\\n' at position 27 in file2", 26)]

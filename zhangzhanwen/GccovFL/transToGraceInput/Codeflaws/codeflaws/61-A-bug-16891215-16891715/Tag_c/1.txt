@@ -1,0 +1,4 @@
+codeflaws/61-A-bug-16891215-16891715/61-A-16891715.c
+codeflaws/61-A-bug-16891215-16891715/61-A-16891215.c
+7
+[("Replace b'    for(i=0; ; i++)\\n' with b'    for(i=0; i<100; i++)\\n' at position 8", 7)]

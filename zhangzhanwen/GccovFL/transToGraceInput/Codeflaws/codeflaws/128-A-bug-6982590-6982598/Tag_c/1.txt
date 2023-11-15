@@ -1,0 +1,4 @@
+codeflaws/128-A-bug-6982590-6982598/128-A-6982598.c
+codeflaws/128-A-bug-6982590-6982598/128-A-6982590.c
+3
+[("Replace b'const int dj[] = {0, 1, 1, 1, -1, -1, 0};\\n' with b'const int dj[] = {0, 1, 1, -1, -1, -1, 0};\\n' at position 4", 3)]

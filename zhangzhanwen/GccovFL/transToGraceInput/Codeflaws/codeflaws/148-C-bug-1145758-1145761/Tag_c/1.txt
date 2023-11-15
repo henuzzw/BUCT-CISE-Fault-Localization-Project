@@ -1,0 +1,4 @@
+codeflaws/148-C-bug-1145758-1145761/148-C-1145761.c
+codeflaws/148-C-bug-1145758-1145761/148-C-1145758.c
+25
+[("Replace b'        A[1]=1,A[2]=1;\\n' with b'        A[1]=2,A[2]=1;\\n' at position 26", 25)]

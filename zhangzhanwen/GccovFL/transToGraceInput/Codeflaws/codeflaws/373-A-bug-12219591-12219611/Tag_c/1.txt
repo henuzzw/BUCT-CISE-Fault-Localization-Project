@@ -1,0 +1,4 @@
+codeflaws/373-A-bug-12219591-12219611/373-A-12219611.c
+codeflaws/373-A-bug-12219591-12219611/373-A-12219591.c
+21
+[('Insert b"           if(a[i]==\'.\'){continue;}\\n" at position 23 in file2', 22)]

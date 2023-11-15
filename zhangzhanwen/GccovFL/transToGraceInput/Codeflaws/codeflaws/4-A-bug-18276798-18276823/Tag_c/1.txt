@@ -1,0 +1,4 @@
+codeflaws/4-A-bug-18276798-18276823/4-A-18276823.c
+codeflaws/4-A-bug-18276798-18276823/4-A-18276798.c
+5
+[("Replace b'    if( w % 2 == 0 && w != 2){\\n' with b'    if( w % 2 == 0){\\n' at position 6", 5)]

@@ -1,0 +1,4 @@
+codeflaws/145-A-bug-18053641-18053651/145-A-18053651.c
+codeflaws/145-A-bug-18053641-18053651/145-A-18053641.c
+31
+[('Replace b\'\\tprintf("%d\\\\n",B);\\n\' with b\'\\tprintf("%d\\\\n",count);\\n\' at position 32', 31)]

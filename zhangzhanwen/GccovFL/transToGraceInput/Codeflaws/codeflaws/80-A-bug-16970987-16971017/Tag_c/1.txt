@@ -1,0 +1,4 @@
+codeflaws/80-A-bug-16970987-16971017/80-A-16971017.c
+codeflaws/80-A-bug-16970987-16971017/80-A-16970987.c
+5
+[("Replace b'    for(i=a+1;i<=53;i++)\\n' with b'    for(i=a+1;i<=50;i++)\\n' at position 6", 5)]

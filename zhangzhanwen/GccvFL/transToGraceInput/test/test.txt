@@ -1,2 +1,0 @@
-if re.match(r'.* if\s*\(.+\)\s*$', code_line):
-        return 'IfStatement'

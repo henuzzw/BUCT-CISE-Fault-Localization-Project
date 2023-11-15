@@ -1,0 +1,4 @@
+codeflaws/48-C-bug-255528-255531/48-C-255531.c
+codeflaws/48-C-bug-255528-255531/48-C-255528.c
+73
+[("Replace b'\\t\\tamax=5299290;\\n' with b'\\t\\tamax=13299295;\\n' at position 74", 73)]

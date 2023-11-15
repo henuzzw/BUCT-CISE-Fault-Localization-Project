@@ -1,0 +1,4 @@
+codeflaws/13-A-bug-14578265-14578281/13-A-14578281.c
+codeflaws/13-A-bug-14578265-14578281/13-A-14578265.c
+20
+[("Replace b'                while (x<=a) x = x * i;\\n' with b'                while (x<a) x = x * i;\\n' at position 21", 20)]

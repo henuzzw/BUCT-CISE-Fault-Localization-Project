@@ -1,0 +1,4 @@
+codeflaws/147-A-bug-12915557-12915622/147-A-12915622.c
+codeflaws/147-A-bug-12915557-12915622/147-A-12915557.c
+51,54
+[('Replace b"            if(c[i+2]!=\' \')\\n" with b"            if(c[i+1]!=\' \')\\n" at position 52', 51), ("Delete b'\\n' at position 54 in file2", 53)]

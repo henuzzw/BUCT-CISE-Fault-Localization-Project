@@ -1,0 +1,4 @@
+codeflaws/281-B-bug-6005445-6005452/281-B-6005452.c
+codeflaws/281-B-bug-6005445-6005452/281-B-6005445.c
+16
+[("Replace b'\\t\\tif(d-floor(d)==0.5)\\n' with b'\\t\\tif((x*b)%2==1&&y%2==0)\\n' at position 17", 16)]

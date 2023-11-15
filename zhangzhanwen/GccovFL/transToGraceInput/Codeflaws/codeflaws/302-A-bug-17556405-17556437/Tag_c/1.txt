@@ -1,0 +1,4 @@
+codeflaws/302-A-bug-17556405-17556437/302-A-17556437.c
+codeflaws/302-A-bug-17556405-17556437/302-A-17556405.c
+22
+[("Replace b'            if (pos*2>=((r-l)) && neg*2>=((r-l))){\\n' with b'            if (pos*2>=((r-l)) && neg*2>=((r-l)/2)){\\n' at position 23", 22)]

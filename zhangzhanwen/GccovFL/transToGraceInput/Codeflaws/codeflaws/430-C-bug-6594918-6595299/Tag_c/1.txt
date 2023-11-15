@@ -1,0 +1,4 @@
+codeflaws/430-C-bug-6594918-6595299/430-C-6595299.c
+codeflaws/430-C-bug-6594918-6595299/430-C-6594918.c
+78,79
+[("Replace b'                    val[nn->v]+=val[stk[rear]];\\n' with b'                    if(cc==1)\\n' at position 79", 78), ("Delete b'                        val[nn->v]++;\\n' at position 79 in file2", 78)]

@@ -1,0 +1,4 @@
+codeflaws/367-B-bug-5259634-5259643/367-B-5259643.c
+codeflaws/367-B-bug-5259634-5259643/367-B-5259634.c
+10
+[('Replace b\'\\tif(n/p<m){printf("0\\\\n");return 0;}\\n\' with b\'\\tif(n/p<n){printf("0\\\\n");return 0;}\\n\' at position 11', 10)]

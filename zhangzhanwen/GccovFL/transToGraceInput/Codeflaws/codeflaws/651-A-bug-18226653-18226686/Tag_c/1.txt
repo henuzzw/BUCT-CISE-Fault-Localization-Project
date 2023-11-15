@@ -1,0 +1,4 @@
+codeflaws/651-A-bug-18226653-18226686/651-A-18226686.c
+codeflaws/651-A-bug-18226653-18226686/651-A-18226653.c
+8,8,8
+[("Insert b'\\t\\tif(a == 1 && b == 1){\\n' at position 10 in file2", 9), ("Insert b'\\t\\t\\tbreak;\\n' at position 11 in file2", 10), ("Insert b'\\t\\t}\\n' at position 12 in file2", 11)]

@@ -1,0 +1,4 @@
+codeflaws/208-A-bug-17532993-17533015/208-A-17533015.c
+codeflaws/208-A-bug-17532993-17533015/208-A-17532993.c
+8
+[("Replace b'    for(i=0;i<n;){\\n' with b'    for(i=0;i<n-3;){\\n' at position 9", 8)]

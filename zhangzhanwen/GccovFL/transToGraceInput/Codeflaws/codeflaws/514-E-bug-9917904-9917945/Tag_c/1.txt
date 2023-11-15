@@ -1,0 +1,4 @@
+codeflaws/514-E-bug-9917904-9917945/514-E-9917945.c
+codeflaws/514-E-bug-9917904-9917945/514-E-9917904.c
+83
+[("Replace b'\\tputint((C[0][0]+C[D][0])%MOD);\\n' with b'\\tputint(C[0][0]+C[D][0]);\\n' at position 84", 83)]

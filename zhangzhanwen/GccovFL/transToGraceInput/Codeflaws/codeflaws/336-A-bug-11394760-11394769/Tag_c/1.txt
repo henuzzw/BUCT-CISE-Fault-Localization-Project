@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-11394760-11394769/336-A-11394769.c
+codeflaws/336-A-bug-11394760-11394769/336-A-11394760.c
+11
+[("Replace b'      else if(x<0&&y>=0)\\n' with b'      if(x<0&&y>=0)\\n' at position 12", 11)]

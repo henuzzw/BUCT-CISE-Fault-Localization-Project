@@ -1,0 +1,4 @@
+codeflaws/408-A-bug-6421253-6421255/408-A-6421255.c
+codeflaws/408-A-bug-6421253-6421255/408-A-6421253.c
+18
+[('Delete b\'        printf("%d\\\\n", sec);\\n\' at position 18 in file2', 17)]

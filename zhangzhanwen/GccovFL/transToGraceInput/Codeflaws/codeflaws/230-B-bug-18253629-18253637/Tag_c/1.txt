@@ -1,0 +1,4 @@
+codeflaws/230-B-bug-18253629-18253637/230-B-18253637.c
+codeflaws/230-B-bug-18253629-18253637/230-B-18253629.c
+37
+[('Replace b\'               printf("NO\\\\n");\\n\' with b\'               printf("N0\\\\n");\\n\' at position 38', 37)]

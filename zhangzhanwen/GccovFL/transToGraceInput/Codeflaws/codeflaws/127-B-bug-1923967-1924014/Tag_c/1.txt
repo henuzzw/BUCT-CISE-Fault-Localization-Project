@@ -1,0 +1,4 @@
+codeflaws/127-B-bug-1923967-1924014/127-B-1924014.c
+codeflaws/127-B-bug-1923967-1924014/127-B-1923967.c
+28
+[("Replace b'                                                  a[i]=a[i]-2;\\n' with b'                                                  a[i]=a[i]/2;\\n' at position 29", 28)]

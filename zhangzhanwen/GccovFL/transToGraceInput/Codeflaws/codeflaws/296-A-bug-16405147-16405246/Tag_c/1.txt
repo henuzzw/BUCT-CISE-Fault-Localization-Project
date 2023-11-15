@@ -1,0 +1,4 @@
+codeflaws/296-A-bug-16405147-16405246/296-A-16405246.c
+codeflaws/296-A-bug-16405147-16405246/296-A-16405147.c
+18
+[("Replace b'\\t\\t\\tif(p==a[j])\\n' with b'\\t\\t\\tif(p==a[i])\\n' at position 19", 18)]

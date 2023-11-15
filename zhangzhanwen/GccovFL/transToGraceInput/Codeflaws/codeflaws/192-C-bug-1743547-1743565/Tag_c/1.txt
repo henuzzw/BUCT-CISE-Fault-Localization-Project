@@ -1,0 +1,4 @@
+codeflaws/192-C-bug-1743547-1743565/192-C-1743565.c
+codeflaws/192-C-bug-1743547-1743565/192-C-1743547.c
+26,27
+[("Replace b'\\t\\tM[ini][fim] = max(length, M[ini][fim]);\\n' with b'\\t\\tif (M[ini][fim] == 0)\\n' at position 27", 26), ("Delete b'\\t\\t\\tM[ini][fim] = length;\\n' at position 27 in file2", 26)]

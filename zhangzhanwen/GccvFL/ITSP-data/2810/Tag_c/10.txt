@@ -1,4 +1,0 @@
-270068_buggy.c
-270068_correct.c
-7
-area表达式错误

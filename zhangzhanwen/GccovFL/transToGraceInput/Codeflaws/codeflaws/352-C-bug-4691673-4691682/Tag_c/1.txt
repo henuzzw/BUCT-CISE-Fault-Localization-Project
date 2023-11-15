@@ -1,0 +1,4 @@
+codeflaws/352-C-bug-4691673-4691682/352-C-4691682.c
+codeflaws/352-C-bug-4691673-4691682/352-C-4691673.c
+21
+[('Delete b\'    printf("%ld %ld %lf %ld\\\\n",Min,Max,base);\\n\' at position 21 in file2', 20)]

@@ -1,0 +1,4 @@
+codeflaws/363-A-bug-14221971-14221986/363-A-14221986.c
+codeflaws/363-A-bug-14221971-14221986/363-A-14221971.c
+6
+[('Replace b\'\\t    printf("%s\\\\n", a[n]);\\n\' with b\'\\t    printf("%d\\\\n", a[n]);\\n\' at position 7', 6)]

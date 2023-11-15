@@ -1,0 +1,4 @@
+codeflaws/471-C-bug-7987098-7987325/471-C-7987325.c
+codeflaws/471-C-bug-7987098-7987325/471-C-7987098.c
+7,7
+[("Replace b'    //j=sqrt(n);\\n' with b'    j=sqrt(n);\\n' at position 8", 7), ("Insert b'    j = (sqrt(1+24*n)-1)/6;\\n' at position 9 in file2", 8)]

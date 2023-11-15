@@ -1,0 +1,4 @@
+codeflaws/10-D-bug-1434543-1434549/10-D-1434549.c
+codeflaws/10-D-bug-1434543-1434549/10-D-1434543.c
+38,38
+[("Insert b'\\tif(max==0)\\n' at position 40 in file2", 39), ('Insert b\'\\t{printf("0\\\\n");continue;}\\n\' at position 41 in file2', 40)]

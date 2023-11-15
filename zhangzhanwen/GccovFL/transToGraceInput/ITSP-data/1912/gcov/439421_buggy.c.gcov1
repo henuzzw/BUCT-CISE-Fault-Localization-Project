@@ -1,0 +1,27 @@
+        -:    0:Source:../WA_c/439421_buggy.c
+        -:    0:Graph:439421_buggy.gcno
+        -:    0:Data:439421_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<cstdio>
+        -:    3:using namespace std;
+        1:    4:int main()
+        -:    5:{
+        5:    6:    for(int k = 0 ; k < 4; k++ )
+        -:    7:    {
+        -:    8:        char tuan;
+        4:    9:        cin >> tuan;
+        4:   10:        int hangshu = tuan - 'A';
+       16:   11:        for(int i = 0; i < hangshu; i++)
+        -:   12:        {
+       49:   13:            for(int j = 0; j <= i; j++)
+        -:   14:            {
+       37:   15:                printf("%c", (tuan - j));
+        -:   16:            }
+       12:   17:            cout << endl;
+        -:   18:        }
+        4:   19:        cout << endl;
+        -:   20:    }
+        1:   21:    return 0;
+        3:   22:}

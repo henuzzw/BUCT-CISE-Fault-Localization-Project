@@ -1,0 +1,4 @@
+codeflaws/9-A-bug-17766560-17766602/9-A-17766602.c
+codeflaws/9-A-bug-17766560-17766602/9-A-17766560.c
+25,25
+[("Replace b'\\n' with b'        n=n/ans;\\n' at position 26", 25), ("Insert b'        n=n/2;\\n' at position 27 in file2", 26)]

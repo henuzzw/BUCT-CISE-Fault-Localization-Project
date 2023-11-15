@@ -1,0 +1,4 @@
+codeflaws/31-B-bug-10514546-10514583/31-B-10514583.c
+codeflaws/31-B-bug-10514546-10514583/31-B-10514546.c
+0,72
+[("Insert b'#include<stdio.h>\\n' at position 2 in file2", 1), ("Replace b'\\tif(state==1&&bit!=0)\\n' with b'\\tif(state==1)\\n' at position 74", 73)]

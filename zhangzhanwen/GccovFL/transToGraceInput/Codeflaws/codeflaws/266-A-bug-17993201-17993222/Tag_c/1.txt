@@ -1,0 +1,4 @@
+codeflaws/266-A-bug-17993201-17993222/266-A-17993222.c
+codeflaws/266-A-bug-17993201-17993222/266-A-17993201.c
+6
+[("Replace b'    char string[n];\\n' with b'    char string[5];\\n' at position 7", 6)]

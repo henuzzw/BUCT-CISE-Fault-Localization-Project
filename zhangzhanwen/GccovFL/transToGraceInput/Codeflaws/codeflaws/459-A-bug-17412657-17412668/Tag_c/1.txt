@@ -1,0 +1,4 @@
+codeflaws/459-A-bug-17412657-17412668/459-A-17412668.c
+codeflaws/459-A-bug-17412657-17412668/459-A-17412657.c
+23
+[("Replace b'    else if(abs(x2-x1)==abs(y2-y1))\\n' with b'    else if((x2-x1)==(y2-y1))\\n' at position 24", 23)]

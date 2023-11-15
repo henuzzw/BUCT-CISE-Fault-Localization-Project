@@ -1,0 +1,4 @@
+codeflaws/47-A-bug-15929232-15929294/47-A-15929294.c
+codeflaws/47-A-bug-15929232-15929294/47-A-15929232.c
+6
+[("Replace b'\\t\\tif((i*(i+1))/2==n){\\n' with b'\\t\\tif(((i*i)+n)/2==n){\\n' at position 7", 6)]

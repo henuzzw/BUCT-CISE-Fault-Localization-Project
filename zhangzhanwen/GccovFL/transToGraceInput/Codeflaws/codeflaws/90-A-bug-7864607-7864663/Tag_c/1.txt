@@ -1,0 +1,4 @@
+codeflaws/90-A-bug-7864607-7864663/90-A-7864663.c
+codeflaws/90-A-bug-7864607-7864663/90-A-7864607.c
+25
+[("Replace b'\\t\\t\\tq=1;\\n' with b'\\t\\t\\tr=1;\\n' at position 26", 25)]

@@ -1,0 +1,4 @@
+codeflaws/520-A-bug-17826973-17826986/520-A-17826986.c
+codeflaws/520-A-bug-17826973-17826986/520-A-17826973.c
+19
+[('Replace b\'//printf("%d\\\\n",k);\\n\' with b\'printf("%d\\\\n",k);\\n\' at position 20', 19)]

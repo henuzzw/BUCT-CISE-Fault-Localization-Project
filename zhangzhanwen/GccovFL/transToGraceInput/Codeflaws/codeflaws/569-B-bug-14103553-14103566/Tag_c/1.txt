@@ -1,0 +1,4 @@
+codeflaws/569-B-bug-14103553-14103566/569-B-14103566.c
+codeflaws/569-B-bug-14103553-14103566/569-B-14103553.c
+18
+[("Replace b'        if(a[temp]>0 || temp>num){\\n' with b'        if(a[temp]>0 || temp>=num){\\n' at position 19", 18)]

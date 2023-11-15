@@ -1,0 +1,4 @@
+codeflaws/55-A-bug-283856-283860/55-A-283860.c
+codeflaws/55-A-bug-283856-283860/55-A-283856.c
+10
+[("Replace b'  for (j=2,i=1;;i+=j,j++) {\\n' with b'  for (j=2,i=1;i<20;i+=j,j++) {\\n' at position 11", 10)]

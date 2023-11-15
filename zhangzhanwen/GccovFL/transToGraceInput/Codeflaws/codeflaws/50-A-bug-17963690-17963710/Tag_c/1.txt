@@ -1,0 +1,4 @@
+codeflaws/50-A-bug-17963690-17963710/50-A-17963710.c
+codeflaws/50-A-bug-17963690-17963710/50-A-17963690.c
+11
+[("Replace b'\\tint a[20][20];\\n' with b'\\tint a[18][18];\\n' at position 12", 11)]

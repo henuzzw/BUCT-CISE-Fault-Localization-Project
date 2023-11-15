@@ -1,0 +1,4 @@
+codeflaws/443-A-bug-17547384-17547389/443-A-17547389.c
+codeflaws/443-A-bug-17547384-17547389/443-A-17547384.c
+3
+[("Replace b'    char a[2000];\\n' with b'    char a[100];\\n' at position 4", 3)]

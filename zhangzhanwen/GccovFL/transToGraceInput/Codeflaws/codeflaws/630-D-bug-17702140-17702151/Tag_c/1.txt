@@ -1,0 +1,4 @@
+codeflaws/630-D-bug-17702140-17702151/630-D-17702151.c
+codeflaws/630-D-bug-17702140-17702151/630-D-17702140.c
+7
+[("Replace b'    x=(n*(n+1))/2;\\n' with b'    x=(n*(n-1))/2;\\n' at position 8", 7)]

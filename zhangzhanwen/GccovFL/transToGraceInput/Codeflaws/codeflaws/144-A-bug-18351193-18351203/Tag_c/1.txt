@@ -1,0 +1,4 @@
+codeflaws/144-A-bug-18351193-18351203/144-A-18351203.c
+codeflaws/144-A-bug-18351193-18351203/144-A-18351193.c
+20
+[("Replace b'    if(pos_max>pos_min) ans--;\\n' with b'    if(pos_max>n-pos_min-1) ans--;\\n' at position 21", 20)]

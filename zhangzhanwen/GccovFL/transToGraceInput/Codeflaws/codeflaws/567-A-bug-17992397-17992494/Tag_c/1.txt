@@ -1,0 +1,4 @@
+codeflaws/567-A-bug-17992397-17992494/567-A-17992494.c
+codeflaws/567-A-bug-17992397-17992494/567-A-17992397.c
+23,23,23
+[('Insert b\'\\t\\tif (i == 1) printf("%ld %ld", a[i+1] - a[i], max(a[i] - a[1], a[n] - a[i]));\\n\' at position 25 in file2', 24), ('Insert b\'\\t\\telse if (i == n) printf("%ld %ld", a[i] - a[i-1], max(a[i] - a[1], a[n] - a[i]));\\n\' at position 26 in file2', 25), ("Insert b'\\t\\telse\\n' at position 27 in file2", 26)]

@@ -1,0 +1,4 @@
+codeflaws/214-A-bug-15257318-15257535/214-A-15257535.c
+codeflaws/214-A-bug-15257318-15257535/214-A-15257318.c
+11
+[("Replace b'            for(j=0; j<=n; j++)\\n' with b'            for(j=0; j<n; j++)\\n' at position 12", 11)]

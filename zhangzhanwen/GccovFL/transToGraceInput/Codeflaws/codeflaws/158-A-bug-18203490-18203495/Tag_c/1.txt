@@ -1,0 +1,4 @@
+codeflaws/158-A-bug-18203490-18203495/158-A-18203495.c
+codeflaws/158-A-bug-18203490-18203495/158-A-18203490.c
+4
+[("Replace b'    int ara[300];\\n' with b'    int ara[30];\\n' at position 5", 4)]

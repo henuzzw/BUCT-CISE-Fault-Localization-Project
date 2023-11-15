@@ -1,0 +1,4 @@
+codeflaws/519-A-bug-15908197-15908286/519-A-15908286.c
+codeflaws/519-A-bug-15908197-15908286/519-A-15908197.c
+4
+[("Replace b'\\tfor(i=0;i<71;i++){\\n' with b'\\tfor(i=0;i<65;i++){\\n' at position 5", 4)]

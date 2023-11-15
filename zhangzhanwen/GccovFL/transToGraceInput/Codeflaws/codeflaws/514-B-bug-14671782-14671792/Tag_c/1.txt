@@ -1,0 +1,4 @@
+codeflaws/514-B-bug-14671782-14671792/514-B-14671792.c
+codeflaws/514-B-bug-14671782-14671792/514-B-14671782.c
+84
+[('Delete b\'    for (i = 0; i < n; i++) printf ("%hd %hd %hd/%hu\\\\n",st[i].x,st[i].y,st[i].tn,st[i].td);\\n\' at position 84 in file2', 83)]

@@ -1,0 +1,4 @@
+codeflaws/203-C-bug-2468270-2468310/203-C-2468310.c
+codeflaws/203-C-bug-2468270-2468310/203-C-2468270.c
+39
+[("Replace b'    long long sum = 0;\\n' with b'    int sum = 0;\\n' at position 40", 39)]

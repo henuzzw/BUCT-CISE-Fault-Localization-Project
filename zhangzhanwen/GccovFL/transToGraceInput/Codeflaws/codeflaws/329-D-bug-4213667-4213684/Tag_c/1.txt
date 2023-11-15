@@ -1,0 +1,4 @@
+codeflaws/329-D-bug-4213667-4213684/329-D-4213684.c
+codeflaws/329-D-bug-4213667-4213684/329-D-4213667.c
+37
+[('Replace b\'            for (j = 0; j < 33; j++) printf(">.");\\n\' with b\'            for (j = 0; j < 33; j++) printf(".>");\\n\' at position 38', 37)]

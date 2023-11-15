@@ -1,0 +1,4 @@
+codeflaws/616-D-bug-15468309-15468354/616-D-15468354.c
+codeflaws/616-D-bug-15468309-15468354/616-D-15468309.c
+11
+[("Replace b'    int ar=1,al=1,l=0,now=0;\\n' with b'    int ar=0,al=0,l=0,now=0;\\n' at position 12", 11)]

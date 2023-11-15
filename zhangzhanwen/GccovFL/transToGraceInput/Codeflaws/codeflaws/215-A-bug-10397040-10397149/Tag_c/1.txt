@@ -1,0 +1,4 @@
+codeflaws/215-A-bug-10397040-10397149/215-A-10397149.c
+codeflaws/215-A-bug-10397040-10397149/215-A-10397040.c
+27,28,30
+[("Delete b'\\t\\t\\t{\\n' at position 27 in file2", 26), ("Delete b'\\t\\t\\t\\ti=n;\\n' at position 27 in file2", 26), ("Delete b'\\t\\t\\t}\\n' at position 28 in file2", 27)]

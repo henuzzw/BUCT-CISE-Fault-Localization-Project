@@ -1,0 +1,4 @@
+codeflaws/492-A-bug-18201113-18201470/492-A-18201470.c
+codeflaws/492-A-bug-18201113-18201470/492-A-18201113.c
+9
+[("Insert b'        if(sum > n)break;\\n' at position 11 in file2", 10)]

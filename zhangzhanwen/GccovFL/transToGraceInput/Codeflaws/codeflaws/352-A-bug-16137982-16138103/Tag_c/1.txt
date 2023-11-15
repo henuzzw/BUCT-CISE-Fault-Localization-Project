@@ -1,0 +1,4 @@
+codeflaws/352-A-bug-16137982-16138103/352-A-16138103.c
+codeflaws/352-A-bug-16137982-16138103/352-A-16137982.c
+13
+[('Insert b\'    else if(z==0) printf("-1");\\n\' at position 15 in file2', 14)]

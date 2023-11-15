@@ -1,0 +1,4 @@
+codeflaws/574-B-bug-13221741-13221750/574-B-13221750.c
+codeflaws/574-B-bug-13221741-13221750/574-B-13221741.c
+23
+[("Replace b'\\tif (min==1e9) min=5;\\n' with b'\\tif (min=1e9) min=5;\\n' at position 24", 23)]

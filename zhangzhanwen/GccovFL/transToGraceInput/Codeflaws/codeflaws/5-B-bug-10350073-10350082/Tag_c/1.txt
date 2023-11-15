@@ -1,0 +1,4 @@
+codeflaws/5-B-bug-10350073-10350082/5-B-10350082.c
+codeflaws/5-B-bug-10350073-10350082/5-B-10350073.c
+31
+[("Replace b'      if ((ml - l) % 2) {\\n' with b'      if (!((ml - l) % 2)) {\\n' at position 32", 31)]

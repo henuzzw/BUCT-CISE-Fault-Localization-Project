@@ -1,0 +1,4 @@
+codeflaws/558-C-bug-12074525-12074538/558-C-12074538.c
+codeflaws/558-C-bug-12074525-12074538/558-C-12074525.c
+18
+[("Replace b'        op[0]=0;\\n' with b'        op[b]=0;\\n' at position 19", 18)]

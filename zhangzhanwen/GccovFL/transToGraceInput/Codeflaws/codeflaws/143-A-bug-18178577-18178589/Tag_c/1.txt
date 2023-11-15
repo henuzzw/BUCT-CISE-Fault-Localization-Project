@@ -1,0 +1,4 @@
+codeflaws/143-A-bug-18178577-18178589/143-A-18178589.c
+codeflaws/143-A-bug-18178577-18178589/143-A-18178577.c
+18
+[("Replace b'\\t\\t\\t\\t\\t\\tif(a!=b && a!=c && a!=d && b!=c && b!=d && c!=d){\\n' with b'\\t\\t\\t\\t\\t\\tif(a!=b && a!=c && a!=b && b!=c && b!=d && c!=d){\\n' at position 19", 18)]

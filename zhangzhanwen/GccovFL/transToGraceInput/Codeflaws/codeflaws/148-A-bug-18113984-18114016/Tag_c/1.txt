@@ -1,0 +1,4 @@
+codeflaws/148-A-bug-18113984-18114016/148-A-18114016.c
+codeflaws/148-A-bug-18113984-18114016/148-A-18113984.c
+1
+[("Replace b'int ara[100001];\\n' with b'int ara[1001];\\n' at position 2", 1)]

@@ -1,0 +1,4 @@
+codeflaws/322-A-bug-13336078-13336137/322-A-13336137.c
+codeflaws/322-A-bug-13336078-13336137/322-A-13336078.c
+10
+[("Replace b'    for(i=2;i<=m;i++){\\n' with b'    for(i=1;i<=n;i++){\\n' at position 11", 10)]

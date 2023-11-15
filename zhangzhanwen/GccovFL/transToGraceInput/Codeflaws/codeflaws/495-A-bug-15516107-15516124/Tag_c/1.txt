@@ -1,0 +1,4 @@
+codeflaws/495-A-bug-15516107-15516124/495-A-15516124.c
+codeflaws/495-A-bug-15516107-15516124/495-A-15516107.c
+4
+[("Replace b'const int table[]={2,7,2,3,3,4,2,5,1,2};\\n' with b'const int table[]={2.7,2,3,3,4,2,5,1,2};\\n' at position 5", 4)]

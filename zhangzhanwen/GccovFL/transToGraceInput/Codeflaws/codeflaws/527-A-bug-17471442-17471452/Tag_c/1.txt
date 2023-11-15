@@ -1,0 +1,4 @@
+codeflaws/527-A-bug-17471442-17471452/527-A-17471452.c
+codeflaws/527-A-bug-17471442-17471452/527-A-17471442.c
+16
+[('Replace b\'    printf("%lld", count);\\n\' with b\'    printf("%d", count);\\n\' at position 17', 16)]

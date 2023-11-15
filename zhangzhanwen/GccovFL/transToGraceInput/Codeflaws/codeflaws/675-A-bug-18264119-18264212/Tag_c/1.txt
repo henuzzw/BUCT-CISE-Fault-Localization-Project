@@ -1,0 +1,4 @@
+codeflaws/675-A-bug-18264119-18264212/675-A-18264212.c
+codeflaws/675-A-bug-18264119-18264212/675-A-18264119.c
+10,10
+[("Replace b'\\n' with b'   if((c!=0&&d*c>=0&&d%c==0)||(c==0&&a==b))\\n' at position 11", 10), ("Insert b'   if((c>0&&d>=0&&d%c==0)||(c<0&&d<=0&&d%c==0)||(c==0&&a==b))\\n' at position 12 in file2", 11)]

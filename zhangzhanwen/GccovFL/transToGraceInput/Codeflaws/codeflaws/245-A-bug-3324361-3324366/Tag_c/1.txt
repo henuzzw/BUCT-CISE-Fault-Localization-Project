@@ -1,0 +1,4 @@
+codeflaws/245-A-bug-3324361-3324366/245-A-3324366.c
+codeflaws/245-A-bug-3324361-3324366/245-A-3324361.c
+21
+[('Replace b\'    if(countb>=(num[2])*5) printf("LIVE");\\n\' with b\'    if(countb>=(num[2])*5) printf("ALIVE");\\n\' at position 22', 21)]

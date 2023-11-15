@@ -1,0 +1,4 @@
+codeflaws/151-C-bug-1201220-1201222/151-C-1201222.c
+codeflaws/151-C-bug-1201220-1201222/151-C-1201220.c
+11
+[("Replace b'\\t\\t\\tfor (j = 2LL; j <= sqrt(p); ++j)\\n' with b'\\t\\t\\tfor (j = 2LL; j * j <= sqrt(p); ++j)\\n' at position 12", 11)]

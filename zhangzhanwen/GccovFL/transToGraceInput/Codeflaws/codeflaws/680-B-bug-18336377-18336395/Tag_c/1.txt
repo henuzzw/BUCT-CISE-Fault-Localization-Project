@@ -1,0 +1,4 @@
+codeflaws/680-B-bug-18336377-18336395/680-B-18336395.c
+codeflaws/680-B-bug-18336377-18336395/680-B-18336377.c
+43
+[('Replace b\'\\t/*printf("count now %d\\\\n", count);*/\\n\' with b\'\\tprintf("count now %d\\\\n", count);\\n\' at position 44', 43)]

@@ -1,0 +1,4 @@
+codeflaws/492-D-bug-9952514-9952579/492-D-9952579.c
+codeflaws/492-D-bug-9952514-9952579/492-D-9952514.c
+21
+[('Replace b\'        scanf("%lld",&q);\\n\' with b\'        scanf("%ll4d",&q);\\n\' at position 22', 21)]

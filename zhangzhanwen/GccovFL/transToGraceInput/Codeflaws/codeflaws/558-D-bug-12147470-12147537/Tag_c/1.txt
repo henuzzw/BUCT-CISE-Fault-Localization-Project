@@ -1,0 +1,4 @@
+codeflaws/558-D-bug-12147470-12147537/558-D-12147537.c
+codeflaws/558-D-bug-12147470-12147537/558-D-12147470.c
+82
+[("Insert b'\\t\\t\\treturn 0;\\n' at position 84 in file2", 83)]

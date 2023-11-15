@@ -1,0 +1,4 @@
+codeflaws/166-C-bug-1395810-1395933/166-C-1395933.c
+codeflaws/166-C-bug-1395810-1395933/166-C-1395810.c
+44
+[('Replace b\'    if(array[(n+1)/2-1]==x) printf("0\\\\n");\\n\' with b\'    if(array[(n+1)/2]==x) printf("0\\\\n");\\n\' at position 45', 44)]

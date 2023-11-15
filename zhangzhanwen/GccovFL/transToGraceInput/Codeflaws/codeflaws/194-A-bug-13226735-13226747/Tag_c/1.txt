@@ -1,0 +1,4 @@
+codeflaws/194-A-bug-13226735-13226747/194-A-13226747.c
+codeflaws/194-A-bug-13226735-13226747/194-A-13226735.c
+10,10,10
+[("Insert b'    if(count <= 0){\\n' at position 12 in file2", 11), ("Insert b'             count = 0;\\n' at position 13 in file2", 12), ("Insert b'             }\\n' at position 14 in file2", 13)]

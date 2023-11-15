@@ -1,0 +1,4 @@
+codeflaws/376-B-bug-5778098-5778153/376-B-5778153.c
+codeflaws/376-B-bug-5778098-5778153/376-B-5778098.c
+9,12
+[("Delete b'        head[b]=a;\\n' at position 9 in file2", 8), ("Replace b'        if(arr[i]>0)\\n' with b'        if(head[i]||arr[i]>0)\\n' at position 12", 11)]

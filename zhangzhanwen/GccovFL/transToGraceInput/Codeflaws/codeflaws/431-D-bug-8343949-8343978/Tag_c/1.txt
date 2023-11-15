@@ -1,0 +1,4 @@
+codeflaws/431-D-bug-8343949-8343978/431-D-8343978.c
+codeflaws/431-D-bug-8343949-8343978/431-D-8343949.c
+29
+[("Replace b'    ll m, lo = 1, hi = (ll)2e18, mid, n = 1;\\n' with b'    ll m, lo = 0, hi = (ll)2e18, mid, n = 0;\\n' at position 30", 29)]

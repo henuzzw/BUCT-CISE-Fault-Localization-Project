@@ -1,0 +1,4 @@
+codeflaws/344-B-bug-9793268-9793300/344-B-9793300.c
+codeflaws/344-B-bug-9793268-9793300/344-B-9793268.c
+9
+[("Replace b'\\tif(a+b-c>=0&&b+c-a>=0&&a+c-b>=0&&(a+b-c)%2==0&&(b+c-a)%2==0&&(a+c-b)%2==0)\\n' with b'\\tif(a+b-c>=0&&b+c-a>=0&&a+c-b>=0)\\n' at position 10", 9)]

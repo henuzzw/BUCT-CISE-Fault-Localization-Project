@@ -1,0 +1,4 @@
+codeflaws/630-L-bug-16306491-16306517/630-L-16306517.c
+codeflaws/630-L-bug-16306491-16306517/630-L-16306491.c
+20,21,21
+[("Insert b'\\tif(p)\\n' at position 22 in file2", 21), ("Insert b'\\telse\\n' at position 24 in file2", 23), ('Insert b\'\\tprintf("00000");\\n\' at position 25 in file2', 24)]

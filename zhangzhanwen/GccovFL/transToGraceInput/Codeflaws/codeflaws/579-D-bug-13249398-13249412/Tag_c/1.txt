@@ -1,0 +1,4 @@
+codeflaws/579-D-bug-13249398-13249412/579-D-13249412.c
+codeflaws/579-D-bug-13249398-13249412/579-D-13249398.c
+1
+[("Replace b'long long int max(long long int a,long long int b)\\n' with b'int max(int a,int b)\\n' at position 2", 1)]

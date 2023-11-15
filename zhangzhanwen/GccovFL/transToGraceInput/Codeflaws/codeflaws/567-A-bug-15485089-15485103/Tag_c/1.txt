@@ -1,0 +1,4 @@
+codeflaws/567-A-bug-15485089-15485103/567-A-15485103.c
+codeflaws/567-A-bug-15485089-15485103/567-A-15485089.c
+11
+[('Replace b\'\\t\\tprintf("%lld %lld\\\\n",min(mut(x[i]-x[i-1]),mut(x[i]-x[i+1])),max(mut(x[i]-x[0]),mut(x[i]-x[n-1])));\\n\' with b\'\\t\\tprintf("%lld %lld\\\\n",max(mut(x[i]-x[0]),mut(x[i]-x[n-1])),min(mut(x[i]-x[i-1]),mut(x[i]-x[i+1])));\\n\' at position 12', 11)]

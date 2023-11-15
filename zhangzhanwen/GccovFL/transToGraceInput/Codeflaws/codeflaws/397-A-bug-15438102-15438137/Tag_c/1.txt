@@ -1,0 +1,4 @@
+codeflaws/397-A-bug-15438102-15438137/397-A-15438137.c
+codeflaws/397-A-bug-15438102-15438137/397-A-15438102.c
+17
+[("Replace b'    for(i=l[0]+1;i<=r[0];i++)\\n' with b'    for(i=l[0];i<r[0];i++)\\n' at position 18", 17)]

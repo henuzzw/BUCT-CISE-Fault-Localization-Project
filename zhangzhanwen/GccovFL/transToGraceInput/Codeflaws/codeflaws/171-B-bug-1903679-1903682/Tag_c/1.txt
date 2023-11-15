@@ -1,0 +1,4 @@
+codeflaws/171-B-bug-1903679-1903682/171-B-1903682.c
+codeflaws/171-B-bug-1903679-1903682/171-B-1903679.c
+5
+[("Replace b'    s=6*n*(n-1)+1;\\n' with b'    s=6*n*(n-1)-1;\\n' at position 6", 5)]

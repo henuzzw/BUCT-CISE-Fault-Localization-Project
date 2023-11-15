@@ -1,0 +1,4 @@
+codeflaws/491-A-bug-9513677-9513706/491-A-9513706.c
+codeflaws/491-A-bug-9513677-9513706/491-A-9513677.c
+23
+[('Replace b\'for(i=n-k;i<n;i++){printf("%d%c",i,(i==n-1)?\\\'\\\\n\\\':\\\' \\\');}\\n\' with b\'for(i=2;i<=1+m;i++){printf("%d%c",i,(i==1+m)?\\\'\\\\n\\\':\\\' \\\');}\\n\' at position 24', 23)]

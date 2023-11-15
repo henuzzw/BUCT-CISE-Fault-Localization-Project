@@ -1,0 +1,4 @@
+codeflaws/508-C-bug-11919951-11919973/508-C-11919973.c
+codeflaws/508-C-bug-11919951-11919973/508-C-11919951.c
+6
+[("Replace b'\\tif( t < r)\\n' with b'\\tif( t+1 < r)\\n' at position 7", 6)]

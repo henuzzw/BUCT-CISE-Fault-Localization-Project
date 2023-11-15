@@ -1,0 +1,25 @@
+        -:    0:Source:../WA_c/505763_buggy.c
+        -:    0:Graph:505763_buggy.gcno
+        -:    0:Data:505763_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<cstring>
+        -:    3:#include<cstdio>
+        -:    4:using namespace std;
+        2:    5:int main() {
+        -:    6:	int n;
+        3:    7:	while (cin >> n) {
+        1:    8:		int t = 1, count = 0, x = -0XFFFFFFF;
+      205:    9:		while (x != 1) {
+      102:   10:			if (t % 2 != 0)
+       36:   11:				t = (t + 1) / 2 + n;
+        -:   12:			else
+       66:   13:				t /= 2;
+      102:   14:			x = t;
+      102:   15:			count++;
+        -:   16:		}
+        1:   17:		count++; 
+        1:   18:		cout << count  << endl;
+        -:   19:	}
+        4:   20:}

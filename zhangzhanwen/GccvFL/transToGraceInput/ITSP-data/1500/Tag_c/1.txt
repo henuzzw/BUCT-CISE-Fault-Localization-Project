@@ -1,4 +1,0 @@
-264025_buggy.c
-264025_correct.c
-7
-for循环异常

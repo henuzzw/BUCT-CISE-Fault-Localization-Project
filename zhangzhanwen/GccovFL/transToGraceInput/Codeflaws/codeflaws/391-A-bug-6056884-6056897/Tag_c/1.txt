@@ -1,0 +1,4 @@
+codeflaws/391-A-bug-6056884-6056897/391-A-6056897.c
+codeflaws/391-A-bug-6056884-6056897/391-A-6056884.c
+16
+[("Insert b'\\tif (max%2==0) count++;\\n' at position 18 in file2", 17)]

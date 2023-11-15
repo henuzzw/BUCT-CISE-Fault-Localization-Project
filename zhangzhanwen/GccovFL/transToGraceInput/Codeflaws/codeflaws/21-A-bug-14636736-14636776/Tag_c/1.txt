@@ -1,0 +1,4 @@
+codeflaws/21-A-bug-14636736-14636776/21-A-14636776.c
+codeflaws/21-A-bug-14636736-14636776/21-A-14636736.c
+26
+[('Replace b\'                if ((test==1) || (j==0) || (32<j) || (k==0) || (16<k)) printf("NO");\\n\' with b\'                if ((test==1) || (j==0) || (32<j)) printf("NO");\\n\' at position 27', 26)]

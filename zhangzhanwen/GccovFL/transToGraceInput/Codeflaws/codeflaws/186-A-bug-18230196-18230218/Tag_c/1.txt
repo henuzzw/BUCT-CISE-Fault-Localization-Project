@@ -1,0 +1,4 @@
+codeflaws/186-A-bug-18230196-18230218/186-A-18230218.c
+codeflaws/186-A-bug-18230196-18230218/186-A-18230196.c
+42,43
+[('Replace b\'\\t\\t\\t\\t\\t\\t\\t\\t\\t\\n\' with b\'\\t\\t\\t\\t\\tprintf("ind1=%d ind2=%d",ind1,ind2);\\n\' at position 43', 42), ("Delete b'\\t\\t\\t\\t\\t\\n' at position 43 in file2", 42)]

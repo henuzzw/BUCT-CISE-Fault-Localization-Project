@@ -1,0 +1,4 @@
+codeflaws/433-A-bug-14776196-14776225/433-A-14776225.c
+codeflaws/433-A-bug-14776196-14776225/433-A-14776196.c
+8
+[('Replace b\'        scanf("%d",&tmp);\\n\' with b\'        scanf("%d%d",&tmp);\\n\' at position 9', 8)]

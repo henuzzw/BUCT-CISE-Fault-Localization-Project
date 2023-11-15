@@ -1,0 +1,4 @@
+codeflaws/618-B-bug-18036537-18036574/618-B-18036574.c
+codeflaws/618-B-bug-18036537-18036574/618-B-18036537.c
+21
+[("Replace b'        for(k=0;k<=n;k++)\\n' with b'        for(k=0;k<=5;k++)\\n' at position 22", 21)]

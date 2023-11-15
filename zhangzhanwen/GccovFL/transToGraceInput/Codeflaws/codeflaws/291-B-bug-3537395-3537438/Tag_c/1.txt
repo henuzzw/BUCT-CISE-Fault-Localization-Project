@@ -1,0 +1,4 @@
+codeflaws/291-B-bug-3537395-3537438/291-B-3537438.c
+codeflaws/291-B-bug-3537395-3537438/291-B-3537395.c
+19
+[('Replace b"\\t\\tif(isalpha(a[i]) || a[i]==\'?\' || a[i]==\'.\' || a[i]==\'!\' || a[i]==\',\' || a[i]>=48 && a[i]<=57){\\n" with b\'\\t\\tif(isalpha(a[i])){\\n\' at position 20', 19)]

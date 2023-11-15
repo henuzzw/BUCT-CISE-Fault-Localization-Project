@@ -1,0 +1,4 @@
+codeflaws/131-B-bug-17068991-17069189/131-B-17069189.c
+codeflaws/131-B-bug-17068991-17069189/131-B-17068991.c
+38
+[("Replace b'\\t\\tresult+=((long long)zero*(long long)(zero-1))/2;\\n' with b'\\t\\tresult+=(zero*(zero-1))/2;\\n' at position 39", 38)]

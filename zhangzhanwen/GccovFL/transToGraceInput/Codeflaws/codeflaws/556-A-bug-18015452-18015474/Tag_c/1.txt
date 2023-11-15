@@ -1,0 +1,4 @@
+codeflaws/556-A-bug-18015452-18015474/556-A-18015474.c
+codeflaws/556-A-bug-18015452-18015474/556-A-18015452.c
+5
+[('Insert b\'    scanf("%ld", &n);\\n\' at position 7 in file2', 6)]

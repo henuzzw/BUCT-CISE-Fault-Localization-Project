@@ -1,0 +1,4 @@
+codeflaws/459-A-bug-15728264-15728328/459-A-15728328.c
+codeflaws/459-A-bug-15728264-15728328/459-A-15728264.c
+39
+[("Replace b'        if(abs(y1-y2)==abs(x1-x2)){\\n' with b'        if(abs((y1-y2)/(x1-x2))==1){\\n' at position 40", 39)]

@@ -1,0 +1,4 @@
+codeflaws/365-B-bug-15392336-15392663/365-B-15392663.c
+codeflaws/365-B-bug-15392336-15392663/365-B-15392336.c
+19,19
+[("Replace b'    \\n' with b'    good[k+1]=0;\\n' at position 20", 19), ("Insert b'    good[k+1]=2;\\n' at position 21 in file2", 20)]

@@ -1,0 +1,4 @@
+codeflaws/379-A-bug-17701241-17701422/379-A-17701422.c
+codeflaws/379-A-bug-17701241-17701422/379-A-17701241.c
+4,11
+[("Replace b'    int n,m,i,x;\\n' with b'    int n,m,x,i,y;\\n' at position 5", 4), ("Insert b'        n=n+x;\\n' at position 13 in file2", 12)]

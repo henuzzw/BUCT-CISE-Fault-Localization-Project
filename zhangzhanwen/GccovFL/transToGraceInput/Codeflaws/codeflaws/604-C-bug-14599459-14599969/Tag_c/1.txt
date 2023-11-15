@@ -1,0 +1,4 @@
+codeflaws/604-C-bug-14599459-14599969/604-C-14599969.c
+codeflaws/604-C-bug-14599459-14599969/604-C-14599459.c
+29
+[("Insert b'        if (1<T[m-1]) k++;\\n' at position 31 in file2", 30)]

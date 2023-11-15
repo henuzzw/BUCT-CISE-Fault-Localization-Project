@@ -1,0 +1,4 @@
+codeflaws/135-A-bug-3078210-3078230/135-A-3078230.c
+codeflaws/135-A-bug-3078210-3078230/135-A-3078210.c
+4
+[("Replace b'  return (*(int*)a - *(int*)b);\\n' with b'  return((int*)a - (int*)b);\\n' at position 5", 4)]

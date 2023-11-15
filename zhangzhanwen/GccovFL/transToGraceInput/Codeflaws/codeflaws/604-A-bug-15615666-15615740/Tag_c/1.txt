@@ -1,0 +1,4 @@
+codeflaws/604-A-bug-15615666-15615740/604-A-15615740.c
+codeflaws/604-A-bug-15615666-15615740/604-A-15615666.c
+16
+[("Replace b'    r+=h*100-s*50;\\n' with b'    r+=(h-s)*100-s*50;\\n' at position 17", 16)]

@@ -1,0 +1,4 @@
+codeflaws/146-B-bug-1126989-1126997/146-B-1126997.c
+codeflaws/146-B-bug-1126989-1126997/146-B-1126989.c
+41,42
+[('Replace b\'    i=a+1;\\n\' with b\'    if(a == b){ printf("%d", a); return 0;}\\n\' at position 42', 41), ("Delete b'    i=a;\\n' at position 42 in file2", 41)]

@@ -1,0 +1,4 @@
+codeflaws/29-C-bug-725921-725924/29-C-725924.c
+codeflaws/29-C-bug-725921-725924/29-C-725921.c
+18
+[("Replace b'     int l = -1, r = 2 * n, m = (l + r) / 2;\\n' with b'     int l = -1, r = n, m = (l + r) / 2;\\n' at position 19", 18)]

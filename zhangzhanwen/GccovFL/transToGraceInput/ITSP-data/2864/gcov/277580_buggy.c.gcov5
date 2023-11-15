@@ -1,0 +1,45 @@
+        -:    0:Source:../WA_c/277580_buggy.c
+        -:    0:Graph:277580_buggy.gcno
+        -:    0:Data:277580_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:/* prg to output all primes between and inclusive of two input              numbers */
+       17:    3:int check_prime(int num)
+        -:    4:{
+        -:    5:    int i;
+      212:    6:    for(i = 2; i < num; i++)
+        -:    7:    {
+      207:    8:        if(num%i == 0||num == 1)
+        -:    9:        {
+       12:   10:            num = -1;
+       12:   11:            goto end;
+        -:   12:        }
+        -:   13:    }
+        5:   14:end:
+       17:   15:    return num;
+        -:   16:}
+        -:   17:
+        1:   18:int main()
+        -:   19:{
+        -:   20:    int max, min, prime, num;
+        1:   21:    scanf("%d %d", &min, &max);
+        1:   22:    if(min > max||min < 0||max < 0)
+        -:   23:    {
+    #####:   24:        printf("Invalid Input.");
+        -:   25:    }
+        -:   26:    else
+        -:   27:    {
+       35:   28:        while(min <= max)
+        -:   29:        {
+       17:   30:            num = min;
+       17:   31:            prime = check_prime(num);
+       17:   32:            if(prime != -1)
+        -:   33:            {
+        5:   34:                printf("%d ", prime);
+        -:   35:            }
+       17:   36:            min = min + 1;
+        -:   37:        }
+        -:   38:    }
+        1:   39:    return 0;
+        -:   40:}

@@ -1,0 +1,4 @@
+codeflaws/626-A-bug-16017054-16017070/626-A-16017070.c
+codeflaws/626-A-bug-16017054-16017070/626-A-16017054.c
+35,36,37
+[("Delete b'            }\\n' at position 35 in file2", 34), ("Delete b'            if(f==l){\\n' at position 35 in file2", 34), ("Delete b'            continue;\\n' at position 35 in file2", 34)]

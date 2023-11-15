@@ -1,0 +1,4 @@
+codeflaws/31-A-bug-9343822-9343863/31-A-9343863.c
+codeflaws/31-A-bug-9343822-9343863/31-A-9343822.c
+20
+[('Replace b\'                    printf("%d %d %d\\\\n", sum+1, i+1, j+1);\\n\' with b\'                    printf("%d %d %d\\\\n", div[sum], div[i], div[j]);\\n\' at position 21', 20)]

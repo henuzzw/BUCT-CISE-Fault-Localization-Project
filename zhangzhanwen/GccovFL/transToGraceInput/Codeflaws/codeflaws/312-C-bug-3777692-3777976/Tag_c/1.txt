@@ -1,0 +1,4 @@
+codeflaws/312-C-bug-3777692-3777976/312-C-3777976.c
+codeflaws/312-C-bug-3777692-3777976/312-C-3777692.c
+9,9
+[('Replace b\'   // printf("%d %d\\\\n", n*n, k);\\n\' with b\'    if (n*n < k)\\n\' at position 10', 9), ("Insert b'    if ((n*(n - 1))/2 <= k)\\n' at position 11 in file2", 10)]

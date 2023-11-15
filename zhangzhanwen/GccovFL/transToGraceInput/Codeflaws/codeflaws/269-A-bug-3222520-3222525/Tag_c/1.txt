@@ -1,0 +1,4 @@
+codeflaws/269-A-bug-3222520-3222525/269-A-3222525.c
+codeflaws/269-A-bug-3222520-3222525/269-A-3222520.c
+12,12
+[("Replace b'        if (b == 1) k++;\\n' with b'        while (b>0){\\n' at position 13", 12), ("Insert b'        else while (b>1){\\n' at position 14 in file2", 13)]

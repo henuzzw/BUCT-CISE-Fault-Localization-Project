@@ -1,0 +1,4 @@
+codeflaws/376-C-bug-7329404-7329433/376-C-7329433.c
+codeflaws/376-C-bug-7329404-7329433/376-C-7329404.c
+23
+[("Replace b'    for(i=1;i<=9;i++)\\n' with b'    for(i=1;i<9;i++)\\n' at position 24", 23)]

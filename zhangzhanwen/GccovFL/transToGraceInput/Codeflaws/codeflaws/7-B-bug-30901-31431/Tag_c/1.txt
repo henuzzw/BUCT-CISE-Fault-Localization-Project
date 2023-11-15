@@ -1,0 +1,4 @@
+codeflaws/7-B-bug-30901-31431/7-B-31431.c
+codeflaws/7-B-bug-30901-31431/7-B-30901.c
+25
+[('Replace b\'\\t\\t\\tif (!j || t==0) puts("ILLEGAL_ERASE_ARGUMENT");\\n\' with b\'\\t\\t\\tif (!j) puts("ILLEGAL_ERASE_ARGUMENT");\\n\' at position 26', 25)]

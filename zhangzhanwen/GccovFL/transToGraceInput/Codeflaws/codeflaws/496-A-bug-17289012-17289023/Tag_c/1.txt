@@ -1,0 +1,4 @@
+codeflaws/496-A-bug-17289012-17289023/496-A-17289023.c
+codeflaws/496-A-bug-17289012-17289023/496-A-17289012.c
+14
+[("Replace b'int x=0,n=0,s=0,i,j,a[105],max=-5000,min=5000;\\n' with b'int x=0,n=0,s=0,i,j,a[105],max=-500,min=500;\\n' at position 15", 14)]

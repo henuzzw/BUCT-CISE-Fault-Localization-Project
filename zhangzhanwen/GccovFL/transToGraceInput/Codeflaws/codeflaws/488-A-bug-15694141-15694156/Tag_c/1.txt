@@ -1,0 +1,4 @@
+codeflaws/488-A-bug-15694141-15694156/488-A-15694156.c
+codeflaws/488-A-bug-15694141-15694156/488-A-15694141.c
+14
+[("Replace b'                return 8;\\n' with b'                return 1;\\n' at position 15", 14)]

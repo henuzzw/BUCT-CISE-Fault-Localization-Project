@@ -1,0 +1,4 @@
+528179_buggy.c
+528179_correct.c
+10
+sum多减1

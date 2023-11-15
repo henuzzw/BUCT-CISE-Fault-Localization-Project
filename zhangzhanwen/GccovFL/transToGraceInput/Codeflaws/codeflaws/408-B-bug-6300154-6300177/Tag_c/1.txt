@@ -1,0 +1,4 @@
+codeflaws/408-B-bug-6300154-6300177/408-B-6300177.c
+codeflaws/408-B-bug-6300154-6300177/408-B-6300154.c
+22,48
+[("Replace b'       if(( arr[i]==0 && brr[i]!=0 ))\\n' with b'       if(( arr[i]==0 && brr[i]!=0 )||( arr[i]!=0 && brr[i]==0 ))\\n' at position 23", 22), ("Insert b'\\n' at position 50 in file2", 49)]

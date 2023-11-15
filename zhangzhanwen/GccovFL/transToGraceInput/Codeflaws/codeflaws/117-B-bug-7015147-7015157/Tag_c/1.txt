@@ -1,0 +1,4 @@
+codeflaws/117-B-bug-7015147-7015157/117-B-7015157.c
+codeflaws/117-B-bug-7015147-7015157/117-B-7015147.c
+12
+[("Replace b'        for(i = 1; i < min(a + 1, mod); i++) {\\n' with b'        for(i = 1; i < mod; i++) {\\n' at position 13", 12)]

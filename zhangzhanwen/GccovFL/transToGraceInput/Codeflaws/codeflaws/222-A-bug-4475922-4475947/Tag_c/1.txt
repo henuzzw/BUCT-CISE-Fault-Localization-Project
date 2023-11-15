@@ -1,0 +1,4 @@
+codeflaws/222-A-bug-4475922-4475947/222-A-4475947.c
+codeflaws/222-A-bug-4475922-4475947/222-A-4475922.c
+14
+[('Replace b\'printf("%ld",i);\\n\' with b\'printf("%ld",n-i-1);\\n\' at position 15', 14)]

@@ -1,0 +1,4 @@
+codeflaws/476-A-bug-15778161-15778167/476-A-15778167.c
+codeflaws/476-A-bug-15778161-15778167/476-A-15778161.c
+13,13
+[("Insert b'\\t\\telse \\n' at position 15 in file2", 14), ('Insert b\'\\t\\tprintf("%d",k);\\n\' at position 16 in file2', 15)]

@@ -1,0 +1,4 @@
+codeflaws/276-B-bug-16707425-16707470/276-B-16707470.c
+codeflaws/276-B-bug-16707425-16707470/276-B-16707425.c
+15
+[('Replace b\'    if(count == 0 || count%2 == 1) printf("First\\\\n");\\n\' with b\'    if(count <= 1) printf("First\\\\n");\\n\' at position 16', 15)]

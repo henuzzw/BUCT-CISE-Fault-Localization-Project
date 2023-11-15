@@ -1,0 +1,4 @@
+codeflaws/137-A-bug-11590458-11590515/137-A-11590515.c
+codeflaws/137-A-bug-11590458-11590515/137-A-11590458.c
+12
+[("Replace b'        while(st[i]==st[i+1]&&m<5)\\n' with b'        while(st[i]==st[i+1]&&m<=5)\\n' at position 13", 12)]

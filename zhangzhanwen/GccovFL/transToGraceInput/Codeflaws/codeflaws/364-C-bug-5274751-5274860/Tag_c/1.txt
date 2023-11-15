@@ -1,0 +1,4 @@
+codeflaws/364-C-bug-5274751-5274860/364-C-5274860.c
+codeflaws/364-C-bug-5274751-5274860/364-C-5274751.c
+1
+[("Replace b'#define MAXN 50033\\n' with b'#define MAXN 5003\\n' at position 2", 1)]

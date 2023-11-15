@@ -1,0 +1,4 @@
+codeflaws/342-A-bug-7414790-7414800/342-A-7414800.c
+codeflaws/342-A-bug-7414790-7414800/342-A-7414790.c
+38,43
+[('Delete b\'\\tprintf("%d%d%d\\\\n",a,a2,a3);\\n\' at position 38 in file2', 37), ('Replace b\'\\n\' with b\'\\t\\t\\tprintf("%d\\\\n",i);\\n\' at position 43', 42)]

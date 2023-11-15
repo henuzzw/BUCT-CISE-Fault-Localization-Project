@@ -1,0 +1,4 @@
+codeflaws/302-A-bug-14493968-14493995/302-A-14493995.c
+codeflaws/302-A-bug-14493968-14493995/302-A-14493968.c
+22
+[("Replace b'            if(num1 >= (r - l) / 2 + 1)\\n' with b'            if(num1 >= (r - l) / 2)\\n' at position 23", 22)]

@@ -1,0 +1,27 @@
+        -:    0:Source:../WA_c/271209_buggy.c
+        -:    0:Graph:271209_buggy.gcno
+        -:    0:Data:271209_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        1:    3:int main()
+        -:    4:{
+        -:    5:    float x,y,r,x1,y1;
+        1:    6:    scanf("%f %f %f %f %f",&x,&y,&r,&x1,&y1);
+        1:    7:    float m=(x-x1)*(x-x1)+(y-y1)*(y-y1);
+        1:    8:    float d=sqrtf(m);
+        1:    9:    if(d==r)
+        -:   10:    {
+    #####:   11:        printf("Point is on the circle.");
+        -:   12:    }
+        1:   13:    else if(d>r)
+        -:   14:    {
+        1:   15:        printf("Point is outside the circle.");
+        -:   16:    }
+    #####:   17:    else if(d<r)
+        -:   18:    {
+    #####:   19:        printf("Point is inside the circle.");
+        -:   20:    }
+        1:   21:    return 0;
+        -:   22:}

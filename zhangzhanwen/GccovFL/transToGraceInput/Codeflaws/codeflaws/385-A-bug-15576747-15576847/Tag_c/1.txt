@@ -1,0 +1,4 @@
+codeflaws/385-A-bug-15576747-15576847/385-A-15576847.c
+codeflaws/385-A-bug-15576747-15576847/385-A-15576747.c
+11
+[('Replace b\'\\tif(max-c>0)printf("%d",max-c);else printf("0");\\n\' with b\'\\tmax-c?printf("%d",max-c):printf("0");\\n\' at position 12', 11)]

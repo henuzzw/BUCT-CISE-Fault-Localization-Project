@@ -1,0 +1,4 @@
+codeflaws/630-R-bug-17825199-17825235/630-R-17825235.c
+codeflaws/630-R-bug-17825199-17825235/630-R-17825199.c
+4
+[('Replace b\'    scanf("%d",&n);\\n\' with b\'    while(scanf("%d",&n))\\n\' at position 5', 4)]

@@ -1,0 +1,4 @@
+codeflaws/439-C-bug-8152524-8152799/439-C-8152799.c
+codeflaws/439-C-bug-8152524-8152799/439-C-8152524.c
+31
+[('Replace b\'            printf("%d ",b[j]);\\n\' with b\'            printf("%d",b[j]);\\n\' at position 32', 31)]

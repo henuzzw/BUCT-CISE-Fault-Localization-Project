@@ -1,0 +1,4 @@
+codeflaws/173-A-bug-4169928-4169966/173-A-4169966.c
+codeflaws/173-A-bug-4169928-4169966/173-A-4169928.c
+31,46
+[("Insert b'if(n>q){\\n' at position 33 in file2", 32), ("Replace b'j++;}}\\n' with b'j++;}\\n' at position 48", 47)]

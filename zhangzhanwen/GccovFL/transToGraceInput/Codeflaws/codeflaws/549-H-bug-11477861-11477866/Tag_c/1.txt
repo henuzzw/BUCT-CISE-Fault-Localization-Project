@@ -1,0 +1,4 @@
+codeflaws/549-H-bug-11477861-11477866/549-H-11477866.c
+codeflaws/549-H-bug-11477861-11477866/549-H-11477861.c
+36
+[('Delete b\'\\t\\tprintf("%u: %.10lf %.10lf\\\\n",BI,nle,F(nle));\\n\' at position 36 in file2', 35)]

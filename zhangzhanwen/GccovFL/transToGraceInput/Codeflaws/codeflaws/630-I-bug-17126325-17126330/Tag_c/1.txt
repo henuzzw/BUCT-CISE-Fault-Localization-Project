@@ -1,0 +1,4 @@
+codeflaws/630-I-bug-17126325-17126330/630-I-17126330.c
+codeflaws/630-I-bug-17126325-17126330/630-I-17126325.c
+5,5
+[('Replace b\'\\tn=4*(2*3*pow(4LL,n-3LL)+(n-3LL)*3*3*pow(4LL,n-4LL));\\n\' with b\'\\tprintf("%lld\\\\n",4*(2*3*pow(4LL,n-3LL)+(n-3LL)*3*3*pow(4LL,n-4LL)));\\n\' at position 6', 5), ('Insert b\'\\tprintf("%lld\\\\n",n);\\n\' at position 7 in file2', 6)]

@@ -1,0 +1,4 @@
+codeflaws/172-B-bug-1470030-1470076/172-B-1470076.c
+codeflaws/172-B-bug-1470030-1470076/172-B-1470030.c
+5
+[("Replace b'  int r[10000000], t=0, i, k;\\n' with b'  int r[1000], t=0, i, k;\\n' at position 6", 5)]

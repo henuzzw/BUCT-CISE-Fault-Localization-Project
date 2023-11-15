@@ -1,0 +1,4 @@
+codeflaws/69-B-bug-351957-351958/69-B-351958.c
+codeflaws/69-B-bug-351957-351958/69-B-351957.c
+44
+[('Replace b\'printf("%lld",profit);\\n\' with b\'printf("mx profit is:%lld\\\\n",profit);\\n\' at position 45', 44)]

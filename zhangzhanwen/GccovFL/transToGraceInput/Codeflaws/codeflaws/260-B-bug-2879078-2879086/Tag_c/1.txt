@@ -1,0 +1,4 @@
+codeflaws/260-B-bug-2879078-2879086/260-B-2879086.c
+codeflaws/260-B-bug-2879078-2879086/260-B-2879078.c
+75
+[("Replace b'    case 2: return 28; break;\\n' with b'    case 2: return 30; break;\\n' at position 76", 75)]

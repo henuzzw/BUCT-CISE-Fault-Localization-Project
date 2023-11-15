@@ -1,0 +1,25 @@
+        -:    0:Source:../WA_c/466474_buggy.c
+        -:    0:Graph:466474_buggy.gcno
+        -:    0:Data:466474_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main()
+        -:    3:{
+        -:    4:    int l, r, i, K, b, a, e, p, c, d, re;
+        1:    5:    scanf("%d", &K);
+       11:    6:    for(i = 0; i < K; i++)
+        -:    7:    {
+       10:    8:        scanf("%d %d", &a, &b);
+       10:    9:        l = a, e = b;
+       10:   10:        r = a % b - 1;
+      164:   11:        while(r != 0)
+        -:   12:        {
+       77:   13:            a = b;
+       77:   14:            b = r;
+       77:   15:            r = a % b;
+        -:   16:        }
+       10:   17:        re = l / b + e / b;
+       10:   18:        printf("%d\n", re);
+        -:   19:    }
+        1:   20:}

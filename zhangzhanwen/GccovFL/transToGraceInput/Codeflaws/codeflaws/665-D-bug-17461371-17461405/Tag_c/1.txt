@@ -1,0 +1,4 @@
+codeflaws/665-D-bug-17461371-17461405/665-D-17461405.c
+codeflaws/665-D-bug-17461371-17461405/665-D-17461371.c
+32,32
+[('Replace b\'    printf("%d\\\\n",1);\\n\' with b\'    printf("%d",0);\\n\' at position 33', 32), ('Insert b\'    printf("%d\\\\n",data[0]);\\n\' at position 34 in file2', 33)]

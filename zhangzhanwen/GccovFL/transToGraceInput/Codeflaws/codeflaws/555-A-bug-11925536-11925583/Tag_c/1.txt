@@ -1,0 +1,4 @@
+codeflaws/555-A-bug-11925536-11925583/555-A-11925583.c
+codeflaws/555-A-bug-11925536-11925583/555-A-11925536.c
+13,14
+[("Replace b'    for(j=1;j<m;j++) if(mat[0]!=1 || mat[j]!=j+1) num++;\\n' with b'    for(j=1;j<m;j++)\\n' at position 14", 13), ("Delete b'      if(mat[j]-1!=mat[j-1]) num++;\\n' at position 14 in file2", 13)]

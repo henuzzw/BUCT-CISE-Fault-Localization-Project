@@ -1,0 +1,4 @@
+codeflaws/231-A-bug-18035971-18035981/231-A-18035981.c
+codeflaws/231-A-bug-18035971-18035981/231-A-18035971.c
+4
+[('Delete b\'    printf("Enter the number of problms: \\\\n");\\n\' at position 4 in file2', 3)]

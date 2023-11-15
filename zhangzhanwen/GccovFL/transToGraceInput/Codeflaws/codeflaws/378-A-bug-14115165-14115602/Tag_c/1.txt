@@ -1,0 +1,4 @@
+codeflaws/378-A-bug-14115165-14115602/378-A-14115602.c
+codeflaws/378-A-bug-14115165-14115602/378-A-14115165.c
+11
+[("Replace b'        else count_draw++;\\n' with b'        else count_draw=1;\\n' at position 12", 11)]

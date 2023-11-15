@@ -1,0 +1,4 @@
+codeflaws/189-A-bug-18155547-18155577/189-A-18155577.c
+codeflaws/189-A-bug-18155547-18155577/189-A-18155547.c
+10
+[("Replace b'        if(t[i] >= 1)\\n' with b'        if(t[i] == 1)\\n' at position 11", 10)]

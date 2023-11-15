@@ -1,0 +1,4 @@
+codeflaws/342-A-bug-4707133-4707173/342-A-4707173.c
+codeflaws/342-A-bug-4707133-4707173/342-A-4707133.c
+109
+[("Replace b'\\tif (n/3!=brs4+brs3+brs6){\\n' with b'\\tif ((brs4==0)&&(brs6==0)&&(brs3==0)){\\n' at position 110", 109)]

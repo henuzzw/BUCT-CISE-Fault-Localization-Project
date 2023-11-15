@@ -1,0 +1,4 @@
+codeflaws/340-A-bug-15598421-15598438/340-A-15598438.c
+codeflaws/340-A-bug-15598421-15598438/340-A-15598421.c
+11
+[("Insert b'\\telse if( x == y) lcm = x;\\n' at position 13 in file2", 12)]

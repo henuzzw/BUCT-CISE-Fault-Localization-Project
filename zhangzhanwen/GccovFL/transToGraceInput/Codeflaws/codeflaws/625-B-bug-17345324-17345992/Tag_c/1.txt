@@ -1,0 +1,4 @@
+codeflaws/625-B-bug-17345324-17345992/625-B-17345992.c
+codeflaws/625-B-bug-17345324-17345992/625-B-17345324.c
+37
+[('Insert b"        *(p+sl-1) = \'#\';\\n" at position 39 in file2', 38)]

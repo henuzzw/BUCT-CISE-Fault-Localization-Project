@@ -1,0 +1,4 @@
+codeflaws/652-A-bug-17231530-17231575/652-A-17231575.c
+codeflaws/652-A-bug-17231530-17231575/652-A-17231530.c
+23,23
+[("Replace b'\\t\\t\\tif((h2-(h1+8*a))%(12*(mod(b-a))))\\n' with b'\\t\\t\\tans++;\\n' at position 24", 23), ("Insert b'\\t\\t\\t\\tans++;\\n' at position 25 in file2", 24)]

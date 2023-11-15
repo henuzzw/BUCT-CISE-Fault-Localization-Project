@@ -1,0 +1,4 @@
+codeflaws/552-B-bug-16459325-16459343/552-B-16459343.c
+codeflaws/552-B-bug-16459325-16459343/552-B-16459325.c
+6
+[("Replace b'\\tfor(i = 1 ; i < 15 ; i++, us *= 10){\\n' with b'\\tfor(i = 1 ; i < 9 ; i++, us *= 10){\\n' at position 7", 6)]

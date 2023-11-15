@@ -1,0 +1,4 @@
+codeflaws/289-B-bug-3958622-3958665/289-B-3958665.c
+codeflaws/289-B-bug-3958622-3958665/289-B-3958622.c
+24
+[("Replace b'for(i=0;i<p&&flag!=1;i++)\\n' with b'for(i=0;i<p;i++)\\n' at position 25", 24)]

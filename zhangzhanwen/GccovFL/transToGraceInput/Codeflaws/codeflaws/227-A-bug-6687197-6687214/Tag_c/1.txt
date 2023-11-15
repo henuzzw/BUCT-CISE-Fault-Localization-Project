@@ -1,0 +1,4 @@
+codeflaws/227-A-bug-6687197-6687214/227-A-6687214.c
+codeflaws/227-A-bug-6687197-6687214/227-A-6687197.c
+9
+[("Replace b'  long long int a=(bx-ax)*(cy-by)-(cx-bx)*(by-ay);\\n' with b'  int a=(bx-ax)*(cy-by)-(cx-bx)*(by-ay);\\n' at position 10", 9)]

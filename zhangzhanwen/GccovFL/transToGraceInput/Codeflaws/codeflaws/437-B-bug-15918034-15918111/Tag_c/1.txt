@@ -1,0 +1,4 @@
+codeflaws/437-B-bug-15918034-15918111/437-B-15918111.c
+codeflaws/437-B-bug-15918034-15918111/437-B-15918034.c
+7
+[("Replace b'              if(sum&i || j+i*2 <= limit) {\\n' with b'              if(sum&j || j+i*2 <= limit) {\\n' at position 8", 7)]

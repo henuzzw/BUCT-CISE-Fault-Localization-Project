@@ -1,0 +1,24 @@
+        -:    0:Source:../WA_c/278223_buggy.c
+        -:    0:Graph:278223_buggy.gcno
+        -:    0:Data:278223_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main()
+        -:    3:{
+        1:    4:    int i=0;
+        1:    5:    int N=1,j,k;
+        1:    6:    scanf("%d",&N);
+        3:    7:    for(i=0; i<N; i++)
+        -:    8:    {
+        4:    9:        for(j=1; j>0; j--)
+        -:   10:        {
+        2:   11:            printf("%d",N-j);
+        -:   12:        }
+        5:   13:        for(k=i; k<N; k++)
+        -:   14:        {
+        3:   15:            printf("%d",N);
+        -:   16:        }
+        2:   17:        printf("\n");
+        -:   18:    }
+        1:   19:}

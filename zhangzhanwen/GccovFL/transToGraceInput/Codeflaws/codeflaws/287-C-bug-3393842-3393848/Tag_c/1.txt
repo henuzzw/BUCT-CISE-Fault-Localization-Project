@@ -1,0 +1,4 @@
+codeflaws/287-C-bug-3393842-3393848/287-C-3393848.c
+codeflaws/287-C-bug-3393842-3393848/287-C-3393842.c
+24
+[("Replace b'    else if(n<=3 || (n%4!=0 && (n-1)%4!=0)){\\n' with b'    else if(n<=3 || n%4!=0){\\n' at position 25", 24)]

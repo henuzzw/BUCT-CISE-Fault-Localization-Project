@@ -1,0 +1,4 @@
+codeflaws/402-C-bug-6301976-6302004/402-C-6302004.c
+codeflaws/402-C-bug-6301976-6302004/402-C-6301976.c
+11
+[("Replace b'         int cnt=0,flg=0;\\n' with b'         int cnt=0;\\n' at position 12", 11)]

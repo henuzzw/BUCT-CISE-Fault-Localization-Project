@@ -1,0 +1,4 @@
+codeflaws/462-B-bug-17911104-17911122/462-B-17911122.c
+codeflaws/462-B-bug-17911104-17911122/462-B-17911104.c
+2
+[("Replace b'    int n,k,i,j,abc[26]={0};\\n' with b'    char n,k,i,j,abc[26]={0};\\n' at position 3", 2)]

@@ -1,0 +1,244 @@
+{
+  ".in": [
+    "1335.10.in",
+    "1335.1.in",
+    "1335.2.in",
+    "1335.3.in",
+    "1335.4.in",
+    "1335.5.in",
+    "1335.6.in",
+    "1335.7.in",
+    "1335.8.in",
+    "1335.9.in"
+  ],
+  ".out": [
+    "1335.10.out",
+    "1335.1.out",
+    "1335.2.out",
+    "1335.3.out",
+    "1335.4.out",
+    "1335.5.out",
+    "1335.6.out",
+    "1335.7.out",
+    "1335.8.out",
+    "1335.9.out"
+  ],
+  "AC": [
+    {
+      "cata": "./ITSP-data/1335/AC_c/505536_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505536_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505707_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505707_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505714_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505714_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505726_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505726_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505729_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505729_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505739_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505739_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505740_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505740_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505763_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505763_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505828_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505828_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/505916_correct.cpp",
+      "cata2": "AC_c",
+      "name": "505916_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/549456_correct.cpp",
+      "cata2": "AC_c",
+      "name": "549456_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/551200_correct.cpp",
+      "cata2": "AC_c",
+      "name": "551200_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/553113_correct.cpp",
+      "cata2": "AC_c",
+      "name": "553113_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/553817_correct.cpp",
+      "cata2": "AC_c",
+      "name": "553817_correct.cpp",
+      "errorLineList": []
+    },
+    {
+      "cata": "./ITSP-data/1335/AC_c/554099_correct.cpp",
+      "cata2": "AC_c",
+      "name": "554099_correct.cpp",
+      "errorLineList": []
+    }
+  ],
+  "WA": [
+    {
+      "cata": "./ITSP-data/1335/WA_c/505536_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505536_buggy.cpp",
+      "errorLineList": [
+        20
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505707_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505707_buggy.cpp",
+      "errorLineList": [
+        8
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505714_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505714_buggy.cpp",
+      "errorLineList": [
+        19
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505726_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505726_buggy.cpp",
+      "errorLineList": [
+        11
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505729_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505729_buggy.cpp",
+      "errorLineList": [
+        13,
+        28
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505739_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505739_buggy.cpp",
+      "errorLineList": [
+        28
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505740_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505740_buggy.cpp",
+      "errorLineList": [
+        5
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505763_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505763_buggy.cpp",
+      "errorLineList": [
+        16
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505828_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505828_buggy.cpp",
+      "errorLineList": [
+        16
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/505916_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "505916_buggy.cpp",
+      "errorLineList": [
+        17
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/549456_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "549456_buggy.cpp",
+      "errorLineList": [
+        8
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/551200_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "551200_buggy.cpp",
+      "errorLineList": [
+        11
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/553113_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "553113_buggy.cpp",
+      "errorLineList": [
+        27
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/553817_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "553817_buggy.cpp",
+      "errorLineList": [
+        5
+      ]
+    },
+    {
+      "cata": "./ITSP-data/1335/WA_c/554099_buggy.cpp",
+      "cata2": "WA_c",
+      "name": "554099_buggy.cpp",
+      "errorLineList": [
+        21
+      ]
+    }
+  ],
+  "path": "./ITSP-data/1335",
+  "code": "1335",
+  "pwd": "/home/zhangzhanwen/transtoGraceInput"
+}

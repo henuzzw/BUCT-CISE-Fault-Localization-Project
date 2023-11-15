@@ -1,0 +1,4 @@
+codeflaws/596-A-bug-14358522-14358550/596-A-14358550.c
+codeflaws/596-A-bug-14358522-14358550/596-A-14358522.c
+25
+[("Replace b'    \\t\\t\\tans=abs(s[i].x-s[j].x)*abs(s[i].y-s[j].y);\\n' with b'    \\t\\t\\tans=(s[i].x-s[j].x)*(s[i].y-s[j].y);\\n' at position 26", 25)]

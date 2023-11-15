@@ -1,0 +1,4 @@
+codeflaws/579-C-bug-13239816-13239885/579-C-13239885.c
+codeflaws/579-C-bug-13239816-13239885/579-C-13239816.c
+12,25
+[("Replace b'return 0;\\n' with b'return -1;\\n' at position 13", 12), ('Delete b\'printf("%lf\\\\n",da);\\n\' at position 25 in file2', 24)]

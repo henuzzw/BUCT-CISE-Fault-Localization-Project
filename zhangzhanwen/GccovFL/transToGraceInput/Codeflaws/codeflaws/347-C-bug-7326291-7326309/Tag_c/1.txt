@@ -1,0 +1,4 @@
+codeflaws/347-C-bug-7326291-7326309/347-C-7326309.c
+codeflaws/347-C-bug-7326291-7326309/347-C-7326291.c
+5
+[("Replace b'    else return gcd(b,a%b);\\n' with b'    else return (b,a%b);\\n' at position 6", 5)]

@@ -1,0 +1,4 @@
+codeflaws/572-A-bug-15579415-15579491/572-A-15579491.c
+codeflaws/572-A-bug-15579415-15579491/572-A-15579415.c
+10
+[("Replace b'    if(a[k-1]<b[m-l])\\n' with b'    if(a[k-1]<b[m-(l+1)])\\n' at position 11", 10)]

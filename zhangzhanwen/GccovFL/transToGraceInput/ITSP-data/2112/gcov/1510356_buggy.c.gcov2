@@ -1,0 +1,38 @@
+        -:    0:Source:../WA_c/1510356_buggy.c
+        -:    0:Graph:1510356_buggy.gcno
+        -:    0:Data:1510356_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<cstdio>
+        -:    2:#include<cstdlib>
+        -:    3:#include<cmath>
+        -:    4:#include<cstring>
+        -:    5:#include<string>
+        -:    6:#include<set>
+        -:    7:#include<map>
+        -:    8:#include<stack>
+        -:    9:#include<vector>
+        -:   10:#include<queue>
+        -:   11:#include<iostream>
+        -:   12:#include<algorithm>
+        -:   13:using namespace std;
+       30:   14:int solve(int N)
+        -:   15:{
+       30:   16:    int ans = 0;
+       30:   17:    ans++;
+      210:   18:    while (N)
+        -:   19:    {
+       90:   20:        N /= 5;
+       90:   21:        ans += N;
+        -:   22:    }
+       30:   23:    return ans;
+        -:   24:}
+       31:   25:int main()
+        -:   26:{
+        -:   27:    int n;
+       61:   28:    while (cin >> n)
+        -:   29:    {
+       30:   30:        cout << solve(n) << endl;
+        -:   31:    }
+        1:   32:    return 0;
+        3:   33:}

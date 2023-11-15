@@ -1,0 +1,4 @@
+codeflaws/411-A-bug-17508041-17508258/411-A-17508258.c
+codeflaws/411-A-bug-17508041-17508258/411-A-17508041.c
+16
+[("Replace b'    if(i >= 5)\\n' with b'    if(i > 5)\\n' at position 17", 16)]

@@ -1,0 +1,4 @@
+codeflaws/166-A-bug-10687134-10687234/166-A-10687234.c
+codeflaws/166-A-bug-10687134-10687234/166-A-10687134.c
+5
+[("Replace b'    int i , teams , pos , prob , time , max_prob = 0 ,found = 0, max_time = 0 , mat[55][55] = {0} , counter=0;\\n' with b'    int i , teams , pos , prob , time , max_prob = 0 ,found = 0, max_time = 0 , mat[50][50] = {0} , counter=0;\\n' at position 6", 5)]

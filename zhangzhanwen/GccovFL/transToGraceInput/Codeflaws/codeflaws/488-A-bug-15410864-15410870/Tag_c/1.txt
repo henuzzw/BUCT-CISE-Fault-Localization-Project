@@ -1,0 +1,4 @@
+codeflaws/488-A-bug-15410864-15410870/488-A-15410870.c
+codeflaws/488-A-bug-15410864-15410870/488-A-15410864.c
+6
+[("Replace b'              for(i=1;i<=20;i++) {\\n' with b'              for(i=1;i<=10;i++) {\\n' at position 7", 6)]

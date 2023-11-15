@@ -1,0 +1,4 @@
+codeflaws/197-A-bug-4539529-4539541/197-A-4539541.c
+codeflaws/197-A-bug-4539529-4539541/197-A-4539529.c
+11
+[("Replace b'\\tif(y==0)\\n' with b'\\tif(y%2==0)\\n' at position 12", 11)]

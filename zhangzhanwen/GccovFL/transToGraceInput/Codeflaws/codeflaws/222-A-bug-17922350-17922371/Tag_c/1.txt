@@ -1,0 +1,4 @@
+codeflaws/222-A-bug-17922350-17922371/222-A-17922371.c
+codeflaws/222-A-bug-17922350-17922371/222-A-17922350.c
+4
+[("Replace b'\\tint n,k,x[100005],s=0,i;\\n' with b'\\tint n,k,x[10001],s=0,i;\\n' at position 5", 4)]

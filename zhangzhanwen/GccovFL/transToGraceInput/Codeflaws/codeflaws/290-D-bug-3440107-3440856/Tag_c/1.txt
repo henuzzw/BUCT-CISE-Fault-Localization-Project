@@ -1,0 +1,4 @@
+codeflaws/290-D-bug-3440107-3440856/290-D-3440856.c
+codeflaws/290-D-bug-3440107-3440856/290-D-3440107.c
+3
+[("Replace b'    int n,i,j=0;\\n' with b'    int n,i,j;\\n' at position 4", 3)]

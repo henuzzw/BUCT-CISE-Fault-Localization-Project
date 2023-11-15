@@ -1,0 +1,4 @@
+codeflaws/493-D-bug-8986717-8986720/493-D-8986720.c
+codeflaws/493-D-bug-8986717-8986720/493-D-8986717.c
+9
+[('Replace b\'        printf("1 ");\\n\' with b\'        printf("1");\\n\' at position 10', 9)]

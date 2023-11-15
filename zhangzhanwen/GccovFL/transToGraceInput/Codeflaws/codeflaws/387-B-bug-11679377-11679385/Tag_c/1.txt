@@ -1,0 +1,4 @@
+codeflaws/387-B-bug-11679377-11679385/387-B-11679385.c
+codeflaws/387-B-bug-11679377-11679385/387-B-11679377.c
+9
+[('Replace b\'        scanf("%d",&set[i]);\\n\' with b\'        scanf("%d",set[i]);\\n\' at position 10', 9)]

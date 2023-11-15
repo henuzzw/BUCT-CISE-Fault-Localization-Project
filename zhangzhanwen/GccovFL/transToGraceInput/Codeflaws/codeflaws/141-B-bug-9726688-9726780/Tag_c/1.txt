@@ -1,0 +1,4 @@
+codeflaws/141-B-bug-9726688-9726780/141-B-9726780.c
+codeflaws/141-B-bug-9726688-9726780/141-B-9726688.c
+12,12
+[("Insert b'    else if(((y>0)&&(y<s))&&((x>=n)||(x<=(-(n)))))\\n' at position 14 in file2", 13), ('Insert b\'             printf("-1\\\\n");\\n\' at position 15 in file2', 14)]

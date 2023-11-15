@@ -1,0 +1,4 @@
+codeflaws/584-D-bug-13454800-13455057/584-D-13455057.c
+codeflaws/584-D-bug-13454800-13455057/584-D-13454800.c
+7
+[("Replace b'    for (i=2;i<=sqrt((float)v);i++)\\n' with b'    for (i=2;i<sqrt((float)v);i++)\\n' at position 8", 7)]

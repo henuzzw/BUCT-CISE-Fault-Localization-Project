@@ -1,0 +1,18 @@
+        -:    0:Source:../WA_c/549456_buggy.cpp
+        -:    0:Graph:549456_buggy.gcno
+        -:    0:Data:549456_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:using namespace std;
+        1:    3:int main() {
+        1:    4:	int n,i=1,m=0;
+        1:    5:	cin>>n;
+       35:    6:	do {
+       36:    7:		if(i>n) i=((i-n)<<1)-1;
+       24:    8:		else i<<=1;
+       36:    9:		m--;
+       36:   10:	} while(i!=1);
+        1:   11:	cout<<m<<endl;
+        1:   12:	return 0;
+        3:   13:}

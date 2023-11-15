@@ -1,0 +1,4 @@
+codeflaws/580-E-bug-13174217-13174260/580-E-13174260.c
+codeflaws/580-E-bug-13174217-13174260/580-E-13174217.c
+10,16
+[('Delete b"        s[n] = \'0\';\\n" at position 10 in file2', 9), ('Replace b\'\\t\\telse puts((memcmp(s + l, s + l + c, r - l - c + 1) == 0) ? "YES" : "NO");\\n\' with b\'\\t\\telse   puts(!memcmp(s + l, s + l + c, r - l - c) ? "YES" : "NO");\\n\' at position 16', 15)]

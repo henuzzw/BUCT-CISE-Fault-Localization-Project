@@ -1,0 +1,4 @@
+codeflaws/659-A-bug-18002697-18002735/659-A-18002735.c
+codeflaws/659-A-bug-18002697-18002735/659-A-18002697.c
+8
+[("Insert b'        if(ans>n) ans=ans-n;\\n' at position 10 in file2", 9)]

@@ -1,0 +1,4 @@
+codeflaws/281-B-bug-7789726-7789729/281-B-7789729.c
+codeflaws/281-B-bug-7789726-7789729/281-B-7789726.c
+6
+[("Replace b'\\tint a = 0, b = 1;\\n' with b'\\tint a = 0, b = 0;\\n' at position 7", 6)]

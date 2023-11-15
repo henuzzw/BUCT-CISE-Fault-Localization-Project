@@ -1,0 +1,4 @@
+codeflaws/38-B-bug-6612242-6612267/38-B-6612267.c
+codeflaws/38-B-bug-6612242-6612267/38-B-6612242.c
+28,69
+[('Delete b\'        printf ("Ingrese la posicion: ");\\n\' at position 28 in file2', 27), ("Replace b'}' with b'}\\n' at position 69", 68)]

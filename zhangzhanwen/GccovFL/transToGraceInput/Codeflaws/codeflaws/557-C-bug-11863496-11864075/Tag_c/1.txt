@@ -1,0 +1,4 @@
+codeflaws/557-C-bug-11863496-11864075/557-C-11864075.c
+codeflaws/557-C-bug-11863496-11864075/557-C-11863496.c
+76
+[("Insert b'\\t\\t\\tdc[ar[i].d]++;\\n' at position 78 in file2", 77)]

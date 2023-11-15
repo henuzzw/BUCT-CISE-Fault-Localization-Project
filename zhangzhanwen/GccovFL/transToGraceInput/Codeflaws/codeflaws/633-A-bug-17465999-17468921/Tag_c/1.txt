@@ -1,0 +1,4 @@
+codeflaws/633-A-bug-17465999-17468921/633-A-17468921.c
+codeflaws/633-A-bug-17465999-17468921/633-A-17465999.c
+9,16
+[("Insert b'        if(i>c)break;\\n' at position 11 in file2", 10), ("Insert b'\\n' at position 19 in file2", 18)]

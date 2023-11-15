@@ -1,0 +1,4 @@
+codeflaws/38-C-bug-171844-171946/38-C-171946.c
+codeflaws/38-C-bug-171844-171946/38-C-171844.c
+15
+[("Replace b'   if(sum*i>ans) ans=sum*i;\\n' with b'   if(sum*l>ans) ans=sum*l;\\n' at position 16", 15)]

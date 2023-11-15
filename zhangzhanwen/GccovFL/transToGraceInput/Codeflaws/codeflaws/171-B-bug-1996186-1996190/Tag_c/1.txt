@@ -1,0 +1,4 @@
+codeflaws/171-B-bug-1996186-1996190/171-B-1996190.c
+codeflaws/171-B-bug-1996186-1996190/171-B-1996186.c
+7
+[('Replace b\'\\tprintf("%d\\\\n", (int) (1 + 12 * (long long) n * (n - 1) / 2));\\n\' with b\'\\tprintf("%d\\\\n", 1 + 12 * (n - 1));\\n\' at position 8', 7)]

@@ -1,0 +1,4 @@
+codeflaws/609-A-bug-18281533-18281557/609-A-18281557.c
+codeflaws/609-A-bug-18281533-18281557/609-A-18281533.c
+16
+[("Replace b'    while (m > 0){\\n' with b'    while (m >= 0){\\n' at position 17", 16)]

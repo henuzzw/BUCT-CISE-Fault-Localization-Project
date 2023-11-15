@@ -1,0 +1,4 @@
+codeflaws/670-A-bug-18026816-18031168/670-A-18031168.c
+codeflaws/670-A-bug-18026816-18031168/670-A-18026816.c
+10
+[("Replace b'            if(i%7==6 || i%7==0) min++;\\n' with b'            if(i%5==1 || i%5==2) min++;\\n' at position 11", 10)]

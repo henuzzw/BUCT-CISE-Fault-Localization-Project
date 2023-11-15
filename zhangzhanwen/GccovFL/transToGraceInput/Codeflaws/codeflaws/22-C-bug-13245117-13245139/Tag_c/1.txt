@@ -1,0 +1,4 @@
+codeflaws/22-C-bug-13245117-13245139/22-C-13245139.c
+codeflaws/22-C-bug-13245117-13245139/22-C-13245117.c
+17
+[("Replace b'\\t\\ti=a;\\n' with b'\\t\\ti=1;\\n' at position 18", 17)]

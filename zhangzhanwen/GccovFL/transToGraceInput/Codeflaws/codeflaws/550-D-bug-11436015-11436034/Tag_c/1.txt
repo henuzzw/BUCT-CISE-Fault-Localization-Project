@@ -1,0 +1,4 @@
+codeflaws/550-D-bug-11436015-11436034/550-D-11436034.c
+codeflaws/550-D-bug-11436015-11436034/550-D-11436015.c
+9,9
+[("Insert b'\\n' at position 11 in file2", 10), ('Insert b\'    puts("YES");\\n\' at position 12 in file2', 11)]

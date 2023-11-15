@@ -1,0 +1,4 @@
+codeflaws/148-A-bug-17419064-17419117/148-A-17419117.c
+codeflaws/148-A-bug-17419064-17419117/148-A-17419064.c
+5
+[("Replace b'\\tfor(i=1;i<=d;i++)\\n' with b'\\tfor(i=0;i<d;i++)\\n' at position 6", 5)]

@@ -1,0 +1,4 @@
+codeflaws/218-A-bug-2050699-2050703/218-A-2050703.c
+codeflaws/218-A-bug-2050699-2050703/218-A-2050699.c
+16
+[("Replace b'  if(a[i]>(a[i-1]+1) && a[i]>(a[i+1]+1))\\n' with b'  if(a[i]!=0)\\n' at position 17", 16)]

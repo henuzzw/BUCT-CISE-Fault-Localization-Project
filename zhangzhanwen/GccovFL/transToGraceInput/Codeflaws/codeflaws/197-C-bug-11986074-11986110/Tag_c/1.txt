@@ -1,0 +1,4 @@
+codeflaws/197-C-bug-11986074-11986110/197-C-11986110.c
+codeflaws/197-C-bug-11986074-11986110/197-C-11986074.c
+7
+[("Replace b'    for(;i<u;i++)h[a[i]]++;i=0;\\n' with b'    for(;i<u;i++)h[i]++;i=0;\\n' at position 8", 7)]

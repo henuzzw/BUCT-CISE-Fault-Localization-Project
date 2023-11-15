@@ -1,0 +1,4 @@
+codeflaws/231-A-bug-18170707-18170772/231-A-18170772.c
+codeflaws/231-A-bug-18170707-18170772/231-A-18170707.c
+3
+[('Insert b\'scanf("%d", &n);\\n\' at position 5 in file2', 4)]

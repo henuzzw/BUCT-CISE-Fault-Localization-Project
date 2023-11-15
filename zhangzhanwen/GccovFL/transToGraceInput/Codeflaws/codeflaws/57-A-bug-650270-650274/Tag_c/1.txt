@@ -1,0 +1,4 @@
+codeflaws/57-A-bug-650270-650274/57-A-650274.c
+codeflaws/57-A-bug-650270-650274/57-A-650270.c
+47
+[("Replace b'     c = minimum(a, b) + 4 * n;\\n' with b'     c = minimum(a, b) + 400;\\n' at position 48", 47)]

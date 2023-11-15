@@ -1,0 +1,4 @@
+codeflaws/215-A-bug-4160675-4160686/215-A-4160686.c
+codeflaws/215-A-bug-4160675-4160686/215-A-4160675.c
+8
+[("Replace b'    int n,a[55],m,b[55],i,c[4000],k,sum,j;\\n' with b'    int n,a[55],m,b[55],i,c[55],k,sum,j;\\n' at position 9", 8)]

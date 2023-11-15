@@ -1,0 +1,4 @@
+test/2-C-bug-17380010-17380021/2-C-17380021.c
+test/2-C-bug-17380010-17380021/2-C-17380010.c
+16,45,47
+[('Replace b\'        scanf("%d%d%d",&p[i][0],&p[i][1],&r[i]);\\n\' with b\'        scanf("%d%d%d",p[i][0],p[i][1],r[i]);\\n\' at position 17', 16), ("Replace b'        if(0==bf && 0!=cf)\\n' with b'        if(0==bf && 0!=cf){\\n' at position 46", 45), ("Replace b'\\n' with b'        }\\n' at position 48", 47)]

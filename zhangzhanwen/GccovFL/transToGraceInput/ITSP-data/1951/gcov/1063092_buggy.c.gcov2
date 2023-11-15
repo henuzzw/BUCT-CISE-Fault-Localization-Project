@@ -1,0 +1,29 @@
+        -:    0:Source:../WA_c/1063092_buggy.c
+        -:    0:Graph:1063092_buggy.gcno
+        -:    0:Data:1063092_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+        -:    2:
+       11:    3:int main()
+        -:    4:{
+        -:    5:    int amount, yus, sum;
+        -:    6:    while (1)
+        -:    7:    {
+       21:    8:        scanf("%d", &amount);
+       11:    9:        if(amount)
+        -:   10:        {
+       10:   11:            sum = 0;
+       48:   12:            for (yus = amount; yus >= 3; )
+        -:   13:            {
+       38:   14:                sum += yus / 5;
+       38:   15:                yus = yus % 3 + yus / 3;
+        -:   16:            }
+       10:   17:            if (yus == 2)
+        4:   18:                sum++;
+       10:   19:            printf("%d\n", sum);
+        -:   20:        }
+        -:   21:        else
+        1:   22:            break;
+        -:   23:    }
+        1:   24:}

@@ -1,0 +1,4 @@
+codeflaws/258-B-bug-2810543-2810936/258-B-2810936.c
+codeflaws/258-B-bug-2810543-2810936/258-B-2810543.c
+96,99
+[("Replace b'    cnt[a]++; cnt[b]++; cnt[c]++; cnt[d]++; cnt[e]++; cnt[f]++;\\n' with b'    cnt[a]++; cnt[b]++; cnt[c]++; cnt[d]++; cnt[e]++; cnt[f++];\\n' at position 97", 96), ("Insert b'    \\n' at position 101 in file2", 100)]

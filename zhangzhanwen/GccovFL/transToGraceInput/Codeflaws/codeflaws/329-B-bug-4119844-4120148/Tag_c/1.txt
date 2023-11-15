@@ -1,0 +1,4 @@
+codeflaws/329-B-bug-4119844-4120148/329-B-4120148.c
+codeflaws/329-B-bug-4119844-4120148/329-B-4119844.c
+45
+[("Replace b'\\t\\t\\tif (g[i][j] >= 0 && g[i][j] <= g[p][q]) k += a[i][j];\\n' with b'\\t\\t\\tif (g[i][j] <= g[p][q]) k += a[i][j];\\n' at position 46", 45)]

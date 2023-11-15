@@ -1,0 +1,4 @@
+codeflaws/525-C-bug-17550779-17550786/525-C-17550786.c
+codeflaws/525-C-bug-17550779-17550786/525-C-17550779.c
+63,65
+[('Insert b\'\\t\\tprintf("%lld\\\\n",area);\\n\' at position 65 in file2', 64), ('Delete b\'\\tprintf("%lld\\\\n",area);\\n\' at position 66 in file2', 65)]

@@ -1,0 +1,4 @@
+codeflaws/44-E-bug-13422082-13422200/44-E-13422200.c
+codeflaws/44-E-bug-13422082-13422200/44-E-13422082.c
+9
+[("Replace b'    if(length>k*b || length<k*a){\\n' with b'    if(length>k*b && length<k*a){\\n' at position 10", 9)]

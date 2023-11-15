@@ -1,0 +1,4 @@
+codeflaws/369-A-bug-10273724-10273842/369-A-10273842.c
+codeflaws/369-A-bug-10273724-10273842/369-A-10273724.c
+9
+[("Replace b'            if(m == 0){\\n' with b'            if(k == 0){\\n' at position 10", 9)]

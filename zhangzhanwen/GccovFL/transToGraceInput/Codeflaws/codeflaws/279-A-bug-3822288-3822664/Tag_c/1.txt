@@ -1,0 +1,4 @@
+codeflaws/279-A-bug-3822288-3822664/279-A-3822664.c
+codeflaws/279-A-bug-3822288-3822664/279-A-3822288.c
+11,21
+[("Insert b'x[401]=101;\\n' at position 13 in file2", 12), ("Replace b'for(i=0;i<=400;i++)\\n' with b'for(i=0;i<400;i++)\\n' at position 23", 22)]

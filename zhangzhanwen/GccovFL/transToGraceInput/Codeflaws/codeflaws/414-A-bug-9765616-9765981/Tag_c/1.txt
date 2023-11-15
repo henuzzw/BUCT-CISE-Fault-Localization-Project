@@ -1,0 +1,4 @@
+codeflaws/414-A-bug-9765616-9765981/414-A-9765981.c
+codeflaws/414-A-bug-9765616-9765981/414-A-9765616.c
+13,35
+[("Insert b'\\t\\treturn 0;\\n' at position 15 in file2", 14), ("Insert b'\\t\\t//if(n<=0 || n>1000000000)\\n' at position 38 in file2", 37)]

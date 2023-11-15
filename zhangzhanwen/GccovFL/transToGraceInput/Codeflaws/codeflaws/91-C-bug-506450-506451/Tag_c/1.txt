@@ -1,0 +1,4 @@
+codeflaws/91-C-bug-506450-506451/91-C-506451.c
+codeflaws/91-C-bug-506450-506451/91-C-506450.c
+35
+[("Replace b'      if ((a=getf(a))!=(b=getf(b)))\\n' with b'      if ((a=getf(a))==(b=getf(b)))\\n' at position 36", 35)]

@@ -1,0 +1,4 @@
+codeflaws/414-B-bug-6296673-6296691/414-B-6296691.c
+codeflaws/414-B-bug-6296673-6296691/414-B-6296673.c
+15
+[('Delete b\'            printf("%lld\\\\t",dp[i][j]);\\n\' at position 15 in file2', 14)]

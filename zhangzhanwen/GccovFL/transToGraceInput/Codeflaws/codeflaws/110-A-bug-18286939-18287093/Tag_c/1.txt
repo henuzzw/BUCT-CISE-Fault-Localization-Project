@@ -1,0 +1,4 @@
+codeflaws/110-A-bug-18286939-18287093/110-A-18287093.c
+codeflaws/110-A-bug-18286939-18287093/110-A-18286939.c
+32
+[("Replace b'    if(ct==4 || ct==7)\\n' with b'    if(ct==4 || ct==7 || ct==counter)\\n' at position 33", 32)]

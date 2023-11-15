@@ -1,0 +1,4 @@
+codeflaws/178-A2-bug-1638759-1638993/178-A2-1638993.c
+codeflaws/178-A2-bug-1638759-1638993/178-A2-1638759.c
+29,31
+[('Replace b\'//        printf("n=%d i=%d\\\\n",N,i);\\n\' with b\'        printf("n=%d i=%d\\\\n",N,i);\\n\' at position 30', 29), ("Insert b'        m[N]=0;\\n' at position 33 in file2", 32)]

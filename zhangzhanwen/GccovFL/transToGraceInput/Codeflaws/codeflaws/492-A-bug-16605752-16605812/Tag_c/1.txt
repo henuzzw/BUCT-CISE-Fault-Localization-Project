@@ -1,0 +1,4 @@
+codeflaws/492-A-bug-16605752-16605812/492-A-16605812.c
+codeflaws/492-A-bug-16605752-16605812/492-A-16605752.c
+4
+[('Delete b\'printf("enter the total no. of coins?\\\\n");\\n\' at position 4 in file2', 3)]

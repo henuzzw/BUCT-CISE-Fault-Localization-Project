@@ -1,0 +1,4 @@
+codeflaws/628-B-bug-16778379-16778398/628-B-16778398.c
+codeflaws/628-B-bug-16778379-16778398/628-B-16778379.c
+35
+[('Replace b\'\\tprintf("%lld\\\\n", answer);\\n\' with b\'\\tprintf("%i64d\\\\n", answer);\\n\' at position 36', 35)]

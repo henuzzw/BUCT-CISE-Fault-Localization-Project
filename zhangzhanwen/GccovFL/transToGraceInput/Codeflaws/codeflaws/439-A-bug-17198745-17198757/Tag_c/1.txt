@@ -1,0 +1,4 @@
+codeflaws/439-A-bug-17198745-17198757/439-A-17198757.c
+codeflaws/439-A-bug-17198745-17198757/439-A-17198745.c
+13
+[('Replace b\'    if(m<0) printf("-1");\\n\' with b\'    if(a<0) printf("-1");\\n\' at position 14', 13)]

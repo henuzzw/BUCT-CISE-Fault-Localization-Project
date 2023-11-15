@@ -1,0 +1,4 @@
+codeflaws/443-B-bug-9420148-9420170/443-B-9420170.c
+codeflaws/443-B-bug-9420148-9420170/443-B-9420148.c
+13
+[("Replace b'        for(k = 0; k < n + j - i; k++){\\n' with b'        for(k = 0; k <= n + j - i; k++){\\n' at position 14", 13)]

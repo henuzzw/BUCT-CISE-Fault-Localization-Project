@@ -1,0 +1,4 @@
+codeflaws/381-B-bug-5703957-5703973/381-B-5703973.c
+codeflaws/381-B-bug-5703957-5703973/381-B-5703957.c
+19,26,30
+[("Delete b'        memset(b,0,sizeof(b[0]));\\n' at position 19 in file2", 18), ("Insert b'                if(a[i]!=b[l-1])\\n' at position 27 in file2", 26), ("Insert b'                if(a[i]!=c[r-1])\\n' at position 32 in file2", 31)]

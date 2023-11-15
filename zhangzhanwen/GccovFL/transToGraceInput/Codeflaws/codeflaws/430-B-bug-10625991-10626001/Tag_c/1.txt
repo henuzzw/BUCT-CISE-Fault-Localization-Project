@@ -1,0 +1,4 @@
+codeflaws/430-B-bug-10625991-10626001/430-B-10626001.c
+codeflaws/430-B-bug-10625991-10626001/430-B-10625991.c
+31,31
+[("Replace b'\\t\\t\\t\\tbreak;\\n' with b'\\t\\t\\t\\t;\\n' at position 32", 31), ("Insert b'\\t\\t\\t\\t\\n' at position 33 in file2", 32)]

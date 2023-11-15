@@ -1,0 +1,4 @@
+codeflaws/466-C-bug-17903568-17903640/466-C-17903640.c
+codeflaws/466-C-bug-17903568-17903640/466-C-17903568.c
+18
+[("Replace b'            if(suma_ctrl == (suma/3)*2 )\\n' with b'            if(suma_ctrl == suma)\\n' at position 19", 18)]

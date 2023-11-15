@@ -1,0 +1,4 @@
+codeflaws/197-C-bug-2103086-2103090/197-C-2103090.c
+codeflaws/197-C-bug-2103086-2103090/197-C-2103086.c
+4
+[('Replace b\'  char str[100002],c=\\\'a\\\'-1,bet[32]="abcdefghijklmnopqrstuvwxyz";\\n\' with b\'  char str[100002],c=\\\'a\\\'-1,bet[32]="abcdefghijklmnopqrstuvwxwz";\\n\' at position 5', 4)]

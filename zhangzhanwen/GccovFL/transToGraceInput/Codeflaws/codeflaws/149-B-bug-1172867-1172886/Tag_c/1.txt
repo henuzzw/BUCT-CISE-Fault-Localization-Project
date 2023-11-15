@@ -1,0 +1,4 @@
+codeflaws/149-B-bug-1172867-1172886/149-B-1172886.c
+codeflaws/149-B-bug-1172867-1172886/149-B-1172867.c
+10
+[("Replace b'\\tfor (b = 1; b <= 60; b++) {\\n' with b'\\tfor (b = 1; b <= 36; b++) {\\n' at position 11", 10)]

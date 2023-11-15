@@ -1,0 +1,66 @@
+        -:    0:Source:../WA_c/277798_buggy.c
+        -:    0:Graph:277798_buggy.gcno
+        -:    0:Data:277798_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        -:    3:int check_prime(int num);
+        -:    4:
+      152:    5:int check_prime(int num)
+        -:    6:{
+        -:    7:    int i;
+        -:    8:    int prime_or_not;
+      152:    9:    int no_of_factors=0; //variable to store no of factors
+        -:   10:
+     9934:   11:    for(i=1; i<=num; i++)
+        -:   12:    {
+     9782:   13:        if(num%i==0) //check if i is a factor of num
+        -:   14:        {
+      831:   15:            no_of_factors++;    //update if i is a factor of num
+        -:   16:        }
+        -:   17:    }
+        -:   18:
+      152:   19:    if(no_of_factors==2)
+        -:   20:    {
+       30:   21:        prime_or_not=1;    //num is prime
+        -:   22:    }
+        -:   23:    else
+        -:   24:    {
+      122:   25:        prime_or_not=0;    //num is not prime;
+        -:   26:    }
+        -:   27:
+      152:   28:    return prime_or_not; // return 0 or 1 accordingly
+        -:   29:}
+        -:   30:
+        -:   31:
+        1:   32:int main()
+        -:   33:{
+        -:   34:    int N;
+        1:   35:    int no_is_prime=0;//variable to return 0 or 1
+        -:   36:    int i; // variable to be used in for loop
+        -:   37:
+        1:   38:    scanf("%d",&N); //input N
+        -:   39:
+      123:   40:    for(i=2; i<=N-2; i++)
+        -:   41:    {
+      122:   42:        if(check_prime(i)==1) // check if i is prime
+        -:   43:        {
+       30:   44:            if(check_prime(N-i)==1) //check if N-i is prime
+        -:   45:            {
+    #####:   46:                no_is_prime=1;    // both i and N-i are prime
+        -:   47:            }
+        -:   48:        }
+        -:   49:    }
+        -:   50:
+        1:   51:    if(no_is_prime)
+        -:   52:    {
+    #####:   53:        printf("yes");    // no_is_prime=1
+        -:   54:    }
+        -:   55:    else
+        -:   56:    {
+        1:   57:        printf("no");    // no_is_prime=0
+        -:   58:    }
+        -:   59:
+        1:   60:    return 0;
+        -:   61:}

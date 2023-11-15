@@ -1,0 +1,4 @@
+codeflaws/518-E-bug-10046940-10047080/518-E-10047080.c
+codeflaws/518-E-bug-10046940-10047080/518-E-10046940.c
+45
+[('Replace b"                        a[i]=0,m=1;while(ch[m])a[i]*=10,a[i]+=ch[m]-\'0\',m++;\\n" with b"                        a[i]=0,m=1;while(ch[m])a[i]*=10,a[i]+=ch[m]-\'0\';\\n" at position 46', 45)]

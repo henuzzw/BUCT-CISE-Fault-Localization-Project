@@ -1,0 +1,4 @@
+codeflaws/154-A-bug-1224915-1225089/154-A-1225089.c
+codeflaws/154-A-bug-1224915-1225089/154-A-1224915.c
+21
+[("Replace b'                if (s[i]==s[i-1]) a[j-1]++; else s[j]=s[i],a[j]=1,j++;\\n' with b'                if (s[i]==s[i-1]) a[j]++; else s[j]=s[i],a[j]=1,j++;\\n' at position 22", 21)]

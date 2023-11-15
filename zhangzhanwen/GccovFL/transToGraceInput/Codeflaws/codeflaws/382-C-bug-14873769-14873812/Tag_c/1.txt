@@ -1,0 +1,4 @@
+codeflaws/382-C-bug-14873769-14873812/382-C-14873812.c
+codeflaws/382-C-bug-14873769-14873812/382-C-14873769.c
+80
+[("Replace b'            else if(flag==0 || ap==a[i]-a[i-1])\\n' with b'            else if(flag==0)\\n' at position 81", 80)]

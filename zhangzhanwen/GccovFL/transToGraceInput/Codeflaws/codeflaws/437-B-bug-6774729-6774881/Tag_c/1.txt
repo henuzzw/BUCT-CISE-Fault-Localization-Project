@@ -1,0 +1,4 @@
+codeflaws/437-B-bug-6774729-6774881/437-B-6774881.c
+codeflaws/437-B-bug-6774729-6774881/437-B-6774729.c
+2
+[("Replace b'int result[20000];\\n' with b'int result[25];\\n' at position 3", 2)]

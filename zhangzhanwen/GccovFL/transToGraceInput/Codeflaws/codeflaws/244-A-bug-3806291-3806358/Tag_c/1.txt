@@ -1,0 +1,4 @@
+codeflaws/244-A-bug-3806291-3806358/244-A-3806358.c
+codeflaws/244-A-bug-3806291-3806358/244-A-3806291.c
+3
+[("Replace b'int n,k,a[31],i,j,l,c=0,b[1000],t=1,m=0,y;\\n' with b'int n,k,a[31],i,j,l,c=0,b[31],t=1,m=0,y;\\n' at position 4", 3)]

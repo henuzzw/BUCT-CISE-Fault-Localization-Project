@@ -1,0 +1,4 @@
+codeflaws/478-A-bug-16963331-16963346/478-A-16963346.c
+codeflaws/478-A-bug-16963331-16963346/478-A-16963331.c
+7
+[("Replace b'\\tif(sum%5==0 && sum!=0)\\n' with b'\\tif(sum%5==0)\\n' at position 8", 7)]

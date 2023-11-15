@@ -1,0 +1,39 @@
+        -:    0:Source:../WA_c/466058_buggy.c
+        -:    0:Graph:466058_buggy.gcno
+        -:    0:Data:-
+        -:    0:Runs:0
+        -:    0:Programs:0
+        -:    1:#include<iostream>
+        -:    2:#include<cstdio>
+        -:    3:#include<cstring>
+        -:    4:using namespace std;
+        -:    5:int x, t, a, b;
+    #####:    6:int gcd(int a, int b)
+        -:    7:{
+    #####:    8:    if(a < b)
+        -:    9:    {
+    #####:   10:        int j = a;
+    #####:   11:        a = b;
+    #####:   12:        b = j;
+        -:   13:    }
+    #####:   14:    while(b > 0)
+        -:   15:    {
+    #####:   16:        int m = a % b;
+    #####:   17:        a = b;
+    #####:   18:        b = m;
+        -:   19:    }
+    #####:   20:    return a;
+        -:   21:}
+        -:   22:
+    #####:   23:int main()
+        -:   24:{
+    #####:   25:    scanf("%d", &t);
+    #####:   26:    for(int k = 1; k <= t; k++)
+        -:   27:    {
+    #####:   28:        scanf("%d%d", &a, &b);
+        -:   29:        
+    #####:   30:        x = gcd(a, b) - 1;
+    #####:   31:        printf("%d\n", a / x + b / x);
+        -:   32:    }
+    #####:   33:    return 0;
+    #####:   34:}

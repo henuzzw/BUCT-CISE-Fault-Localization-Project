@@ -1,0 +1,4 @@
+codeflaws/584-A-bug-17598745-17598758/584-A-17598758.c
+codeflaws/584-A-bug-17598745-17598758/584-A-17598745.c
+7
+[('Replace b\'            printf("%d",t);\\n\' with b\'            printf("%d",&t);\\n\' at position 8', 7)]

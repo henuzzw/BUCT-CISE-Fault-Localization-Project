@@ -1,0 +1,4 @@
+codeflaws/298-B-bug-4086990-4086996/298-B-4086996.c
+codeflaws/298-B-bug-4086990-4086996/298-B-4086990.c
+26
+[('Delete b\'            printf("%d %d\\\\n",ex-x,ey-y);\\n\' at position 26 in file2', 25)]

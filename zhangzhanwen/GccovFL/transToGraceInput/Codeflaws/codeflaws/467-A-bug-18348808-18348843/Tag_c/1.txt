@@ -1,0 +1,4 @@
+codeflaws/467-A-bug-18348808-18348843/467-A-18348843.c
+codeflaws/467-A-bug-18348808-18348843/467-A-18348808.c
+10
+[("Replace b'            if((q-p)>=2)\\n' with b'            if((p+2)>=q)\\n' at position 11", 10)]

@@ -1,0 +1,4 @@
+codeflaws/427-A-bug-16612650-16612656/427-A-16612656.c
+codeflaws/427-A-bug-16612650-16612656/427-A-16612650.c
+15
+[("Replace b'            else count++;\\n' with b'            count++;\\n' at position 16", 15)]

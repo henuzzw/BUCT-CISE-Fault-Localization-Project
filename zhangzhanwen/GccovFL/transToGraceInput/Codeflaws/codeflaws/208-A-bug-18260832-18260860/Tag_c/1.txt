@@ -1,0 +1,4 @@
+codeflaws/208-A-bug-18260832-18260860/208-A-18260860.c
+codeflaws/208-A-bug-18260832-18260860/208-A-18260832.c
+24
+[("Insert b'        if(j==n) break;\\n' at position 26 in file2", 25)]

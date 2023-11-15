@@ -1,0 +1,4 @@
+codeflaws/361-B-bug-5437008-5437011/361-B-5437011.c
+codeflaws/361-B-bug-5437008-5437011/361-B-5437008.c
+6
+[("Replace b'\\tif(K==N)\\n' with b'\\tif(N==1||K==N)\\n' at position 7", 6)]

@@ -1,0 +1,4 @@
+codeflaws/127-B-bug-2043633-2043634/127-B-2043634.c
+codeflaws/127-B-bug-2043633-2043634/127-B-2043633.c
+14
+[("Replace b'    for(i=1;i<=100;i++)\\n' with b'    for(i=1;i<=n;i++)\\n' at position 15", 14)]

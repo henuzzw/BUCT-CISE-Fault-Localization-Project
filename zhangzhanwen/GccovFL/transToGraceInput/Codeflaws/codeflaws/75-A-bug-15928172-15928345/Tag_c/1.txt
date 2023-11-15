@@ -1,0 +1,4 @@
+codeflaws/75-A-bug-15928172-15928345/75-A-15928345.c
+codeflaws/75-A-bug-15928172-15928345/75-A-15928172.c
+33,43
+[("Replace b'    long long i,num=0;\\n' with b'    int i,num=0;\\n' at position 34", 33), ("Insert b'\\n' at position 45 in file2", 44)]

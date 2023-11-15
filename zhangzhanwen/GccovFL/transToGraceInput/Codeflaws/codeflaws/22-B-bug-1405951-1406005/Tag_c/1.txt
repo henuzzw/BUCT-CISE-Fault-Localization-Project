@@ -1,0 +1,4 @@
+codeflaws/22-B-bug-1405951-1406005/22-B-1406005.c
+codeflaws/22-B-bug-1405951-1406005/22-B-1405951.c
+133,133
+[("Insert b'        if(num==0)ll=(n+m)*2;\\n' at position 135 in file2", 134), ("Insert b'        if(ll==56)ll=58;\\n' at position 136 in file2", 135)]

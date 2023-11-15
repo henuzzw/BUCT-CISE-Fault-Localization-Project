@@ -1,0 +1,4 @@
+codeflaws/6-A-bug-16202235-16205433/6-A-16205433.c
+codeflaws/6-A-bug-16202235-16205433/6-A-16202235.c
+8
+[("Replace b'    if((a+b>c && a+c>b && b+c>a) || (a+b>d && a+d>b && b+d>a) || (b+c>d && b+d>c && c+d>b) || (a+c>d && a+d>c && c+d>a))\\n' with b'    if((a+b>c && a+c>b && b+c>a) || (a+b>d && a+d>b && b+d>a) || (b+c>d && b+d>c && c+d>b))\\n' at position 9", 8)]

@@ -1,0 +1,4 @@
+codeflaws/535-A-bug-17193246-17193256/535-A-17193256.c
+codeflaws/535-A-bug-17193246-17193256/535-A-17193246.c
+4
+[('Insert b\'    if(s==0) printf("zero");\\n\' at position 6 in file2', 5)]

@@ -1,0 +1,4 @@
+codeflaws/201-A-bug-1881517-1881520/201-A-1881520.c
+codeflaws/201-A-bug-1881517-1881520/201-A-1881517.c
+6
+[("Replace b'                t = ( ( i + 1 ) / 2 ) * i - ( i / 2 );\\n' with b'                t = i / 2 * i + 1;\\n' at position 7", 6)]

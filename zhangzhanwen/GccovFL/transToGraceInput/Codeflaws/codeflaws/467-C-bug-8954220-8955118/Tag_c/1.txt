@@ -1,0 +1,4 @@
+codeflaws/467-C-bug-8954220-8955118/467-C-8955118.c
+codeflaws/467-C-bug-8954220-8955118/467-C-8954220.c
+26
+[("Replace b'\\tif(index > n-m && k > 0)\\n' with b'\\tif(index >= n-m && k > 0)\\n' at position 27", 26)]

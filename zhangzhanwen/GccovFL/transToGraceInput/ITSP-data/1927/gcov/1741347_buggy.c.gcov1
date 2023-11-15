@@ -1,0 +1,53 @@
+        -:    0:Source:../WA_c/1741347_buggy.c
+        -:    0:Graph:1741347_buggy.gcno
+        -:    0:Data:1741347_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+        -:    2:#include<iostream>
+        -:    3:using namespace std;
+        -:    4:
+        6:    5:int gcd2(long a, long b)
+        -:    6:{
+        6:    7:    long n = max(a, b);
+        6:    8:    long m = min(a, b);
+        6:    9:    if (n % m == 0)
+        -:   10:    {
+        3:   11:        return m;
+        -:   12:    }
+        3:   13:    return gcd2(n % m, m);
+        -:   14:}
+        -:   15:
+    #####:   16:int gcd1(long m, long n)
+        -:   17:{
+    #####:   18:    if (n > m)
+        -:   19:    {
+        -:   20:        long t;
+    #####:   21:        t = m;
+    #####:   22:        m = n;
+    #####:   23:        n = t;
+        -:   24:    }
+        -:   25:    long a, b;
+    #####:   26:    while (n != 0)
+        -:   27:    {
+    #####:   28:        a = m / n;
+        -:   29:
+    #####:   30:        m = a, n = b;
+        -:   31:    }
+    #####:   32:    cout << m << endl;
+        -:   33:
+        -:   34:
+    #####:   35:    return 1;
+        -:   36:}
+        1:   37:int main()
+        -:   38:{
+        -:   39:    int T;
+        1:   40:    cin >> T;
+        4:   41:    for (int i = 0; i < T; i++)
+        -:   42:    {
+        -:   43:        long m, n;
+        3:   44:        cin >> m >> n;
+        3:   45:        long ans = gcd2(m, n) % m;
+        3:   46:        cout << ans << endl;
+        -:   47:    }
+        4:   48:}

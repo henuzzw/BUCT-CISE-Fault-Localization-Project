@@ -1,0 +1,4 @@
+codeflaws/168-A-bug-14205741-14205756/168-A-14205756.c
+codeflaws/168-A-bug-14205741-14205756/168-A-14205741.c
+11
+[('Replace b\'    if(ans < 0) printf("0");\\n\' with b\'    if(x > ans) printf("0");\\n\' at position 12', 11)]

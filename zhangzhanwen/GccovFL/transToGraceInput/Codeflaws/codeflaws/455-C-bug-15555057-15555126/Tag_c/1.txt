@@ -1,0 +1,4 @@
+codeflaws/455-C-bug-15555057-15555126/455-C-15555126.c
+codeflaws/455-C-bug-15555057-15555126/455-C-15555057.c
+61
+[("Insert b'\\t\\t\\tif(sn == fn) continue;\\n' at position 63 in file2", 62)]

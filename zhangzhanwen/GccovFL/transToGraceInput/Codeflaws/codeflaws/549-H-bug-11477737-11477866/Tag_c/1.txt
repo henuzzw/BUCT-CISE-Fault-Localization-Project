@@ -1,0 +1,4 @@
+codeflaws/549-H-bug-11477737-11477866/549-H-11477866.c
+codeflaws/549-H-bug-11477737-11477866/549-H-11477737.c
+14,37
+[("Delete b'\\tgetchar();\\n' at position 14 in file2", 13), ("Replace b'\\t\\tif((F(nle)<1e-2*nle||F(nle)<1e-6)&&r>mut(nle))r=mut(nle);\\n' with b'\\t\\tif(F(nle)<1e-9*nle&&r>mut(nle))r=mut(nle);\\n' at position 37", 36)]

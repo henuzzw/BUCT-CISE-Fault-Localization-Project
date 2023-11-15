@@ -1,0 +1,4 @@
+codeflaws/426-B-bug-6497124-6497197/426-B-6497197.c
+codeflaws/426-B-bug-6497124-6497197/426-B-6497124.c
+26
+[("Replace b'    for(j=1;j<=m;j++)\\n' with b'    for(j=0;j<m;j++)\\n' at position 27", 26)]

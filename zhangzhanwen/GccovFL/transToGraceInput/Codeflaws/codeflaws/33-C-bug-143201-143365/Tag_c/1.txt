@@ -1,0 +1,4 @@
+codeflaws/33-C-bug-143201-143365/33-C-143365.c
+codeflaws/33-C-bug-143201-143365/33-C-143201.c
+29
+[("Replace b'   for (i=n;i>=1;i--)\\n' with b'   for (i=n-1;i>=1;i--)\\n' at position 30", 29)]

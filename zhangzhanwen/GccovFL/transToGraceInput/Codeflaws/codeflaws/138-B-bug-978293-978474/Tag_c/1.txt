@@ -1,0 +1,4 @@
+codeflaws/138-B-bug-978293-978474/138-B-978474.c
+codeflaws/138-B-bug-978293-978474/138-B-978293.c
+70
+[("Replace b'\\tif (num == 1 && a[0] == a[9] && a[0] > 0) {\\n' with b'\\tif (num == 1 && a[0] > 0) {\\n' at position 71", 70)]

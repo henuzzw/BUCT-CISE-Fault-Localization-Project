@@ -1,0 +1,4 @@
+codeflaws/139-A-bug-14564975-14564980/139-A-14564980.c
+codeflaws/139-A-bug-14564975-14564980/139-A-14564975.c
+10
+[("Replace b'\\tfor (i=0;i<100000;i++)\\n' with b'\\tfor (i=0;i<n;i++)\\n' at position 11", 10)]

@@ -1,0 +1,4 @@
+codeflaws/224-A-bug-17277220-17277323/224-A-17277323.c
+codeflaws/224-A-bug-17277220-17277323/224-A-17277220.c
+8,10
+[("Insert b'    int sum;\\n' at position 10 in file2", 9), ('Replace b\'    printf("%d",sum=(4*(sqrt(a * b / c) + sqrt(a * c / b) + sqrt(b * c / a))));\\n\' with b\'    printf("%f",(4*(sqrt(a * b / c) + sqrt(a * c / b) + sqrt(b * c / a))));\\n\' at position 12', 11)]

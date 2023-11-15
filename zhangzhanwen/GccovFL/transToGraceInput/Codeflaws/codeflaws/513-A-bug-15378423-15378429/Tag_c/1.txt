@@ -1,0 +1,4 @@
+codeflaws/513-A-bug-15378423-15378429/513-A-15378429.c
+codeflaws/513-A-bug-15378423-15378429/513-A-15378423.c
+5
+[('Delete b\'    printf("%d %d %d %d\\\\n", n1, n2, k1, k2);\\n\' at position 5 in file2', 4)]

@@ -1,0 +1,4 @@
+codeflaws/254-B-bug-2751488-2751528/254-B-2751528.c
+codeflaws/254-B-bug-2751488-2751528/254-B-2751488.c
+6
+[("Replace b'    if(*d<=0){\\n' with b'    if(d<=0){\\n' at position 7", 6)]

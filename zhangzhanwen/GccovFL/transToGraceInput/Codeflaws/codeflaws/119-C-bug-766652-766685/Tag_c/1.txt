@@ -1,0 +1,4 @@
+codeflaws/119-C-bug-766652-766685/119-C-766685.c
+codeflaws/119-C-bug-766652-766685/119-C-766652.c
+10
+[("Replace b'long long dp[50][51][101][3];\\n' with b'long long dp[50][51][101][2];\\n' at position 11", 10)]

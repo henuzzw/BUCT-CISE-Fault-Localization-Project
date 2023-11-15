@@ -1,0 +1,4 @@
+codeflaws/300-A-bug-10623172-10623290/300-A-10623290.c
+codeflaws/300-A-bug-10623172-10623290/300-A-10623172.c
+38,38,55
+[("Insert b'            if(i==x) continue;\\n' at position 40 in file2", 39), ("Insert b'            else{\\n' at position 41 in file2", 40), ("Insert b'            }\\n' at position 59 in file2", 58)]

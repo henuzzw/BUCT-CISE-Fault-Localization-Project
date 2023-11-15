@@ -1,0 +1,4 @@
+codeflaws/91-B-bug-17913468-17913512/91-B-17913512.c
+codeflaws/91-B-bug-17913468-17913512/91-B-17913468.c
+28
+[("Delete b'                posmay=i;\\n' at position 28 in file2", 27)]

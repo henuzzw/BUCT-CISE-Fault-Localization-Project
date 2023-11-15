@@ -1,0 +1,30 @@
+        -:    0:Source:../WA_c/1465949_buggy.c
+        -:    0:Graph:1465949_buggy.gcno
+        -:    0:Data:1465949_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <bits/stdc++.h>
+        -:    2:using namespace std;
+       31:    3:int main()
+        -:    4:{
+        -:    5:    int n;
+       61:    6:    while(cin >> n)
+        -:    7:    {
+       30:    8:        int flag = 0;
+      436:    9:        for(int i = 2; i <= n; i++)
+        -:   10:        {
+      406:   11:            if(i % 5 == 0)
+        -:   12:            {
+       75:   13:                flag++;
+       75:   14:                int j = i / 5;
+       85:   15:                while(j % 5 == 0)
+        -:   16:                {
+        5:   17:                    j = j / 5;
+        5:   18:                    flag+=2;
+        -:   19:                }
+        -:   20:            }
+        -:   21:        }
+       30:   22:        cout << flag << endl;
+        -:   23:    }
+        1:   24:    return 0;
+        3:   25:}

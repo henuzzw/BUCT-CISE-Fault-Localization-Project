@@ -1,0 +1,4 @@
+codeflaws/284-B-bug-4852792-4852817/284-B-4852817.c
+codeflaws/284-B-bug-4852792-4852817/284-B-4852792.c
+23
+[("Replace b'        if (couI == 1 && (couA || couF))\\n' with b'        if (couA || couF)\\n' at position 24", 23)]

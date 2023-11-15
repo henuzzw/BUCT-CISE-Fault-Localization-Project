@@ -1,0 +1,4 @@
+codeflaws/430-A-bug-6590630-6590692/430-A-6590692.c
+codeflaws/430-A-bug-6590630-6590692/430-A-6590630.c
+43
+[('Replace b\'        printf ("%d ", pts[i].rk);\\n\' with b\'        printf ("%d ", i% 2);\\n\' at position 44', 43)]

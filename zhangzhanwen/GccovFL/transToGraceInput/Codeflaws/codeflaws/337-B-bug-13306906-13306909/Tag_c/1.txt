@@ -1,0 +1,4 @@
+codeflaws/337-B-bug-13306906-13306909/337-B-13306909.c
+codeflaws/337-B-bug-13306906-13306909/337-B-13306906.c
+1,9
+[("Insert b'#include<math.h>\\n' at position 3 in file2", 2), ('Replace b\'    printf("%d/%d",(max-min)/g,max/g);\\n\' with b\'    printf("%d %d",(max-min)/g,max/g);\\n\' at position 11', 10)]

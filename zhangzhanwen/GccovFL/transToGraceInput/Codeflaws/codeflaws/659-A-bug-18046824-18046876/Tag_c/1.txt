@@ -1,0 +1,4 @@
+codeflaws/659-A-bug-18046824-18046876/659-A-18046876.c
+codeflaws/659-A-bug-18046824-18046876/659-A-18046824.c
+13
+[("Replace b'    } else if (b < 0 && s <= 0) {\\n' with b'    } else if (b < 0 && s < 0) {\\n' at position 14", 13)]

@@ -1,0 +1,4 @@
+codeflaws/591-A-bug-17225145-17225221/591-A-17225221.c
+codeflaws/591-A-bug-17225145-17225221/591-A-17225145.c
+8
+[('Replace b\'    printf("%0.12lf\\\\n", s);\\n\' with b\'    printf("%0.1lf\\\\n", s);\\n\' at position 9', 8)]

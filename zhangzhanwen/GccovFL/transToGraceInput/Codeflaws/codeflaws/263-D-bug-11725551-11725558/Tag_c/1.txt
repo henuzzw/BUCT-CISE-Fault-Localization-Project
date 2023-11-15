@@ -1,0 +1,4 @@
+codeflaws/263-D-bug-11725551-11725558/263-D-11725558.c
+codeflaws/263-D-bug-11725551-11725558/263-D-11725551.c
+8,9
+[("Delete b'\\n' at position 8 in file2", 7), ('Delete b\'printf("%d %d\\\\n",x ,s);\\n\' at position 8 in file2', 7)]

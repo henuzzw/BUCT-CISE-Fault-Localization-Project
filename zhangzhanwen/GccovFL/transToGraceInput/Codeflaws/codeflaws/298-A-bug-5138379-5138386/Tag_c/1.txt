@@ -1,0 +1,4 @@
+codeflaws/298-A-bug-5138379-5138386/298-A-5138386.c
+codeflaws/298-A-bug-5138379-5138386/298-A-5138379.c
+34
+[("Replace b'\\t}while(!c);\\n' with b'\\t}while(c);\\n' at position 35", 34)]

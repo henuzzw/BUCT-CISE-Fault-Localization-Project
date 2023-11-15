@@ -1,0 +1,4 @@
+codeflaws/172-B-bug-5785935-5785981/172-B-5785981.c
+codeflaws/172-B-bug-5785935-5785981/172-B-5785935.c
+5,5
+[("Replace b'\\tint a, b, m, r;\\n' with b'\\tint a, b, m, r, psr[MAXN+2];\\n' at position 6", 5), ("Insert b'\\tlong long int psr[2*MAXN+2];\\n' at position 7 in file2", 6)]

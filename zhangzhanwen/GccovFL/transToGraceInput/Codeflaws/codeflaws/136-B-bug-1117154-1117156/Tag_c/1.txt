@@ -1,0 +1,4 @@
+codeflaws/136-B-bug-1117154-1117156/136-B-1117156.c
+codeflaws/136-B-bug-1117154-1117156/136-B-1117154.c
+2
+[('Replace b\'for(scanf("%d%d",&a,&c);a|c;x*=3,a/=3,c/=3)b+=(3+c%3-a%3)%3*x;\\n\' with b\'for(scanf("%d%d",&a,&c);a|b;x*=3,a/=3,c/=3)b+=(3+c%3-a%3)%3*x;\\n\' at position 3', 2)]

@@ -1,0 +1,4 @@
+codeflaws/379-A-bug-17986097-17986189/379-A-17986189.c
+codeflaws/379-A-bug-17986097-17986189/379-A-17986097.c
+10
+[("Replace b'        a=a/b+a%b;\\n' with b'        a=a/b;\\n' at position 11", 10)]

@@ -1,0 +1,4 @@
+codeflaws/271-A-bug-18031969-18031990/271-A-18031990.c
+codeflaws/271-A-bug-18031969-18031990/271-A-18031969.c
+11
+[("Replace b'    for(;year<9999;++year)\\n' with b'    for(;year<9000;++year)\\n' at position 12", 11)]

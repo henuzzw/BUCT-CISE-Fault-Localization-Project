@@ -1,0 +1,4 @@
+codeflaws/378-A-bug-18230536-18230541/378-A-18230541.c
+codeflaws/378-A-bug-18230536-18230541/378-A-18230536.c
+9
+[('Replace b\'        printf("%d %d %d", res3, res2, res1);\\n\' with b\'        printf("%d %d %d", res1, res2, res3);\\n\' at position 10', 9)]

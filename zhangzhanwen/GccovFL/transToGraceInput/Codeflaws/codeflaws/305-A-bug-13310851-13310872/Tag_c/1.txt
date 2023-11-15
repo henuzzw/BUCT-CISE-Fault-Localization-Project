@@ -1,0 +1,4 @@
+codeflaws/305-A-bug-13310851-13310872/305-A-13310872.c
+codeflaws/305-A-bug-13310851-13310872/305-A-13310851.c
+55,55,55
+[("Insert b'            else if(hold1[0]!=0){\\n' at position 57 in file2", 56), ("Insert b'                res[1]=hold1[0];\\n' at position 58 in file2", 57), ("Insert b'            }\\n' at position 59 in file2", 58)]

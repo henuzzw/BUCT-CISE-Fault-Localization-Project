@@ -1,0 +1,4 @@
+codeflaws/112-B-bug-861875-861881/112-B-861881.c
+codeflaws/112-B-bug-861875-861881/112-B-861875.c
+7
+[("Replace b'    if((x == n / 2 || x == n / 2 + 1) && (y == n / 2 || y == n / 2 + 1))\\n' with b'    if(x == n / 2 || x == n / 2 + 1 || y == n / 2 || y == n / 2 + 1)\\n' at position 8", 7)]

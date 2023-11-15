@@ -1,0 +1,4 @@
+codeflaws/177-A2-bug-1646901-1646904/177-A2-1646904.c
+codeflaws/177-A2-bug-1646901-1646904/177-A2-1646901.c
+23,24
+[('Replace b\'                 (j == mid)) sum += cel;\\n\' with b\'                 (j == mid)); //printf("[%d,%d]",i,j);\\n\' at position 24', 23), ("Delete b'                 sum += cel;\\n' at position 24 in file2", 23)]

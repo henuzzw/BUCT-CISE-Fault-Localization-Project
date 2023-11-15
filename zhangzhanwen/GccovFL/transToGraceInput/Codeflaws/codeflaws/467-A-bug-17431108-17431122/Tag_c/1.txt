@@ -1,0 +1,4 @@
+codeflaws/467-A-bug-17431108-17431122/467-A-17431122.c
+codeflaws/467-A-bug-17431108-17431122/467-A-17431108.c
+9
+[("Replace b'        if ((q-p) >= 2) sum++;\\n' with b'        if ((q-p) > 2) sum++;\\n' at position 10", 9)]

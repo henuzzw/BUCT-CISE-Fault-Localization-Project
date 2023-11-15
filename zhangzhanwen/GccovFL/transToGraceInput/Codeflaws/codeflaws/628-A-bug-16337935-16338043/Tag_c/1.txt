@@ -1,0 +1,4 @@
+codeflaws/628-A-bug-16337935-16338043/628-A-16338043.c
+codeflaws/628-A-bug-16337935-16338043/628-A-16337935.c
+9
+[('Replace b\'\\tprintf("%d %d\\\\n",(n-1)*(2*b+1),n*p);\\n\' with b\'\\tprintf("%d %d\\\\n",(n+1)*(2*b-1),n*p);\\n\' at position 10', 9)]

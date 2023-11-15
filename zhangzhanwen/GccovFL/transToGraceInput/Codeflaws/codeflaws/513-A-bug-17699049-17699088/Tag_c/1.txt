@@ -1,0 +1,4 @@
+codeflaws/513-A-bug-17699049-17699088/513-A-17699088.c
+codeflaws/513-A-bug-17699049-17699088/513-A-17699049.c
+4,5
+[('Replace b\'    a>b?printf("First\\\\n"):printf("Second\\\\n");\\n\' with b\'    if((a+b)%2)printf("First\\\\n");\\n\' at position 5', 4), ('Delete b\'    else printf("Second\\\\n");\\n\' at position 5 in file2', 4)]

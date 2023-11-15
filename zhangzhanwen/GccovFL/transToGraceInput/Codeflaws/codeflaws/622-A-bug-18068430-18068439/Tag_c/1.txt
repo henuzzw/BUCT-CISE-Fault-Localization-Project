@@ -1,0 +1,4 @@
+codeflaws/622-A-bug-18068430-18068439/622-A-18068439.c
+codeflaws/622-A-bug-18068430-18068439/622-A-18068430.c
+5
+[("Replace b'    k=n;\\n' with b'\\n' at position 6", 5)]

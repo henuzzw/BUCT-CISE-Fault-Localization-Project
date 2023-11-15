@@ -1,0 +1,4 @@
+codeflaws/245-A-bug-2983166-2983174/245-A-2983174.c
+codeflaws/245-A-bug-2983166-2983174/245-A-2983166.c
+20
+[("Replace b'    if(livea>=deada)\\n' with b'    if(livea>=deadb)\\n' at position 21", 20)]

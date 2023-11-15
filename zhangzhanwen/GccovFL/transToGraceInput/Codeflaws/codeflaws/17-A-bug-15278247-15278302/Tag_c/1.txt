@@ -1,0 +1,4 @@
+codeflaws/17-A-bug-15278247-15278302/17-A-15278302.c
+codeflaws/17-A-bug-15278247-15278302/17-A-15278247.c
+22,33
+[("Insert b'\\t\\n' at position 24 in file2", 23), ("Replace b'\\tif (r>=b){\\n' with b'\\tif (r==b){\\n' at position 35", 34)]

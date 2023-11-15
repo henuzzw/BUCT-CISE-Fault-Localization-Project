@@ -1,0 +1,4 @@
+codeflaws/443-C-bug-6964781-6964797/443-C-6964797.c
+codeflaws/443-C-bug-6964781-6964797/443-C-6964781.c
+12
+[('Replace b"    int a = s[3 * i + 1] - \'1\';\\n" with b"    int a = s[3 * i + 1] - \'0\';\\n" at position 13', 12)]

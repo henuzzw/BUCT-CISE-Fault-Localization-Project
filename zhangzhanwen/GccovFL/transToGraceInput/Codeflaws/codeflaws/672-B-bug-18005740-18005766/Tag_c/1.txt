@@ -1,0 +1,4 @@
+codeflaws/672-B-bug-18005740-18005766/672-B-18005766.c
+codeflaws/672-B-bug-18005740-18005766/672-B-18005740.c
+8
+[("Replace b'        if(n>26)\\n' with b'        if(n>25)\\n' at position 9", 8)]

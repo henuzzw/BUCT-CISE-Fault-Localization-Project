@@ -1,0 +1,4 @@
+codeflaws/609-A-bug-17186362-17186457/609-A-17186457.c
+codeflaws/609-A-bug-17186362-17186457/609-A-17186362.c
+10
+[("Replace b'\\t\\t\\tarr[s++]=i;\\n' with b'\\t\\t\\tarr[s++]=i+1;\\n' at position 11", 10)]

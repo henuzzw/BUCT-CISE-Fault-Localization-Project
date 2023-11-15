@@ -1,0 +1,28 @@
+        -:    0:Source:../WA_c/271491_buggy.c
+        -:    0:Graph:271491_buggy.gcno
+        -:    0:Data:271491_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        -:    5:    char ch;
+        1:    6:    scanf("%c",&ch);
+        1:    7:    if(ch<='Z'&&ch>='A')//To check for capital letter..
+        -:    8:    {
+    #####:    9:        printf("Capital letter");
+        -:   10:    }
+        -:   11:
+        1:   12:    if(ch<='z'&&ch>='a')//To check for small letter..
+        -:   13:    {
+        1:   14:        printf("Small Letter");
+        -:   15:    }
+        -:   16:
+        1:   17:    if(ch>='1'&&ch<='9')//To check for digit..
+        -:   18:    {
+    #####:   19:        printf("Digit");
+        -:   20:    }
+        -:   21:
+        1:   22:    return 0;
+        -:   23:}

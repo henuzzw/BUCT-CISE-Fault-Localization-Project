@@ -1,0 +1,4 @@
+codeflaws/42-A-bug-3846979-3846991/42-A-3846991.c
+codeflaws/42-A-bug-3846979-3846991/42-A-3846979.c
+24
+[('Replace b\'printf("%.4f",ans);\\n\' with b\'printf("%.1f",ans);\\n\' at position 25', 24)]

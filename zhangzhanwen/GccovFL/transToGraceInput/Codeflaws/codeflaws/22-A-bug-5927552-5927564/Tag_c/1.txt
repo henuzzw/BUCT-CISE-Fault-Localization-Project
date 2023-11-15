@@ -1,0 +1,4 @@
+codeflaws/22-A-bug-5927552-5927564/22-A-5927564.c
+codeflaws/22-A-bug-5927552-5927564/22-A-5927552.c
+9
+[("Replace b'\\t\\tif(arr[i]<min1)\\n' with b'\\t\\tif(arr[i]<min)\\n' at position 10", 9)]

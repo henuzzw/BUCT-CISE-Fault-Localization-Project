@@ -1,0 +1,4 @@
+codeflaws/198-A-bug-9623083-9623097/198-A-9623097.c
+codeflaws/198-A-bug-9623083-9623097/198-A-9623083.c
+7
+[("Replace b'    while (n-- && t>=z){\\n' with b'    while (n-- && t>z){\\n' at position 8", 7)]

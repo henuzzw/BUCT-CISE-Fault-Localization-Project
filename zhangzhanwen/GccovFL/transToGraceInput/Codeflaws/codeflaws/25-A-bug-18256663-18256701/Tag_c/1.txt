@@ -1,0 +1,4 @@
+codeflaws/25-A-bug-18256663-18256701/25-A-18256701.c
+codeflaws/25-A-bug-18256663-18256701/25-A-18256663.c
+25
+[("Replace b'        noneven++;\\n' with b'        noneven;\\n' at position 26", 25)]

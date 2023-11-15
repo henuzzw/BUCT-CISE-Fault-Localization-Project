@@ -1,0 +1,4 @@
+codeflaws/340-A-bug-17585383-17585423/340-A-17585423.c
+codeflaws/340-A-bug-17585383-17585423/340-A-17585383.c
+20
+[('Replace b\'    printf("%d",b/lcm - (a-1)/lcm);\\n\' with b\'    printf("%d",(b-a)/lcm +1);\\n\' at position 21', 20)]

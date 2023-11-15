@@ -1,0 +1,4 @@
+codeflaws/630-Q-bug-16306297-16306305/630-Q-16306305.c
+codeflaws/630-Q-bug-16306297-16306305/630-Q-16306297.c
+9
+[('Replace b\'    printf("%.12f", (double)(((sqrt(2))/12*l*l*l)+(sqrt(2)/6*m*m*m)+((5+sqrt(5))/24*n*n*n)));\\n\' with b\'    printf("%f", (double)(((sqrt(2))/12*l*l*l)+(sqrt(2)/6*m*m*m)+((5+sqrt(5))/24*n*n*n)));\\n\' at position 10', 9)]

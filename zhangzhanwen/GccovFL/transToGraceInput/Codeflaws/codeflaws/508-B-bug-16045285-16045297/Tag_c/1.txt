@@ -1,0 +1,4 @@
+codeflaws/508-B-bug-16045285-16045297/508-B-16045297.c
+codeflaws/508-B-bug-16045285-16045297/508-B-16045285.c
+30
+[("Replace b'        for(j=0;j<a;j++){\\n' with b'        for(j=0;j<=a;j++){\\n' at position 31", 30)]

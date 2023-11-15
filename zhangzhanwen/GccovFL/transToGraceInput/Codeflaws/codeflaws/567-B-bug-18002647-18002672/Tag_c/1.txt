@@ -1,0 +1,4 @@
+codeflaws/567-B-bug-18002647-18002672/567-B-18002672.c
+codeflaws/567-B-bug-18002647-18002672/567-B-18002647.c
+18
+[("Insert b'\\tarr[in1]=1;\\n' at position 20 in file2", 19)]

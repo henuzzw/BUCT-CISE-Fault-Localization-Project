@@ -1,0 +1,4 @@
+codeflaws/475-A-bug-9709518-9709542/475-A-9709542.c
+codeflaws/475-A-bug-9709518-9709542/475-A-9709518.c
+19,40
+[("Replace b'            if (i==2 && j>1){\\n' with b'            if (i==2){\\n' at position 20", 19), ("Delete b'\\n' at position 40 in file2", 39)]

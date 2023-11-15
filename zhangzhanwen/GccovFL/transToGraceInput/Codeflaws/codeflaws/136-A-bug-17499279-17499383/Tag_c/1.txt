@@ -1,0 +1,4 @@
+codeflaws/136-A-bug-17499279-17499383/136-A-17499383.c
+codeflaws/136-A-bug-17499279-17499383/136-A-17499279.c
+3
+[("Replace b'#define MXS 1024\\n' with b'#define MXS 100*2-1+1\\n' at position 4", 3)]

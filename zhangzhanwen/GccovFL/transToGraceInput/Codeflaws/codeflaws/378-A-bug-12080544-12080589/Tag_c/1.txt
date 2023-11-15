@@ -1,0 +1,4 @@
+codeflaws/378-A-bug-12080544-12080589/378-A-12080589.c
+codeflaws/378-A-bug-12080544-12080589/378-A-12080544.c
+0,4
+[("Insert b'#define N 6\\n' at position 2 in file2", 1), ("Replace b'    int a, b;\\n' with b'    int a, b, N;\\n' at position 6", 5)]

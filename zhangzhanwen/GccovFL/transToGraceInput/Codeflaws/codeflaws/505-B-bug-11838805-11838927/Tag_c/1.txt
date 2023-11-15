@@ -1,0 +1,4 @@
+codeflaws/505-B-bug-11838805-11838927/505-B-11838927.c
+codeflaws/505-B-bug-11838805-11838927/505-B-11838805.c
+27
+[("Replace b'      for(i=1;i<=111;i++) k += Q[i];\\n' with b'      for(i=1;i<=n;i++) k += Q[i];\\n' at position 28", 27)]

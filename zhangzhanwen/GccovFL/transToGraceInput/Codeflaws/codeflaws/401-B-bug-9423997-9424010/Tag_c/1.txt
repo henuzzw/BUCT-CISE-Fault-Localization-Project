@@ -1,0 +1,4 @@
+codeflaws/401-B-bug-9423997-9424010/401-B-9424010.c
+codeflaws/401-B-bug-9423997-9424010/401-B-9423997.c
+60
+[("Replace b'\\t\\tmin=(x)/2;\\n' with b'\\t\\tmin=(x+1)/2;\\n' at position 61", 60)]

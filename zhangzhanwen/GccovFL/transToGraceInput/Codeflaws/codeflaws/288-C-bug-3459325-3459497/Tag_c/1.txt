@@ -1,0 +1,4 @@
+codeflaws/288-C-bug-3459325-3459497/288-C-3459497.c
+codeflaws/288-C-bug-3459325-3459497/288-C-3459325.c
+9,13
+[("Replace b'\\tfor ( k = n; k >= 0; --k )\\n' with b'\\tfor ( k = n; k; --k )\\n' at position 10", 9), ('Delete b\'\\t\\tprintf("j = %d\\\\n", j);\\n\' at position 13 in file2', 12)]

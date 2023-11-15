@@ -1,0 +1,4 @@
+codeflaws/344-B-bug-14428743-14428779/344-B-14428779.c
+codeflaws/344-B-bug-14428743-14428779/344-B-14428743.c
+8,8
+[('Replace b\'        if(a%2==1) printf("Impossible");\\n\' with b\'        printf("Impossible");\\n\' at position 9', 8), ('Insert b\'        else printf("%d %d %d",a/2, a/2, a/2);\\n\' at position 10 in file2', 9)]

@@ -1,0 +1,4 @@
+codeflaws/558-A-bug-12908146-12908196/558-A-12908196.c
+codeflaws/558-A-bug-12908146-12908196/558-A-12908146.c
+25
+[("Replace b'        arr1[i][1] = arr[i][1];\\n' with b'        arr1[i][1] = arr1[i][1];\\n' at position 26", 25)]

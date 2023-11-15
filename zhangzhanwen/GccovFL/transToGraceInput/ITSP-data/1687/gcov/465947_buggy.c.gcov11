@@ -1,0 +1,37 @@
+        -:    0:Source:../WA_c/465947_buggy.c
+        -:    0:Graph:465947_buggy.gcno
+        -:    0:Data:465947_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:using namespace std;
+        -:    3:#include<iostream>
+        1:    4:int main()
+        -:    5:{
+        -:    6:    long long int k, n, m, d, e, f, r, i, x, y, sum;
+        1:    7:    cin >> k;
+       11:    8:    for(i = 0; i < k; i++)
+        -:    9:    {
+       10:   10:        cin >> m >> n;
+       10:   11:        if(m < n)
+        -:   12:        {
+        5:   13:            d = m;
+        5:   14:            m = n;
+        5:   15:            n = d;
+        -:   16:        }
+       10:   17:        e = m;
+       10:   18:        f = n;
+       10:   19:        r = e % f;
+      148:   20:        while(r)
+        -:   21:        {
+       69:   22:            e = f;
+       69:   23:            f = r;
+       69:   24:            r = e % f;
+        -:   25:        }
+       10:   26:        x = m / f;
+       10:   27:        y = n / f;
+       10:   28:        sum = x + y + 1;
+       10:   29:        cout << sum << endl;
+        -:   30:
+        -:   31:    }
+        4:   32:}

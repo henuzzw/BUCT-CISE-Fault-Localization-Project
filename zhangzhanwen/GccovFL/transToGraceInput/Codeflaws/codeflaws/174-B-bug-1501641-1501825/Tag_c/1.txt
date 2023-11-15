@@ -1,0 +1,4 @@
+codeflaws/174-B-bug-1501641-1501825/174-B-1501825.c
+codeflaws/174-B-bug-1501641-1501825/174-B-1501641.c
+72
+[("Replace b'                                        for(j=sum;j<sum+1;j++)\\n' with b'                                        for(j=sum-1;j<sum+1;j++)\\n' at position 73", 72)]

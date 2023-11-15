@@ -1,0 +1,4 @@
+codeflaws/317-A-bug-9483142-9483159/317-A-9483159.c
+codeflaws/317-A-bug-9483142-9483159/317-A-9483142.c
+27
+[("Replace b'    if(x<0&&y<m)\\n' with b'    if(x<0)\\n' at position 28", 27)]

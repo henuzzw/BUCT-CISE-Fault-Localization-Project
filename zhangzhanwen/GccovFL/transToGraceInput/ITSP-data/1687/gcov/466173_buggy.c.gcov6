@@ -1,0 +1,33 @@
+        -:    0:Source:../WA_c/466173_buggy.c
+        -:    0:Graph:466173_buggy.gcno
+        -:    0:Data:466173_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<stdlib.h>
+        -:    3:#include<math.h>
+        -:    4:#include<cstring>
+        -:    5:#include<algorithm>
+        -:    6:#include<vector>
+        -:    7:#include<cstdio>
+        -:    8:#include<set>
+        -:    9:using namespace std;
+        -:   10:typedef long long LL;
+        -:   11:int t;
+        -:   12:int n, m;
+       76:   13:int gcd(int a, int b)
+        -:   14:{
+       76:   15:    return a % b == 0 ? b : gcd(b, a % b);
+        -:   16:}
+        1:   17:int main()
+        -:   18:{
+        1:   19:    cin >> t;
+       11:   20:    for(int i = 0; i < t; ++i)
+        -:   21:    {
+       10:   22:        cin >> n >> m;
+       10:   23:        int getit = gcd(max(n, m), min(n, m));
+       10:   24:        int ans = n + m / getit;
+       10:   25:        cout << ans << endl;
+        -:   26:    }
+        1:   27:    return 0;
+        3:   28:}

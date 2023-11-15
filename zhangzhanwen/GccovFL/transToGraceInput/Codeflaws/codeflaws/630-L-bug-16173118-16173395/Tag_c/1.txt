@@ -1,0 +1,4 @@
+codeflaws/630-L-bug-16173118-16173395/630-L-16173395.c
+codeflaws/630-L-bug-16173118-16173395/630-L-16173118.c
+24
+[('Replace b\'  printf("%.5lld\\\\n", mul(n, 5, 100000));\\n\' with b\'  printf("%lld\\\\n", mul(n, 5, 100000));\\n\' at position 25', 24)]

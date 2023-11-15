@@ -1,0 +1,4 @@
+codeflaws/44-C-bug-182288-182391/44-C-182391.c
+codeflaws/44-C-bug-182288-182391/44-C-182288.c
+22,22
+[('Replace b\'    if (j == n) puts("OK");\\n\' with b\'    puts("OK");\\n\' at position 23', 22), ('Insert b\'    else printf("%d 0\\\\n", j+1);\\n\' at position 24 in file2', 23)]

@@ -1,0 +1,4 @@
+codeflaws/225-A-bug-2245885-2245982/225-A-2245982.c
+codeflaws/225-A-bug-2245885-2245982/225-A-2245885.c
+9
+[("Replace b'\\t\\tif(x==t||y==t||x==u||y==u)\\n' with b'\\t\\tif(x==t||u==t||x==u||y==u)\\n' at position 10", 9)]

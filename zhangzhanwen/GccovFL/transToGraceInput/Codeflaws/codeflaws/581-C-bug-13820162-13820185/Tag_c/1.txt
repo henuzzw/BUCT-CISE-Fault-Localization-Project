@@ -1,0 +1,4 @@
+codeflaws/581-C-bug-13820162-13820185/581-C-13820185.c
+codeflaws/581-C-bug-13820162-13820185/581-C-13820162.c
+21
+[("Replace b'            while(a[i]>0&&k-i>=0)\\n' with b'            while(a[i]>0&&k-i>0)\\n' at position 22", 21)]

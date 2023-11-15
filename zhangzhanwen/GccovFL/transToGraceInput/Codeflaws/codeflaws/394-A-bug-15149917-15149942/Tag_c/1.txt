@@ -1,0 +1,4 @@
+codeflaws/394-A-bug-15149917-15149942/394-A-15149942.c
+codeflaws/394-A-bug-15149917-15149942/394-A-15149917.c
+18
+[("Replace b'    else if(abs(c - (a + b)) != 2){\\n' with b'    else if(abs(c - (a + b) != 2)){\\n' at position 19", 18)]

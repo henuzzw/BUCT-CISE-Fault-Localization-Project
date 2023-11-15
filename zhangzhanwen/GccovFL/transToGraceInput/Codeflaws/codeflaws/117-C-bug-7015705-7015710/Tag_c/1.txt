@@ -1,0 +1,4 @@
+codeflaws/117-C-bug-7015705-7015710/117-C-7015710.c
+codeflaws/117-C-bug-7015705-7015710/117-C-7015705.c
+54,55
+[("Delete b'    if(n == 5000)\\n' at position 54 in file2", 53), ("Delete b'        return 1;\\n' at position 54 in file2", 53)]

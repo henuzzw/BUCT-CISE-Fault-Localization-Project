@@ -1,0 +1,4 @@
+codeflaws/288-A-bug-6891038-6891042/288-A-6891042.c
+codeflaws/288-A-bug-6891038-6891042/288-A-6891038.c
+8
+[("Replace b'\\tif(n == 1 && k == 1)\\n' with b'\\tif(n == 1)\\n' at position 9", 8)]

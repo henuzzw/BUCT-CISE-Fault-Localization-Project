@@ -1,0 +1,4 @@
+codeflaws/365-A-bug-9361800-9361805/365-A-9361805.c
+codeflaws/365-A-bug-9361800-9361805/365-A-9361800.c
+19
+[('Replace b"            if(str[i][j] - \'0\' < 0)\\n" with b"            if(str[i][j] - \'0\' > k || str[i][j] - \'0\' < 0)\\n" at position 20', 19)]

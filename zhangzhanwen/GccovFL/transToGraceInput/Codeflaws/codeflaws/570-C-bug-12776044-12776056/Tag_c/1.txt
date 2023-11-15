@@ -1,0 +1,4 @@
+codeflaws/570-C-bug-12776044-12776056/570-C-12776056.c
+codeflaws/570-C-bug-12776044-12776056/570-C-12776044.c
+30
+[('Replace b\'            printf("%d\\\\n", 0);\\n\' with b\'            printf("%d/n", 0);\\n\' at position 31', 30)]

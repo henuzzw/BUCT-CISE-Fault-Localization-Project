@@ -1,0 +1,4 @@
+codeflaws/628-A-bug-16363006-16363636/628-A-16363636.c
+codeflaws/628-A-bug-16363006-16363636/628-A-16363006.c
+4,4
+[("Insert b'\\tif(n <= 1)\\n' at position 6 in file2", 5), ("Insert b'\\t\\treturn 0;\\n' at position 7 in file2", 6)]

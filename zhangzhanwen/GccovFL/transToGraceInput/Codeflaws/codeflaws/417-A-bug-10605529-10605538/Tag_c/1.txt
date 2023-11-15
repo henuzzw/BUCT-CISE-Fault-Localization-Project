@@ -1,0 +1,4 @@
+codeflaws/417-A-bug-10605529-10605538/417-A-10605538.c
+codeflaws/417-A-bug-10605529-10605538/417-A-10605529.c
+18
+[("Replace b'        ans+=l*d;\\n' with b'        ans+=(l-n)*d;\\n' at position 19", 18)]

@@ -1,0 +1,4 @@
+codeflaws/577-A-bug-16669192-16669567/577-A-16669567.c
+codeflaws/577-A-bug-16669192-16669567/577-A-16669192.c
+3,8
+[("Delete b'    int arr[200000];\\n' at position 3 in file2", 2), ("Replace b'      if(b%i==0 && ( (b/i) * (b/i) ) == b && (b/i)<=a){\\n' with b'      if(b%i==0 && (b/i)==(b/(b/i) && (b/i)<=a)){\\n' at position 8", 7)]

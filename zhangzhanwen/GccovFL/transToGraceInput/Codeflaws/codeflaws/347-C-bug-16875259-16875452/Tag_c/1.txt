@@ -1,0 +1,4 @@
+codeflaws/347-C-bug-16875259-16875452/347-C-16875452.c
+codeflaws/347-C-bug-16875259-16875452/347-C-16875259.c
+3,29
+[("Replace b' return y==0?x:gcd(y,x%y);\\n' with b' return x==0?x:(y,x%y);\\n' at position 4", 3), ("Delete b'\\n' at position 29 in file2", 28)]

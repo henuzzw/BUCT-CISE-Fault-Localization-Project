@@ -1,0 +1,4 @@
+codeflaws/357-B-bug-4821770-4823919/357-B-4823919.c
+codeflaws/357-B-bug-4821770-4823919/357-B-4821770.c
+8
+[("Replace b'        int ex[6]={0,2,3,1,2,3};\\n' with b'        int ex[6]={0,2,3,1,1,2};\\n' at position 9", 8)]

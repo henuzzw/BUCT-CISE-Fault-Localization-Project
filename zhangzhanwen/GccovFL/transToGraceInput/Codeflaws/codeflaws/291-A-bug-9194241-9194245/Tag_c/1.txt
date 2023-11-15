@@ -1,0 +1,4 @@
+codeflaws/291-A-bug-9194241-9194245/291-A-9194245.c
+codeflaws/291-A-bug-9194241-9194245/291-A-9194241.c
+13
+[("Replace b'\\t\\t\\tif(a[i] == a[j] && a[i] != 0)\\n' with b'\\t\\t\\tif(a[i] == a[j])\\n' at position 14", 13)]

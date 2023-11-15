@@ -1,0 +1,4 @@
+codeflaws/522-B-bug-10553360-10553443/522-B-10553443.c
+codeflaws/522-B-bug-10553360-10553443/522-B-10553360.c
+29,55
+[("Insert b'\\t\\ti=i/2;\\n' at position 31 in file2", 30), ('Replace b\'//\\t\\tprintf("%lld %lld with index=%lld\\\\n",a[i].width,a[i].height,a[i].index);\\n\' with b\'//\\t\\tprintf("%d %d with index=%d\\\\n",a[i].width,a[i].height,a[i].index);\\n\' at position 57', 56)]

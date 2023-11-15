@@ -1,0 +1,4 @@
+codeflaws/215-A-bug-9341082-9341110/215-A-9341110.c
+codeflaws/215-A-bug-9341082-9341110/215-A-9341082.c
+34
+[("Replace b'\\t\\tfor(j=0;j<n;j++)\\n' with b'\\t\\tfor(j=0;j<m;j++)\\n' at position 35", 34)]

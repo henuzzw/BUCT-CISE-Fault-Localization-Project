@@ -1,0 +1,4 @@
+codeflaws/79-C-bug-419938-419942/79-C-419942.c
+codeflaws/79-C-bug-419938-419942/79-C-419938.c
+40
+[("Replace b'\\t\\t    i = max(i, i + j - m + 1);\\n' with b'\\t\\t    i = max(i, i + l - m + 1);\\n' at position 41", 40)]

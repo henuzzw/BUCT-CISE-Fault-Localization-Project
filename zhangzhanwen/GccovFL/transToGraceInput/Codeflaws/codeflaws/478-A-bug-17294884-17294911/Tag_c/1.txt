@@ -1,0 +1,4 @@
+codeflaws/478-A-bug-17294884-17294911/478-A-17294911.c
+codeflaws/478-A-bug-17294884-17294911/478-A-17294884.c
+10
+[('Replace b\'\\tif (s%5==0 && k!=0) printf("%d",k);\\n\' with b\'\\tif (s%5==5 && k!=0) printf("%d",k);\\n\' at position 11', 10)]

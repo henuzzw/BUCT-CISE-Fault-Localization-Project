@@ -1,0 +1,4 @@
+codeflaws/279-B-bug-18235236-18235329/279-B-18235329.c
+codeflaws/279-B-bug-18235236-18235329/279-B-18235236.c
+21
+[("Replace b'                ans=ans>cnt?ans:cnt;\\n' with b'                ans=ans>=sum?ans:cnt;\\n' at position 22", 21)]

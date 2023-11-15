@@ -1,0 +1,4 @@
+codeflaws/653-A-bug-17874187-17874264/653-A-17874264.c
+codeflaws/653-A-bug-17874187-17874264/653-A-17874187.c
+26,26
+[("Insert b'        else if(a[i]-a[i-1]==0)\\n' at position 28 in file2", 27), ("Insert b'            continue;\\n' at position 29 in file2", 28)]

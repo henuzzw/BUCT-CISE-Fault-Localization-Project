@@ -1,0 +1,4 @@
+codeflaws/322-C-bug-5872624-5872634/322-C-5872634.c
+codeflaws/322-C-bug-5872624-5872634/322-C-5872624.c
+27,31
+[('Insert b\'        //printf("%d %d\\\\n",x,y);\\n\' at position 29 in file2', 28), ("Replace b'        if(sx*k==x&&sy*k==y&&k>=0)\\n' with b'        if(sx*k==x&&sy*k==y&&k>0)\\n' at position 33", 32)]

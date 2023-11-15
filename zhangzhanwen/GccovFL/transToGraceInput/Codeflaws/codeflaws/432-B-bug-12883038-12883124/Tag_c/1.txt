@@ -1,0 +1,4 @@
+codeflaws/432-B-bug-12883038-12883124/432-B-12883124.c
+codeflaws/432-B-bug-12883038-12883124/432-B-12883038.c
+3,41
+[("Replace b'//second\\n' with b'\\n' at position 4", 3), ("Replace b'return 0;\\n' with b'\\n' at position 42", 41)]

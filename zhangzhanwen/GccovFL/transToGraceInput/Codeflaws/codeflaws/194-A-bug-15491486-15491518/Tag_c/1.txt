@@ -1,0 +1,4 @@
+codeflaws/194-A-bug-15491486-15491518/194-A-15491518.c
+codeflaws/194-A-bug-15491486-15491518/194-A-15491486.c
+13
+[('Replace b\'\\t\\tprintf("%d",n-k%(2*n));\\n\' with b\'\\t\\tprintf("%d",k%(2*n));\\n\' at position 14', 13)]

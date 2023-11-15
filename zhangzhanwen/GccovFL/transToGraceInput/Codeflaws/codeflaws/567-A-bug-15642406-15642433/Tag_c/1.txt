@@ -1,0 +1,4 @@
+codeflaws/567-A-bug-15642406-15642433/567-A-15642433.c
+codeflaws/567-A-bug-15642406-15642433/567-A-15642406.c
+16
+[("Replace b'\\t\\tif (s<t){\\n' with b'\\t\\tif (s>t){\\n' at position 17", 16)]

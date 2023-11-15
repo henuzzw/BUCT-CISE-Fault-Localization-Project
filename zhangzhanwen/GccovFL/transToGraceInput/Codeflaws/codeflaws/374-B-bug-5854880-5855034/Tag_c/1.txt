@@ -1,0 +1,4 @@
+codeflaws/374-B-bug-5854880-5855034/374-B-5855034.c
+codeflaws/374-B-bug-5854880-5855034/374-B-5854880.c
+25
+[("Replace b'        p=p+(p)*((z/2)+(z%2));\\n' with b'        p=p+z-1;\\n' at position 26", 25)]

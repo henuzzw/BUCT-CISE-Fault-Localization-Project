@@ -1,0 +1,4 @@
+codeflaws/336-A-bug-6855346-6855367/336-A-6855367.c
+codeflaws/336-A-bug-6855346-6855367/336-A-6855346.c
+15
+[('Replace b\'\\t\\tprintf("%ld %ld %ld %ld\\\\n",0,y-x,x-y,0);\\n\' with b\'\\t\\tprintf("%ld %ld %ld %ld\\\\n",0,x-y,y-x,0);\\n\' at position 16', 15)]

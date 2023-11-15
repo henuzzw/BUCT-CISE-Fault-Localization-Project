@@ -1,0 +1,4 @@
+codeflaws/437-A-bug-15672725-15672757/437-A-15672757.c
+codeflaws/437-A-bug-15672725-15672757/437-A-15672725.c
+36
+[("Replace b'\\t\\tif(A[i]==1)\\n' with b'\\t\\tif(A[0]==1)\\n' at position 37", 36)]

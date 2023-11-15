@@ -1,0 +1,4 @@
+codeflaws/604-A-bug-14841012-14841153/604-A-14841153.c
+codeflaws/604-A-bug-14841012-14841153/604-A-14841012.c
+38
+[("Replace b'    b = (250-time)*2*i - 50*mistake;\\n' with b'    b = (250-time)*20*i - 50*mistake;\\n' at position 39", 38)]

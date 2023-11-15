@@ -1,0 +1,4 @@
+codeflaws/171-C-bug-15508274-15508297/171-C-15508297.c
+codeflaws/171-C-bug-15508274-15508297/171-C-15508274.c
+11
+[("Replace b'  s=0;\\n' with b'  s=1;\\n' at position 12", 11)]

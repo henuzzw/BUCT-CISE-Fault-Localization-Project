@@ -1,0 +1,4 @@
+codeflaws/471-A-bug-15957158-15957234/471-A-15957234.c
+codeflaws/471-A-bug-15957158-15957234/471-A-15957158.c
+23,30
+[("Insert b'\\n' at position 25 in file2", 24), ("Replace b'{if(arr[0]==arr[1]   && arr[5]==arr[4])\\n' with b'{if(arr[0]==arr[1])\\n' at position 32", 31)]

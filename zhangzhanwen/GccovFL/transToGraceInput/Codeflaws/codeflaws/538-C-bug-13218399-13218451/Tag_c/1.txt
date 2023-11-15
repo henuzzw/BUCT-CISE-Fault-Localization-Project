@@ -1,0 +1,4 @@
+codeflaws/538-C-bug-13218399-13218451/538-C-13218451.c
+codeflaws/538-C-bug-13218399-13218451/538-C-13218399.c
+9
+[("Replace b'\\t\\t\\tif(h-hh > d-dd || hh-h > d-dd) {\\n' with b'\\t\\t\\tif(h-hh > d-dd || h-hh > d-dd) {\\n' at position 10", 9)]

@@ -1,0 +1,4 @@
+codeflaws/230-A-bug-17823508-17823623/230-A-17823623.c
+codeflaws/230-A-bug-17823508-17823623/230-A-17823508.c
+26
+[("Replace b'\\t\\tif(arr[i].strength < s) \\n' with b'\\t\\tif(arr[i].strength <= s) \\n' at position 27", 26)]

@@ -1,0 +1,4 @@
+codeflaws/630-N-bug-17275815-17275839/630-N-17275839.c
+codeflaws/630-N-bug-17275815-17275839/630-N-17275815.c
+6
+[("Replace b'\\tdouble x1,x2,s,t,p,q,r1,r2,a,b,c;\\n' with b'\\tfloat x1,x2,s,t,p,q,r1,r2,a,b,c;\\n' at position 7", 6)]

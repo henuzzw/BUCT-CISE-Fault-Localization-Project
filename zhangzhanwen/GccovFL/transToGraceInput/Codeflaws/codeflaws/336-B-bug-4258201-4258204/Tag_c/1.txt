@@ -1,0 +1,4 @@
+codeflaws/336-B-bug-4258201-4258204/336-B-4258204.c
+codeflaws/336-B-bug-4258201-4258204/336-B-4258201.c
+10
+[('Replace b\'    printf("%.10f",S/m/m);\\n\' with b\'    printf("%.10f",S/(m*m));\\n\' at position 11', 10)]

@@ -1,0 +1,4 @@
+codeflaws/587-A-bug-13972360-13972373/587-A-13972373.c
+codeflaws/587-A-bug-13972360-13972373/587-A-13972360.c
+1
+[("Replace b'#define BUF 16384\\n' with b'#define BUF 2\\n' at position 2", 1)]

@@ -1,0 +1,4 @@
+codeflaws/545-D-bug-17326520-17326553/545-D-17326553.c
+codeflaws/545-D-bug-17326520-17326553/545-D-17326520.c
+48
+[("Insert b'\\telse a[i]=0;\\n' at position 50 in file2", 49)]

@@ -1,0 +1,4 @@
+codeflaws/330-B-bug-15634848-15635157/330-B-15635157.c
+codeflaws/330-B-bug-15634848-15635157/330-B-15634848.c
+10,11
+[("Replace b'      if(!h[i])\\n' with b'      if(h[i-1])\\n' at position 11", 10), ('Insert b\'  printf("%d\\\\n",n-1);\\n\' at position 13 in file2', 12)]

@@ -1,0 +1,4 @@
+codeflaws/350-A-bug-13069733-13069761/350-A-13069761.c
+codeflaws/350-A-bug-13069733-13069761/350-A-13069733.c
+29
+[("Replace b'    else if (a[0] * 2 < b[0] && a[0] * 2 >= a[n - 1])\\n' with b'    else if (a[0] * 2 < b[0])\\n' at position 30", 29)]

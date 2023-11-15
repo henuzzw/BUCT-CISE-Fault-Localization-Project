@@ -1,0 +1,4 @@
+codeflaws/41-B-bug-1808417-1808430/41-B-1808430.c
+codeflaws/41-B-bug-1808417-1808430/41-B-1808417.c
+19
+[("Replace b'    max=0;\\n' with b'    max=0;min=0;\\n' at position 20", 19)]

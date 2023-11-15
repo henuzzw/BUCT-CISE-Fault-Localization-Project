@@ -1,0 +1,4 @@
+codeflaws/592-A-bug-14196941-14196952/592-A-14196952.c
+codeflaws/592-A-bug-14196941-14196952/592-A-14196941.c
+71
+[('Replace b"    if (movesA <= movesB) winner = \'A\';\\n" with b"    if (movesA < movesB) winner = \'A\';\\n" at position 72', 71)]

@@ -1,0 +1,4 @@
+codeflaws/344-A-bug-17290259-17290309/344-A-17290309.c
+codeflaws/344-A-bug-17290259-17290309/344-A-17290259.c
+11,19
+[("Replace b'\\tfor(i=0;i<n-1;i++)\\n' with b'\\tfor(i=0;i<n;i++)\\n' at position 12", 11), ("Delete b'\\t\\t\\ti=i+2;\\n' at position 19 in file2", 18)]

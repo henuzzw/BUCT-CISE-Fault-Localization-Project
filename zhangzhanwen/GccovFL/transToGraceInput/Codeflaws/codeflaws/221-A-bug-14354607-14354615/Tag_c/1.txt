@@ -1,0 +1,4 @@
+codeflaws/221-A-bug-14354607-14354615/221-A-14354615.c
+codeflaws/221-A-bug-14354607-14354615/221-A-14354607.c
+7
+[('Replace b\'    printf(" %d",i+1);\\n\' with b\'    printf(" \\xef\\xbc\\x85d",i+1);\\n\' at position 8', 7)]

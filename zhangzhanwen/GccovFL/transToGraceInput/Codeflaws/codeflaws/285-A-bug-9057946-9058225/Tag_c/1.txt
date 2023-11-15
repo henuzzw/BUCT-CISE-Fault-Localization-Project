@@ -1,0 +1,4 @@
+codeflaws/285-A-bug-9057946-9058225/285-A-9058225.c
+codeflaws/285-A-bug-9057946-9058225/285-A-9057946.c
+8
+[("Replace b'    for (i=0;i<p;i++)\\n' with b'    for (i=0;i<=n-p;i++)\\n' at position 9", 8)]

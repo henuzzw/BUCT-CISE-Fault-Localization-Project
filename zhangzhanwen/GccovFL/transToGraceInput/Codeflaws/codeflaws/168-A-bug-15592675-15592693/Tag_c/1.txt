@@ -1,0 +1,4 @@
+codeflaws/168-A-bug-15592675-15592693/168-A-15592693.c
+codeflaws/168-A-bug-15592675-15592693/168-A-15592675.c
+11,12,12
+[("Insert b'    if(n>=0)\\n' at position 13 in file2", 12), ("Insert b'    else\\n' at position 15 in file2", 14), ('Insert b\'        printf("0");\\n\' at position 16 in file2', 15)]

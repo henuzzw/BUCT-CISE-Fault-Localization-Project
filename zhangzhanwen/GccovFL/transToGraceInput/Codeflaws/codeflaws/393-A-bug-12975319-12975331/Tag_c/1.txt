@@ -1,0 +1,4 @@
+codeflaws/393-A-bug-12975319-12975331/393-A-12975331.c
+codeflaws/393-A-bug-12975319-12975331/393-A-12975319.c
+18
+[("Insert b'    if(max<0) max=0;\\n' at position 20 in file2", 19)]

@@ -1,0 +1,4 @@
+codeflaws/680-A-bug-18328600-18328854/680-A-18328854.c
+codeflaws/680-A-bug-18328600-18328854/680-A-18328600.c
+23
+[("Replace b'        if(a[0]==a[1]) {\\n' with b'        if(a[0]==a[2]) {\\n' at position 24", 23)]

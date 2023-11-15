@@ -1,0 +1,4 @@
+codeflaws/355-B-bug-7652976-7653003/355-B-7653003.c
+codeflaws/355-B-bug-7652976-7653003/355-B-7652976.c
+76,76
+[("Insert b'\\tif(2*c3<ma)\\n' at position 78 in file2", 77), ("Insert b'\\t\\tma=2*c3;\\n' at position 79 in file2", 78)]

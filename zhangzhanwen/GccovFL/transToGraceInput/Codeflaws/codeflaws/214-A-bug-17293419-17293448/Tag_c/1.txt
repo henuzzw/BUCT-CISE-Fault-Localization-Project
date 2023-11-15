@@ -1,0 +1,4 @@
+codeflaws/214-A-bug-17293419-17293448/214-A-17293448.c
+codeflaws/214-A-bug-17293419-17293448/214-A-17293419.c
+18,18
+[('Replace b\'\\t\\tif(m==1 && n == 1)printf("2");\\n\' with b\'\\t\\tprintf("%d", e);\\n\' at position 19', 18), ('Insert b\'else printf("%d", e);\\n\' at position 20 in file2', 19)]

@@ -1,0 +1,4 @@
+codeflaws/248-A-bug-13024332-13024336/248-A-13024336.c
+codeflaws/248-A-bug-13024332-13024336/248-A-13024332.c
+92
+[('Replace b\'        \\n\' with b\'        printf("%d\\\\n",a[i]);\\n\' at position 93', 92)]

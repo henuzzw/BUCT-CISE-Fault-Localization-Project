@@ -1,0 +1,58 @@
+        -:    0:Source:../WA_c/1634238_buggy.c
+        -:    0:Graph:1634238_buggy.gcno
+        -:    0:Data:1634238_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<stdio.h>
+        -:    3:#include<cmath>
+        -:    4:using namespace std;
+        1:    5:int main()
+        -:    6:{
+        1:    7:    int i, j = 0;
+        -:    8:    int aa, bb;
+        1:    9:    int fla = -5;
+       17:   10:    while(cin >> aa >> bb)
+        -:   11:    {
+        8:   12:        fla = -5;
+        8:   13:        if(aa == 11 && bb <= 9)
+        -:   14:
+    #####:   15:            fla = 1;
+        -:   16:
+        8:   17:        else if(bb == 11 && aa <= 9)
+        -:   18:        {
+    #####:   19:            fla = 2;
+    #####:   20:            fla--;
+        -:   21:        }
+        8:   22:        else if(aa >= 10 && bb >= 10)
+        -:   23:        {
+        6:   24:            if(fabs(aa - bb) == 2)
+        -:   25:            {
+        2:   26:                fla = 0;
+        2:   27:                fla++;
+        -:   28:
+        -:   29:            }
+        -:   30:            else
+        -:   31:            {
+        1:   32:                if((aa + bb) % 2 == 0)
+    #####:   33:                    fla = 0;
+        -:   34:                else
+        -:   35:
+        1:   36:                    fla = 2;
+        -:   37:            }
+        -:   38:
+        -:   39:        }
+        -:   40:        else
+        -:   41:        {
+        5:   42:            if((aa + bb) / 2 % 2 == 0)
+        2:   43:                fla = 0;
+        3:   44:            else fla = 2;
+        -:   45:        }
+        8:   46:        fla++;
+        8:   47:        if(fla == 1) cout << "Game Over" << endl;
+        6:   48:        else if(fla == 0) cout << "A" << endl;
+        6:   49:        else if(fla == 2) cout << "B" << endl;
+        4:   50:        else cout<<" ";
+        -:   51:    }
+        1:   52:    return 0;
+        3:   53:}

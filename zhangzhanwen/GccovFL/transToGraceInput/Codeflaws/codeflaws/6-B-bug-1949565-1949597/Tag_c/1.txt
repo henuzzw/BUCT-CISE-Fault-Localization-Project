@@ -1,0 +1,4 @@
+codeflaws/6-B-bug-1949565-1949597/6-B-1949597.c
+codeflaws/6-B-bug-1949565-1949597/6-B-1949565.c
+19
+[("Replace b'                if(j<m-1)b[c[i][j+1]]=1;\\n' with b'                if(j<n-1)b[c[i][j+1]]=1;\\n' at position 20", 19)]

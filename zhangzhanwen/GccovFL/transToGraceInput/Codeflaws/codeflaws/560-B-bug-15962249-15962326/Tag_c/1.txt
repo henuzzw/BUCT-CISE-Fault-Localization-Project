@@ -1,0 +1,4 @@
+codeflaws/560-B-bug-15962249-15962326/560-B-15962326.c
+codeflaws/560-B-bug-15962249-15962326/560-B-15962249.c
+34
+[("Replace b'\\t\\tif(c1<=c && c2<=c && d1<=d && d2<=d)\\n' with b'\\t\\tif(c1<=c && c2<=c && d1<=d && d2<d)\\n' at position 35", 34)]

@@ -1,0 +1,4 @@
+codeflaws/435-C-bug-6746940-6747055/435-C-6747055.c
+codeflaws/435-C-bug-6746940-6747055/435-C-6746940.c
+69,70
+[("Delete b'\\n' at position 69 in file2", 68), ('Delete b\'\\tprintf("up = %d, down = %d\\\\n", up, down);\\n\' at position 69 in file2', 68)]

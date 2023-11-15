@@ -1,0 +1,4 @@
+codeflaws/177-B1-bug-13511622-13511662/177-B1-13511662.c
+codeflaws/177-B1-bug-13511622-13511662/177-B1-13511622.c
+5
+[("Replace b'  for(i=2;i<=n;i++)\\n' with b'  for(i=2;i<=n/2;i++)\\n' at position 6", 5)]

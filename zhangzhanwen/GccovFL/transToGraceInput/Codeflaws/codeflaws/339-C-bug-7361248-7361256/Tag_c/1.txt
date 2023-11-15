@@ -1,0 +1,4 @@
+codeflaws/339-C-bug-7361248-7361256/339-C-7361256.c
+codeflaws/339-C-bug-7361248-7361256/339-C-7361248.c
+6
+[("Replace b'    int i, j, flag = 0, m, k;\\n' with b'    int i, j, flag = 1, m, k;\\n' at position 7", 6)]

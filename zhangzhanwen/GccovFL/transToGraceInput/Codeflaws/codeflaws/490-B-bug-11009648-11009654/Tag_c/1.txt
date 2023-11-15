@@ -1,0 +1,4 @@
+codeflaws/490-B-bug-11009648-11009654/490-B-11009654.c
+codeflaws/490-B-bug-11009648-11009654/490-B-11009648.c
+3
+[("Replace b'#define MAX_SIZE 1000001\\n' with b'#define MAX_SIZE 200001\\n' at position 4", 3)]

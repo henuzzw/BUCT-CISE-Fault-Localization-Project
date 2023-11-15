@@ -1,0 +1,43 @@
+        -:    0:Source:../WA_c/271659_buggy.c
+        -:    0:Graph:271659_buggy.gcno
+        -:    0:Data:271659_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        -:    3:
+        1:    4:int main()
+        -:    5:{
+        -:    6:    // Fill this area with your code.
+        1:    7:    int a,b,c,d=10,e,f,g,h=0,i,j=0,k,l;
+        -:    8:    double m,n;
+        1:    9:    scanf("%d",&a);
+        1:   10:    l=a;
+        -:   11:
+        5:   12:    for (c=100; c>=1;)
+        -:   13:    {
+        4:   14:        c=a/d;
+        4:   15:        d=d*10;
+        4:   16:        h=h+1;
+        -:   17:    }
+        1:   18:    k=h;
+        -:   19:
+        -:   20:
+        5:   21:    for (i=1; i<=h; i=i+1)
+        -:   22:    {
+        4:   23:        b=a%10;
+        4:   24:        a=a-b;
+        4:   25:        a=a/10;
+        4:   26:        m=pow(b,k);
+        4:   27:        j=j+m;
+        4:   28:        k=k-1;
+        -:   29:
+        -:   30:
+        -:   31:    }
+        1:   32:    printf("Reverse of %d is %d",l,j);
+        -:   33:
+        -:   34:
+        -:   35:
+        -:   36:
+        1:   37:    return 0;
+        -:   38:}

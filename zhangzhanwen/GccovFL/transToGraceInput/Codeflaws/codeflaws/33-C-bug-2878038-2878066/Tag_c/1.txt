@@ -1,0 +1,4 @@
+codeflaws/33-C-bug-2878038-2878066/33-C-2878066.c
+codeflaws/33-C-bug-2878038-2878066/33-C-2878038.c
+23
+[('Replace b\'\\tprintf("%d\\\\n",2*max-ans);\\n\' with b\'\\tprintf("%d\\\\n",2*j-ans);\\n\' at position 24', 23)]

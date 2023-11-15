@@ -1,0 +1,4 @@
+codeflaws/304-C-bug-3727035-3727041/304-C-3727041.c
+codeflaws/304-C-bug-3727035-3727041/304-C-3727035.c
+6
+[('Replace b\'    if(n%2==0){printf("-1");return 0;}\\n\' with b\'    if(n%2==0)printf("-1");\\n\' at position 7', 6)]

@@ -1,0 +1,4 @@
+codeflaws/526-B-bug-10594083-10594094/526-B-10594094.c
+codeflaws/526-B-bug-10594083-10594094/526-B-10594083.c
+40
+[('Delete b\'\\tprintf("%d\\\\n",y);\\n\' at position 40 in file2', 39)]

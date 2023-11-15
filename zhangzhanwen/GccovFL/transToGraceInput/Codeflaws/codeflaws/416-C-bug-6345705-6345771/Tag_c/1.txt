@@ -1,0 +1,4 @@
+codeflaws/416-C-bug-6345705-6345771/416-C-6345771.c
+codeflaws/416-C-bug-6345705-6345771/416-C-6345705.c
+61
+[("Replace b'            A[cnt].b = R[i].i + 1;\\n' with b'            A[cnt].b = i + 1;\\n' at position 62", 61)]

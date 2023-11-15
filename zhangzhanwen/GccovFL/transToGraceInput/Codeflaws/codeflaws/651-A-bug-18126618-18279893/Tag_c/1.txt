@@ -1,0 +1,4 @@
+codeflaws/651-A-bug-18126618-18279893/651-A-18279893.c
+codeflaws/651-A-bug-18126618-18279893/651-A-18126618.c
+4,5,5
+[("Insert b'\\n' at position 6 in file2", 5), ("Insert b'        if(a1==1&&a2==1)\\n' at position 8 in file2", 7), ("Insert b'        break;\\n' at position 9 in file2", 8)]

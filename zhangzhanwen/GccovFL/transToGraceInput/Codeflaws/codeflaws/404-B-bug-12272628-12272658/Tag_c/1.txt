@@ -1,0 +1,4 @@
+codeflaws/404-B-bug-12272628-12272658/404-B-12272658.c
+codeflaws/404-B-bug-12272628-12272658/404-B-12272628.c
+5
+[("Replace b'\\tlong long int rounds = em / b4;\\n' with b'\\tint rounds = em / b4;\\n' at position 6", 5)]

@@ -1,0 +1,4 @@
+codeflaws/84-A-bug-9385928-9385933/84-A-9385933.c
+codeflaws/84-A-bug-9385928-9385933/84-A-9385928.c
+4
+[('Replace b\'\\tprintf("%d",n+n/2);\\n\' with b\'\\tprintf("%d",3/2*n);\\n\' at position 5', 4)]

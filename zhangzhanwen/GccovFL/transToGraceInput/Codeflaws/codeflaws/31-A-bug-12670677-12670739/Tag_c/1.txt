@@ -1,0 +1,4 @@
+codeflaws/31-A-bug-12670677-12670739/31-A-12670739.c
+codeflaws/31-A-bug-12670677-12670739/31-A-12670677.c
+19,22
+[("Replace b'   if( arr[i]==(arr[j]+arr[k])&& (i!=j)&&(i!=k)&&(k!=j)){\\n' with b'   if( arr[i]==(arr[j]+arr[k])&& (i!=j)&&(i!=k)){\\n' at position 20", 19), ("Insert b'\\n' at position 24 in file2", 23)]

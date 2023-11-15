@@ -1,0 +1,4 @@
+codeflaws/385-B-bug-17591945-17592033/385-B-17592033.c
+codeflaws/385-B-bug-17591945-17592033/385-B-17591945.c
+8
+[("Insert b'    if(strlen(s)>3)\\n' at position 10 in file2", 9)]

@@ -1,0 +1,30 @@
+        -:    0:Source:../WA_c/1085020_buggy.c
+        -:    0:Graph:1085020_buggy.gcno
+        -:    0:Data:1085020_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<iomanip>
+        -:    3:using namespace std;
+        1:    4:int main()
+        -:    5:{
+        -:    6:    long long n, p, m, s;
+        1:    7:    cin >> n;
+        1:    8:    p = n + 1;
+        1:    9:    m = 0;
+       17:   10:    while(p != 0)
+        -:   11:    {
+        8:   12:        p = p / 10;
+        8:   13:        m--;
+        -:   14:    }
+        1:   15:    s = 0;
+        1:   16:    while(m - 1 > 0)
+        -:   17:    {
+    #####:   18:        p = n % 10;
+    #####:   19:        s = (s + p) * 10;
+    #####:   20:        n = n / 10;
+    #####:   21:        m--;
+        -:   22:    }
+        1:   23:    s += n;
+        1:   24:    cout << s;
+        4:   25:}

@@ -1,0 +1,4 @@
+codeflaws/625-A-bug-17251074-17251099/625-A-17251099.c
+codeflaws/625-A-bug-17251074-17251099/625-A-17251074.c
+14
+[("Replace b'    else {ans = x;\\n' with b'    else {\\n' at position 15", 14)]

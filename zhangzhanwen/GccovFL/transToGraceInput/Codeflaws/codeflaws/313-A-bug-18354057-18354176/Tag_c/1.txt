@@ -1,0 +1,4 @@
+codeflaws/313-A-bug-18354057-18354176/313-A-18354176.c
+codeflaws/313-A-bug-18354057-18354176/313-A-18354057.c
+8,11
+[('Insert b\'    else if(x==y&&x>n) printf("%d",x);\\n\' at position 10 in file2', 9), ("Replace b'}' with b'}\\n' at position 13", 12)]

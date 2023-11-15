@@ -1,0 +1,4 @@
+codeflaws/37-A-bug-15572296-15572426/37-A-15572426.c
+codeflaws/37-A-bug-15572296-15572426/37-A-15572296.c
+19,19
+[("Insert b'\\t\\t\\n' at position 21 in file2", 20), ("Insert b'\\t\\tsayac=1;\\n' at position 22 in file2", 21)]

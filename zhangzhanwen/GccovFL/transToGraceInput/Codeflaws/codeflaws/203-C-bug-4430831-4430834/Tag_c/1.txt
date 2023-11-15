@@ -1,0 +1,4 @@
+codeflaws/203-C-bug-4430831-4430834/203-C-4430834.c
+codeflaws/203-C-bug-4430831-4430834/203-C-4430831.c
+33
+[('Delete b\'printf("%lld\\\\n",l);\\n\' at position 33 in file2', 32)]

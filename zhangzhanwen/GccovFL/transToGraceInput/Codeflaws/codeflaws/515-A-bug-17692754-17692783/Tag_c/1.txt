@@ -1,0 +1,4 @@
+codeflaws/515-A-bug-17692754-17692783/515-A-17692783.c
+codeflaws/515-A-bug-17692754-17692783/515-A-17692754.c
+8,8
+[("Replace b'    a=abs(a);\\n' with b'\\n' at position 9", 8), ("Insert b'    b=abs(b);\\n' at position 10 in file2", 9)]

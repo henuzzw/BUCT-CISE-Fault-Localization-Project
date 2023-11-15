@@ -1,0 +1,4 @@
+codeflaws/370-A-bug-15689114-15689140/370-A-15689140.c
+codeflaws/370-A-bug-15689114-15689140/370-A-15689114.c
+9
+[("Replace b'\\tif( (x1+y1)%2 != (x2+y2)%2) ans2=0;\\n' with b'\\tif( (x1+y1)%2 != (x1+y1)%2) ans2=0;\\n' at position 10", 9)]

@@ -1,0 +1,4 @@
+codeflaws/353-D-bug-6175754-6175760/353-D-6175760.c
+codeflaws/353-D-bug-6175754-6175760/353-D-6175754.c
+43,45
+[("Delete b'                    del[c]=del[lastF]- (c- lastF-1) +1;\\n' at position 43 in file2", 42), ("Insert b'                        del[c]=del[lastF]- (c- lastF-1) +1;\\n' at position 46 in file2", 45)]

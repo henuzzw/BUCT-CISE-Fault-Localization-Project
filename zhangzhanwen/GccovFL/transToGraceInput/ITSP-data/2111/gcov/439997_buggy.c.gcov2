@@ -1,0 +1,23 @@
+        -:    0:Source:../WA_c/439997_buggy.c
+        -:    0:Graph:439997_buggy.gcno
+        -:    0:Data:439997_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main()
+        -:    3:{
+        1:    4:    int n, i = 0;
+      513:    5:    while(scanf("%d", &n) != EOF)
+        -:    6:    {
+      256:    7:        i = 0;
+     3332:    8:        for(n; n > 0; n = n / 2)
+        -:    9:        {
+        -:   10:        	
+     1793:   11:            if(n % 2 == 1)
+     1024:   12:                i+=2;
+     1793:   13:            if(n == 1)
+      255:   14:                break;
+        -:   15:        }
+      256:   16:        printf("%d\n", i);
+        -:   17:    }
+        1:   18:}

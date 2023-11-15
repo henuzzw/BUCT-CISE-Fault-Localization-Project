@@ -1,0 +1,4 @@
+codeflaws/420-A-bug-16671795-16671832/420-A-16671832.c
+codeflaws/420-A-bug-16671795-16671832/420-A-16671795.c
+22
+[("Replace b'\\t    else break;\\n' with b'\\t    \\n' at position 23", 22)]

@@ -1,0 +1,4 @@
+codeflaws/140-A-bug-10658248-10658284/140-A-10658284.c
+codeflaws/140-A-bug-10658248-10658284/140-A-10658248.c
+8
+[("Replace b'    if(r<=R&&n==1){\\n' with b'    if(r==R){\\n' at position 9", 8)]

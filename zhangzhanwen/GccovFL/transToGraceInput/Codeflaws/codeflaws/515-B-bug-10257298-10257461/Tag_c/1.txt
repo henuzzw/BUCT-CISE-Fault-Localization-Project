@@ -1,0 +1,4 @@
+codeflaws/515-B-bug-10257298-10257461/515-B-10257461.c
+codeflaws/515-B-bug-10257298-10257461/515-B-10257298.c
+18,31
+[("Replace b'\\tfor(i=0;i<=10000;i++){\\n' with b'\\tfor(i=0;i<m+n;i++){\\n' at position 19", 18), ('Insert b\'\\t//printf("\\\\n");\\n\' at position 33 in file2', 32)]

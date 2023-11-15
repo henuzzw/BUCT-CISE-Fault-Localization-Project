@@ -1,0 +1,4 @@
+codeflaws/286-B-bug-3388778-3388829/286-B-3388829.c
+codeflaws/286-B-bug-3388778-3388829/286-B-3388778.c
+3
+[("Replace b'int n, a[1<<22];\\n' with b'int n, a[1<<20];\\n' at position 4", 3)]

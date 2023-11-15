@@ -1,0 +1,4 @@
+codeflaws/151-B-bug-8846030-8846110/151-B-8846110.c
+codeflaws/151-B-bug-8846030-8846110/151-B-8846030.c
+18
+[("Replace b'\\tint gpt[MAX][3]={0}; // an array to store the number of girls pizzas and taxi numbers for all the given friends\\n' with b'\\tint gpt[MAX][3]={-1}; // an array to store the number of girls pizzas and taxi numbers for all the given friends\\n' at position 19", 18)]

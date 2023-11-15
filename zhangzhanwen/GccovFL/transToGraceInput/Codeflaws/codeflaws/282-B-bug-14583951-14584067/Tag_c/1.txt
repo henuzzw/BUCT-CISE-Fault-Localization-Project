@@ -1,0 +1,4 @@
+codeflaws/282-B-bug-14583951-14584067/282-B-14584067.c
+codeflaws/282-B-bug-14583951-14584067/282-B-14583951.c
+50,82,82
+[("Delete b'\\n' at position 50 in file2", 49), ('Replace b\'        for(i=0;i<n;++i)\\n\' with b\'        printf("-1");\\n\' at position 82', 81), ('Insert b\'            printf("G");\\n\' at position 83 in file2', 82)]

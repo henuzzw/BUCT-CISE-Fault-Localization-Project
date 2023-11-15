@@ -1,0 +1,4 @@
+476782_buggy.c
+476782_correct.c
+14
+week多减1

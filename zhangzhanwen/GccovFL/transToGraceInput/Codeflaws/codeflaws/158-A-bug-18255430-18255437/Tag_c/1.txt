@@ -1,0 +1,4 @@
+codeflaws/158-A-bug-18255430-18255437/158-A-18255437.c
+codeflaws/158-A-bug-18255430-18255437/158-A-18255430.c
+13
+[("Replace b'\\t\\tif(data[i] >= data[k-1] && data[i] != 0)\\n' with b'\\t\\tif(data[i] >= data[k] && data[i] != 0)\\n' at position 14", 13)]

@@ -1,0 +1,113 @@
+        -:    0:Source:../WA_c/271569_buggy.c
+        -:    0:Graph:271569_buggy.gcno
+        -:    0:Data:271569_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1://We are dealing with a programming to find the second largest numbers...
+        -:    2:#include<stdio.h>
+        -:    3:
+        1:    4:int main()
+        -:    5:{
+        -:    6:    int a, b, c, d;//a, b, c, d are 4 natural nos.
+        -:    7:
+        1:    8:    scanf("%d %d %d %d",&a, &b, &c, &d);//Will take the input from                                                 the users.
+        1:    9:    if(a>b>c>d)
+        -:   10:    {
+    #####:   11:        printf("The second largest number is %d",b);
+        -:   12:    }
+        1:   13:    else if(a>b>d>c)
+        -:   14:    {
+    #####:   15:        printf("The second largest number is %d",b);
+        -:   16:    }
+        1:   17:    else if(a>c>b>d)
+        -:   18:    {
+    #####:   19:        printf("The second largest number is %d",c);
+        -:   20:    }
+        1:   21:    else if(a>c>d>b)
+        -:   22:    {
+    #####:   23:        printf("The second largest number is %d",c);
+        -:   24:    }
+        1:   25:    else if(a>d>b>c)
+        -:   26:    {
+    #####:   27:        printf("The second largest number is %d",d);
+        -:   28:    }
+        1:   29:    else if(a>d>c>b)
+        -:   30:    {
+    #####:   31:        printf("The second largest number is %d",d);
+        -:   32:    }
+        1:   33:    else if(b>c>d>a)
+        -:   34:    {
+    #####:   35:        printf("The second largest number is %d",c);
+        -:   36:    }
+        1:   37:    else if(b>c>a>d)
+        -:   38:    {
+    #####:   39:        printf("The second largest number is %d",c);
+        -:   40:    }
+        1:   41:    else if(b>a>c>d)
+        -:   42:    {
+    #####:   43:        printf("The second largest number is %d",a);
+        -:   44:    }
+        1:   45:    else if(b>a>d>c)
+        -:   46:    {
+    #####:   47:        printf("The second largest number is %d",a);
+        -:   48:    }
+        1:   49:    else if(b>d>a>c)
+        -:   50:    {
+    #####:   51:        printf("The second largest number is %d",d);
+        -:   52:    }
+        1:   53:    else if(b>d>c>a)
+        -:   54:    {
+    #####:   55:        printf("The second largest number is %d",d);
+        -:   56:    }
+        1:   57:    else if(c>d>a>b)
+        -:   58:    {
+    #####:   59:        printf("The second largest number is %d",d);
+        -:   60:    }
+        1:   61:    else if(c>d>b>a)
+        -:   62:    {
+    #####:   63:        printf("The second largest number is %d",d);
+        -:   64:    }
+        1:   65:    else if(c>a>b>d)
+        -:   66:    {
+    #####:   67:        printf("The second largest number is %d",a);
+        -:   68:    }
+        1:   69:    else if(c>a>d>b)
+        -:   70:    {
+    #####:   71:        printf("The second largest number is %d",a);
+        -:   72:    }
+        1:   73:    else if(c>b>a>d)
+        -:   74:    {
+    #####:   75:        printf("The second largest number is %d",b);
+        -:   76:    }
+        1:   77:    else if(c>b>d>a)
+        -:   78:    {
+    #####:   79:        printf("The second largest number is %d",b);
+        -:   80:    }
+        1:   81:    else if(d>a>b>c)
+        -:   82:    {
+    #####:   83:        printf("The second largest number is %d",a);
+        -:   84:    }
+        1:   85:    else if(d>a>c>b)
+        -:   86:    {
+    #####:   87:        printf("The second largest number is %d",a);
+        -:   88:    }
+        1:   89:    else if(d>b>a>c)
+        -:   90:    {
+    #####:   91:        printf("The second largest number is %d",b);
+        -:   92:    }
+        1:   93:    else if(d>b>c>a)
+        -:   94:    {
+    #####:   95:        printf("The second largest number is %d",b);
+        -:   96:    }
+        1:   97:    else if(d>c>a>b)
+        -:   98:    {
+    #####:   99:        printf("The second largest number is %d",c);
+        -:  100:    }
+        -:  101:    else
+        -:  102:    {
+        1:  103:        printf("The second largest number is %d",c);
+        -:  104:    }
+        -:  105:
+        -:  106:
+        1:  107:    return 0;
+        -:  108:}

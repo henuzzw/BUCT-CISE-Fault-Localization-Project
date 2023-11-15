@@ -1,0 +1,4 @@
+codeflaws/148-B-bug-4035267-4035278/148-B-4035278.c
+codeflaws/148-B-bug-4035267-4035278/148-B-4035267.c
+20
+[("Replace b'if(vd>vp)\\n' with b'if(cnt>0)\\n' at position 21", 20)]

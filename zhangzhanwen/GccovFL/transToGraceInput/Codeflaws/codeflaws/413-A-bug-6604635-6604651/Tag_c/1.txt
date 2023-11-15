@@ -1,0 +1,4 @@
+codeflaws/413-A-bug-6604635-6604651/413-A-6604651.c
+codeflaws/413-A-bug-6604635-6604651/413-A-6604635.c
+12
+[("Replace b'    if(a[i]<min || a[i]>max)\\n' with b'    if(a[i]<min&&a[i]>max)\\n' at position 13", 12)]

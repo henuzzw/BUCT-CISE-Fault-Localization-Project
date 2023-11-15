@@ -1,0 +1,4 @@
+codeflaws/680-B-bug-18330497-18330569/680-B-18330569.c
+codeflaws/680-B-bug-18330497-18330569/680-B-18330497.c
+15
+[("Replace b'    for(j=a-2,k=a; (j>=0 || k<n); j--,k++)\\n' with b'    for(j=a-2,k=a; (crim[j] || crim[k]); j--,k++)\\n' at position 16", 15)]

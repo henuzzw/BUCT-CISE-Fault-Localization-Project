@@ -1,0 +1,4 @@
+codeflaws/315-B-bug-4917570-4917593/315-B-4917593.c
+codeflaws/315-B-bug-4917570-4917593/315-B-4917570.c
+17
+[("Replace b'            array[t1]=t2-p;\\n' with b'            array[t1]=t2;\\n' at position 18", 17)]

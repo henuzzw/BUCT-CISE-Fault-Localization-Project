@@ -1,0 +1,4 @@
+codeflaws/250-A-bug-4602258-4602263/250-A-4602263.c
+codeflaws/250-A-bug-4602258-4602263/250-A-4602258.c
+38
+[('Replace b\'printf("%d \\\\t",fol[i]);\\n\' with b\'printf("%d",fol[i]);\\n\' at position 39', 38)]

@@ -1,0 +1,4 @@
+codeflaws/401-C-bug-10182750-10182774/401-C-10182774.c
+codeflaws/401-C-bug-10182750-10182774/401-C-10182750.c
+12
+[("Replace b'\\tif (k < 2 && s1 >= s0)\\n' with b'\\tif (k < 2)\\n' at position 13", 12)]

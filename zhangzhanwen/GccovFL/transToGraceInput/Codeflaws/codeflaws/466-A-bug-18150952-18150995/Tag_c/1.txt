@@ -1,0 +1,4 @@
+codeflaws/466-A-bug-18150952-18150995/466-A-18150995.c
+codeflaws/466-A-bug-18150952-18150995/466-A-18150952.c
+4
+[('Replace b\'printf("%d",max((n/m*b+(n%m)*a),max(n*a,(n/m+1)*b)));}\\n\' with b\'printf("%d",max((n/m*b+n%m*a),n*a));}\\n\' at position 5', 4)]

@@ -1,0 +1,4 @@
+codeflaws/4-B-bug-11813634-11813689/4-B-11813689.c
+codeflaws/4-B-bug-11813634-11813689/4-B-11813634.c
+18,18
+[("Replace b'            return 1;\\n' with b'            return 1;       \\n' at position 19", 18), ("Insert b'        curSum = tmp;       \\n' at position 20 in file2", 19)]

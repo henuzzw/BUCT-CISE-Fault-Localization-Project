@@ -1,0 +1,4 @@
+codeflaws/112-C-bug-10442755-10442767/112-C-10442767.c
+codeflaws/112-C-bug-10442755-10442767/112-C-10442755.c
+5
+[("Replace b'\\tif((n-1) + (y-n+1)*(y-n+1) < x || y-n+1 < 1){\\n' with b'\\tif((n-1) + (y-n+1)*(y-n+1) < x){\\n' at position 6", 5)]

@@ -1,0 +1,4 @@
+codeflaws/520-A-bug-18151095-18151110/520-A-18151110.c
+codeflaws/520-A-bug-18151095-18151110/520-A-18151095.c
+4
+[('Replace b\'scanf("%d %s",&m,s);\\n\' with b\'gets(s);\\n\' at position 5', 4)]

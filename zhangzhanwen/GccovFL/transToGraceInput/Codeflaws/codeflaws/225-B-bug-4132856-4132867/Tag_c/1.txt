@@ -1,0 +1,4 @@
+codeflaws/225-B-bug-4132856-4132867/225-B-4132867.c
+codeflaws/225-B-bug-4132856-4132867/225-B-4132856.c
+32
+[('Insert b\'            else printf("%d\\\\n",ct);\\n\' at position 34 in file2', 33)]

@@ -1,0 +1,4 @@
+codeflaws/3-B-bug-12486334-12486339/3-B-12486339.c
+codeflaws/3-B-bug-12486334-12486339/3-B-12486334.c
+30
+[('Replace b\'\\t\\t// printf("# %i %i\\\\n",V,i);\\n\' with b\'\\t\\tprintf("# %i %i\\\\n",V,i);\\n\' at position 31', 30)]

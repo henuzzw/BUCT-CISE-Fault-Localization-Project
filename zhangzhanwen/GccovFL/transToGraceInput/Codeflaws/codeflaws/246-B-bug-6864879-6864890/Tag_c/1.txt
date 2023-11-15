@@ -1,0 +1,4 @@
+codeflaws/246-B-bug-6864879-6864890/246-B-6864890.c
+codeflaws/246-B-bug-6864879-6864890/246-B-6864879.c
+16
+[("Replace b'    if (sum%num) {\\n' with b'    if (sum%2) {\\n' at position 17", 16)]

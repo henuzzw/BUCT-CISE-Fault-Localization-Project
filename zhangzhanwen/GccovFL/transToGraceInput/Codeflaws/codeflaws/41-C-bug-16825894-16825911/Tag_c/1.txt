@@ -1,0 +1,4 @@
+codeflaws/41-C-bug-16825894-16825911/41-C-16825911.c
+codeflaws/41-C-bug-16825894-16825911/41-C-16825894.c
+12
+[('Replace b"        else if(s[i]==\'d\' && s[i+1]==\'o\' && s[i+2]==\'t\'&& i+2!=l-1)\\n" with b"        else if(s[i]==\'d\' && s[i+1]==\'o\' && s[i+2]==\'t\')\\n" at position 13', 12)]

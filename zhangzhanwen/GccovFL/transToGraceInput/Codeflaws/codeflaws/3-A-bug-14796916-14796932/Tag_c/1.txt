@@ -1,0 +1,4 @@
+codeflaws/3-A-bug-14796916-14796932/3-A-14796932.c
+codeflaws/3-A-bug-14796916-14796932/3-A-14796916.c
+29
+[("Replace b'  while (dh != 0 || dv != 0) {\\n' with b'  while (dh != 0 && dv != 0) {\\n' at position 30", 29)]

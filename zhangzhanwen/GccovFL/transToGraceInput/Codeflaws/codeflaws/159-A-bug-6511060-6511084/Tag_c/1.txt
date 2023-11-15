@@ -1,0 +1,4 @@
+codeflaws/159-A-bug-6511060-6511084/159-A-6511084.c
+codeflaws/159-A-bug-6511060-6511084/159-A-6511060.c
+31
+[("Replace b'    if(frnd[j].t-tme<=d && frnd[j].t>0 && frnd[j].t-tme>0)\\n' with b'    if(frnd[j].t-tme<=d && frnd[j].t>0)\\n' at position 32", 31)]

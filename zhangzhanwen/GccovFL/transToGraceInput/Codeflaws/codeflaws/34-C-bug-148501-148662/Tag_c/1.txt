@@ -1,0 +1,4 @@
+codeflaws/34-C-bug-148501-148662/34-C-148662.c
+codeflaws/34-C-bug-148501-148662/34-C-148501.c
+23
+[("Insert b'       flag=1;\\n' at position 25 in file2", 24)]

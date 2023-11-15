@@ -1,0 +1,4 @@
+codeflaws/18-C-bug-14290168-14290189/18-C-14290189.c
+codeflaws/18-C-bug-14290168-14290189/18-C-14290168.c
+9
+[("Replace b'\\tfor (i=1;i<n;i++) {\\n' with b'\\tfor (i=1;i<n-1;i++) {\\n' at position 10", 9)]

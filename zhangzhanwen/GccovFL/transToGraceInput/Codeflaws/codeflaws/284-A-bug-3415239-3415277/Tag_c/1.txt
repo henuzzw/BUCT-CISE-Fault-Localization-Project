@@ -1,0 +1,4 @@
+codeflaws/284-A-bug-3415239-3415277/284-A-3415277.c
+codeflaws/284-A-bug-3415239-3415277/284-A-3415239.c
+5
+[("Replace b'    for(i=1;i<=N;i++)\\n' with b'    for(i=2;i<=N;i++)\\n' at position 6", 5)]

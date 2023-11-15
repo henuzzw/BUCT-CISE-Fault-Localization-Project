@@ -1,0 +1,4 @@
+codeflaws/493-A-bug-15905307-15905321/493-A-15905321.c
+codeflaws/493-A-bug-15905307-15905321/493-A-15905307.c
+58
+[("Replace b'        else if (p[m-1] != 2)\\n' with b'        else\\n' at position 59", 58)]

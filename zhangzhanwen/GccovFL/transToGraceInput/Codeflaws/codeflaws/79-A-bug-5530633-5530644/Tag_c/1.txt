@@ -1,0 +1,4 @@
+codeflaws/79-A-bug-5530633-5530644/79-A-5530644.c
+codeflaws/79-A-bug-5530633-5530644/79-A-5530633.c
+56
+[('Replace b\'        printf("Ciel");\\n\' with b\'        printf("Ceil");\\n\' at position 57', 56)]

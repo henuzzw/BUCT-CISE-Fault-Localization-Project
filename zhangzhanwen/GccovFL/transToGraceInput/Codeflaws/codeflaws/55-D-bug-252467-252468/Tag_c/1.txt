@@ -1,0 +1,4 @@
+codeflaws/55-D-bug-252467-252468/55-D-252468.c
+codeflaws/55-D-bug-252467-252468/55-D-252467.c
+35
+[("Replace b'    if( (mask&1<<7) && !(mask&1<<1) ) continue;\\n' with b'    if( (mask&1<<7) && (mask&1<<1) ) continue;\\n' at position 36", 35)]

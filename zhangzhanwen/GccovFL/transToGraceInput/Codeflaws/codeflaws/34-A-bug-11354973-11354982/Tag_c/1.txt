@@ -1,0 +1,4 @@
+codeflaws/34-A-bug-11354973-11354982/34-A-11354982.c
+codeflaws/34-A-bug-11354973-11354982/34-A-11354973.c
+19
+[('Replace b\'\\tprintf("%d %d",t,s);\\n\' with b\'\\tprintf("%d %d %d",t,s,z);\\n\' at position 20', 19)]

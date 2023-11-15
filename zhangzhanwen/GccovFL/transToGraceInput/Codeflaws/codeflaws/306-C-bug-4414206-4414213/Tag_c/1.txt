@@ -1,0 +1,4 @@
+codeflaws/306-C-bug-4414206-4414213/306-C-4414213.c
+codeflaws/306-C-bug-4414206-4414213/306-C-4414206.c
+32
+[("Replace b'        res = (res + (((((long long)p(b, i) * (long long)p(w, n-i))%MOD) * (long long)(n-i-1))%MOD)) % MOD;\\n' with b'        res = (res + (long long)p(b, i) * (long long)p(w, n-i) * (long long)(n-i-1)) % MOD;\\n' at position 33", 32)]

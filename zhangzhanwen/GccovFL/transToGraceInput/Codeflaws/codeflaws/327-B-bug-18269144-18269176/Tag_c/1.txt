@@ -1,0 +1,4 @@
+codeflaws/327-B-bug-18269144-18269176/327-B-18269176.c
+codeflaws/327-B-bug-18269144-18269176/327-B-18269144.c
+25
+[("Replace b'        for(c=3;c<=val;c+=2)\\n' with b'        for(c=3;c<val;c+=2)\\n' at position 26", 25)]

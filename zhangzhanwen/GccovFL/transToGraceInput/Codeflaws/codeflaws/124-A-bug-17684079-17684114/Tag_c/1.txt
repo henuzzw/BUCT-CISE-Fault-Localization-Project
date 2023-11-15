@@ -1,0 +1,4 @@
+codeflaws/124-A-bug-17684079-17684114/124-A-17684114.c
+codeflaws/124-A-bug-17684079-17684114/124-A-17684079.c
+7
+[('Replace b\'    printf("%d\\\\n", (a+1 < n-b)?(b+1):(n-a));\\n\' with b\'    printf("%d\\\\n", (a+1 < n-b)?(n-b):(n-a));\\n\' at position 8', 7)]

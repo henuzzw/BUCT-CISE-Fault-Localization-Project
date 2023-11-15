@@ -1,0 +1,4 @@
+codeflaws/27-C-bug-6516517-6516543/27-C-6516543.c
+codeflaws/27-C-bug-6516517-6516543/27-C-6516517.c
+17
+[("Replace b'        if ((a[i] > a[min - 1] && a[i] < a[max - 1]) || (((a[i] >= a[max-1] && min > max) || (a[i] <= a[min-1] && max > min)) && max != min))\\n' with b'        if ((a[i] > a[min - 1] && a[i] < a[max - 1]) || (((a[i] > a[max-1] && min > max) || (a[i] < a[min-1] && max > min)) && max != min))\\n' at position 18", 17)]

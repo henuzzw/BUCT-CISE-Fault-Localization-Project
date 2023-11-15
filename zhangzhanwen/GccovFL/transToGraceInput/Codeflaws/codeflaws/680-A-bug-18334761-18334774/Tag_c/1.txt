@@ -1,0 +1,4 @@
+codeflaws/680-A-bug-18334761-18334774/680-A-18334774.c
+codeflaws/680-A-bug-18334761-18334774/680-A-18334761.c
+45
+[('Replace b\'\\t\\n\' with b\'\\tprintf("%d %d\\\\n", vecAux[0], vecAux[1]);\\n\' at position 46', 45)]

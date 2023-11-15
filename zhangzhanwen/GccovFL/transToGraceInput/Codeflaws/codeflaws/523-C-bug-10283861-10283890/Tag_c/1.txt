@@ -1,0 +1,4 @@
+codeflaws/523-C-bug-10283861-10283890/523-C-10283890.c
+codeflaws/523-C-bug-10283861-10283890/523-C-10283861.c
+56
+[('Replace b\'    //printf("%d %d\\\\n", last - t, first - t);\\n\' with b\'    printf("%d %d\\\\n", last - t, first - t);\\n\' at position 57', 56)]

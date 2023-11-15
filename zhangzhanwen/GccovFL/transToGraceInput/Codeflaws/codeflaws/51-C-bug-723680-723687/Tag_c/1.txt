@@ -1,0 +1,4 @@
+codeflaws/51-C-bug-723680-723687/51-C-723687.c
+codeflaws/51-C-bug-723680-723687/51-C-723680.c
+16
+[("Replace b'\\t  if (x[m] > p + 1e-6) {\\n' with b'\\t  if (x[m] > p + 1e-5) {\\n' at position 17", 16)]

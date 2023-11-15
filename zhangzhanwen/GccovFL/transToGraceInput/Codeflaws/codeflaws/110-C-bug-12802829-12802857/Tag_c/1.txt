@@ -1,0 +1,4 @@
+codeflaws/110-C-bug-12802829-12802857/110-C-12802857.c
+codeflaws/110-C-bug-12802829-12802857/110-C-12802829.c
+36
+[('Replace b\'   // printf("%lld %lld",a,b);\\n\' with b\'    printf("%lld %lld",a,b);\\n\' at position 37', 36)]

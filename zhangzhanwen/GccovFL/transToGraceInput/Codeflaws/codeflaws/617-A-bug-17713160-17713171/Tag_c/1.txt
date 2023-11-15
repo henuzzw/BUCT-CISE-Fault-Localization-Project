@@ -1,0 +1,4 @@
+codeflaws/617-A-bug-17713160-17713171/617-A-17713171.c
+codeflaws/617-A-bug-17713160-17713171/617-A-17713160.c
+6
+[('Replace b\'\\telse printf("%d\\\\n",n/5 + 1);\\n\' with b\'\\telse printf("%d\\\\n",n/5 + n%5 - 1);\\n\' at position 7', 6)]

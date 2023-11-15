@@ -1,0 +1,4 @@
+codeflaws/598-B-bug-15739706-15739724/598-B-15739724.c
+codeflaws/598-B-bug-15739706-15739724/598-B-15739706.c
+48
+[('Delete b\'        printf("%d %d %d\\\\n",l , r, k);\\n\' at position 48 in file2', 47)]

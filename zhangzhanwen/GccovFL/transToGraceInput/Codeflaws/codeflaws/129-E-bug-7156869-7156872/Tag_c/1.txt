@@ -1,0 +1,4 @@
+codeflaws/129-E-bug-7156869-7156872/129-E-7156872.c
+codeflaws/129-E-bug-7156869-7156872/129-E-7156869.c
+25,25
+[("Replace b'    long long val = binom(n - 1, 2 * k);\\n' with b'    long long val = binom(n - 1, 2 * k) * binom(m - 1, 2 * k);\\n' at position 26", 25), ("Insert b'    val *= binom(m - 1, 2 * k);\\n' at position 27 in file2", 26)]

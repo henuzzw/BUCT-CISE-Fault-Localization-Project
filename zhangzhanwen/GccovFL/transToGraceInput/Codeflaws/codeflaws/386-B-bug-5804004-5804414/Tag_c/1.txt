@@ -1,0 +1,4 @@
+codeflaws/386-B-bug-5804004-5804414/386-B-5804414.c
+codeflaws/386-B-bug-5804004-5804414/386-B-5804004.c
+8
+[("Replace b'\\tint n,time,t[100],d[6000];\\n' with b'\\tint n,time,t[100],d[5000];\\n' at position 9", 8)]

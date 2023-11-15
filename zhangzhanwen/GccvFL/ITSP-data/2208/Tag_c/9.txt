@@ -1,4 +1,0 @@
-1637832_buggy.c
-1637832_correct.c
-15
-sdfd++多余

@@ -1,0 +1,4 @@
+codeflaws/255-A-bug-17124424-17124453/255-A-17124453.c
+codeflaws/255-A-bug-17124424-17124453/255-A-17124424.c
+35
+[('Replace b\'        printf("back\\\\n");\\n\' with b\'        printf("backc\\\\n");\\n\' at position 36', 35)]

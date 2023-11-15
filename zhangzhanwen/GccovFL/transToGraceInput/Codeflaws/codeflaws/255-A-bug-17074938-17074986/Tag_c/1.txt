@@ -1,0 +1,4 @@
+codeflaws/255-A-bug-17074938-17074986/255-A-17074986.c
+codeflaws/255-A-bug-17074938-17074986/255-A-17074938.c
+18
+[("Replace b'\\n' with b'    if(sum2>sum1)\\n' at position 19", 18)]

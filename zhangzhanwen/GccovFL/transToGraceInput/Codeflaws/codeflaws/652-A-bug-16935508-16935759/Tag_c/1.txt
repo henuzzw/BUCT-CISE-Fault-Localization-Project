@@ -1,0 +1,4 @@
+codeflaws/652-A-bug-16935508-16935759/652-A-16935759.c
+codeflaws/652-A-bug-16935508-16935759/652-A-16935508.c
+11,27
+[('Insert b\'   // else if(c==d) printf("%d",-1);\\n\' at position 13 in file2', 12), ('Replace b\'            if(y<0&&y<=j){printf("%d",-1);break;}\\n\' with b\'            if(y<0&&y<j){printf("%d",-1);break;}\\n\' at position 29', 28)]

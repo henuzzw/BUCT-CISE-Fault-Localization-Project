@@ -1,0 +1,4 @@
+codeflaws/670-D1-bug-17746468-17747253/670-D1-17747253.c
+codeflaws/670-D1-bug-17746468-17747253/670-D1-17746468.c
+95
+[("Replace b'\\t\\telse{k-=((a[i+1].c-ans)*sum);ans=a[i+1].c;}\\n' with b'\\t\\telse{ans=a[i+1].c;k-=((a[i+1].c-ans)*sum);}\\n' at position 96", 95)]

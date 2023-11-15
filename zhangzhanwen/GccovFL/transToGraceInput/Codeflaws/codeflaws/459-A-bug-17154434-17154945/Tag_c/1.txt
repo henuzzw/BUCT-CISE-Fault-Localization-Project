@@ -1,0 +1,4 @@
+codeflaws/459-A-bug-17154434-17154945/459-A-17154945.c
+codeflaws/459-A-bug-17154434-17154945/459-A-17154434.c
+19
+[("Replace b'           else if(x2!=x1 && y2!=y1 && ((x2-x1)==(y2-y1)||(x2-x1)==-(y2-y1)))\\n' with b'           else if(x2!=x1 && y2!=y1 && (x2-x1)==(y2-y1))\\n' at position 20", 19)]

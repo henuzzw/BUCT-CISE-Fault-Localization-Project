@@ -1,0 +1,4 @@
+codeflaws/150-B-bug-5820415-5820417/150-B-5820417.c
+codeflaws/150-B-bug-5820415-5820417/150-B-5820415.c
+17
+[('Delete b\'\\tprintf("%d\\\\n", pow(100000, 2));\\n\' at position 17 in file2', 16)]

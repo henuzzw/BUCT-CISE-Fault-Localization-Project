@@ -1,0 +1,4 @@
+codeflaws/439-A-bug-14921985-14934764/439-A-14934764.c
+codeflaws/439-A-bug-14921985-14934764/439-A-14921985.c
+20
+[("Replace b'\\tif(sum<d-4){\\n' with b'\\tif(sum<d){\\n' at position 21", 20)]

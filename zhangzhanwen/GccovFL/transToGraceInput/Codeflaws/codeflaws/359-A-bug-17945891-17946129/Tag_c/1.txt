@@ -1,0 +1,4 @@
+codeflaws/359-A-bug-17945891-17946129/359-A-17946129.c
+codeflaws/359-A-bug-17945891-17946129/359-A-17945891.c
+14,20
+[('Insert b\'                //printf("%d %d\\\\n", i, j);\\n\' at position 16 in file2', 15), ("Replace b'                if(j==0 || j==m-1)\\n' with b'                if(j==0 || j==n-1)\\n' at position 22", 21)]

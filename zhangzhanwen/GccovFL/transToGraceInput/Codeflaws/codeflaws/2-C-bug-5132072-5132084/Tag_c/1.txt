@@ -1,0 +1,4 @@
+codeflaws/2-C-bug-5132072-5132084/2-C-5132084.c
+codeflaws/2-C-bug-5132072-5132084/2-C-5132072.c
+5
+[("Replace b'#define fequ(a, b) (fabs(a - b) < 0.0000001)\\n' with b'#define fequ(a, b) (fabs(a - b) < 0.000000001)\\n' at position 6", 5)]

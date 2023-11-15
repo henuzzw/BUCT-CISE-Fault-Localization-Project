@@ -1,0 +1,4 @@
+codeflaws/405-B-bug-14574345-14574353/405-B-14574353.c
+codeflaws/405-B-bug-14574345-14574353/405-B-14574345.c
+14
+[("Replace b'        return 0;\\n' with b'        return ;\\n' at position 15", 14)]

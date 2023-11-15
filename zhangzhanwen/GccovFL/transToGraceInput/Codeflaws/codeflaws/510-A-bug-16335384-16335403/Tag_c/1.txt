@@ -1,0 +1,4 @@
+codeflaws/510-A-bug-16335384-16335403/510-A-16335403.c
+codeflaws/510-A-bug-16335384-16335403/510-A-16335384.c
+27
+[("Insert b'\\t\\t\\t\\t\\t\\tsay++;\\n' at position 29 in file2", 28)]

@@ -1,0 +1,4 @@
+codeflaws/352-A-bug-16590509-16590523/352-A-16590523.c
+codeflaws/352-A-bug-16590509-16590523/352-A-16590509.c
+23
+[("Replace b'\\tif(j>8&&l>=1){\\n' with b'\\tif(j>8){\\n' at position 24", 23)]

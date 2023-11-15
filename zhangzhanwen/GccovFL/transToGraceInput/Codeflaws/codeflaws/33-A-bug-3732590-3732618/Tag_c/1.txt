@@ -1,0 +1,4 @@
+codeflaws/33-A-bug-3732590-3732618/33-A-3732618.c
+codeflaws/33-A-bug-3732590-3732618/33-A-3732590.c
+17
+[("Replace b'        {if(r[i]==r[i+1]) {if(c[i]<c[i+1]) {t=c[i];c[i]=c[i+1];c[i+1]=t;}}\\n' with b'        {if(r[i]==r[i+1]);\\n' at position 18", 17)]

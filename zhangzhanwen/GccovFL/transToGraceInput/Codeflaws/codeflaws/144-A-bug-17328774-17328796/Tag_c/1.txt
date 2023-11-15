@@ -1,0 +1,4 @@
+codeflaws/144-A-bug-17328774-17328796/144-A-17328796.c
+codeflaws/144-A-bug-17328774-17328796/144-A-17328774.c
+22
+[("Replace b'            if(max < a[i]){\\n' with b'            if(max <= a[i]){\\n' at position 23", 22)]

@@ -1,0 +1,4 @@
+codeflaws/490-C-bug-9623374-9623441/490-C-9623441.c
+codeflaws/490-C-bug-9623374-9623441/490-C-9623374.c
+3
+[("Replace b'long long modb[1100000],tens[1100000];\\n' with b'int modb[1100000],tens[1100000];\\n' at position 4", 3)]

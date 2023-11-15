@@ -1,0 +1,4 @@
+codeflaws/263-A-bug-17366518-17366623/263-A-17366623.c
+codeflaws/263-A-bug-17366518-17366623/263-A-17366518.c
+6,17
+[("Insert b'#include<stdlib.h>\\n' at position 8 in file2", 7), ('Replace b\'                printf("%d",(abs(2-i)+abs(2-j)));\\n\' with b\'                printf("%d",((4-i)+(4-j)));\\n\' at position 19', 18)]

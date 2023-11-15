@@ -1,0 +1,4 @@
+codeflaws/71-B-bug-636712-636716/71-B-636716.c
+codeflaws/71-B-bug-636712-636716/71-B-636712.c
+18
+[("Replace b'\\t       for (j = 0; j <= k; j++) {\\n' with b'\\t       for (j = 0; j < k; j++) {\\n' at position 19", 18)]

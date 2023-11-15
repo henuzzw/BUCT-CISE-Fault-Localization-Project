@@ -1,0 +1,4 @@
+codeflaws/44-E-bug-4782783-4782789/44-E-4782789.c
+codeflaws/44-E-bug-4782783-4782789/44-E-4782783.c
+19
+[('Replace b\'        if(len>(b*n)||len<(a*n)) printf("No solution\\\\n");\\n\' with b\'        if(len>(b*n)||len<(a*n)) printf("No Solution\\\\n");\\n\' at position 20', 19)]

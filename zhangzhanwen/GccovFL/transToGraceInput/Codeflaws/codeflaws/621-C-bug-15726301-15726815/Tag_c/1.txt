@@ -1,0 +1,4 @@
+codeflaws/621-C-bug-15726301-15726815/621-C-15726815.c
+codeflaws/621-C-bug-15726301-15726815/621-C-15726301.c
+30
+[('Replace b\'\\tprintf("%.7lf\\\\n",qw);\\n\' with b\'\\tprintf("%.1lf\\\\n",qw);\\n\' at position 31', 30)]

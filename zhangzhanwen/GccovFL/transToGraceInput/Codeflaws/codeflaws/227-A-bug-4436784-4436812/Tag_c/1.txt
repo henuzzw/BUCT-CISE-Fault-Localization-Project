@@ -1,0 +1,4 @@
+codeflaws/227-A-bug-4436784-4436812/227-A-4436812.c
+codeflaws/227-A-bug-4436784-4436812/227-A-4436784.c
+29
+[("Replace b'    else{if(a[2][1]<a[1][1])ans=-1;else ans=1;}\\n' with b'    else{if(a[2][1]<a[1][1])ans=1;else ans=-1;}\\n' at position 30", 29)]

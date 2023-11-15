@@ -1,0 +1,4 @@
+codeflaws/560-B-bug-12466242-12466278/560-B-12466278.c
+codeflaws/560-B-bug-12466242-12466278/560-B-12466242.c
+31
+[("Insert b'    else if(a1>=b2+b3&&b1>=a2&&b1>=a3)flag=1;\\n' at position 33 in file2", 32)]

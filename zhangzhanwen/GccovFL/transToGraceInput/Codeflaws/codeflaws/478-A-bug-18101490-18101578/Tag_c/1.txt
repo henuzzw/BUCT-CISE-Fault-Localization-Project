@@ -1,0 +1,4 @@
+codeflaws/478-A-bug-18101490-18101578/478-A-18101578.c
+codeflaws/478-A-bug-18101490-18101578/478-A-18101490.c
+9,10,11
+[("Delete b'\\n' at position 9 in file2", 8), ("Delete b'\\tif(sum==0)\\n' at position 9 in file2", 8), ('Delete b\'\\t\\tprintf("-1");\\n\' at position 9 in file2', 8)]

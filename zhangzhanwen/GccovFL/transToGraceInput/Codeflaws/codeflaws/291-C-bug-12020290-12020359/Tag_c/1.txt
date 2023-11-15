@@ -1,0 +1,4 @@
+codeflaws/291-C-bug-12020290-12020359/291-C-12020359.c
+codeflaws/291-C-bug-12020290-12020359/291-C-12020290.c
+15
+[("Replace b'\\tfor(i=31;i>0;i--)\\n' with b'\\tfor(i=31;i<32;i--)\\n' at position 16", 15)]

@@ -1,0 +1,4 @@
+codeflaws/334-B-bug-4199030-4199040/334-B-4199040.c
+codeflaws/334-B-bug-4199030-4199040/334-B-4199030.c
+15,16
+[("Delete b'\\tfor(i=0;i<8;i++)\\n' at position 15 in file2", 14), ('Delete b\'\\t\\tprintf("\\\\n%d %d\\\\n",a[i][0],a[i][1]);\\n\' at position 15 in file2', 14)]

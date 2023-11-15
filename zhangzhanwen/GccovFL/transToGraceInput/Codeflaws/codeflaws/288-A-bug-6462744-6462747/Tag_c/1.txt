@@ -1,0 +1,4 @@
+codeflaws/288-A-bug-6462744-6462747/288-A-6462747.c
+codeflaws/288-A-bug-6462744-6462747/288-A-6462744.c
+6,9
+[('Replace b\'    if ( n < k )\\tprintf("-1");\\n\' with b\'    if ( n < k || k == 1 )\\tprintf("-1");\\n\' at position 7', 6), ('Insert b\'    else if ( k == 1 )  printf("-1");\\n\' at position 11 in file2', 10)]

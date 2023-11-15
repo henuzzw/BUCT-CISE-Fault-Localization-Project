@@ -1,0 +1,4 @@
+codeflaws/463-B-bug-15496189-15496207/463-B-15496207.c
+codeflaws/463-B-bug-15496189-15496207/463-B-15496189.c
+13
+[("Replace b'    for(i=1;i<=n;i++)\\n' with b'    for(i=1;i<n;i++)\\n' at position 14", 13)]

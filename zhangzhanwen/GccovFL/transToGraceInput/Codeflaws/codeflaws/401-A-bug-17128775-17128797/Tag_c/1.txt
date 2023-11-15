@@ -1,0 +1,4 @@
+codeflaws/401-A-bug-17128775-17128797/401-A-17128797.c
+codeflaws/401-A-bug-17128775-17128797/401-A-17128775.c
+7
+[('Insert b\'\\tif(!top){ printf("0"); return 0;}\\n\' at position 9 in file2', 8)]

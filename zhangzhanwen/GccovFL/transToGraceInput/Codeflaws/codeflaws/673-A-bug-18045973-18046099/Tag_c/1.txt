@@ -1,0 +1,4 @@
+codeflaws/673-A-bug-18045973-18046099/673-A-18046099.c
+codeflaws/673-A-bug-18045973-18046099/673-A-18045973.c
+17,28
+[("Replace b'        if (a[i]>75)\\n' with b'        if (a[i]==90)\\n' at position 18", 17), ("Delete b'        else continue;\\n' at position 28 in file2", 27)]

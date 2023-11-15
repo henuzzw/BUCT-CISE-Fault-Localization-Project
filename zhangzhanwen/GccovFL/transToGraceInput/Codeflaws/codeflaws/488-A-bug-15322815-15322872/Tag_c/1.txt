@@ -1,0 +1,4 @@
+codeflaws/488-A-bug-15322815-15322872/488-A-15322872.c
+codeflaws/488-A-bug-15322815-15322872/488-A-15322815.c
+18
+[("Replace b'            if(c==8||c==-8){\\n' with b'            if(c==8){\\n' at position 19", 18)]

@@ -1,0 +1,4 @@
+codeflaws/368-C-bug-5551135-5551144/368-C-5551144.c
+codeflaws/368-C-bug-5551135-5551144/368-C-5551135.c
+23
+[('Replace b\'\\t\\t  if(r-l+1<3) {printf("YES\\\\n");continue;}\\n\' with b\'\\t\\t  if(r-l+1>=3) {printf("YES\\\\n");continue;}\\n\' at position 24', 23)]

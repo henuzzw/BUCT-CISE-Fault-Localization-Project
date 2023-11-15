@@ -1,0 +1,4 @@
+codeflaws/449-A-bug-7810553-7810643/449-A-7810643.c
+codeflaws/449-A-bug-7810553-7810643/449-A-7810553.c
+44
+[("Replace b'                ans = min/(rem + 1);\\n' with b'                ans = min%(rem + 1);\\n' at position 45", 44)]

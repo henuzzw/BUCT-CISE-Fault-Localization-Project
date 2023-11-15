@@ -1,0 +1,4 @@
+codeflaws/215-A-bug-5412804-5412807/215-A-5412807.c
+codeflaws/215-A-bug-5412804-5412807/215-A-5412804.c
+17
+[("Replace b'                if(b[j]>=a[i])\\n' with b'                if(b[j]>a[i])\\n' at position 18", 17)]

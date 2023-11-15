@@ -1,0 +1,4 @@
+310978_buggy.c
+310978_correct.c
+13
+多了res--

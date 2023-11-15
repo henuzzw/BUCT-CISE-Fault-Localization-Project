@@ -1,0 +1,4 @@
+codeflaws/54-A-bug-245097-245136/54-A-245136.c
+codeflaws/54-A-bug-245097-245136/54-A-245097.c
+8
+[('Insert b\'        scanf("%d", &h);\\n\' at position 10 in file2', 9)]

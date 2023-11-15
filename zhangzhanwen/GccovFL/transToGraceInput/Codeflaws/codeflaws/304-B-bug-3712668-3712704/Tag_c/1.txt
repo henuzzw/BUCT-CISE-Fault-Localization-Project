@@ -1,0 +1,4 @@
+codeflaws/304-B-bug-3712668-3712704/304-B-3712704.c
+codeflaws/304-B-bug-3712668-3712704/304-B-3712668.c
+107
+[("Replace b'    if (y[max] == y[min] - 1) {\\n' with b'    if (y[max] == y[min]) {\\n' at position 108", 107)]

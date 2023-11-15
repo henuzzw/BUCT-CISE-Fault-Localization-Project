@@ -1,0 +1,4 @@
+codeflaws/471-B-bug-11197911-11197968/471-B-11197968.c
+codeflaws/471-B-bug-11197911-11197968/471-B-11197911.c
+32
+[("Replace b'    for(i = 0; i < n; i++)\\n' with b'    for(i = 0; i < n, count < 2; i++)\\n' at position 33", 32)]

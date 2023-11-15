@@ -1,0 +1,4 @@
+codeflaws/357-A-bug-17831138-17831273/357-A-17831273.c
+codeflaws/357-A-bug-17831138-17831273/357-A-17831138.c
+18
+[("Replace b'        if(suma >= x && suma <=y && (total - suma)>=x && (total - suma)<=y)\\n' with b'        if(suma >= x && suma <=y)\\n' at position 19", 18)]

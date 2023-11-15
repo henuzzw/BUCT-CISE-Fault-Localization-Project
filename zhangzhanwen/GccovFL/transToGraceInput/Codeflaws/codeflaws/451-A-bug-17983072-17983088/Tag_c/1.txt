@@ -1,0 +1,4 @@
+codeflaws/451-A-bug-17983072-17983088/451-A-17983088.c
+codeflaws/451-A-bug-17983072-17983088/451-A-17983072.c
+7
+[("Replace b'\\tif (a < b) s = a; else s = b;\\n' with b'\\tif (a > b) s = a; else s = b;\\n' at position 8", 7)]

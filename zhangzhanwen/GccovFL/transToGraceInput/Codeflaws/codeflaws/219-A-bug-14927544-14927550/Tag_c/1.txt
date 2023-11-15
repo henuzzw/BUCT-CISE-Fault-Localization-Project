@@ -1,0 +1,4 @@
+codeflaws/219-A-bug-14927544-14927550/219-A-14927550.c
+codeflaws/219-A-bug-14927544-14927550/219-A-14927544.c
+19
+[('Insert b\'  else puts("-1");\\n\' at position 21 in file2', 20)]

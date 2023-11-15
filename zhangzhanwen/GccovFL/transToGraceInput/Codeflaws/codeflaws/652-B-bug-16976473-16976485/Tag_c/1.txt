@@ -1,0 +1,4 @@
+codeflaws/652-B-bug-16976473-16976485/652-B-16976485.c
+codeflaws/652-B-bug-16976473-16976485/652-B-16976473.c
+12
+[("Replace b'    for(i=1; i<ar; i++)\\n' with b'    for(i=2; i<ar; i++)\\n' at position 13", 12)]

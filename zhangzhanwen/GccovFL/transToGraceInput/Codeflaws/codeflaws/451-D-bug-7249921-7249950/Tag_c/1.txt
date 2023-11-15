@@ -1,0 +1,4 @@
+codeflaws/451-D-bug-7249921-7249950/451-D-7249950.c
+codeflaws/451-D-bug-7249921-7249950/451-D-7249921.c
+5
+[("Replace b'  long long a_odd = 0, a_even = 0, b_odd = 0, b_even = 0, odd = 0, even = 0, i = 0;\\n' with b'  long long a_odd = 0, a_even = 0, b_odd = 0, b_even, odd = 0, even = 0, i = 0;\\n' at position 6", 5)]

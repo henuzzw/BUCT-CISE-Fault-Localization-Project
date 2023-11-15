@@ -1,0 +1,4 @@
+codeflaws/58-A-bug-18163826-18163845/58-A-18163845.c
+codeflaws/58-A-bug-18163826-18163845/58-A-18163826.c
+18
+[('Replace b\'        printf("NO");\\n\' with b\'        printf("No");\\n\' at position 19', 18)]

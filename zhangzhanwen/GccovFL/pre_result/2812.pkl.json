@@ -1,0 +1,2380 @@
+{
+  "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812",
+  "id": "2812",
+  "fileList": [
+    {
+      "id": 0,
+      "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270272_buggy.c",
+      "result": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "errLines": [
+        16,
+        18,
+        19
+      ],
+      "lineId": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if(a==0)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"input is zero\");",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    else",
+          "type": "others",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        if(a<0)",
+          "type": "IfStatement",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "        {",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "            printf(\"%.4f\",a);",
+          "type": "funCall",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "        }",
+          "type": "others",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        printf(\" is negative\");",
+          "type": "funCall",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "        printf(\"%.4f\",a);",
+          "type": "funCall",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "        printf(\" is positive\");",
+          "type": "funCall",
+          "lineNum": 19
+        },
+        {
+          "id": 20,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 20
+        },
+        {
+          "id": 21,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 21
+        },
+        {
+          "id": 22,
+          "code": "}",
+          "type": "others",
+          "lineNum": 22
+        }
+      ],
+      "maxi": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "funList": [
+        {
+          "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270272_buggy.c",
+          "id": 0,
+          "startLine": 3,
+          "endLine": 23,
+          "name": "int main()"
+        }
+      ],
+      "codeList": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if(a==0)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"input is zero\");",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    else",
+          "type": "others",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        if(a<0)",
+          "type": "IfStatement",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "        {",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "            printf(\"%.4f\",a);",
+          "type": "funCall",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "        }",
+          "type": "others",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        printf(\" is negative\");",
+          "type": "funCall",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "        printf(\"%.4f\",a);",
+          "type": "funCall",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "        printf(\" is positive\");",
+          "type": "funCall",
+          "lineNum": 19
+        },
+        {
+          "id": 20,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 20
+        },
+        {
+          "id": 21,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 21
+        },
+        {
+          "id": 22,
+          "code": "}",
+          "type": "others",
+          "lineNum": 22
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270276_buggy.c",
+      "result": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "errLines": [
+        16
+      ],
+      "lineId": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if (a<0)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"%.4f is negative\",a);",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    if(a==0)",
+          "type": "IfStatement",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        printf(\"input is zero\",a);",
+          "type": "funCall",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "    if(a>0)",
+          "type": "IfStatement",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        printf(\"%.4f is positive\");",
+          "type": "funCall",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "}",
+          "type": "others",
+          "lineNum": 19
+        }
+      ],
+      "maxi": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "funList": [
+        {
+          "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270276_buggy.c",
+          "id": 0,
+          "startLine": 3,
+          "endLine": 20,
+          "name": "int main()"
+        }
+      ],
+      "codeList": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if (a<0)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"%.4f is negative\",a);",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    if(a==0)",
+          "type": "IfStatement",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        printf(\"input is zero\",a);",
+          "type": "funCall",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "    if(a>0)",
+          "type": "IfStatement",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        printf(\"%.4f is positive\");",
+          "type": "funCall",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "}",
+          "type": "others",
+          "lineNum": 19
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270277_buggy.c",
+      "result": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "errLines": [
+        12
+      ],
+      "lineId": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if(a>0)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"%.4f is positive\",a);",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    if(a==0)",
+          "type": "IfStatement",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        printf(\"%f input is zero\",a);",
+          "type": "funCall",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "    if(a<0)",
+          "type": "IfStatement",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        printf(\"%.4f is negative\",a);",
+          "type": "funCall",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "",
+          "type": "others",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 19
+        },
+        {
+          "id": 20,
+          "code": "}",
+          "type": "others",
+          "lineNum": 20
+        }
+      ],
+      "maxi": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "funList": [
+        {
+          "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270277_buggy.c",
+          "id": 0,
+          "startLine": 3,
+          "endLine": 21,
+          "name": "int main()"
+        }
+      ],
+      "codeList": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if(a>0)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"%.4f is positive\",a);",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    if(a==0)",
+          "type": "IfStatement",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        printf(\"%f input is zero\",a);",
+          "type": "funCall",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "    if(a<0)",
+          "type": "IfStatement",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        printf(\"%.4f is negative\",a);",
+          "type": "funCall",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "",
+          "type": "others",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 19
+        },
+        {
+          "id": 20,
+          "code": "}",
+          "type": "others",
+          "lineNum": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270280_buggy.c",
+      "result": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "errLines": [
+        6,
+        8,
+        12
+      ],
+      "lineId": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if (a==-12)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"%.4f is negative\",a);",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    else",
+          "type": "others",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        printf(\"%.4f is zero\",a);",
+          "type": "funCall",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "}",
+          "type": "others",
+          "lineNum": 15
+        }
+      ],
+      "maxi": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "funList": [
+        {
+          "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270280_buggy.c",
+          "id": 0,
+          "startLine": 3,
+          "endLine": 16,
+          "name": "int main()"
+        }
+      ],
+      "codeList": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    float a;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    scanf(\"%f\",&a);",
+          "type": "funCall",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    if (a==-12)",
+          "type": "IfStatement",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "        printf(\"%.4f is negative\",a);",
+          "type": "funCall",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    else",
+          "type": "others",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "        printf(\"%.4f is zero\",a);",
+          "type": "funCall",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "}",
+          "type": "others",
+          "lineNum": 15
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270283_buggy.c",
+      "result": [
+        0,
+        1
+      ],
+      "errLines": [
+        9,
+        19
+      ],
+      "lineId": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    //to determine sign of a number",
+          "type": "others",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    float n;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    scanf(\"%f\",&n);",
+          "type": "funCall",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    if(n>0)",
+          "type": "IfStatement",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "        printf(\"%.4f is positive,%n\");//number is positive",
+          "type": "funCall",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    else",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "        if (n==0)",
+          "type": "IfStatement",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "        {",
+          "type": "others",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "            printf(\"input is zero\");//number is 0",
+          "type": "funCall",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        }",
+          "type": "others",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "        else",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "        {",
+          "type": "others",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "            printf(\"%.4f is negative,%n\");",
+          "type": "funCall",
+          "lineNum": 19
+        },
+        {
+          "id": 20,
+          "code": "        }",
+          "type": "others",
+          "lineNum": 20
+        },
+        {
+          "id": 21,
+          "code": "    }//number is negative",
+          "type": "others",
+          "lineNum": 21
+        },
+        {
+          "id": 22,
+          "code": "",
+          "type": "others",
+          "lineNum": 22
+        },
+        {
+          "id": 23,
+          "code": "",
+          "type": "others",
+          "lineNum": 23
+        },
+        {
+          "id": 24,
+          "code": "",
+          "type": "others",
+          "lineNum": 24
+        },
+        {
+          "id": 25,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 25
+        },
+        {
+          "id": 26,
+          "code": "}",
+          "type": "others",
+          "lineNum": 26
+        }
+      ],
+      "maxi": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "funList": [
+        {
+          "pwd": "/home/zhangzhanwen/transtoGraceInput/ITSP-data/2812/270283_buggy.c",
+          "id": 0,
+          "startLine": 3,
+          "endLine": 27,
+          "name": "int main()"
+        }
+      ],
+      "codeList": [
+        {
+          "id": 0,
+          "code": "#include<stdio.h>",
+          "type": "others",
+          "lineNum": 0
+        },
+        {
+          "id": 1,
+          "code": "",
+          "type": "others",
+          "lineNum": 1
+        },
+        {
+          "id": 2,
+          "code": "int main()",
+          "type": "Method",
+          "lineNum": 2
+        },
+        {
+          "id": 3,
+          "code": "{",
+          "type": "others",
+          "lineNum": 3
+        },
+        {
+          "id": 4,
+          "code": "    //to determine sign of a number",
+          "type": "others",
+          "lineNum": 4
+        },
+        {
+          "id": 5,
+          "code": "    float n;",
+          "type": "LocalVariableDeclaration",
+          "lineNum": 5
+        },
+        {
+          "id": 6,
+          "code": "    scanf(\"%f\",&n);",
+          "type": "funCall",
+          "lineNum": 6
+        },
+        {
+          "id": 7,
+          "code": "    if(n>0)",
+          "type": "IfStatement",
+          "lineNum": 7
+        },
+        {
+          "id": 8,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 8
+        },
+        {
+          "id": 9,
+          "code": "        printf(\"%.4f is positive,%n\");//number is positive",
+          "type": "funCall",
+          "lineNum": 9
+        },
+        {
+          "id": 10,
+          "code": "    }",
+          "type": "others",
+          "lineNum": 10
+        },
+        {
+          "id": 11,
+          "code": "    else",
+          "type": "others",
+          "lineNum": 11
+        },
+        {
+          "id": 12,
+          "code": "    {",
+          "type": "others",
+          "lineNum": 12
+        },
+        {
+          "id": 13,
+          "code": "        if (n==0)",
+          "type": "IfStatement",
+          "lineNum": 13
+        },
+        {
+          "id": 14,
+          "code": "        {",
+          "type": "others",
+          "lineNum": 14
+        },
+        {
+          "id": 15,
+          "code": "            printf(\"input is zero\");//number is 0",
+          "type": "funCall",
+          "lineNum": 15
+        },
+        {
+          "id": 16,
+          "code": "        }",
+          "type": "others",
+          "lineNum": 16
+        },
+        {
+          "id": 17,
+          "code": "        else",
+          "type": "others",
+          "lineNum": 17
+        },
+        {
+          "id": 18,
+          "code": "        {",
+          "type": "others",
+          "lineNum": 18
+        },
+        {
+          "id": 19,
+          "code": "            printf(\"%.4f is negative,%n\");",
+          "type": "funCall",
+          "lineNum": 19
+        },
+        {
+          "id": 20,
+          "code": "        }",
+          "type": "others",
+          "lineNum": 20
+        },
+        {
+          "id": 21,
+          "code": "    }//number is negative",
+          "type": "others",
+          "lineNum": 21
+        },
+        {
+          "id": 22,
+          "code": "",
+          "type": "others",
+          "lineNum": 22
+        },
+        {
+          "id": 23,
+          "code": "",
+          "type": "others",
+          "lineNum": 23
+        },
+        {
+          "id": 24,
+          "code": "",
+          "type": "others",
+          "lineNum": 24
+        },
+        {
+          "id": 25,
+          "code": "    return 0;",
+          "type": "ReturnStatement",
+          "lineNum": 25
+        },
+        {
+          "id": 26,
+          "code": "}",
+          "type": "others",
+          "lineNum": 26
+        }
+      ]
+    }
+  ],
+  "inList": [
+    "2812.1.in",
+    "2812.2.in",
+    "2812.3.in",
+    "2812.4.in",
+    "2812.5.in",
+    "2812.6.in",
+    "2812.7.in"
+  ],
+  "fileId": [
+    "270272_buggy.c",
+    "270276_buggy.c",
+    "270277_buggy.c",
+    "270280_buggy.c",
+    "270283_buggy.c",
+    0.007540568993135821
+    0.0073315850022481754
+    0.007407666002109181
+    0.007843790997867472
+    0.009497676997852977
+    0.007247506997373421
+    0.007487511997169349
+    0.007281771002453752
+    0.008426396001596004
+    0.007481631000700872
+    0.007531910996476654
+    0.008384360000491142
+    0.007317559000512119
+    0.007369231003394816
+    0.007599614000355359
+    0.0074660819955170155
+    0.00791065100202104
+    0.008384609005588572
+    0.007848592002119403
+    0.00851043999864487
+    0.007096092005667742
+    0.008007797005120665
+    0.008487864994094707
+    0.006820014998083934
+    0.007068871003866661
+    0.008756255003390834
+    0.006961065999348648
+    0.007955579007102642
+    0.006955404998734593
+    0.006755627000529785
+    0.006825009993917774
+    0.007910415006335825
+    0.006979201003559865
+    0.007200754000223242
+    0.006988423003349453
+    0.007952170999487862
+    0.00809503199707251
+    0.0067068709977320395
+    0.006792978994781151
+    0.008053303994529415
+    0.007766761998937
+    0.008797597998636775
+    0.0067191089983680286
+    0.006906178998178802
+    0.007762255001580343
+    0.00715546799619915
+    0.0069582180003635585
+    0.006879401000333019
+    0.006853036997199524
+    0.00726526600192301
+    0.0069697729995823465
+    0.0071099380002124235
+    0.0077549509951495565
+    0.006845330004580319
+    0.00682102899736492
+    0.006913685996551067
+    0.0069462519968510605
+    0.009652347995142918
+    0.011389717998099513
+    0.007526713998231571
+    0.007779723993735388
+    0.01021906499954639
+    0.007467543000529986
+    0.008084059001703281
+    0.009189782998873852
+    0.00905403900105739
+    0.009070145002624486
+    0.008010790996195283
+    0.007540863000031095
+    0.008450389999779873
+    0.00806983000074979
+    0.0076040940039092675
+    0.00770928699785145
+    0.008432709997578058
+    0.00955044000147609
+    0.00763674500194611
+    0.007244024003739469
+    0.008038733001740184
+    0.007216425998194609
+    0.006973732000915334
+    0.007191128002887126
+    0.007129817000532057
+    0.0070408539977506734
+    0.00707391800096957
+    0.007154785998864099
+    0.00816334800038021
+    0.0086819439966348
+    0.0074564129972714
+    0.00707937499828403
+  ]
+}
+
+

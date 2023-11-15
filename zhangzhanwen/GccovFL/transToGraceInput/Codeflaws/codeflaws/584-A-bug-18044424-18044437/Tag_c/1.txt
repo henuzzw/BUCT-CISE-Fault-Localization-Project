@@ -1,0 +1,4 @@
+codeflaws/584-A-bug-18044424-18044437/584-A-18044437.c
+codeflaws/584-A-bug-18044424-18044437/584-A-18044424.c
+16
+[('Replace b\'            printf("-1");\\n\' with b\'            printf("10");\\n\' at position 17', 16)]

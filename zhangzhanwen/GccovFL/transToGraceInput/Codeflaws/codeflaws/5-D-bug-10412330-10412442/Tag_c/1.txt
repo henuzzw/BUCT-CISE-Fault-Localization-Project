@@ -1,0 +1,4 @@
+codeflaws/5-D-bug-10412330-10412442/5-D-10412442.c
+codeflaws/5-D-bug-10412330-10412442/5-D-10412330.c
+16
+[("Replace b'        else t += (v - w) * 2 / a + ((2 * a * d) - 2 * (v * v) + (w * w)) / (2 * a * v);\\n' with b'        else t += 2 * sqrt((v * v) - (w * w)) / a + ((2 * a * d) - 2 * (v * v) + (w * w)) / (2 * a * v);\\n' at position 17", 16)]

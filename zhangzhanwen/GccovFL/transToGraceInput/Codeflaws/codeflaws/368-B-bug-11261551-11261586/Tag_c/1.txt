@@ -1,0 +1,4 @@
+codeflaws/368-B-bug-11261551-11261586/368-B-11261586.c
+codeflaws/368-B-bug-11261551-11261586/368-B-11261551.c
+9
+[("Insert b'\\thash[a[n-1]]=1;\\n' at position 11 in file2", 10)]

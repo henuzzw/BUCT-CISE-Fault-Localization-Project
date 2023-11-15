@@ -1,0 +1,4 @@
+codeflaws/617-C-bug-15636207-15636240/617-C-15636240.c
+codeflaws/617-C-bug-15636207-15636240/617-C-15636207.c
+47
+[("Replace b'\\t\\t\\t\\t\\tmaxr1 = r1[j];\\n' with b'\\t\\t\\t\\t\\tmaxr1 = r2[j];\\n' at position 48", 47)]

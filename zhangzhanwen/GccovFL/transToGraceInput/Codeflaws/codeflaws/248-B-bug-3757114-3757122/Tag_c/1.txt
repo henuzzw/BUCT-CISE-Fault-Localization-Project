@@ -1,0 +1,4 @@
+codeflaws/248-B-bug-3757114-3757122/248-B-3757122.c
+codeflaws/248-B-bug-3757114-3757122/248-B-3757114.c
+16
+[('Replace b\'    printf ("%.*d\\\\n", 3, suf[n % P]);\\n\' with b\'    printf ("%3d\\\\n", suf[n % P]);\\n\' at position 17', 16)]

@@ -1,0 +1,4 @@
+codeflaws/379-A-bug-17804350-17804359/379-A-17804359.c
+codeflaws/379-A-bug-17804350-17804359/379-A-17804350.c
+12,13
+[('Delete b\'            printf("%d a\\\\n",a);\\n\' at position 12 in file2', 11), ('Delete b\'     printf("%d b\\\\n",b);\\n\' at position 12 in file2', 11)]

@@ -1,0 +1,4 @@
+codeflaws/214-A-bug-15386379-15386411/214-A-15386411.c
+codeflaws/214-A-bug-15386379-15386411/214-A-15386379.c
+7
+[("Replace b'    for(a=0;a<=n;a++){\\n' with b'    for(a=0;a<=n/2;a++){\\n' at position 8", 7)]

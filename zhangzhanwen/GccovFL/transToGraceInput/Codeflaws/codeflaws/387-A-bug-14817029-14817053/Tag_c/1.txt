@@ -1,0 +1,4 @@
+codeflaws/387-A-bug-14817029-14817053/387-A-14817053.c
+codeflaws/387-A-bug-14817029-14817053/387-A-14817029.c
+16
+[("Replace b'            m=(m1+60)-m2;\\n' with b'            m=(m1+60)-m1;\\n' at position 17", 16)]

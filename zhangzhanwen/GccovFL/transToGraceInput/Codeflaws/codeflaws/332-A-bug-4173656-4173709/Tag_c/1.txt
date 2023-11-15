@@ -1,0 +1,4 @@
+codeflaws/332-A-bug-4173656-4173709/332-A-4173709.c
+codeflaws/332-A-bug-4173656-4173709/332-A-4173656.c
+15
+[("Replace b'            for(j=a-3;j<a-1;j++)\\n' with b'            for(j=a-no+1;j<a-1;j++)\\n' at position 16", 15)]

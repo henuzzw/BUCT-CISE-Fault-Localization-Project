@@ -1,0 +1,4 @@
+codeflaws/169-A-bug-1409447-1411731/169-A-1411731.c
+codeflaws/169-A-bug-1409447-1411731/169-A-1409447.c
+13
+[('Replace b\'\\tprintf("%ld", h[a - 1] - h[a]);\\n\' with b\'\\tprintf("%ld", h[a - 1] - h[b - 1]);\\n\' at position 14', 13)]

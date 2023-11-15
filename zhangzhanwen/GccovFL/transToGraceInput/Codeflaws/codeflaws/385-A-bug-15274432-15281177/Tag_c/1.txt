@@ -1,0 +1,4 @@
+codeflaws/385-A-bug-15274432-15281177/385-A-15281177.c
+codeflaws/385-A-bug-15274432-15281177/385-A-15274432.c
+10
+[("Replace b'max=x[i]-x[i+1]-c;\\n' with b'max=x[i]-x[i+1]-1;\\n' at position 11", 10)]

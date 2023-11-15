@@ -1,0 +1,4 @@
+codeflaws/259-A-bug-9212256-9212267/259-A-9212267.c
+codeflaws/259-A-bug-9212256-9212267/259-A-9212256.c
+16
+[("Replace b'    if(n+m==8)\\n' with b'    if(n==4&&m==4)\\n' at position 17", 16)]

@@ -1,0 +1,4 @@
+codeflaws/382-A-bug-15851435-15851450/382-A-15851450.c
+codeflaws/382-A-bug-15851435-15851450/382-A-15851435.c
+4
+[("Replace b'#define N 26+1\\n' with b'#define N 13+1\\n' at position 5", 4)]

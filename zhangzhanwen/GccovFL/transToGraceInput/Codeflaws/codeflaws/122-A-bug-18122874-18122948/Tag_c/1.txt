@@ -1,0 +1,4 @@
+codeflaws/122-A-bug-18122874-18122948/122-A-18122948.c
+codeflaws/122-A-bug-18122874-18122948/122-A-18122874.c
+28
+[("Replace b'\\tfor (i = 4; i < s; ++i)\\n' with b'\\tfor (i = 4; i * i < s; ++i)\\n' at position 29", 28)]

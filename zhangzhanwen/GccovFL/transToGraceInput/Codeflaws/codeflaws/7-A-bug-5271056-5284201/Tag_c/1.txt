@@ -1,0 +1,4 @@
+codeflaws/7-A-bug-5271056-5284201/7-A-5284201.c
+codeflaws/7-A-bug-5271056-5284201/7-A-5271056.c
+34
+[('Replace b"           if(a[i][j]==\'W\')\\n" with b"           if(a[i][j]==\'w\')\\n" at position 35', 34)]

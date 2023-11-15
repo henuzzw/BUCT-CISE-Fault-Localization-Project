@@ -1,0 +1,4 @@
+codeflaws/476-A-bug-16348364-16348536/476-A-16348536.c
+codeflaws/476-A-bug-16348364-16348536/476-A-16348364.c
+17
+[('Replace b\'    printf("%d",c1/m*m);\\n\' with b\'    printf("%d",c1);\\n\' at position 18', 17)]

@@ -1,0 +1,4 @@
+codeflaws/32-D-bug-138493-138515/32-D-138515.c
+codeflaws/32-D-bug-138493-138515/32-D-138493.c
+18,18,18
+[("Insert b'  \\n' at position 20 in file2", 19), ("Insert b' for(i=1;i<=n;i++)\\n' at position 21 in file2", 20), ('Insert b\'   scanf("%s",map[i]+1);\\n\' at position 22 in file2', 21)]

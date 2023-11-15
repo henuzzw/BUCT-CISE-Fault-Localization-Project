@@ -1,0 +1,4 @@
+codeflaws/304-A-bug-14297808-14297827/304-A-14297827.c
+codeflaws/304-A-bug-14297808-14297827/304-A-14297808.c
+8,9
+[("Replace b'    double c,f;\\n' with b'    float f;\\n' at position 9", 8), ("Delete b'    double c;\\n' at position 9 in file2", 8)]

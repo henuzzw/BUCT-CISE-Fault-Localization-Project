@@ -1,0 +1,4 @@
+codeflaws/569-A-bug-14644600-14644729/569-A-14644729.c
+codeflaws/569-A-bug-14644600-14644729/569-A-14644600.c
+10
+[("Replace b'  for(i=0 ; b>a && b<t ; i++)\\n' with b'  for(i=0 ; b>a && b<=t ; i++)\\n' at position 11", 10)]

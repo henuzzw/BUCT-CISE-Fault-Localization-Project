@@ -1,0 +1,4 @@
+codeflaws/492-A-bug-17378673-17378701/492-A-17378701.c
+codeflaws/492-A-bug-17378673-17378701/492-A-17378673.c
+6
+[("Replace b'\\tfor(i=1;i<=10000;i++)\\n' with b'\\tfor(i=1;i<=10;i++)\\n' at position 7", 6)]

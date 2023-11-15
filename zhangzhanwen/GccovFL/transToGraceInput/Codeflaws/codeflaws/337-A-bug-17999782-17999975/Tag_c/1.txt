@@ -1,0 +1,4 @@
+codeflaws/337-A-bug-17999782-17999975/337-A-17999975.c
+codeflaws/337-A-bug-17999782-17999975/337-A-17999782.c
+63
+[("Replace b'\\t\\ttmp = display[i+selection-1] - display[i];\\n' with b'\\t\\ttmp = calc_arr_diff(display,i,i+selection-1);\\n' at position 64", 63)]

@@ -1,0 +1,4 @@
+codeflaws/614-B-bug-17516351-17516354/614-B-17516354.c
+codeflaws/614-B-bug-17516351-17516354/614-B-17516351.c
+133
+[('Replace b\'\\t\\t\\t//printf("number=%s\\\\n",number);\\n\' with b\'\\t\\t\\tprintf("number=%s\\\\n",number);\\n\' at position 134', 133)]

@@ -1,0 +1,4 @@
+codeflaws/534-A-bug-14927104-14927127/534-A-14927127.c
+codeflaws/534-A-bug-14927104-14927127/534-A-14927104.c
+10,14
+[("Insert b'        return 0;\\n' at position 12 in file2", 11), ("Insert b'        return 0;\\n' at position 17 in file2", 16)]

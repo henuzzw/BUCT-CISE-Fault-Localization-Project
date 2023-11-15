@@ -1,0 +1,4 @@
+codeflaws/78-C-bug-13299891-13299916/78-C-13299916.c
+codeflaws/78-C-bug-13299891-13299916/78-C-13299891.c
+12
+[('Replace b\'    else if ( k == 1 && m != k ) printf("Timur");\\n\' with b\'    else if ( k == 1 ) printf("Timur");\\n\' at position 13', 12)]

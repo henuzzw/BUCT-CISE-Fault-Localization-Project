@@ -1,0 +1,4 @@
+codeflaws/637-C-bug-16700213-16702159/637-C-16702159.c
+codeflaws/637-C-bug-16700213-16702159/637-C-16700213.c
+42
+[('Replace b\'    \\tprintf("%d", ((min>1)?((min-1)/2):0));\\n\' with b\'    \\tprintf("%d", ((min>1)?((min/2)-1):0));\\n\' at position 43', 42)]

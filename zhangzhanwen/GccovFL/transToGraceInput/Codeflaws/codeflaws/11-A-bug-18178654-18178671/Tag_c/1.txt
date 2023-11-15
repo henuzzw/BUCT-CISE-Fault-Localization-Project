@@ -1,0 +1,4 @@
+codeflaws/11-A-bug-18178654-18178671/11-A-18178671.c
+codeflaws/11-A-bug-18178654-18178671/11-A-18178654.c
+19
+[("Replace b'\\t\\t\\tarr[i]=arr[i]+(var*d);\\n' with b'\\t\\t\\tarr[i]=arr[i]+(moves*d);\\n' at position 20", 19)]

@@ -1,0 +1,4 @@
+codeflaws/509-B-bug-10523626-10523659/509-B-10523659.c
+codeflaws/509-B-bug-10523626-10523659/509-B-10523626.c
+29,32
+[('Replace b\'        printf("NO\\\\n");\\n\' with b\'        printf("No\\\\n");\\n\' at position 30', 29), ('Insert b\'        printf("YES\\\\n");\\n\' at position 34 in file2', 33)]

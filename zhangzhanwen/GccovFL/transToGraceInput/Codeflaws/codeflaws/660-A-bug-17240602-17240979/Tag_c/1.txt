@@ -1,0 +1,4 @@
+codeflaws/660-A-bug-17240602-17240979/660-A-17240979.c
+codeflaws/660-A-bug-17240602-17240979/660-A-17240602.c
+19,19
+[("Insert b'    if(min>0 && pgcd(min, min-1) == 1 && pgcd(max, min-1) == 1) return min-1;\\n' at position 21 in file2", 20), ("Insert b'    if(max>0 && pgcd(max, max-1) == 1 && pgcd(max-1, min) == 1) return max-1;\\n' at position 22 in file2", 21)]

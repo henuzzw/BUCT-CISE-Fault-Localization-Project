@@ -1,0 +1,4 @@
+codeflaws/399-B-bug-6132775-6132792/399-B-6132792.c
+codeflaws/399-B-bug-6132775-6132792/399-B-6132775.c
+8
+[('Replace b"    for( i = 0; i < n; i++) if(s[i] == \'B\') res |= 1ll << i;\\n" with b"    for( i = 0; i < n; i++) if(s[i] == \'B\') res|= 1 << i;\\n" at position 9', 8)]

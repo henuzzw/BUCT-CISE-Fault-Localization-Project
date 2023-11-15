@@ -1,0 +1,4 @@
+codeflaws/659-D-bug-18135109-18135261/659-D-18135261.c
+codeflaws/659-D-bug-18135109-18135261/659-D-18135109.c
+14
+[("Replace b'        float r = (float )(y2 - y0) / (x2 - x0);\\n' with b'        float r = (y2 - y0) / (x2 - x0);\\n' at position 15", 14)]

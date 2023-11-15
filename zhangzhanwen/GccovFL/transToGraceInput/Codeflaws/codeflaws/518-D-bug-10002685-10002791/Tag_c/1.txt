@@ -1,0 +1,4 @@
+codeflaws/518-D-bug-10002685-10002791/518-D-10002791.c
+codeflaws/518-D-bug-10002685-10002791/518-D-10002685.c
+1
+[("Replace b'double dp[2002][2002];\\n' with b'double dp[2000][2000];\\n' at position 2", 1)]

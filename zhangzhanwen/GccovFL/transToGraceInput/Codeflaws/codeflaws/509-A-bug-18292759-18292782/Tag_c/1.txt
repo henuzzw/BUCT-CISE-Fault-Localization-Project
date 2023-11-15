@@ -1,0 +1,4 @@
+codeflaws/509-A-bug-18292759-18292782/509-A-18292782.c
+codeflaws/509-A-bug-18292759-18292782/509-A-18292759.c
+22
+[('Replace b\'        printf("12870");\\n\' with b\'        printf("11868");\\n\' at position 23', 22)]

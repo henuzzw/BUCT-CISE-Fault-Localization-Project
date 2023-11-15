@@ -1,0 +1,4 @@
+codeflaws/255-A-bug-18130705-18130717/255-A-18130717.c
+codeflaws/255-A-bug-18130705-18130717/255-A-18130705.c
+19
+[('Delete b\'printf("%d\\\\t%d\\\\t%d",c1,c2,c3);\\n\' at position 19 in file2', 18)]

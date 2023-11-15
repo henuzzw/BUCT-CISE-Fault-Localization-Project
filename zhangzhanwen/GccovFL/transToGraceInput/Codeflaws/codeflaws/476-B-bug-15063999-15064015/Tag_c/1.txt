@@ -1,0 +1,4 @@
+codeflaws/476-B-bug-15063999-15064015/476-B-15064015.c
+codeflaws/476-B-bug-15063999-15064015/476-B-15063999.c
+29
+[('Replace b\'    printf("%.10lf",((double)(r[o-m+11]))/((double)(1<<b)));\\n\' with b\'    printf("%lf",((double)(r[o-m+11]))/((double)(1<<b)));\\n\' at position 30', 29)]

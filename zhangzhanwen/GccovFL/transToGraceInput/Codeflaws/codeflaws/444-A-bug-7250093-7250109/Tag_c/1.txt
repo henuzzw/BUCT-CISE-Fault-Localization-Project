@@ -1,0 +1,4 @@
+codeflaws/444-A-bug-7250093-7250109/444-A-7250109.c
+codeflaws/444-A-bug-7250093-7250109/444-A-7250093.c
+24,24
+[("Replace b'    int i;\\n' with b'    int i,max;\\n' at position 25", 24), ("Insert b'    double max;\\n' at position 26 in file2", 25)]

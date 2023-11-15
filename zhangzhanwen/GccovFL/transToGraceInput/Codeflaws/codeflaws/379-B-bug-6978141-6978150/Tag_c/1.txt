@@ -1,0 +1,4 @@
+codeflaws/379-B-bug-6978141-6978150/379-B-6978150.c
+codeflaws/379-B-bug-6978141-6978150/379-B-6978141.c
+24,34
+[("Insert b'            flag=0;\\n' at position 26 in file2", 25), ("Insert b'            flag=1;\\n' at position 37 in file2", 36)]

@@ -1,0 +1,4 @@
+codeflaws/622-A-bug-17926511-17926522/622-A-17926522.c
+codeflaws/622-A-bug-17926511-17926522/622-A-17926511.c
+14
+[('Replace b\'    printf("%lld\\\\n", n);\\n\' with b\'    printf("%lld\\\\n", a);\\n\' at position 15', 14)]

@@ -1,0 +1,4 @@
+codeflaws/281-B-bug-3756944-3756959/281-B-3756959.c
+codeflaws/281-B-bug-3756944-3756959/281-B-3756944.c
+35
+[("Replace b'        k=(LL)i*X/Y;\\n' with b'        k=i*X/Y;\\n' at position 36", 35)]

@@ -1,0 +1,4 @@
+codeflaws/236-A-bug-18007495-18007529/236-A-18007529.c
+codeflaws/236-A-bug-18007495-18007529/236-A-18007495.c
+14
+[('Delete b\'\\tprintf("%d",k);\\n\' at position 14 in file2', 13)]

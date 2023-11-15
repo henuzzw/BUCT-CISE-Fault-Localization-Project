@@ -1,0 +1,4 @@
+codeflaws/74-A-bug-1804303-1804310/74-A-1804310.c
+codeflaws/74-A-bug-1804303-1804310/74-A-1804303.c
+6
+[("Replace b'    int l,t=-2501;\\n' with b'    int l,t=0;\\n' at position 7", 6)]

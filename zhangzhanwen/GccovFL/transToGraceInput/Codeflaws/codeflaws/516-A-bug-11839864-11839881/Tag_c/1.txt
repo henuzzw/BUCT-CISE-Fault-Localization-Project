@@ -1,0 +1,4 @@
+codeflaws/516-A-bug-11839864-11839881/516-A-11839881.c
+codeflaws/516-A-bug-11839864-11839881/516-A-11839864.c
+30
+[("Replace b'\\t\\t\\ta[c+1]=5;\\n' with b'\\t\\t\\ta[c]=5;\\n' at position 31", 30)]

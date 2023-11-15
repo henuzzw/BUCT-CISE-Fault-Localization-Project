@@ -1,0 +1,4 @@
+codeflaws/399-A-bug-18007016-18007035/399-A-18007035.c
+codeflaws/399-A-bug-18007016-18007035/399-A-18007016.c
+19
+[("Replace b'\\t\\tif(i==p && (i>=1 && i<=n)){\\n' with b'\\t\\tif(i==p && (i>=1 && i<n)){\\n' at position 20", 19)]

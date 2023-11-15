@@ -1,0 +1,4 @@
+codeflaws/439-A-bug-15285131-15285137/439-A-15285137.c
+codeflaws/439-A-bug-15285131-15285137/439-A-15285131.c
+13
+[("Replace b'        if((d-s)>=0)\\n' with b'        if((d-s))\\n' at position 14", 13)]

@@ -1,0 +1,4 @@
+codeflaws/675-A-bug-18212155-18212162/675-A-18212162.c
+codeflaws/675-A-bug-18212155-18212162/675-A-18212155.c
+5
+[('Replace b\'\\tprintf((m<0&&b<=a&&(a-b)%-m==0)||(m>0&&b>=a&&(b-a)%m==0)||(b==a&&m==0)?"YES\\\\n":"NO\\\\n");\\n\' with b\'\\tprintf((m<0&&b<a&&(a-b)%-m==0)||(m>0&&b>a&&(b-a)%m==0)||(b==a&&m==0)?"YES\\\\n":"NO\\\\n");\\n\' at position 6', 5)]

@@ -1,0 +1,4 @@
+codeflaws/148-B-bug-4035263-4035278/148-B-4035278.c
+codeflaws/148-B-bug-4035263-4035278/148-B-4035263.c
+19
+[("Insert b'if(vd>vp)\\n' at position 21 in file2", 20)]

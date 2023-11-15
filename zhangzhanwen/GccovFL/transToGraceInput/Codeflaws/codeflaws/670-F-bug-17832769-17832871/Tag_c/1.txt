@@ -1,0 +1,4 @@
+codeflaws/670-F-bug-17832769-17832871/670-F-17832871.c
+codeflaws/670-F-bug-17832769-17832871/670-F-17832769.c
+154
+[("Replace b'\\t\\t\\t\\telse if(i==m &&(c2[0]==l2-1||c2[1]==2))\\n' with b'\\t\\t\\t\\telse if(i==m &&(c2[0]==l2-1||c2[0]+c2[1]==l2))\\n' at position 155", 154)]

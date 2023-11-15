@@ -1,0 +1,4 @@
+codeflaws/282-B-bug-14695553-14695568/282-B-14695568.c
+codeflaws/282-B-bug-14695553-14695568/282-B-14695553.c
+2,7
+[("Insert b'char a[1000000];\\n' at position 4 in file2", 3), ("Delete b'    char a[1000];\\n' at position 8 in file2", 7)]

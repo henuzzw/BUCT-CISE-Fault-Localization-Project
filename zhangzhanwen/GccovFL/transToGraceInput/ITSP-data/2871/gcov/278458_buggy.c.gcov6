@@ -1,0 +1,36 @@
+        -:    0:Source:../WA_c/278458_buggy.c
+        -:    0:Graph:278458_buggy.gcno
+        -:    0:Data:278458_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        -:    5:    int i,j,N,w,h;
+        1:    6:    scanf("%d%d%d",&N,&w,&h);
+        4:    7:    for(i=1; i<=h; i++)
+        -:    8:    {
+        5:    9:        if(i==1||i==h)
+        -:   10:        {
+        8:   11:            for(j=1; j<=w; j++)
+        -:   12:            {
+        6:   13:                printf("%d",N);
+        -:   14:            }
+        -:   15:        }
+        -:   16:        else
+        -:   17:        {
+        4:   18:            for(j=1; j<=w; j++)
+        3:   19:                if(j%2==0)
+        -:   20:                {
+        1:   21:                    printf(" ");
+        -:   22:                }
+        -:   23:                else
+        -:   24:                {
+        2:   25:                    printf("%d",N);
+        -:   26:                }
+        -:   27:        }
+        3:   28:        printf("\n");
+        -:   29:    }
+        1:   30:    return 0;
+        -:   31:}

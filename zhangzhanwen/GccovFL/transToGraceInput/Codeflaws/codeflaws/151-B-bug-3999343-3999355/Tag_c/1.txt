@@ -1,0 +1,4 @@
+codeflaws/151-B-bug-3999343-3999355/151-B-3999355.c
+codeflaws/151-B-bug-3999343-3999355/151-B-3999343.c
+62
+[('Replace b\'{printf("%s",c[i]);\\n\' with b\'{printf("%s ",c[i]);\\n\' at position 63', 62)]

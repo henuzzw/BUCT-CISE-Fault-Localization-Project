@@ -1,0 +1,4 @@
+codeflaws/262-A-bug-17550511-17550527/262-A-17550527.c
+codeflaws/262-A-bug-17550511-17550527/262-A-17550511.c
+4
+[("Replace b'    int x,mod,count,count2=0;\\n' with b'    int x,mod,count,count2;\\n' at position 5", 4)]

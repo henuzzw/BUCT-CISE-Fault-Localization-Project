@@ -1,0 +1,4 @@
+codeflaws/581-C-bug-13505281-13505317/581-C-13505317.c
+codeflaws/581-C-bug-13505281-13505317/581-C-13505281.c
+17
+[("Replace b'    for (i=9;i>0;i--)\\n' with b'    for (i=1;i<10;i++)\\n' at position 18", 17)]

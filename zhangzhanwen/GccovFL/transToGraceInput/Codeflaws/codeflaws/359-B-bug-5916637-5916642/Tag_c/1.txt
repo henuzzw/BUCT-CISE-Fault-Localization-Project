@@ -1,0 +1,4 @@
+codeflaws/359-B-bug-5916637-5916642/359-B-5916642.c
+codeflaws/359-B-bug-5916637-5916642/359-B-5916637.c
+14
+[('Replace b\'\\tfor (i = 0; i < 2*n; i++) printf("%d ", a[i]);\\n\' with b\'\\tfor (i = 0; i < n; i++) printf("%d ", a[i]);\\n\' at position 15', 14)]

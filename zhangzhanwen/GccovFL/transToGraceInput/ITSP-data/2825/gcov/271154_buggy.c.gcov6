@@ -1,0 +1,26 @@
+        -:    0:Source:../WA_c/271154_buggy.c
+        -:    0:Graph:271154_buggy.gcno
+        -:    0:Data:271154_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        -:    5:    float x,y,x1,y1,r,s;//s is for power of point
+        1:    6:    scanf("%f %f %f %f %f",&x,&y,&r,&x1,&y1);
+        1:    7:    s=(x-x1)*(x-x1)+(y-y1)*(y-y1)-r;//computes the power of point
+        1:    8:    if(s>0)       //point is outside if s is +ive
+        -:    9:    {
+        1:   10:        printf("Point is outside the Circle.");
+        -:   11:    }
+        1:   12:    if(s==0) //point is on it if s=0
+        -:   13:    {
+    #####:   14:        printf("Point is on the Circle.");
+        -:   15:    }
+        1:   16:    if(s<0)          //point is inside if s is -ive
+        -:   17:    {
+    #####:   18:        printf("Point is inside the Circle.");
+        -:   19:    }
+        1:   20:    return 0;
+        -:   21:}

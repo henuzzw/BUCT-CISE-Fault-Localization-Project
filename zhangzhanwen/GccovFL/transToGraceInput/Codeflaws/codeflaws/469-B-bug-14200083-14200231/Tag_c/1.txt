@@ -1,0 +1,4 @@
+codeflaws/469-B-bug-14200083-14200231/469-B-14200231.c
+codeflaws/469-B-bug-14200083-14200231/469-B-14200083.c
+28
+[("Replace b'    struct otr x[q],z[p];\\n' with b'    struct otr x[p],z[q];\\n' at position 29", 28)]

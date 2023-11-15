@@ -1,0 +1,4 @@
+codeflaws/501-A-bug-15335649-15335702/501-A-15335702.c
+codeflaws/501-A-bug-15335649-15335702/501-A-15335649.c
+9
+[("Replace b'         m2=(3*b)/10;\\n' with b'         m2=(3*a)/10;\\n' at position 10", 9)]

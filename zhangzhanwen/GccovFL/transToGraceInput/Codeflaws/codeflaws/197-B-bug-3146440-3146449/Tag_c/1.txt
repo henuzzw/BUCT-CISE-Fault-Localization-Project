@@ -1,0 +1,4 @@
+codeflaws/197-B-bug-3146440-3146449/197-B-3146449.c
+codeflaws/197-B-bug-3146440-3146449/197-B-3146440.c
+35
+[('Replace b\'    //printf("%d\\\\n",e);\\n\' with b\'    printf("%d\\\\n",e);\\n\' at position 36', 35)]

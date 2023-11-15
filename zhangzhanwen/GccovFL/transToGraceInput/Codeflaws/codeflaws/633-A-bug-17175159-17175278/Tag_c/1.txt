@@ -1,0 +1,4 @@
+codeflaws/633-A-bug-17175159-17175278/633-A-17175278.c
+codeflaws/633-A-bug-17175159-17175278/633-A-17175159.c
+9,11
+[("Replace b'        if((a*x+b*y)==c&& x>=0&&y>=0)\\n' with b'        if((a*x+b*y)==c)\\n' at position 10", 9), ('Insert b\'            //printf("%lld %lld",x,y);\\n\' at position 13 in file2', 12)]

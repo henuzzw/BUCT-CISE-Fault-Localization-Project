@@ -1,0 +1,28 @@
+        -:    0:Source:../WA_c/271944_buggy.c
+        -:    0:Graph:271944_buggy.gcno
+        -:    0:Data:271944_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+        1:    3:int main()
+        -:    4:{
+        1:    5:    int n,a=1,b=1,c=1,i;
+        1:    6:    scanf("%d",&n);
+        1:    7:    i=0;
+        4:    8:    for(a=1; a<=n; a++)
+        -:    9:    {
+        9:   10:        for(b=1; b<=a; b++)
+        -:   11:        {
+       16:   12:            for(c=1; c<=b; c++)
+        -:   13:            {
+       10:   14:                if(a+b>c||b+c>a||c+a>b)
+        -:   15:                {
+       10:   16:                    i++;
+        -:   17:                }
+        -:   18:            }
+        -:   19:        }
+        -:   20:    }
+        1:   21:    printf("Number of possible triangles is %d",i);
+        1:   22:    return 0;
+        -:   23:}

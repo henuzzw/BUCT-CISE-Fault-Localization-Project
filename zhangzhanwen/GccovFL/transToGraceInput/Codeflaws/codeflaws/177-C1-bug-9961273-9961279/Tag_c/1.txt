@@ -1,0 +1,4 @@
+codeflaws/177-C1-bug-9961273-9961279/177-C1-9961279.c
+codeflaws/177-C1-bug-9961273-9961279/177-C1-9961273.c
+37
+[('Replace b\'    \\n\' with b\'    printf("donner m");\\n\' at position 38', 37)]

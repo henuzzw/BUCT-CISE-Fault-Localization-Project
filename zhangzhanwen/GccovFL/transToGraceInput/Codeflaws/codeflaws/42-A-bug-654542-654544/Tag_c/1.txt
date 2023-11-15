@@ -1,0 +1,4 @@
+codeflaws/42-A-bug-654542-654544/42-A-654544.c
+codeflaws/42-A-bug-654542-654544/42-A-654542.c
+13
+[("Replace b'     while (r - l > 0.00000001) {\\n' with b'     while (r - l > 0.000001) {\\n' at position 14", 13)]

@@ -1,0 +1,4 @@
+codeflaws/374-A-bug-16321915-16321928/374-A-16321928.c
+codeflaws/374-A-bug-16321915-16321928/374-A-16321915.c
+26
+[("Replace b'\\t\\tif(j+b>m&&j-b<=0)\\n' with b'\\t\\tif(i+b>m&&i-b<=0)\\n' at position 27", 26)]

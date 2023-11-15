@@ -1,0 +1,4 @@
+codeflaws/98-C-bug-792001-792008/98-C-792008.c
+codeflaws/98-C-bug-792001-792008/98-C-792001.c
+10
+[("Replace b'    s=(S*2+T)/3,t=(S+T*2)/3;\\n' with b'    s=(S*2+T)*.333,t=(S+T*2)*.667;\\n' at position 11", 10)]

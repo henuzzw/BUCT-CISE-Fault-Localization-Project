@@ -1,0 +1,4 @@
+codeflaws/102-A-bug-1833406-1833410/102-A-1833410.c
+codeflaws/102-A-bug-1833406-1833410/102-A-1833406.c
+64
+[("Replace b'                           if(l==10000000)\\n' with b'                           if(l==100000)\\n' at position 65", 64)]

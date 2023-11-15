@@ -1,0 +1,4 @@
+codeflaws/490-E-bug-8866315-8866373/490-E-8866373.c
+codeflaws/490-E-bug-8866315-8866373/490-E-8866315.c
+41
+[("Replace b'\\t\\t\\t\\t\\telse if(a==0 && s[j]<ps[j]) break;\\n' with b'\\t\\t\\t\\t\\telse if(s[j]<ps[j]) break;\\n' at position 42", 41)]

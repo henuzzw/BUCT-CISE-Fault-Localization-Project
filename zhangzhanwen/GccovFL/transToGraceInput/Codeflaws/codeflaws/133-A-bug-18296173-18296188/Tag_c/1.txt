@@ -1,0 +1,4 @@
+codeflaws/133-A-bug-18296173-18296188/133-A-18296188.c
+codeflaws/133-A-bug-18296173-18296188/133-A-18296173.c
+16
+[('Replace b"        //if(a[i]==\'+\'){flag=1;break;}\\n" with b"        if(a[i]==\'+\'){flag=1;break;}\\n" at position 17', 16)]

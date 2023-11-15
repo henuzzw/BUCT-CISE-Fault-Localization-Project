@@ -1,0 +1,4 @@
+codeflaws/25-E-bug-1127440-1127446/25-E-1127446.c
+codeflaws/25-E-bug-1127440-1127446/25-E-1127440.c
+37,37
+[("Replace b'\\tchar s[3*100000+1];\\n' with b'\\tchar *s = s1;\\n' at position 38", 37), ("Insert b'\\tstrcpy(s, s1);\\n' at position 39 in file2", 38)]

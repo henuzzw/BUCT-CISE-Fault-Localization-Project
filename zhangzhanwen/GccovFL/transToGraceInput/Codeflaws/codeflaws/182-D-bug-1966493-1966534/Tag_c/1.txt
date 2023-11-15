@@ -1,0 +1,4 @@
+codeflaws/182-D-bug-1966493-1966534/182-D-1966534.c
+codeflaws/182-D-bug-1966493-1966534/182-D-1966493.c
+47,47,47
+[("Insert b'    if((lenA % cl) != 0) {\\n' at position 49 in file2", 48), ("Insert b'        cl = lenA;\\n' at position 50 in file2", 49), ("Insert b'    }\\n' at position 51 in file2", 50)]

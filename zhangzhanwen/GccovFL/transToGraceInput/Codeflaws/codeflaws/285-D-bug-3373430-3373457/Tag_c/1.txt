@@ -1,0 +1,4 @@
+codeflaws/285-D-bug-3373430-3373457/285-D-3373457.c
+codeflaws/285-D-bug-3373430-3373457/285-D-3373430.c
+21
+[('Replace b\'\\tprintf("%lld\\\\n", sols[n]);\\n\' with b\'\\tprintf("%I64\\\\n", sols[n]);\\n\' at position 22', 21)]

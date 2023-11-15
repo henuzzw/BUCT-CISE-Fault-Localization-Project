@@ -1,0 +1,4 @@
+codeflaws/509-B-bug-11678962-11679074/509-B-11679074.c
+codeflaws/509-B-bug-11678962-11679074/509-B-11678962.c
+15
+[("Replace b'    if((max/k-min/k)>1||(max%k-min%k)>=1)\\n' with b'    if((max/k-min/k)>1)\\n' at position 16", 15)]

@@ -1,0 +1,4 @@
+codeflaws/467-C-bug-12314070-12314122/467-C-12314122.c
+codeflaws/467-C-bug-12314070-12314122/467-C-12314070.c
+6
+[("Replace b'    long long int arr[5001],i,a,j;\\n' with b'    int arr[5001],i,a,j;\\n' at position 7", 6)]

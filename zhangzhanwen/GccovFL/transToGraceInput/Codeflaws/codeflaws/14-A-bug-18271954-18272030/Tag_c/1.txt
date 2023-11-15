@@ -1,0 +1,4 @@
+codeflaws/14-A-bug-18271954-18272030/14-A-18272030.c
+codeflaws/14-A-bug-18271954-18272030/14-A-18271954.c
+10,13
+[("Replace b'\\timin = -1, jmax = 0, jmin = m - 1;\\n' with b'\\timin = -1, jmax = 0, jmin = n - 1;\\n' at position 11", 10), ("Insert b'\\n' at position 15 in file2", 14)]

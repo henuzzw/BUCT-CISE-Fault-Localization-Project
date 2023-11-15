@@ -1,0 +1,4 @@
+codeflaws/244-A-bug-9423352-9423358/244-A-9423358.c
+codeflaws/244-A-bug-9423352-9423358/244-A-9423352.c
+31
+[('Replace b\'\\t\\t\\tprintf("%d ",b[j]);\\n\' with b\'\\t\\t\\tprintf("%d",b[j]);\\n\' at position 32', 31)]

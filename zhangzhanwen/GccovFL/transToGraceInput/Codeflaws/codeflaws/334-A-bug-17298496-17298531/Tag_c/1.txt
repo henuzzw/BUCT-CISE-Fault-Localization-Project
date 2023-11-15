@@ -1,0 +1,4 @@
+codeflaws/334-A-bug-17298496-17298531/334-A-17298531.c
+codeflaws/334-A-bug-17298496-17298531/334-A-17298496.c
+18
+[("Insert b'\\tFOR(j,1,n/2+1)\\n' at position 20 in file2", 19)]

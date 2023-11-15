@@ -1,0 +1,4 @@
+codeflaws/463-A-bug-14787145-14787180/463-A-14787180.c
+codeflaws/463-A-bug-14787145-14787180/463-A-14787145.c
+13
+[("Replace b'        if(a+(b/100)<=s){\\n' with b'        if(a+b<=s){\\n' at position 14", 13)]

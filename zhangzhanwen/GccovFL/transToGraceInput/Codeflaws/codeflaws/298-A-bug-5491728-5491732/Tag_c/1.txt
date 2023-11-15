@@ -1,0 +1,4 @@
+codeflaws/298-A-bug-5491728-5491732/298-A-5491732.c
+codeflaws/298-A-bug-5491728-5491732/298-A-5491728.c
+3
+[("Replace b'    int n,maxR=0,maxL=0,minR=1001,minL=1001,i;\\n' with b'    int n,maxR=0,maxL=0,minR,minL,i;\\n' at position 4", 3)]

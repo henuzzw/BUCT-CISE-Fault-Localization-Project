@@ -1,0 +1,4 @@
+codeflaws/182-B-bug-4449326-4449330/182-B-4449330.c
+codeflaws/182-B-bug-4449326-4449330/182-B-4449326.c
+12
+[("Insert b'\\tsum-=n-p;\\n' at position 14 in file2", 13)]

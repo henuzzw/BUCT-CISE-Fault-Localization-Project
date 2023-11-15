@@ -1,0 +1,4 @@
+codeflaws/580-A-bug-17525135-17525166/580-A-17525166.c
+codeflaws/580-A-bug-17525135-17525166/580-A-17525135.c
+25
+[("Replace b'    if (kefa < sequence)\\n' with b'    if (kefa == -1)\\n' at position 26", 25)]

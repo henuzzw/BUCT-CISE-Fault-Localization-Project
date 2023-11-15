@@ -1,0 +1,4 @@
+codeflaws/84-A-bug-16282430-16282448/84-A-16282448.c
+codeflaws/84-A-bug-16282430-16282448/84-A-16282430.c
+6
+[('Insert b\'\\tprintf("%d",n);\\n\' at position 8 in file2', 7)]

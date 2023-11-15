@@ -1,0 +1,4 @@
+codeflaws/515-A-bug-16913836-16913854/515-A-16913854.c
+codeflaws/515-A-bug-16913836-16913854/515-A-16913836.c
+7
+[("Replace b'    if(b<0)\\n' with b'    else if(b<0)\\n' at position 8", 7)]

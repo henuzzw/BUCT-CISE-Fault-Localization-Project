@@ -1,0 +1,4 @@
+codeflaws/478-A-bug-17503156-17503178/478-A-17503178.c
+codeflaws/478-A-bug-17503156-17503178/478-A-17503156.c
+10
+[('Replace b\'    if((x % 5)==0 && x!=0) printf("%d",x/5);\\n\' with b\'    if((x % 5)==0) printf("%d",x/5);\\n\' at position 11', 10)]

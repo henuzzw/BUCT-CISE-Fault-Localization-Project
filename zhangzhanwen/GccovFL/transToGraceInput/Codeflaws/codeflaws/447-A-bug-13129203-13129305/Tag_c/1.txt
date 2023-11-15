@@ -1,0 +1,4 @@
+codeflaws/447-A-bug-13129203-13129305/447-A-13129305.c
+codeflaws/447-A-bug-13129203-13129305/447-A-13129203.c
+14
+[("Replace b'            if(a[i]%p==a[j]%p)\\n' with b'            if(a[i]%10==a[j]%10)\\n' at position 15", 14)]

@@ -1,0 +1,4 @@
+codeflaws/633-B-bug-16385597-16385608/633-B-16385608.c
+codeflaws/633-B-bug-16385597-16385608/633-B-16385597.c
+7
+[("Replace b'        r *= a;\\n' with b'        r *= i;\\n' at position 8", 7)]

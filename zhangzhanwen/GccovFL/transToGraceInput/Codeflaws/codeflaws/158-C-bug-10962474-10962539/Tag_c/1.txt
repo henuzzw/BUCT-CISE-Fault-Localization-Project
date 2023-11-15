@@ -1,0 +1,4 @@
+codeflaws/158-C-bug-10962474-10962539/158-C-10962539.c
+codeflaws/158-C-bug-10962474-10962539/158-C-10962474.c
+42
+[("Insert b'\\t\\t\\t\\thead = tail = NULL;\\n' at position 44 in file2", 43)]

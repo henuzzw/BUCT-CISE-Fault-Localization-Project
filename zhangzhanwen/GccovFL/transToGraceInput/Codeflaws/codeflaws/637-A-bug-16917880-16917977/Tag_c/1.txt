@@ -1,0 +1,4 @@
+codeflaws/637-A-bug-16917880-16917977/637-A-16917977.c
+codeflaws/637-A-bug-16917880-16917977/637-A-16917880.c
+4
+[("Replace b'\\tint a[1000001] = { 0 };\\n' with b'\\tint a[1001] = { 0 };\\n' at position 5", 4)]

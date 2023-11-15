@@ -1,0 +1,72 @@
+        -:    0:Source:../WA_c/1638036_buggy.c
+        -:    0:Graph:1638036_buggy.gcno
+        -:    0:Data:1638036_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<iostream>
+        -:    2:#include<cmath>
+        -:    3:#include<cstring>
+        -:    4:#include<iomanip>
+        -:    5:using namespace std;
+        1:    6:int main()
+        -:    7:{
+        1:    8:    int a = 0, b = 0;
+       17:    9:    while(cin >> a >> b)
+        -:   10:    {
+        8:   11:        int fq = 0;
+        8:   12:        if(a + b < 20)
+        -:   13:        {
+        5:   14:            fq = (a + b) % 4;
+        5:   15:            if(a == 11 || b == 11)
+        -:   16:            {
+    #####:   17:                cout << "Game Over" << endl;
+        -:   18:            }
+        -:   19:            else
+        -:   20:            {
+        5:   21:                if(fq == 0 || fq == 1)
+        -:   22:                {
+        2:   23:                    cout << "A" << endl;
+        -:   24:                }
+        -:   25:                else
+        -:   26:                {
+        3:   27:                    cout << "B" << endl;
+        -:   28:                }
+        -:   29:            }
+        -:   30:        }
+        3:   31:        else if(a + b == 20)
+        -:   32:        {
+    #####:   33:            if(a == 11 || b == 11)
+        -:   34:            {
+    #####:   35:                cout << "Game Over" << endl;
+        -:   36:            }
+        -:   37:            else
+        -:   38:            {
+    #####:   39:                if(a == 10)
+        -:   40:                {
+    #####:   41:                    cout << "A" << endl;
+        -:   42:                }
+        -:   43:            }
+        -:   44:        }
+        -:   45:        else
+        -:   46:        {
+        3:   47:            if(abs(a - b) == 2)
+        -:   48:            {
+        2:   49:                cout << "Game Over" << endl;
+        -:   50:            }
+        -:   51:            else
+        -:   52:            {
+        1:   53:                int wow = 0;
+        1:   54:                wow = a + b - 2;
+        1:   55:                if(wow % 2 == 0)
+        -:   56:                {
+    #####:   57:                    cout << "A" << endl;
+        -:   58:                }
+        -:   59:                else
+        -:   60:                {
+        1:   61:                    cout << "B" << endl;
+        -:   62:                }
+        -:   63:            }
+        -:   64:
+        -:   65:        }
+        -:   66:    }
+        4:   67:}

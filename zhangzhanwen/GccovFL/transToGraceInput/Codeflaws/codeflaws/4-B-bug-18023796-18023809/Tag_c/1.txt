@@ -1,0 +1,4 @@
+codeflaws/4-B-bug-18023796-18023809/4-B-18023809.c
+codeflaws/4-B-bug-18023796-18023809/4-B-18023796.c
+21
+[("Replace b'            while (sumTime - stage < minst[i-1]) {\\n' with b'            while (sumTime - stage <= minst[i-1]) {\\n' at position 22", 21)]

@@ -1,0 +1,4 @@
+codeflaws/327-A-bug-16970531-16970612/327-A-16970612.c
+codeflaws/327-A-bug-16970531-16970612/327-A-16970531.c
+2
+[("Replace b'    int ara[101],n,i,j,k,z=0,o=0,mx=-100000000,p,q,sm=0;\\n' with b'    int ara[101],n,i,j,k,z=0,o=0,mx=0,p,q,sm=0;\\n' at position 3", 2)]

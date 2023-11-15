@@ -1,0 +1,4 @@
+codeflaws/272-C-bug-8396359-8396369/272-C-8396369.c
+codeflaws/272-C-bug-8396359-8396369/272-C-8396359.c
+23,24
+[("Delete b'        \\n' at position 23 in file2", 22), ('Delete b\'        printf("%.0f", stairs[i]);\\n\' at position 23 in file2', 22)]

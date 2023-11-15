@@ -1,0 +1,4 @@
+codeflaws/347-C-bug-6646560-6646568/347-C-6646568.c
+codeflaws/347-C-bug-6646560-6646568/347-C-6646560.c
+23,25
+[("Replace b'  ll_int max, temp;\\n' with b'  ll_int max = 0, temp;\\n' at position 24", 23), ("Insert b'  max = temp;\\n' at position 27 in file2", 26)]

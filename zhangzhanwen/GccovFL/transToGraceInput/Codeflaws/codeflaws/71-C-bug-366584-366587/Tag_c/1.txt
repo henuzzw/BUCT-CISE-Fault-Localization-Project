@@ -1,0 +1,4 @@
+codeflaws/71-C-bug-366584-366587/71-C-366587.c
+codeflaws/71-C-bug-366584-366587/71-C-366584.c
+8
+[("Replace b'\\tfor( m = n, p = 3; p <= m; p++ ) if(!(m%p))\\n' with b'\\tfor( m = n, p = 2; p <= m; p++ ) if(!(m%p))\\n' at position 9", 8)]

@@ -1,0 +1,4 @@
+codeflaws/289-B-bug-4052045-4052048/289-B-4052048.c
+codeflaws/289-B-bug-4052045-4052048/289-B-4052045.c
+17
+[("Replace b'int n,m,k,d,i,a[10001]={0},j,sum=0,c,ans=0;\\n' with b'int n,m,k,d,i,a[205]={0},j,sum=0,c,ans=0;\\n' at position 18", 17)]

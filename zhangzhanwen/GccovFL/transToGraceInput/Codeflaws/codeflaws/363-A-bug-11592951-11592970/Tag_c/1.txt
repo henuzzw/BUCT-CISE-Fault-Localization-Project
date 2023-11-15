@@ -1,0 +1,4 @@
+codeflaws/363-A-bug-11592951-11592970/363-A-11592970.c
+codeflaws/363-A-bug-11592951-11592970/363-A-11592951.c
+25,25
+[("Insert b'\\tif(n==0)\\n' at position 27 in file2", 26), ("Insert b'\\t\\tfun(0);\\n' at position 28 in file2", 27)]

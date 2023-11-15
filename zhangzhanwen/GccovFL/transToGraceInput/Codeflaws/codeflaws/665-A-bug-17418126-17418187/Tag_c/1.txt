@@ -1,0 +1,4 @@
+codeflaws/665-A-bug-17418126-17418187/665-A-17418187.c
+codeflaws/665-A-bug-17418126-17418187/665-A-17418126.c
+10
+[("Replace b'\\t\\tif(i<(h+ta)&&i<1440&&i>(h-tb))\\n' with b'\\t\\tif(i<(h+ta)&&i>=(h-tb))\\n' at position 11", 10)]

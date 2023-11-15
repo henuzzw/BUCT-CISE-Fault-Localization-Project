@@ -1,0 +1,4 @@
+codeflaws/496-A-bug-15888080-15888141/496-A-15888141.c
+codeflaws/496-A-bug-15888080-15888141/496-A-15888080.c
+35
+[("Replace b'      max=0;\\n' with b'\\n' at position 36", 35)]

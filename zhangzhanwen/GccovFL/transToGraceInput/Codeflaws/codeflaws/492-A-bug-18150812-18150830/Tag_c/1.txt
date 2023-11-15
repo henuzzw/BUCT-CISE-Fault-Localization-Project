@@ -1,0 +1,4 @@
+codeflaws/492-A-bug-18150812-18150830/492-A-18150830.c
+codeflaws/492-A-bug-18150812-18150830/492-A-18150812.c
+3
+[('Replace b\'for(i=1,j=1;a>=i;i+=++j)a-=i;\\n\' with b\'for(i=1,j=1;a>=i;i+=++j){a-=i;printf("%d\\\\n",i);}\\n\' at position 4', 3)]

@@ -1,0 +1,4 @@
+codeflaws/501-A-bug-15574478-15574531/501-A-15574531.c
+codeflaws/501-A-bug-15574478-15574531/501-A-15574478.c
+1
+[("Replace b'#define m(t,p) (3*p/10>p-p*t/250?3*p/10:p-p*t/250)\\n' with b'#define m(t,p) (3*p/10>p-p/250*t?3*p:p-p*t/250)\\n' at position 2", 1)]

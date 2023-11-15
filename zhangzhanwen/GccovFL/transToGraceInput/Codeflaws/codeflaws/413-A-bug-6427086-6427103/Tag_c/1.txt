@@ -1,0 +1,4 @@
+codeflaws/413-A-bug-6427086-6427103/413-A-6427103.c
+codeflaws/413-A-bug-6427086-6427103/413-A-6427086.c
+34
+[("Replace b'if(temp>=2-count)\\n' with b'if(temp>2-count)\\n' at position 35", 34)]

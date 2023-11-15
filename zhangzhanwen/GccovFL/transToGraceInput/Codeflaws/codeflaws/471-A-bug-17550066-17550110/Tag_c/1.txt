@@ -1,0 +1,4 @@
+codeflaws/471-A-bug-17550066-17550110/471-A-17550110.c
+codeflaws/471-A-bug-17550066-17550110/471-A-17550066.c
+18,18
+[('Insert b\'    else if (b == 6) printf("Elephant\\\\n");\\n\' at position 20 in file2', 19), ('Insert b\'    else if ((b == 5) || (d == 5)) printf("Bear\\\\n");\\n\' at position 21 in file2', 20)]

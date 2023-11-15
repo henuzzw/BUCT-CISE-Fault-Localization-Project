@@ -1,0 +1,4 @@
+codeflaws/101-A-bug-3317973-3317996/101-A-3317996.c
+codeflaws/101-A-bug-3317973-3317996/101-A-3317973.c
+60
+[("Replace b'if(sum>k)\\n' with b'if(sum>=k)\\n' at position 61", 60)]

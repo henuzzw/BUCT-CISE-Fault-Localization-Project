@@ -1,0 +1,4 @@
+codeflaws/61-C-bug-299930-299933/61-C-299933.c
+codeflaws/61-C-bug-299930-299933/61-C-299930.c
+34
+[('Insert b"  if(a==0){s[0]=\'0\';s[1]=\'\\\\0\';return;}\\n" at position 36 in file2', 35)]

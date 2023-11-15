@@ -1,0 +1,4 @@
+codeflaws/471-D-bug-10665674-10665726/471-D-10665726.c
+codeflaws/471-D-bug-10665674-10665726/471-D-10665674.c
+41
+[('Insert b\'        else if(lenT==0)printf("%d\\\\n",x);\\n\' at position 43 in file2', 42)]

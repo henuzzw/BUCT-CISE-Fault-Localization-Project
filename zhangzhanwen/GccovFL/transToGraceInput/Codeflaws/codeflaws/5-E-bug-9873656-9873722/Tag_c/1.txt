@@ -1,0 +1,4 @@
+codeflaws/5-E-bug-9873656-9873722/5-E-9873722.c
+codeflaws/5-E-bug-9873656-9873722/5-E-9873656.c
+74
+[("Replace b'            if (j == n && (worker.length  > 2 || worker.length == 2 && worker.buffer[worker.length - 2].doubled > 0))\\n' with b'            if (j == n && (worker.length  > 2 || worker.length == 2 && worker.buffer[worker.length - 1].doubled > 0))\\n' at position 75", 74)]

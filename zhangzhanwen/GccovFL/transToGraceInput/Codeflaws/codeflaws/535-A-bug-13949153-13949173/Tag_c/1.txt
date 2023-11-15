@@ -1,0 +1,4 @@
+codeflaws/535-A-bug-13949153-13949173/535-A-13949173.c
+codeflaws/535-A-bug-13949153-13949173/535-A-13949153.c
+24
+[('Replace b\'    else if(n==90)printf("ninety");\\n\' with b\'    else if(n==90)printf("ninety ");\\n\' at position 25', 24)]

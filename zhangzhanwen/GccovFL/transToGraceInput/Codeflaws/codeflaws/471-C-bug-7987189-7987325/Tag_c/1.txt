@@ -1,0 +1,4 @@
+codeflaws/471-C-bug-7987189-7987325/471-C-7987325.c
+codeflaws/471-C-bug-7987189-7987325/471-C-7987189.c
+8
+[("Replace b'    j = (sqrt(1+24*n)-1)/6;\\n' with b'    j = (1 + sqrt(1+24*n))/6;\\n' at position 9", 8)]

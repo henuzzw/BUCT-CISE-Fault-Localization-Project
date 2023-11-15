@@ -1,0 +1,4 @@
+codeflaws/616-A-bug-18231900-18232066/616-A-18232066.c
+codeflaws/616-A-bug-18231900-18232066/616-A-18231900.c
+239
+[("Replace b'    else if(d1==d2 && a[l-d1]==b[ll-d2] && sum<sum2)\\n' with b'    else if(d1==d2 && a[l-d1]==b[l-d2] && sum<sum2)\\n' at position 240", 239)]

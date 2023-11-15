@@ -1,0 +1,4 @@
+codeflaws/194-D-bug-1761507-1761527/194-D-1761527.c
+codeflaws/194-D-bug-1761507-1761527/194-D-1761507.c
+55
+[("Replace b'    if((u - i) % 2 == 0) {\\n' with b'    if(i > 0 && (u - i) % 2 == 0) {\\n' at position 56", 55)]

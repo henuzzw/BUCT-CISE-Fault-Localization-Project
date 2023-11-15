@@ -1,0 +1,4 @@
+codeflaws/680-B-bug-18339407-18339463/680-B-18339463.c
+codeflaws/680-B-bug-18339407-18339463/680-B-18339407.c
+16
+[("Replace b'        else if(l>=0) c += t[l];\\n' with b'        else if(l>0) c += t[l];\\n' at position 17", 16)]

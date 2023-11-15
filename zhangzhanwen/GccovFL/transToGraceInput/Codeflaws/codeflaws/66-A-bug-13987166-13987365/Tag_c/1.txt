@@ -1,0 +1,4 @@
+codeflaws/66-A-bug-13987166-13987365/66-A-13987365.c
+codeflaws/66-A-bug-13987166-13987365/66-A-13987166.c
+13
+[('Replace b\'                    3,"byte","127" ,\\n\' with b\'                    3,"bytes","127" ,\\n\' at position 14', 13)]

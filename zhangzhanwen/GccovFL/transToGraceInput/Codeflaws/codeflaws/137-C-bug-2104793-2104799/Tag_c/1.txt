@@ -1,0 +1,4 @@
+codeflaws/137-C-bug-2104793-2104799/137-C-2104799.c
+codeflaws/137-C-bug-2104793-2104799/137-C-2104793.c
+2
+[('Replace b\'   { long int i,j,k,l[100000],r1[100000],n1,n2,l2[100000],r2[100000];\\n\' with b\'   { long int i,j,k,l[100000],r1[100000],n1,n2,l2[100000],r2[100000];printf("JJJ\\\\n");\\n\' at position 3', 2)]

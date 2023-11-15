@@ -1,0 +1,4 @@
+codeflaws/426-A-bug-10642962-10642976/426-A-10642976.c
+codeflaws/426-A-bug-10642962-10642976/426-A-10642962.c
+14
+[("Replace b'\\tif(total-max<=threshold)\\n' with b'\\tif(total-max>=threshold)\\n' at position 15", 14)]

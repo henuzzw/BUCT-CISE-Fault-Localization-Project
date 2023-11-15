@@ -1,0 +1,4 @@
+codeflaws/318-A-bug-17923580-17923594/318-A-17923594.c
+codeflaws/318-A-bug-17923580-17923594/318-A-17923580.c
+11
+[("Replace b'    if(m>=l)\\n' with b'    if(m>l)\\n' at position 12", 11)]

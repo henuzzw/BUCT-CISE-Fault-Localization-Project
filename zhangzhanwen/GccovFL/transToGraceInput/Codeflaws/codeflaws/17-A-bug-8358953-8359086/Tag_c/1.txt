@@ -1,0 +1,4 @@
+codeflaws/17-A-bug-8358953-8359086/17-A-8359086.c
+codeflaws/17-A-bug-8358953-8359086/17-A-8358953.c
+36
+[("Replace b' if(count>=k)\\n' with b' if(count==k)\\n' at position 37", 36)]

@@ -1,0 +1,4 @@
+codeflaws/625-B-bug-15988818-15989814/625-B-15989814.c
+codeflaws/625-B-bug-15988818-15989814/625-B-15988818.c
+15,26,33
+[("Insert b'            l=i;\\n' at position 17 in file2", 16), ("Insert b'                        j=1;\\n' at position 29 in file2", 28), ("Insert b'            i=l+(j-1);\\n' at position 37 in file2", 36)]

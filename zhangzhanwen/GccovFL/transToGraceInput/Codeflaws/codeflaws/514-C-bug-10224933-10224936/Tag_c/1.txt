@@ -1,0 +1,4 @@
+codeflaws/514-C-bug-10224933-10224936/514-C-10224936.c
+codeflaws/514-C-bug-10224933-10224936/514-C-10224933.c
+44
+[("Delete b'    h[i] &= 0xFF;\\n' at position 44 in file2", 43)]

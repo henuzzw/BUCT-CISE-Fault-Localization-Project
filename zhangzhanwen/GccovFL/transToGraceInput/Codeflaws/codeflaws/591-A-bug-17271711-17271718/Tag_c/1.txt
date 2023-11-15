@@ -1,0 +1,4 @@
+codeflaws/591-A-bug-17271711-17271718/591-A-17271718.c
+codeflaws/591-A-bug-17271711-17271718/591-A-17271711.c
+9
+[('Replace b\'\\tprintf("%f",a);\\n\' with b\'\\tprintf("%.1f",a);\\n\' at position 10', 9)]

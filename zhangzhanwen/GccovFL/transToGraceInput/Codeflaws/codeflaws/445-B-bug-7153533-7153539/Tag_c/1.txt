@@ -1,0 +1,4 @@
+codeflaws/445-B-bug-7153533-7153539/445-B-7153539.c
+codeflaws/445-B-bug-7153533-7153539/445-B-7153533.c
+24
+[("Replace b'\\tlong long ans = 1;\\n' with b'\\tlong long ans;\\n' at position 25", 24)]

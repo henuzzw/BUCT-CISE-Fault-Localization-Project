@@ -1,0 +1,4 @@
+codeflaws/279-A-bug-15906910-15906941/279-A-15906941.c
+codeflaws/279-A-bug-15906910-15906941/279-A-15906910.c
+24
+[("Replace b'\\telse if((abs(x)==abs(y))&&(x<0)&&(y>0))\\n' with b'\\telse if(x==-1*y)\\n' at position 25", 24)]

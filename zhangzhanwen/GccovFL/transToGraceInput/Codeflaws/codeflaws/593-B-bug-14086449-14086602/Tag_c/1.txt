@@ -1,0 +1,4 @@
+codeflaws/593-B-bug-14086449-14086602/593-B-14086602.c
+codeflaws/593-B-bug-14086449-14086602/593-B-14086449.c
+51
+[("Replace b'            i++;if(i==n)break;\\n' with b'            i++;\\n' at position 52", 51)]

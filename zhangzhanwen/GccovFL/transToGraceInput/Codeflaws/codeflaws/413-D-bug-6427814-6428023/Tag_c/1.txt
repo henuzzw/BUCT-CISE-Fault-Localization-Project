@@ -1,0 +1,4 @@
+codeflaws/413-D-bug-6427814-6428023/413-D-6428023.c
+codeflaws/413-D-bug-6427814-6428023/413-D-6427814.c
+29
+[("Replace b'\\t\\tif(D[i][k])r=(r+D[i][j]*(llu)T[Z[i+1]])%m;\\n' with b'\\t\\tif(D[i][k])r+=D[i][j]*(llu)T[Z[i]]%m;\\n' at position 30", 29)]

@@ -1,0 +1,4 @@
+codeflaws/103-A-bug-3720919-3720999/103-A-3720999.c
+codeflaws/103-A-bug-3720919-3720999/103-A-3720919.c
+13
+[("Replace b'        clicks[i] = (answers[i] - 1)*(i + 1) + 1;\\n' with b'        clicks[i] = answers[i] + i;\\n' at position 14", 13)]

@@ -1,0 +1,4 @@
+codeflaws/670-D1-bug-17917073-17917152/670-D1-17917152.c
+codeflaws/670-D1-bug-17917073-17917152/670-D1-17917073.c
+26
+[("Replace b'\\t\\tmin=2001;\\n' with b'\\t\\tmin=1001;\\n' at position 27", 26)]

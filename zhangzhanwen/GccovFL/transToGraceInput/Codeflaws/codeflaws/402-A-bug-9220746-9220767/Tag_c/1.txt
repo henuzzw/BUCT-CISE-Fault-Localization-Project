@@ -1,0 +1,4 @@
+codeflaws/402-A-bug-9220746-9220767/402-A-9220767.c
+codeflaws/402-A-bug-9220746-9220767/402-A-9220746.c
+8
+[("Replace b'    while (a > 0)\\n' with b'    while (a >= 0)\\n' at position 9", 8)]

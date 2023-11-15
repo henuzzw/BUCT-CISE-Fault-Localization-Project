@@ -1,0 +1,4 @@
+codeflaws/401-B-bug-6058622-6058651/401-B-6058651.c
+codeflaws/401-B-bug-6058622-6058651/401-B-6058622.c
+60
+[("Replace b' ans=x/2;\\n' with b' ans=x%2==0?x/2:(x/2)+1;\\n' at position 61", 60)]

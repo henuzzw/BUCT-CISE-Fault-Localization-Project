@@ -1,0 +1,4 @@
+codeflaws/94-A-bug-13924714-13925058/94-A-13925058.c
+codeflaws/94-A-bug-13924714-13925058/94-A-13924714.c
+5
+[("Insert b'  restauracion(code);\\n' at position 7 in file2", 6)]

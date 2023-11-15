@@ -1,0 +1,4 @@
+codeflaws/463-A-bug-15884342-15884375/463-A-15884375.c
+codeflaws/463-A-bug-15884342-15884375/463-A-15884342.c
+13
+[("Replace b'            if(u<r&r!=100)\\n' with b'            if(u<r&b!=100)\\n' at position 14", 13)]

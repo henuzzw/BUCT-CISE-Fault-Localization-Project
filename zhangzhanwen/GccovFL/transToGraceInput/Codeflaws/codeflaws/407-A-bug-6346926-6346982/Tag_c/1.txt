@@ -1,0 +1,4 @@
+codeflaws/407-A-bug-6346926-6346982/407-A-6346982.c
+codeflaws/407-A-bug-6346926-6346982/407-A-6346926.c
+26
+[("Replace b'\\t\\t\\ty = sqrt((double)(b*b*(double)xa*xa)/(xa*xa+ya*ya));\\n' with b'\\t\\t\\ty = sqrt((double)(b*b*xa*xa)/(xa*xa+ya*ya));\\n' at position 27", 26)]

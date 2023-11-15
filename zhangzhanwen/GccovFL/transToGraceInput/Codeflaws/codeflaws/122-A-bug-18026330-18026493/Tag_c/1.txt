@@ -1,0 +1,4 @@
+codeflaws/122-A-bug-18026330-18026493/122-A-18026493.c
+codeflaws/122-A-bug-18026330-18026493/122-A-18026330.c
+6
+[("Replace b'    \\tif(inp%a[i]==0){\\n' with b'    \\tif((inp/a[i])%2 == 0 && inp%a[i]==0){\\n' at position 7", 6)]

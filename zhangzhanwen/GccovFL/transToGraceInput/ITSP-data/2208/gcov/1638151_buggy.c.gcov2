@@ -1,0 +1,61 @@
+        -:    0:Source:../WA_c/1638151_buggy.c
+        -:    0:Graph:1638151_buggy.gcno
+        -:    0:Data:1638151_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#define _CRT_SECURE_NO_WARNINGS 1
+        -:    2:#include<string.h>
+        -:    3:#include<iostream>
+        -:    4:#include<string>
+        -:    5:#include<iomanip>
+        -:    6:#include<cmath>
+        -:    7:#include <stdlib.h>
+        -:    8:#include <cstdio>
+        -:    9:#include<stdlib.h>
+        -:   10:
+        -:   11:using namespace std;
+        4:   12:int main()
+        -:   13:{
+        -:   14:    int a, b;
+        7:   15:    while (cin >> a >> b)
+        -:   16:    {
+        3:   17:        if (a > 99 || b > 99)
+        -:   18:        {
+        -:   19:            break;
+        -:   20:        }
+        3:   21:        else if ((a > 10 || b > 10) && (((a - b) > 1) || (b - a) > 1))
+        -:   22:        {
+        1:   23:            cout << "Game Over" << endl;
+        -:   24:        }
+        2:   25:        else if (a >= 10 && b >= 10)
+        -:   26:        {
+    #####:   27:            int n = a + b;
+    #####:   28:            int u = n - 20;
+    #####:   29:            int y = u % 2;
+    #####:   30:            if (y == 0)
+        -:   31:            {
+    #####:   32:                cout << "A" << endl;
+        -:   33:            }
+        -:   34:            else
+        -:   35:            {
+    #####:   36:                cout << "B" << endl;
+        -:   37:
+    #####:   38:            }
+        -:   39:        }
+        -:   40:        else
+        -:   41:        {
+        2:   42:            int n = a + b+1;
+        2:   43:            int u = n % 2;
+        2:   44:            if (u == 1 || u == 0)
+        -:   45:            {
+        2:   46:                cout << "A" << endl;
+        -:   47:            }
+        -:   48:            else
+        -:   49:            {
+    #####:   50:                cout << "B" << endl;
+        -:   51:            }
+        -:   52:        }
+        -:   53:    }
+        -:   54:
+        1:   55:    return 0;
+        3:   56:}

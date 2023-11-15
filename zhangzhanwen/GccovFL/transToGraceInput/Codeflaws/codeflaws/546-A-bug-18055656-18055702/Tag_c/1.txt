@@ -1,0 +1,4 @@
+codeflaws/546-A-bug-18055656-18055702/546-A-18055702.c
+codeflaws/546-A-bug-18055656-18055702/546-A-18055656.c
+10
+[('Replace b\'    if(cost<n){printf("0");}\\n\' with b\'    if(cost<<n){printf("0");}\\n\' at position 11', 10)]

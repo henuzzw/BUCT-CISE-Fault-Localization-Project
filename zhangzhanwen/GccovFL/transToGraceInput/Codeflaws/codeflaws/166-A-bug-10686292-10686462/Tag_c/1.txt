@@ -1,0 +1,4 @@
+codeflaws/166-A-bug-10686292-10686462/166-A-10686462.c
+codeflaws/166-A-bug-10686292-10686462/166-A-10686292.c
+29
+[("Replace b'                while((temp.prob>array[position-1].prob)||(temp.prob==array[position-1].prob&&temp.penality<array[position-1].penality)&&position>0)\\n' with b'                while((temp.prob>array[position-1].prob)||(temp.prob==array[position-1].prob&&temp.penality>array[position-1].penality)&&position>0)\\n' at position 30", 29)]

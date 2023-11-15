@@ -1,0 +1,4 @@
+codeflaws/479-D-bug-11510194-11510251/479-D-11510251.c
+codeflaws/479-D-bug-11510194-11510251/479-D-11510194.c
+46
+[("Replace b'            if ( binary(i, n, a[i]+y-x, a) >= 0 )\\n' with b'            if ( i < n && a[i+1]-a[i] == y-x )\\n' at position 47", 46)]

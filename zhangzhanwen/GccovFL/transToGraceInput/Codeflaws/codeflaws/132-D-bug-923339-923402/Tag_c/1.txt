@@ -1,0 +1,4 @@
+codeflaws/132-D-bug-923339-923402/132-D-923402.c
+codeflaws/132-D-bug-923339-923402/132-D-923339.c
+34
+[("Replace b'        i = j; break;\\n' with b'        i = j; continue;\\n' at position 35", 34)]

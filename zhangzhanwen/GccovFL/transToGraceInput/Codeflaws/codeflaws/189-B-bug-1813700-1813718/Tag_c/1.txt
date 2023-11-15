@@ -1,0 +1,4 @@
+codeflaws/189-B-bug-1813700-1813718/189-B-1813718.c
+codeflaws/189-B-bug-1813700-1813718/189-B-1813700.c
+10
+[("Replace b'            s=m*n*(w-m)*(h-n);\\n' with b'            s=n*n*m*m;\\n' at position 11", 10)]

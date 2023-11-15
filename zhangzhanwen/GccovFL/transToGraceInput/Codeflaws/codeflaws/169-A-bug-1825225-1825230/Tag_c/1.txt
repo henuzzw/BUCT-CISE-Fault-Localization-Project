@@ -1,0 +1,4 @@
+codeflaws/169-A-bug-1825225-1825230/169-A-1825230.c
+codeflaws/169-A-bug-1825225-1825230/169-A-1825225.c
+46
+[('Replace b\'    printf("%I64u",h[b]-h[b-1]);\\n\' with b\'    printf("%I64u",h[a+1]-h[a]);\\n\' at position 47', 46)]

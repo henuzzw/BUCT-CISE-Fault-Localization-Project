@@ -1,0 +1,4 @@
+codeflaws/584-B-bug-13744971-13744986/584-B-13744986.c
+codeflaws/584-B-bug-13744971-13744986/584-B-13744971.c
+13
+[('Replace b\'    else printf("%d",1000000007+p-w);\\n\' with b\'    else printf("-1");\\n\' at position 14', 13)]

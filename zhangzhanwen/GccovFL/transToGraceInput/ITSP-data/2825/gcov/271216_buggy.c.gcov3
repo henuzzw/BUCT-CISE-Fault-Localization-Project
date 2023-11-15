@@ -1,0 +1,35 @@
+        -:    0:Source:../WA_c/271216_buggy.c
+        -:    0:Graph:271216_buggy.gcno
+        -:    0:Data:271216_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        -:    3:
+        1:    4:int main()
+        -:    5:{
+        -:    6:    float x, y, x1, y1, r,s ;
+        -:    7:    // (x,y) are co-ordinates for center of circle .
+        -:    8:    // (x1,y1) is point whose relative loacation w.r.t circle we have to see .
+        -:    9:    // r is radius of circle .
+        -:   10:    // s is distance of point from center of circle .
+        1:   11:    scanf ("%f %f %f %f %f",&x,&y,&r,&x1,&y1);
+        1:   12:    s = sqrtf(((x - x1)*(x - x1)) + ((y - y1)*(y - y1))) ;
+        1:   13:    if (s>r)
+        -:   14:    {
+    #####:   15:        printf("Point is outside the Circle.");// if radius is less than distance from center , point is outside the circle .
+        -:   16:    }
+        1:   17:    else if (s==r)
+        -:   18:    {
+        1:   19:        printf("Point is on the Circle");// if radius is equal to distance from center , point is on the circumference .
+        -:   20:    }
+        -:   21:    else
+        -:   22:    {
+    #####:   23:        printf("Point is inside the Circle.");
+        -:   24:
+        -:   25:    }
+        -:   26:    // if radius is greater than distance from center then point is inside the circle .
+        -:   27:
+        -:   28:
+        1:   29:    return 0;
+        -:   30:}

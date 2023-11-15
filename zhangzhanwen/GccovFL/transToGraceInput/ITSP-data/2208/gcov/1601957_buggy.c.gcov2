@@ -1,0 +1,38 @@
+        -:    0:Source:../WA_c/1601957_buggy.c
+        -:    0:Graph:1601957_buggy.gcno
+        -:    0:Data:1601957_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<math.h>
+        4:    3:int main()
+        -:    4:{
+        -:    5:    int m, n;
+        7:    6:    while(scanf("%d%d", &m, &n) != EOF)
+        -:    7:    {
+        3:    8:        if(m == 11 && n <= 9 || m <= 9 && n == 11)
+        1:    9:            printf("Game Over\n");
+        3:   10:        if(m >= 10 && n >= 10)
+        -:   11:        {
+        -:   12:            int ch, c1;
+    #####:   13:            if(m - n == 2 || n - m == 2)
+    #####:   14:                printf("Game Over\n");
+        -:   15:            else
+        -:   16:            {
+    #####:   17:                ch = m + n + 5;
+    #####:   18:                c1 = ch % 4;
+    #####:   19:                if(c1 == 0 || c1 == 1)printf("A\n");
+    #####:   20:                if(c1 == 2 || c1 == 3) printf("B\n");
+        -:   21:            }
+        -:   22:        }
+        3:   23:        if(m < 10 && n < 10)
+        -:   24:        {
+        -:   25:            int ch, c1;
+        2:   26:            ch = m + n;
+        2:   27:            c1 = ch % 4;
+        2:   28:            if(c1 == 0 || c1 == 1)printf("A\n");
+        2:   29:            if(c1 == 2 || c1 == 3) printf("B\n");
+        -:   30:        }
+        -:   31:    }
+        1:   32:    return 0;
+        -:   33:}

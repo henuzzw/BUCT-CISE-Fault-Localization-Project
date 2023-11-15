@@ -1,0 +1,4 @@
+codeflaws/509-B-bug-11349359-11354327/509-B-11354327.c
+codeflaws/509-B-bug-11349359-11354327/509-B-11349359.c
+21
+[('Replace b\'\\t\\t\\tprintf("%d ",j<=min ? 1 : j-min);\\n\' with b\'\\t\\t\\tprintf("%d ",j<min ? 1 : j-min+1);\\n\' at position 22', 21)]

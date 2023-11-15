@@ -1,0 +1,4 @@
+codeflaws/259-A-bug-10272005-10272065/259-A-10272065.c
+codeflaws/259-A-bug-10272005-10272065/259-A-10272005.c
+10,12
+[('Replace b\'\\t\\t\\tscanf(" %c", &str[i][j]);\\n\' with b\'\\t\\t\\tscanf("%c", &str[i][j]);\\n\' at position 11', 10), ('Insert b\'\\t\\t//\\tprintf("%d %d\\\\n", i, j);\\n\' at position 14 in file2', 13)]

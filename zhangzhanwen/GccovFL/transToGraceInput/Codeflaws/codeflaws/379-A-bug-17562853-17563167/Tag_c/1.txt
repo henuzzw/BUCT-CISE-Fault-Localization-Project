@@ -1,0 +1,4 @@
+codeflaws/379-A-bug-17562853-17563167/379-A-17563167.c
+codeflaws/379-A-bug-17562853-17563167/379-A-17562853.c
+9,13
+[("Replace b'    while(a/b>=1)\\n' with b'    while(s>1)\\n' at position 10", 9), ("Delete b'        s/=b;\\n' at position 13 in file2", 12)]

@@ -1,0 +1,4 @@
+codeflaws/61-D-bug-13942552-13942558/61-D-13942558.c
+codeflaws/61-D-bug-13942552-13942558/61-D-13942552.c
+7
+[("Replace b'            grafo[i]=-1;\\n' with b'            grafo[i]=0;\\n' at position 8", 7)]

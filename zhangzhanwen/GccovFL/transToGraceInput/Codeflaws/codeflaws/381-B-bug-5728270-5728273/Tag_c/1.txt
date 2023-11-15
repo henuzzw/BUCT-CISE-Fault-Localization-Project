@@ -1,0 +1,4 @@
+codeflaws/381-B-bug-5728270-5728273/381-B-5728273.c
+codeflaws/381-B-bug-5728270-5728273/381-B-5728270.c
+70
+[("Replace b'    if ( maxr != -1 )\\n' with b'    if ( maxr == -1 )\\n' at position 71", 70)]

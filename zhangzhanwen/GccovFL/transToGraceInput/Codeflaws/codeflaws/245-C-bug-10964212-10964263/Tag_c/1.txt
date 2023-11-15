@@ -1,0 +1,4 @@
+codeflaws/245-C-bug-10964212-10964263/245-C-10964263.c
+codeflaws/245-C-bug-10964212-10964263/245-C-10964212.c
+10
+[("Replace b'    if(n%2==0||n==1)\\n' with b'    if(n%2==0)\\n' at position 11", 10)]

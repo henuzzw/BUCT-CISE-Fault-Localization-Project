@@ -1,0 +1,4 @@
+codeflaws/357-A-bug-17824961-17824980/357-A-17824980.c
+codeflaws/357-A-bug-17824961-17824980/357-A-17824961.c
+15
+[("Replace b'        if(((lll>=x)&&(lll<=y)) && ((aaa<=y)&&(aaa>=x))){\\n' with b'        if(((lll>=x)&&(lll<=y)) && ((aaa<=y)&&(lll>=x))){\\n' at position 16", 15)]

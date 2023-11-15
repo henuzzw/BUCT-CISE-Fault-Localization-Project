@@ -1,0 +1,4 @@
+codeflaws/500-A-bug-18160029-18160094/500-A-18160094.c
+codeflaws/500-A-bug-18160029-18160094/500-A-18160029.c
+12
+[("Replace b'for(i=0;i<n;i++){\\n' with b'for(i=0;i<n-1;i++){\\n' at position 13", 12)]

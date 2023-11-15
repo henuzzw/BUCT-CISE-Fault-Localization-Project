@@ -1,0 +1,4 @@
+codeflaws/301-A-bug-3768055-3768056/301-A-3768056.c
+codeflaws/301-A-bug-3768055-3768056/301-A-3768055.c
+13
+[('Replace b\'    // freopen("in", "r", stdin);\\n\' with b\'    freopen("in", "r", stdin);\\n\' at position 14', 13)]

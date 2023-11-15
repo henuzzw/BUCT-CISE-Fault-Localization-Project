@@ -1,0 +1,4 @@
+codeflaws/370-A-bug-14966825-14966863/370-A-14966863.c
+codeflaws/370-A-bug-14966825-14966863/370-A-14966825.c
+18
+[("Replace b'\\t\\tif (e==f){\\n' with b'\\t\\tif (a+b>=c+d){\\n' at position 19", 18)]

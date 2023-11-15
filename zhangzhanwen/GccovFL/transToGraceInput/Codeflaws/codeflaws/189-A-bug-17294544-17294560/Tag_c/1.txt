@@ -1,0 +1,4 @@
+codeflaws/189-A-bug-17294544-17294560/189-A-17294560.c
+codeflaws/189-A-bug-17294544-17294560/189-A-17294544.c
+11
+[("Replace b'\\t\\tarr[i]=-1000000000;\\n' with b'\\t\\tarr[i]=-2;\\n' at position 12", 11)]

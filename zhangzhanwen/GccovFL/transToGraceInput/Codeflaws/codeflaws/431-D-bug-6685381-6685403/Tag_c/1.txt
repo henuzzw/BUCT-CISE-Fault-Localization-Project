@@ -1,0 +1,4 @@
+codeflaws/431-D-bug-6685381-6685403/431-D-6685403.c
+codeflaws/431-D-bug-6685381-6685403/431-D-6685381.c
+21
+[('Replace b\'\\tscanf("%lld %d",&m,&k);\\n\' with b\'\\tscanf("%d %d",&m,&k);\\n\' at position 22', 21)]

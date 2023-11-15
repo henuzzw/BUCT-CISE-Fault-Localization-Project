@@ -1,0 +1,4 @@
+codeflaws/236-A-bug-18338107-18338153/236-A-18338153.c
+codeflaws/236-A-bug-18338107-18338153/236-A-18338107.c
+17
+[("Replace b'        if(ara[i]!=0){\\n' with b'        if(ara[i]==1 || ara[i]==2){\\n' at position 18", 17)]

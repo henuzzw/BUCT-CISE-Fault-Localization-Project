@@ -1,0 +1,4 @@
+codeflaws/43-A-bug-14759205-14759240/43-A-14759240.c
+codeflaws/43-A-bug-14759205-14759240/43-A-14759205.c
+7
+[("Replace b'\\tchar str[1000][1000];\\n' with b'\\tchar str[10000][10];\\n' at position 8", 7)]

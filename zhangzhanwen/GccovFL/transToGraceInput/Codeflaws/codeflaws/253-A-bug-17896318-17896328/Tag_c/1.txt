@@ -1,0 +1,4 @@
+codeflaws/253-A-bug-17896318-17896328/253-A-17896328.c
+codeflaws/253-A-bug-17896318-17896328/253-A-17896318.c
+5
+[("Replace b'char v[200];\\n' with b'char v[100];\\n' at position 6", 5)]

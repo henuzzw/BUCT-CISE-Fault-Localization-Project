@@ -1,0 +1,4 @@
+codeflaws/357-A-bug-17838979-17838990/357-A-17838990.c
+codeflaws/357-A-bug-17838979-17838990/357-A-17838979.c
+13
+[("Replace b'\\t\\t\\t\\treturn 0;\\n' with b'\\t\\t\\t\\texit(1);\\n' at position 14", 13)]

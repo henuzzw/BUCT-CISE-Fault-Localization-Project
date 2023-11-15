@@ -1,0 +1,4 @@
+codeflaws/540-A-bug-16875647-16875666/540-A-16875666.c
+codeflaws/540-A-bug-16875647-16875666/540-A-16875647.c
+6,6
+[("Replace b'    int cvp=0,n,i;\\n' with b'    int cvp=0,n,i,a[10000]={0},b[10000]={0};\\n' at position 7", 6), ("Insert b'    char a[10000]={0},b[10000]={0};\\n' at position 8 in file2", 7)]

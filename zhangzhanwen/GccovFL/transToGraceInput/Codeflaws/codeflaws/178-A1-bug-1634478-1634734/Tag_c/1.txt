@@ -1,0 +1,4 @@
+codeflaws/178-A1-bug-1634478-1634734/178-A1-1634734.c
+codeflaws/178-A1-bug-1634478-1634734/178-A1-1634478.c
+7
+[("Replace b'    else for(m = n ; m != (m & -m) ; m ^= (m & -m));\\n' with b'    else for(m = n ; m != (m & -m) ; m &= -m);\\n' at position 8", 7)]

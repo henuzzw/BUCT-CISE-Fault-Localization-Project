@@ -1,0 +1,4 @@
+codeflaws/402-C-bug-6063209-6063246/402-C-6063246.c
+codeflaws/402-C-bug-6063209-6063246/402-C-6063209.c
+33
+[("Insert b'                flag=0;\\n' at position 35 in file2", 34)]

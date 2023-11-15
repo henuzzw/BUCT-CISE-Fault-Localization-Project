@@ -1,0 +1,4 @@
+codeflaws/118-A-bug-18327752-18328450/118-A-18328450.c
+codeflaws/118-A-bug-18327752-18328450/118-A-18327752.c
+21
+[('Replace b"\\t\\tif(currentChar!=\'a\'&&currentChar!=\'e\'&&currentChar!=\'i\'&&currentChar!=\'o\'&&currentChar!=\'u\'&&currentChar!=\'y\'&&currentChar!=\'A\'&&currentChar!=\'E\'&&currentChar!=\'I\'&&currentChar!=\'O\'&&currentChar!=\'U\'&&currentChar!=\'Y\')\\n" with b"\\t\\tif(currentChar!=\'a\'&&currentChar!=\'e\'&&currentChar!=\'i\'&&currentChar!=\'o\'&&currentChar!=\'u\'&&currentChar!=\'A\'&&currentChar!=\'E\'&&currentChar!=\'I\'&&currentChar!=\'O\'&&currentChar!=\'U\'&&currentChar!=\'Y\')\\n" at position 22', 21)]

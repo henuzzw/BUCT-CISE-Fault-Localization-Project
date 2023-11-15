@@ -1,0 +1,4 @@
+codeflaws/139-A-bug-13580676-13581003/139-A-13581003.c
+codeflaws/139-A-bug-13580676-13581003/139-A-13580676.c
+13,14,14
+[("Insert b'        {\\n' at position 15 in file2", 14), ("Insert b'            i=1;\\n' at position 17 in file2", 16), ("Insert b'        }\\n' at position 18 in file2", 17)]

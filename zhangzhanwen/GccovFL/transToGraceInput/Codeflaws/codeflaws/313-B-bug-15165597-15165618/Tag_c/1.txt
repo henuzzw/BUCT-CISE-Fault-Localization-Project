@@ -1,0 +1,4 @@
+codeflaws/313-B-bug-15165597-15165618/313-B-15165618.c
+codeflaws/313-B-bug-15165597-15165618/313-B-15165597.c
+15
+[("Replace b'\\t\\t\\n' with b'\\tdp[len-1]=dp[len-2]+1;\\t\\n' at position 16", 15)]

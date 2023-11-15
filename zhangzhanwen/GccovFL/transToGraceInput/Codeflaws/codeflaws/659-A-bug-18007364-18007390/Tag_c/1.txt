@@ -1,0 +1,4 @@
+codeflaws/659-A-bug-18007364-18007390/659-A-18007390.c
+codeflaws/659-A-bug-18007364-18007390/659-A-18007364.c
+6,6,6
+[("Insert b'        if (k>n){\\n' at position 8 in file2", 7), ("Insert b'            k=k%n;\\n' at position 9 in file2", 8), ("Insert b'        }\\n' at position 10 in file2", 9)]

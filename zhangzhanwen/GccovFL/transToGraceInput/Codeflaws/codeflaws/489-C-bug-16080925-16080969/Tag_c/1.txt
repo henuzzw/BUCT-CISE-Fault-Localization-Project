@@ -1,0 +1,4 @@
+codeflaws/489-C-bug-16080925-16080969/489-C-16080969.c
+codeflaws/489-C-bug-16080925-16080969/489-C-16080925.c
+16
+[("Replace b'\\tif(nine>m || m==0 || (s==0 && m!=1) || (nine>=m && s%9!=0)){\\n' with b'\\tif(nine>m || m==0 || (s==0 && m!=1) || (nine>=m && s!=9)){\\n' at position 17", 16)]

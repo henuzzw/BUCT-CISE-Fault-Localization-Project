@@ -1,0 +1,4 @@
+codeflaws/4-A-bug-18339931-18340109/4-A-18340109.c
+codeflaws/4-A-bug-18339931-18340109/4-A-18339931.c
+8
+[("Replace b'     if(w%2==0 && w!=2)\\n' with b'     if(w%2==0)\\n' at position 9", 8)]

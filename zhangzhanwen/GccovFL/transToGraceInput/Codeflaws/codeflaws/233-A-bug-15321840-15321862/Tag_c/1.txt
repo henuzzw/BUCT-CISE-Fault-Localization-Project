@@ -1,0 +1,4 @@
+codeflaws/233-A-bug-15321840-15321862/233-A-15321862.c
+codeflaws/233-A-bug-15321840-15321862/233-A-15321840.c
+10
+[("Replace b'           if(n%2)\\n' with b'           if(n<2)\\n' at position 11", 10)]

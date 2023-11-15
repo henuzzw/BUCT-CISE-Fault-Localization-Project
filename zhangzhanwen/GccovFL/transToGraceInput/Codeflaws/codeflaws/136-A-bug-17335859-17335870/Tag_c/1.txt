@@ -1,0 +1,4 @@
+codeflaws/136-A-bug-17335859-17335870/136-A-17335870.c
+codeflaws/136-A-bug-17335859-17335870/136-A-17335859.c
+16
+[('Replace b\'printf("%d\\\\t",solved[i]);\\n\' with b\'printf("%d",solved[i]);\\n\' at position 17', 16)]

@@ -1,0 +1,4 @@
+codeflaws/622-B-bug-17862843-17862863/622-B-17862863.c
+codeflaws/622-B-bug-17862843-17862863/622-B-17862843.c
+11
+[('Replace b\'\\tprintf("%02d:%02d",h,m);\\n\' with b\'\\tprintf("%d:%d",h,m);\\n\' at position 12', 11)]

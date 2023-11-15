@@ -1,0 +1,4 @@
+codeflaws/424-A-bug-17068480-17068493/424-A-17068493.c
+codeflaws/424-A-bug-17068480-17068493/424-A-17068480.c
+49
+[('Replace b\'\\tprintf("%d\\\\n",require);\\n\' with b\'\\t//printf("%d\\\\n",require);\\n\' at position 50', 49)]

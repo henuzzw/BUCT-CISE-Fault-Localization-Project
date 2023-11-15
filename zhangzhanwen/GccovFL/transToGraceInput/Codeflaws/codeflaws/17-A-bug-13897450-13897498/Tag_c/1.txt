@@ -1,0 +1,4 @@
+codeflaws/17-A-bug-13897450-13897498/17-A-13897498.c
+codeflaws/17-A-bug-13897450-13897498/17-A-13897450.c
+41
+[('Replace b\'    if(count>=k)printf("YES");\\n\' with b\'    if(count==k)printf("YES");\\n\' at position 42', 41)]

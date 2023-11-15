@@ -1,0 +1,4 @@
+codeflaws/42-C-bug-3789261-3789291/42-C-3789291.c
+codeflaws/42-C-bug-3789261-3789291/42-C-3789261.c
+82,94
+[("Replace b'\\tdiv(0);\\n' with b'\\tdiv(1);\\n' at position 83", 82), ("Insert b'\\n' at position 96 in file2", 95)]

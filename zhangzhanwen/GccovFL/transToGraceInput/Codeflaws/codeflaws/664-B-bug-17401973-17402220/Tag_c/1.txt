@@ -1,0 +1,4 @@
+codeflaws/664-B-bug-17401973-17402220/664-B-17402220.c
+codeflaws/664-B-bug-17401973-17402220/664-B-17401973.c
+36,37
+[("Replace b'    if(eksi*sayi<(arti)) {\\n' with b'\\n' at position 37", 36), ("Delete b'    if(eksi*sayi<(arti+sayi)) {\\n' at position 37 in file2", 36)]

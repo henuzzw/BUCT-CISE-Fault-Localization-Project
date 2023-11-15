@@ -1,0 +1,4 @@
+codeflaws/55-C-bug-5130555-5130613/55-C-5130613.c
+codeflaws/55-C-bug-5130555-5130613/55-C-5130555.c
+5
+[("Replace b'\\tif (x-1<=4 || y-1<=4 || n-x<=4 || m-y<=4)\\n' with b'\\tif (x<=4 || y<=4 || n-x<4 || m-y<4)\\n' at position 6", 5)]

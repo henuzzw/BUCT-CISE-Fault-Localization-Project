@@ -1,0 +1,4 @@
+codeflaws/495-B-bug-11899854-11899868/495-B-11899868.c
+codeflaws/495-B-bug-11899854-11899868/495-B-11899854.c
+17
+[("Replace b'            if(i!=(c/i))\\n' with b'            if(c!=c/i)\\n' at position 18", 17)]

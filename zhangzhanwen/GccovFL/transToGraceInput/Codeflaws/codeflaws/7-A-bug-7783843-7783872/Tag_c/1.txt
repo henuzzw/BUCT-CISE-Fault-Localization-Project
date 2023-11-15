@@ -1,0 +1,4 @@
+codeflaws/7-A-bug-7783843-7783872/7-A-7783872.c
+codeflaws/7-A-bug-7783843-7783872/7-A-7783843.c
+3
+[('Replace b\'\\t//freopen("in.txt", "r", stdin);\\n\' with b\'\\tfreopen("in.txt", "r", stdin);\\n\' at position 4', 3)]

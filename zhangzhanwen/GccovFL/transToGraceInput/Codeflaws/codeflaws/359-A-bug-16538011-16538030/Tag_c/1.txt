@@ -1,0 +1,4 @@
+codeflaws/359-A-bug-16538011-16538030/359-A-16538030.c
+codeflaws/359-A-bug-16538011-16538030/359-A-16538011.c
+17
+[("Replace b'                else if(i==0 || j==0 || i==n-1  || j==m-1)\\n' with b'                else if(i==0 || j==0 )\\n' at position 18", 17)]

@@ -1,0 +1,4 @@
+codeflaws/78-B-bug-2089776-2089781/78-B-2089781.c
+codeflaws/78-B-bug-2089776-2089781/78-B-2089776.c
+8
+[("Replace b'    for(y=1;y<=x/4;y++)\\n' with b'    for(y=1;y<x/4;y++)\\n' at position 9", 8)]

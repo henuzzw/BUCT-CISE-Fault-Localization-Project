@@ -1,0 +1,4 @@
+codeflaws/278-A-bug-12128251-12129325/278-A-12129325.c
+codeflaws/278-A-bug-12128251-12129325/278-A-12128251.c
+50
+[("Replace b'    a=sumi(arr,k-1,j-2)<sumi(arr,j-1,k+n-2)?sumi(arr,k-1,j-2):sumi(arr,j-1,k+n-2);\\n' with b'    a=sumi(arr,k-1,j-2)<sumi(arr,j-1,k+n-1)?sumi(arr,k-1,j-2):sumi(arr,j-1,k+n-1);\\n' at position 51", 50)]

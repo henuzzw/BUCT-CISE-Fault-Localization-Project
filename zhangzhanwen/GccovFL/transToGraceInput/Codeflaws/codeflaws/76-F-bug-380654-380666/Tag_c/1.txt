@@ -1,0 +1,4 @@
+codeflaws/76-F-bug-380654-380666/76-F-380666.c
+codeflaws/76-F-bug-380654-380666/76-F-380654.c
+40,42
+[("Insert b'\\ta[0][0]=-2000000000;\\n' at position 42 in file2", 41), ('Replace b\'\\tprintf("%d %d\\\\n",t-1,cal(a,n+1)-1);\\n\' with b\'\\tprintf("%d %d\\\\n",t-1,cal(a+1,n));\\n\' at position 44', 43)]

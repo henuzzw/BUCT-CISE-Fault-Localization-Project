@@ -1,0 +1,4 @@
+codeflaws/108-B-bug-634251-634394/108-B-634394.c
+codeflaws/108-B-bug-634251-634394/108-B-634251.c
+49
+[("Replace b'\\t\\tif(arr[i]*2>arr[i+1] && arr[i]!=arr[i+1])\\n' with b'\\t\\tif(arr[i]*2>arr[i+1])\\n' at position 50", 49)]

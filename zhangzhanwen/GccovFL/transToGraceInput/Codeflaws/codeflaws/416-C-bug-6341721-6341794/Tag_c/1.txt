@@ -1,0 +1,4 @@
+codeflaws/416-C-bug-6341721-6341794/416-C-6341794.c
+codeflaws/416-C-bug-6341721-6341794/416-C-6341721.c
+46
+[("Replace b'\\t\\t\\tif (t[j].n>=p[i].n && !vis[j]) {\\n' with b'\\t\\t\\tif (t[j].n>p[i].n && !vis[j]) {\\n' at position 47", 46)]

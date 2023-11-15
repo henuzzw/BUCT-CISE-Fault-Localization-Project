@@ -1,0 +1,4 @@
+codeflaws/365-B-bug-17391844-17391871/365-B-17391871.c
+codeflaws/365-B-bug-17391844-17391871/365-B-17391844.c
+29
+[("Replace b'\\t\\t\\tcnt=2;\\n' with b'\\t\\t\\tcnt=0;\\n' at position 30", 29)]

@@ -1,0 +1,4 @@
+codeflaws/99-A-bug-3759651-3759654/99-A-3759654.c
+codeflaws/99-A-bug-3759651-3759654/99-A-3759651.c
+10
+[('Replace b"if(a[i+1]>=\'5\')\\n" with b"if(a[i+1]>\'5\')\\n" at position 11', 10)]

@@ -1,0 +1,4 @@
+codeflaws/676-A-bug-18247191-18247237/676-A-18247237.c
+codeflaws/676-A-bug-18247191-18247237/676-A-18247191.c
+21
+[("Replace b'    count=b;\\n' with b'    b=count;\\n' at position 22", 21)]

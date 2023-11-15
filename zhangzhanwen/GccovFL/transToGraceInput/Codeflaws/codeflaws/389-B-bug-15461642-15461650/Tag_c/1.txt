@@ -1,0 +1,4 @@
+codeflaws/389-B-bug-15461642-15461650/389-B-15461650.c
+codeflaws/389-B-bug-15461642-15461650/389-B-15461642.c
+28
+[("Insert b'                flag=0;\\n' at position 30 in file2", 29)]

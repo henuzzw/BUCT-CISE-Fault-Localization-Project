@@ -1,0 +1,4 @@
+codeflaws/522-B-bug-10331321-10331327/522-B-10331327.c
+codeflaws/522-B-bug-10331321-10331327/522-B-10331321.c
+37
+[('Replace b\'      //printf("maxheight= %d  secondHeight= %d   isize= %d\\\\n",maxHeight,secondHeight,isize);\\n\' with b\'      printf("maxheight= %d  secondHeight= %d   isize= %d\\\\n",maxHeight,secondHeight,isize);\\n\' at position 38', 37)]

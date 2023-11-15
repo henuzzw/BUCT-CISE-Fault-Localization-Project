@@ -1,0 +1,4 @@
+codeflaws/405-C-bug-6161386-6161394/405-C-6161394.c
+codeflaws/405-C-bug-6161386-6161394/405-C-6161386.c
+28,29
+[('Delete b\'       printf("\\\\n");\\n\' at position 28 in file2', 27), ('Insert b\'      printf("\\\\n");\\n\' at position 30 in file2', 29)]

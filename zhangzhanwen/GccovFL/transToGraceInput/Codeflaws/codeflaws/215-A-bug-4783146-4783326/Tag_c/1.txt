@@ -1,0 +1,4 @@
+codeflaws/215-A-bug-4783146-4783326/215-A-4783326.c
+codeflaws/215-A-bug-4783146-4783326/215-A-4783146.c
+27
+[("Replace b'\\t\\t\\t\\telse if (B[i] / A[j] == ratio)\\n' with b'\\t\\t\\t\\telse if (B[i] / A[i] == ratio)\\n' at position 28", 27)]

@@ -1,0 +1,21 @@
+        -:    0:Source:../WA_c/264025_buggy.c
+        -:    0:Graph:264025_buggy.gcno
+        -:    0:Data:264025_buggy.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:int main()
+        -:    3:{
+        -:    4:	int N,n,i,j,k;
+        -:    5:	int sum;
+        1:    6:	scanf("%d",&N);
+       20:    7:	for(i=1;i<N;i++)
+        -:    8:	{
+       19:    9:		sum = 0;
+       19:   10:		scanf("%d", &n);
+      209:   11:		for(j=1; j<=n; j++)
+      190:   12:		sum =j*(j+1)*(j+2)/2 + sum;
+       19:   13:		printf("%d %d %d\n",i,n,sum);
+        -:   14:	}
+        1:   15:	return 0;
+        -:   16:}

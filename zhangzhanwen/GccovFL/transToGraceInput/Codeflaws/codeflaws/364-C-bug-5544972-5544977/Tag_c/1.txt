@@ -1,0 +1,4 @@
+codeflaws/364-C-bug-5544972-5544977/364-C-5544977.c
+codeflaws/364-C-bug-5544972-5544977/364-C-5544972.c
+6
+[("Replace b'else if(z>150)for(i=1,j=1;i*j<=v;j*=7)for(k=1;i*j*k<=v;k*=5)for(l=1;i*j*k*l<=v;l*=3)for(m=1;i*j*k*l*m<=v;m*=2)a[n++]=i*j*k*l*m;\\n' with b'else if(z>100)for(i=1,j=1;i*j<=v;j*=7)for(k=1;i*j*k<=v;k*=5)for(l=1;i*j*k*l<=v;l*=3)for(m=1;i*j*k*l*m<=v;m*=2)a[n++]=i*j*k*l*m;\\n' at position 7", 6)]

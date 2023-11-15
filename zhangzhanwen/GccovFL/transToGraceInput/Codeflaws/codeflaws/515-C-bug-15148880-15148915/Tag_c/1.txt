@@ -1,0 +1,4 @@
+codeflaws/515-C-bug-15148880-15148915/515-C-15148915.c
+codeflaws/515-C-bug-15148880-15148915/515-C-15148880.c
+81,81
+[("Insert b'\\t\\t\\tj = j + 1;\\n' at position 83 in file2", 82), ("Insert b'\\t\\t\\tans[j] = 2;\\n' at position 84 in file2", 83)]

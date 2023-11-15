@@ -1,0 +1,4 @@
+codeflaws/433-A-bug-14400500-14400526/433-A-14400526.c
+codeflaws/433-A-bug-14400500-14400526/433-A-14400500.c
+35
+[("Replace b'       if((sum/100)%2==0){\\n' with b'       if((sum/n)%2==0){\\n' at position 36", 35)]

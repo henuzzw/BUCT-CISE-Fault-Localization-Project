@@ -1,0 +1,4 @@
+codeflaws/221-B-bug-4986316-4986354/221-B-4986354.c
+codeflaws/221-B-bug-4986316-4986354/221-B-4986316.c
+5
+[('Replace b\'    scanf("%d",&x);int p[100000],q[100];\\n\' with b\'    scanf("%d",&x);int p[100],q[100];\\n\' at position 6', 5)]

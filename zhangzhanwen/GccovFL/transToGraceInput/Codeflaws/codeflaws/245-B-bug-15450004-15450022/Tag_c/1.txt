@@ -1,0 +1,4 @@
+codeflaws/245-B-bug-15450004-15450022/245-B-15450022.c
+codeflaws/245-B-bug-15450004-15450022/245-B-15450004.c
+16
+[('Replace b"\\t\\tif(a[i]==\'r\'&&a[i+1]==\'u\'&&i!=b){\\n" with b"\\t\\tif(a[i]==\'r\'&&a[i+1]==\'u\'){\\n" at position 17', 16)]

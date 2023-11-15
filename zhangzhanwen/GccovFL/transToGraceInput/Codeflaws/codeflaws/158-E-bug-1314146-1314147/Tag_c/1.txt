@@ -1,0 +1,4 @@
+codeflaws/158-E-bug-1314146-1314147/158-E-1314147.c
+codeflaws/158-E-bug-1314146-1314147/158-E-1314146.c
+6
+[("Replace b'#define T 86400\\n' with b'#define T 84600\\n' at position 7", 6)]

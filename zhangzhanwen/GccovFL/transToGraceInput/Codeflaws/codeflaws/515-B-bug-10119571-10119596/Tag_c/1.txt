@@ -1,0 +1,4 @@
+codeflaws/515-B-bug-10119571-10119596/515-B-10119596.c
+codeflaws/515-B-bug-10119571-10119596/515-B-10119571.c
+33
+[("Replace b'         for(i=0;i<101101;i++)\\n' with b'         for(i=0;i<flag;i++)\\n' at position 34", 33)]

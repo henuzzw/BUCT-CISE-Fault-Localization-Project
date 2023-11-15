@@ -1,0 +1,4 @@
+codeflaws/675-A-bug-18261165-18261189/675-A-18261189.c
+codeflaws/675-A-bug-18261165-18261189/675-A-18261165.c
+5
+[("Replace b'\\tif(c == 0 || b == a)\\n' with b'\\tif(c == 0)\\n' at position 6", 5)]

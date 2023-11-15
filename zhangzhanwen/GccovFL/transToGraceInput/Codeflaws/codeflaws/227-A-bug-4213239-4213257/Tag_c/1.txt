@@ -1,0 +1,4 @@
+codeflaws/227-A-bug-4213239-4213257/227-A-4213257.c
+codeflaws/227-A-bug-4213239-4213257/227-A-4213239.c
+9
+[("Replace b'    else if(y1 == y2)\\n' with b'    else if(y1==0 && y2==0)\\n' at position 10", 9)]

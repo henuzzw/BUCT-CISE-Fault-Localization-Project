@@ -1,0 +1,4 @@
+codeflaws/263-D-bug-11725305-11725318/263-D-11725318.c
+codeflaws/263-D-bug-11725305-11725318/263-D-11725305.c
+10,11
+[('Replace b\'    if(t == i && s) { if(s > w) {printf("%d\\\\n",s); for(i=0;i<s;i++) printf("%d ",Q[i]); exit(0);} else return; }\\n\' with b\'   //  printf("%d ",t);\\n\' at position 11', 10), ('Delete b\'    if(t == i && s) { if(s > w) {printf("asdasd%d\\\\n",s); for(i=0;i<s;i++) printf("%d ",Q[i]); exit(0);} else return; }\\n\' at position 11 in file2', 10)]

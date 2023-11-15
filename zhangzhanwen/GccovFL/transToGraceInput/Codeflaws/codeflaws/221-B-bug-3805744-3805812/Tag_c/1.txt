@@ -1,0 +1,4 @@
+codeflaws/221-B-bug-3805744-3805812/221-B-3805812.c
+codeflaws/221-B-bug-3805744-3805812/221-B-3805744.c
+30,33
+[("Insert b'                if(t!=i)\\n' at position 32 in file2", 31), ("Replace b'                    if(a[t%10]==1)\\n' with b'                    if(a[t%10]==1&&x!=i)\\n' at position 35", 34)]

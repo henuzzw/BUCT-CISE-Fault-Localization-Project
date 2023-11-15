@@ -1,0 +1,4 @@
+codeflaws/192-C-bug-1764940-1764944/192-C-1764944.c
+codeflaws/192-C-bug-1764940-1764944/192-C-1764940.c
+49
+[("Replace b'    n--;  \\t\\n' with b'      \\t\\n' at position 50", 49)]

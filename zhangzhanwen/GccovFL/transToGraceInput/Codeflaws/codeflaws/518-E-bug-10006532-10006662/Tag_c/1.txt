@@ -1,0 +1,4 @@
+codeflaws/518-E-bug-10006532-10006662/518-E-10006662.c
+codeflaws/518-E-bug-10006532-10006662/518-E-10006532.c
+2
+[("Replace b'#define INF 1010000000\\n' with b'#define INF 1000000001\\n' at position 3", 2)]

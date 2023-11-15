@@ -1,0 +1,4 @@
+codeflaws/132-C-bug-10203498-10203513/132-C-10203513.c
+codeflaws/132-C-bug-10203498-10203513/132-C-10203498.c
+45
+[('Replace b\'\\tprintf("%i\\\\n", max(f[0][m][1],f[0][m][0]));\\n\' with b\'\\tprintf("%i\\\\n", f[0][m][0]);\\n\' at position 46', 45)]

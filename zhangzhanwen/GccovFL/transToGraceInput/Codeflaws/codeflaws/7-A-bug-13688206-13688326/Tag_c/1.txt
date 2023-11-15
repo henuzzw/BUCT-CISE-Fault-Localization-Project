@@ -1,0 +1,4 @@
+codeflaws/7-A-bug-13688206-13688326/7-A-13688326.c
+codeflaws/7-A-bug-13688206-13688326/7-A-13688206.c
+29,29
+[("Replace b'    if(stroke==8) final_stroke=8;\\n' with b'    final_stroke=stroke+(temp/(8-stroke));\\n' at position 30", 29), ("Insert b'    else final_stroke=stroke+(temp/(8-stroke));\\n' at position 31 in file2", 30)]

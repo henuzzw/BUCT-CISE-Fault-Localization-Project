@@ -1,0 +1,4 @@
+codeflaws/472-B-bug-9390780-9390795/472-B-9390795.c
+codeflaws/472-B-bug-9390780-9390795/472-B-9390780.c
+18
+[("Replace b'\\tfor(i=1;i<2001;i++)\\n' with b'\\tfor(i=1;i<2000;i++)\\n' at position 19", 18)]

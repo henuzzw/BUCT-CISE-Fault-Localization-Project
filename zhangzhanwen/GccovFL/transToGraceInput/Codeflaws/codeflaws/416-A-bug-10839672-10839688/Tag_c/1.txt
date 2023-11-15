@@ -1,0 +1,4 @@
+codeflaws/416-A-bug-10839672-10839688/416-A-10839688.c
+codeflaws/416-A-bug-10839672-10839688/416-A-10839672.c
+3
+[("Replace b'long long x,i,n,bas=-2000000000,son=2000000000;\\n' with b'long long x,i,n,bas=-20000000000,son=20000000000;\\n' at position 4", 3)]

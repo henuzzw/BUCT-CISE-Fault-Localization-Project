@@ -1,0 +1,4 @@
+codeflaws/255-A-bug-13497204-13497217/255-A-13497217.c
+codeflaws/255-A-bug-13497204-13497217/255-A-13497204.c
+18
+[('Replace b\'        printf("biceps");\\n\' with b\'        printf("bisceps");\\n\' at position 19', 18)]

@@ -1,0 +1,4 @@
+codeflaws/140-D-bug-8349631-8349655/140-D-8349655.c
+codeflaws/140-D-bug-8349631-8349655/140-D-8349631.c
+30
+[("Replace b'    while(maxtime-problems[i]>=0 && i<n)\\n' with b'    while(maxtime-problems[i]>0 && i<n)\\n' at position 31", 30)]

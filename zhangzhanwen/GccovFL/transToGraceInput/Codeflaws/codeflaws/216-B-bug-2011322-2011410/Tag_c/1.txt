@@ -1,0 +1,4 @@
+codeflaws/216-B-bug-2011322-2011410/216-B-2011410.c
+codeflaws/216-B-bug-2011322-2011410/216-B-2011322.c
+28
+[("Insert b'    if((ans+n)%2)ans++;\\n' at position 30 in file2", 29)]

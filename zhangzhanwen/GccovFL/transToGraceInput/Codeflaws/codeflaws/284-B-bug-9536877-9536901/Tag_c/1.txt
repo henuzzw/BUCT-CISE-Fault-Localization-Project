@@ -1,0 +1,4 @@
+codeflaws/284-B-bug-9536877-9536901/284-B-9536901.c
+codeflaws/284-B-bug-9536877-9536901/284-B-9536877.c
+19,19
+[("Insert b'\\tif(i1>1)\\n' at position 21 in file2", 20), ('Insert b\'\\t\\tprintf("0");\\n\' at position 22 in file2', 21)]

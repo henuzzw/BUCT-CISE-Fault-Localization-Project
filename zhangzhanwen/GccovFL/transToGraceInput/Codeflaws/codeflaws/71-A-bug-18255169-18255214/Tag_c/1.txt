@@ -1,0 +1,4 @@
+codeflaws/71-A-bug-18255169-18255214/71-A-18255214.c
+codeflaws/71-A-bug-18255169-18255214/71-A-18255169.c
+10
+[("Replace b'\\t\\tif(strlen(data) > 10)\\n' with b'\\t\\tif(strlen(data) >= 12)\\n' at position 11", 10)]

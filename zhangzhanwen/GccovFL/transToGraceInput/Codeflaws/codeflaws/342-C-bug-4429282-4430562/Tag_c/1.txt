@@ -1,0 +1,4 @@
+codeflaws/342-C-bug-4429282-4430562/342-C-4430562.c
+codeflaws/342-C-bug-4429282-4430562/342-C-4429282.c
+9
+[("Replace b'ans = 2*(h/r);\\n' with b'ans = 2*h/r;\\n' at position 10", 9)]

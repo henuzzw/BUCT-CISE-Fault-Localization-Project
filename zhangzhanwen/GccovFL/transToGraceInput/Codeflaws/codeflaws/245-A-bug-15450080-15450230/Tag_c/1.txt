@@ -1,0 +1,4 @@
+codeflaws/245-A-bug-15450080-15450230/245-A-15450230.c
+codeflaws/245-A-bug-15450080-15450230/245-A-15450080.c
+3
+[("Replace b'\\tint a,b,c,i,top1=0,top2=0,x,top11=0,top22=0;\\n' with b'\\tint a,b,c,i,top1,top2,x,top11,top22;\\n' at position 4", 3)]

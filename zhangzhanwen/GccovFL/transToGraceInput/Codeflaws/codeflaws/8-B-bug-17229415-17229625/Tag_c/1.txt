@@ -1,0 +1,4 @@
+codeflaws/8-B-bug-17229415-17229625/8-B-17229625.c
+codeflaws/8-B-bug-17229415-17229625/8-B-17229415.c
+19
+[("Replace b'            if ((l == r && u == d) || (l == r && u == d - 1) || (l == r && u == d + 1) || (l == r - 1 && u == d) || (l == r + 1 && u == d)) {\\n' with b'            if (l == r && u == d) {\\n' at position 20", 19)]

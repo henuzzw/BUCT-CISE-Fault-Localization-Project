@@ -1,0 +1,4 @@
+codeflaws/607-A-bug-15282572-15282604/607-A-15282604.c
+codeflaws/607-A-bug-15282572-15282604/607-A-15282572.c
+14
+[("Replace b'    for (i=0;i<=1000000;++i){\\n' with b'    for (i=0;i<=100;++i){\\n' at position 15", 14)]

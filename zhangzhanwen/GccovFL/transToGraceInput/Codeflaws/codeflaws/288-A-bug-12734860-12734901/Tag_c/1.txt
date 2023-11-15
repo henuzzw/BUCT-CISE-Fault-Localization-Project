@@ -1,0 +1,4 @@
+codeflaws/288-A-bug-12734860-12734901/288-A-12734901.c
+codeflaws/288-A-bug-12734860-12734901/288-A-12734860.c
+26,26
+[("Insert b'  else if(n == 1 && k == 1)\\n' at position 28 in file2", 27), ('Insert b\'    printf("a\\\\n");\\n\' at position 29 in file2', 28)]

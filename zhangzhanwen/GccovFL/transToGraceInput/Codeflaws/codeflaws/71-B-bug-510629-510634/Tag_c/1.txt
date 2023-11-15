@@ -1,0 +1,4 @@
+codeflaws/71-B-bug-510629-510634/71-B-510634.c
+codeflaws/71-B-bug-510629-510634/71-B-510629.c
+20
+[("Replace b'   for (i=0;100*(i+1)<=n*k*t;i++);\\n' with b'   for (i=1;100*(i+1)<=n*k*t;i++);\\n' at position 21", 20)]
