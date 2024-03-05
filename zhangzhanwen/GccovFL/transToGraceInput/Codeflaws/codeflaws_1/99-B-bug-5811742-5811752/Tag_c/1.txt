@@ -1,4 +1,0 @@
-codeflaws/99-B-bug-5811742-5811752/99-B-5811752.c
-codeflaws/99-B-bug-5811742-5811752/99-B-5811742.c
-23
-[("Replace b'    if(n==2&&(arr[0].val+arr[1].val)&1||sum%n!=0)\\n' with b'    if(n==2&&(arr[0].val+arr[1].val)&1)\\n' at position 24", 23)]

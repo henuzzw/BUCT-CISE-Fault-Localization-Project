@@ -1,4 +1,0 @@
-codeflaws/420-A-bug-13091991-13091997/420-A-13091997.c
-codeflaws/420-A-bug-13091991-13091997/420-A-13091991.c
-40
-[("Replace b'        if ( s[i] != s[n-i-1] )\\n' with b'        if ( s[i] != s[n-i] )\\n' at position 41", 40)]

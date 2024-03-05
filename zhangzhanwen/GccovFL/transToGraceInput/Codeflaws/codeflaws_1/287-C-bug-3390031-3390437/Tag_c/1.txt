@@ -1,4 +1,0 @@
-codeflaws/287-C-bug-3390031-3390437/287-C-3390437.c
-codeflaws/287-C-bug-3390031-3390437/287-C-3390031.c
-11
-[("Replace b'    for(i=1;i<=N/2;i+=2)\\n' with b'    for(i=1;i<=N/4;i+=2)\\n' at position 12", 11)]

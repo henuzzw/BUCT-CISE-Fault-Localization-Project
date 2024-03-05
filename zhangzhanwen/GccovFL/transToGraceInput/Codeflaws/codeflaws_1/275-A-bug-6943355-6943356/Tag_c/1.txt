@@ -1,4 +1,0 @@
-codeflaws/275-A-bug-6943355-6943356/275-A-6943356.c
-codeflaws/275-A-bug-6943355-6943356/275-A-6943355.c
-203
-[('Replace b\'                    printf("%d",ans[i][j]);\\n\' with b\'                    printf("%d ",ans[i][j]);\\n\' at position 204', 203)]

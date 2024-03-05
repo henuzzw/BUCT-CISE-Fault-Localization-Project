@@ -1,4 +1,0 @@
-codeflaws/439-A-bug-18265853-18265858/439-A-18265858.c
-codeflaws/439-A-bug-18265853-18265858/439-A-18265853.c
-21
-[('Replace b\'  //printf("k : %d\\\\n", k);\\n\' with b\'  printf("k : %d\\\\n", k);\\n\' at position 22', 21)]

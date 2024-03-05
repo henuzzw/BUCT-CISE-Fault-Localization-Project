@@ -1,4 +1,0 @@
-codeflaws/37-B-bug-166820-167010/37-B-167010.c
-codeflaws/37-B-bug-166820-167010/37-B-166820.c
-24,24,38
-[("Insert b'\\n' at position 26 in file2", 25), ("Insert b'    if(hp<=0) break;\\n' at position 27 in file2", 26), ("Delete b'    if(hp<=0) break;\\n' at position 40 in file2", 39)]

@@ -1,4 +1,0 @@
-codeflaws/70-B-bug-357256-357298/70-B-357298.c
-codeflaws/70-B-bug-357256-357298/70-B-357256.c
-11
-[('Replace b"\\t\\tif (str[i]==\'.\' || str[i]==\'!\' || str[i]==\'?\') a[m++]=j+1,j=0,i++;\\n" with b"\\t\\tif (str[i]==\'.\' || str[i]==\'!\' || str[i]==\'?\') a[m++]=j,j=0,i++;\\n" at position 12', 11)]

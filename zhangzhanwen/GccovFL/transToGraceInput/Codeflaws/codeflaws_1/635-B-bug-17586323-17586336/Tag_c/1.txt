@@ -1,4 +1,0 @@
-codeflaws/635-B-bug-17586323-17586336/635-B-17586336.c
-codeflaws/635-B-bug-17586323-17586336/635-B-17586323.c
-2
-[("Replace b'//#define DEBUG\\n' with b'#define DEBUG\\n' at position 3", 2)]

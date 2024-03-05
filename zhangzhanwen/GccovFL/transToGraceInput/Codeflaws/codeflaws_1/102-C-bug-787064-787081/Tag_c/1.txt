@@ -1,4 +1,0 @@
-codeflaws/102-C-bug-787064-787081/102-C-787081.c
-codeflaws/102-C-bug-787064-787081/102-C-787064.c
-27,27
-[("Insert b'                if (i > k)\\n' at position 29 in file2", 28), ("Insert b'                    break;\\n' at position 30 in file2", 29)]

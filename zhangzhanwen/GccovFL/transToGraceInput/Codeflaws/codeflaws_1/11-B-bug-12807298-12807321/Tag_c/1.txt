@@ -1,4 +1,0 @@
-codeflaws/11-B-bug-12807298-12807321/11-B-12807321.c
-codeflaws/11-B-bug-12807298-12807321/11-B-12807298.c
-4
-[("Insert b'\\tif (n<0) n=-n;\\n' at position 6 in file2", 5)]

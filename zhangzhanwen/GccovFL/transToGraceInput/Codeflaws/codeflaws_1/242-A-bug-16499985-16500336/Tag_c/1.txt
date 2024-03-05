@@ -1,4 +1,0 @@
-codeflaws/242-A-bug-16499985-16500336/242-A-16500336.c
-codeflaws/242-A-bug-16499985-16500336/242-A-16499985.c
-3
-[("Replace b'   int k[5000][5000],i,j,c1=0,x,y,f=0,r,s,b,a; \\n' with b'   int k[101][101],i,j,c1=0,x,y,f=0,r,s,b,a; \\n' at position 4", 3)]

@@ -1,4 +1,0 @@
-codeflaws/305-B-bug-4534652-4534657/305-B-4534657.c
-codeflaws/305-B-bug-4534652-4534657/305-B-4534652.c
-24
-[("Replace b'\\t\\tif(p%q==0&&p/q==a[1])\\n' with b'\\t\\tif(p/q==a[1])\\n' at position 25", 24)]

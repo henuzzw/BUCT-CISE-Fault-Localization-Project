@@ -1,4 +1,0 @@
-codeflaws/66-B-bug-326323-326337/66-B-326337.c
-codeflaws/66-B-bug-326323-326337/66-B-326323.c
-21
-[("Replace b'\\tpre=s[i];\\n' with b'\\tpre=i;\\n' at position 22", 21)]

@@ -1,4 +1,0 @@
-codeflaws/304-A-bug-14337231-14337294/304-A-14337294.c
-codeflaws/304-A-bug-14337231-14337294/304-A-14337231.c
-5,9
-[("Replace b'    float d;\\n' with b'    double d;\\n' at position 6", 5), ("Insert b'\\n' at position 11 in file2", 10)]

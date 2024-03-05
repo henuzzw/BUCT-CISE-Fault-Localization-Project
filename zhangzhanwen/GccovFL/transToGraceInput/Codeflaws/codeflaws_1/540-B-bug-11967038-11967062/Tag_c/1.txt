@@ -1,4 +1,0 @@
-codeflaws/540-B-bug-11967038-11967062/540-B-11967062.c
-codeflaws/540-B-bug-11967038-11967062/540-B-11967038.c
-54,54
-[("Insert b'    else if(sum>x)\\n' at position 56 in file2", 55), ('Insert b\'    printf("-1\\\\n");\\n\' at position 57 in file2', 56)]

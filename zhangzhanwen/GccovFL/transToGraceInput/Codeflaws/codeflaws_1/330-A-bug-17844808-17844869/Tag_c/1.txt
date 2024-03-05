@@ -1,4 +1,0 @@
-codeflaws/330-A-bug-17844808-17844869/330-A-17844869.c
-codeflaws/330-A-bug-17844808-17844869/330-A-17844808.c
-30
-[('Replace b"            if(a[j][i]==\'S\')\\n" with b"            if(a[i][j]==\'S\')\\n" at position 31', 30)]

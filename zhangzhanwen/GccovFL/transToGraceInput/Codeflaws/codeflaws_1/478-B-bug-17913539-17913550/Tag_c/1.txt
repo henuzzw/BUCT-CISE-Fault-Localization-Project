@@ -1,4 +1,0 @@
-codeflaws/478-B-bug-17913539-17913550/478-B-17913550.c
-codeflaws/478-B-bug-17913539-17913550/478-B-17913539.c
-10
-[("Replace b'    kmin=min*combina(ceil((float)n/m))+(m-min)*(combina(base));\\n' with b'    kmin=min*combina((float)ceil(n/m))+(m-min)*(combina(base));\\n' at position 11", 10)]

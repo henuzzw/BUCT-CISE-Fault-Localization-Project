@@ -1,4 +1,0 @@
-codeflaws/417-C-bug-15786426-15786448/417-C-15786448.c
-codeflaws/417-C-bug-15786426-15786448/417-C-15786426.c
-7,14
-[('Insert b\'\\t{printf("%ld\\\\n",n*k);\\n\' at position 9 in file2', 8), ("Insert b'\\t}\\n' at position 17 in file2", 16)]

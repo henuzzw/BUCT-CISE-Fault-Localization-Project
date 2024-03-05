@@ -1,4 +1,0 @@
-codeflaws/534-A-bug-17298527-17298537/534-A-17298537.c
-codeflaws/534-A-bug-17298527-17298537/534-A-17298527.c
-16
-[('Replace b\'\\tprintf("4\\\\n3 1 4 2");\\n\' with b\'\\tprintf("2\\\\n1 4 2");\\n\' at position 17', 16)]

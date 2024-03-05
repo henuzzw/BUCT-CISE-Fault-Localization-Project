@@ -1,4 +1,0 @@
-codeflaws/95-C-bug-536958-537053/95-C-537053.c
-codeflaws/95-C-bug-536958-537053/95-C-536958.c
-103
-[("Replace b'      if(dist[x][j]<=t[x]&&f[x]+c[x]<f[j]&&!hash[j])\\n' with b'      if(dist[x][j]<=t[i]&&f[x]+c[x]<f[j]&&!hash[j])\\n' at position 104", 103)]

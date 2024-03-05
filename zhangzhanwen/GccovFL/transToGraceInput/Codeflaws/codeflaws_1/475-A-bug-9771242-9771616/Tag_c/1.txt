@@ -1,4 +1,0 @@
-codeflaws/475-A-bug-9771242-9771616/475-A-9771616.c
-codeflaws/475-A-bug-9771242-9771616/475-A-9771242.c
-11
-[("Replace b'            if(j==2&&i>=1)\\n' with b'            if(j==2)\\n' at position 12", 11)]

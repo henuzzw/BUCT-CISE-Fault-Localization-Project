@@ -1,4 +1,0 @@
-codeflaws/289-E-bug-3467587-3467599/289-E-3467599.c
-codeflaws/289-E-bug-3467587-3467599/289-E-3467587.c
-48,56
-[('Replace b\'        printf("%lld\\\\n",ans);\\n\' with b\'        printf("%d\\\\n",ans);\\n\' at position 49', 48), ("Replace b'}\\n' with b'}' at position 57", 56)]

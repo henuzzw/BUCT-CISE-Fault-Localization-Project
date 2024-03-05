@@ -1,4 +1,0 @@
-codeflaws/122-A-bug-18280368-18280476/122-A-18280476.c
-codeflaws/122-A-bug-18280368-18280476/122-A-18280368.c
-10
-[("Replace b'       else if(n%7==0 || n%4==0||n%47==0|| n%744==0||n%74==0)\\n' with b'       else if(n%7==0 || n%4==0)\\n' at position 11", 10)]

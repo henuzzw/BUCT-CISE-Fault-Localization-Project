@@ -1,4 +1,0 @@
-codeflaws/513-B1-bug-9753096-9753433/513-B1-9753433.c
-codeflaws/513-B1-bug-9753096-9753433/513-B1-9753096.c
-4,13
-[("Replace b'int res[51];\\n' with b'int res[50];\\n' at position 5", 4), ("Insert b'\\t\\t\\tm-=count(n);\\n' at position 15 in file2", 14)]

@@ -1,4 +1,0 @@
-codeflaws/446-A-bug-11359632-11359651/446-A-11359651.c
-codeflaws/446-A-bug-11359632-11359651/446-A-11359632.c
-30
-[("Replace b'            dp[i] = cnt[i];\\n' with b'            dp[i] = cnt[i]+1;\\n' at position 31", 30)]

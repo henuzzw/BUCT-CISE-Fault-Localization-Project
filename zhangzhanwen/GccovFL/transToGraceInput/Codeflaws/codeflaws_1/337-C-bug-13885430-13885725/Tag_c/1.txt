@@ -1,4 +1,0 @@
-codeflaws/337-C-bug-13885430-13885725/337-C-13885725.c
-codeflaws/337-C-bug-13885430-13885725/337-C-13885430.c
-27,39
-[("Insert b'        if(ans<0) ans+=mod;\\n' at position 29 in file2", 28), ("Replace b'\\t\\t  \\t \\t       \\t\\t\\t \\t\\t \\t  \\t \\t\\t  \\t' with b'   \\t      \\t   \\t\\t \\t\\t      \\t   \\t' at position 41", 40)]

@@ -1,4 +1,0 @@
-codeflaws/298-D-bug-3576575-3576616/298-D-3576616.c
-codeflaws/298-D-bug-3576575-3576616/298-D-3576575.c
-30
-[("Replace b'    int i,j,ja=0,jb=0;\\n' with b'    int i,j,ja=1,jb=1;\\n' at position 31", 30)]

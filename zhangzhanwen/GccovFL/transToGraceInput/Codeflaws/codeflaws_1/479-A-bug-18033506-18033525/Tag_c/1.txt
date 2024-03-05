@@ -1,4 +1,0 @@
-codeflaws/479-A-bug-18033506-18033525/479-A-18033525.c
-codeflaws/479-A-bug-18033506-18033525/479-A-18033506.c
-9
-[("Insert b'   if((a+b+c)>m) m=a+b+c;\\n' at position 11 in file2", 10)]

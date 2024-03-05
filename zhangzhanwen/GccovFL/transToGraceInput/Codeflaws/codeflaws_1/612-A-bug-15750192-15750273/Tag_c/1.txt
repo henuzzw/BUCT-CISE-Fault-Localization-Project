@@ -1,4 +1,0 @@
-codeflaws/612-A-bug-15750192-15750273/612-A-15750273.c
-codeflaws/612-A-bug-15750192-15750273/612-A-15750192.c
-17
-[("Replace b'\\t\\tfor(i=p;i<k;i++)\\n' with b'\\t\\tfor(i=p;i<=k;i++)\\n' at position 18", 17)]

@@ -1,4 +1,0 @@
-codeflaws/235-B-bug-2404600-2404606/235-B-2404606.c
-codeflaws/235-B-bug-2404600-2404606/235-B-2404600.c
-10
-[('Replace b\'        scanf("%lf",&p);\\n\' with b\'        scanf("%f",&p);\\n\' at position 11', 10)]

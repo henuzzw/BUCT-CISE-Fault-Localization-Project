@@ -1,4 +1,0 @@
-codeflaws/215-A-bug-4400176-4400183/215-A-4400183.c
-codeflaws/215-A-bug-4400176-4400183/215-A-4400176.c
-3
-[("Replace b'    int n,m,a[55],b[55],i,j,count=1,c=0,max1,k,s[2550],u=0,l,p=0,temp,t;\\n' with b'    int n,m,a[55],b[55],i,j,count=1,c=0,max1,k,s[55],u=0,l,p=0,temp,t;\\n' at position 4", 3)]

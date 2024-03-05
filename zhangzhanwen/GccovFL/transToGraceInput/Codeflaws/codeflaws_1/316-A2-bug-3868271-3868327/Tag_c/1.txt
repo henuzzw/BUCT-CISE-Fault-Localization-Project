@@ -1,4 +1,0 @@
-codeflaws/316-A2-bug-3868271-3868327/316-A2-3868327.c
-codeflaws/316-A2-bug-3868271-3868327/316-A2-3868271.c
-41
-[("Replace b'    for(i=0;i<n-flag;i++)\\n' with b'    for(i=0;i<m-flag;i++)\\n' at position 42", 41)]

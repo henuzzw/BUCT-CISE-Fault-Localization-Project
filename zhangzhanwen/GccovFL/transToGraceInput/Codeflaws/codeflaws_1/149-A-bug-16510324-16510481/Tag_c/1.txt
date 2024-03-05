@@ -1,4 +1,0 @@
-codeflaws/149-A-bug-16510324-16510481/149-A-16510481.c
-codeflaws/149-A-bug-16510324-16510481/149-A-16510324.c
-27
-[("Replace b'     if(i==12&&sum<x)\\n' with b'     if(i==12)\\n' at position 28", 27)]

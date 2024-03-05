@@ -1,4 +1,0 @@
-codeflaws/601-A-bug-14510976-14511015/601-A-14511015.c
-codeflaws/601-A-bug-14510976-14511015/601-A-14510976.c
-49
-[("Replace b'if(a[1][n]>=401)\\n' with b'if(a[1][n]==0)\\n' at position 50", 49)]

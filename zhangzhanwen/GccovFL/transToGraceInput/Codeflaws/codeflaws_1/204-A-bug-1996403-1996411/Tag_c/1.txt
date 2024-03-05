@@ -1,4 +1,0 @@
-codeflaws/204-A-bug-1996403-1996411/204-A-1996411.c
-codeflaws/204-A-bug-1996403-1996411/204-A-1996403.c
-16
-[("Replace b'            t=t+(s[0]-1)*10+s[1];\\n' with b'            t=t+(s[0]-1)*10;\\n' at position 17", 16)]

@@ -1,4 +1,0 @@
-codeflaws/500-A-bug-17810784-17810794/500-A-17810794.c
-codeflaws/500-A-bug-17810784-17810794/500-A-17810784.c
-30
-[("Replace b'\\ti = 1;\\n' with b'\\ti = 0;\\n' at position 31", 30)]

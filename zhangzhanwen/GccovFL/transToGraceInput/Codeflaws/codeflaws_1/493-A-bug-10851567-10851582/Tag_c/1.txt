@@ -1,4 +1,0 @@
-codeflaws/493-A-bug-10851567-10851582/493-A-10851582.c
-codeflaws/493-A-bug-10851567-10851582/493-A-10851567.c
-8
-[('Replace b"\\t\\ttmp = (team == \'a\');\\n" with b"\\t\\ttmp=(team == \'y\');\\n" at position 9', 8)]

@@ -1,4 +1,0 @@
-codeflaws/8-B-bug-36489-36547/8-B-36547.c
-codeflaws/8-B-bug-36489-36547/8-B-36489.c
-32,32
-[("Replace b'      if (a[sx][sy]==0) a[sx][sy] = num;\\n' with b'      a[sx][sy] = num;\\n' at position 33", 32), ('Insert b\'      else { printf( "BUG\\\\n" ); return(0); }\\n\' at position 34 in file2', 33)]

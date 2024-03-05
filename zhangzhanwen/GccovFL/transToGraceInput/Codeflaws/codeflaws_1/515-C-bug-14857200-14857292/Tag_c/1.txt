@@ -1,4 +1,0 @@
-codeflaws/515-C-bug-14857200-14857292/515-C-14857292.c
-codeflaws/515-C-bug-14857200-14857292/515-C-14857200.c
-35
-[("Replace b'\\t\\t\\t\\tans[j++]=7;ans[j++]=3;ans[j++]=3;\\tans[j++]=2;\\n' with b'\\t\\t\\t\\tans[j++]=7;ans[j++]=3;ans[j++]=3;\\tans[j++]=2;ans[j++]=2;ans[j++]=2;\\n' at position 36", 35)]

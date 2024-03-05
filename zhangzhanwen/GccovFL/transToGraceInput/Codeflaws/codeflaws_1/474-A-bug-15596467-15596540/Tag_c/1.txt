@@ -1,4 +1,0 @@
-codeflaws/474-A-bug-15596467-15596540/474-A-15596540.c
-codeflaws/474-A-bug-15596467-15596540/474-A-15596467.c
-6
-[('Replace b\'    char key[100+1]={"qwertyuiopasdfghjkl;zxcvbnm,./"};\\n\' with b\'    char key[100+1]={"qwertyuiopasdfghjkl;zxcvbnm,"};\\n\' at position 7', 6)]

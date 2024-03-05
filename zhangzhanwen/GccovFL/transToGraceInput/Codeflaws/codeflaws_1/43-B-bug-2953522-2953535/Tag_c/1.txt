@@ -1,4 +1,0 @@
-codeflaws/43-B-bug-2953522-2953535/43-B-2953535.c
-codeflaws/43-B-bug-2953522-2953535/43-B-2953522.c
-12
-[('Replace b"        if(hash[i]<0 && i!=\' \')\\n" with b"        if(hash[i]>0 && i!=\' \')\\n" at position 13', 12)]

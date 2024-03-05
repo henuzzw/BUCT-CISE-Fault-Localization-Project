@@ -1,4 +1,0 @@
-codeflaws/488-A-bug-16435750-16442472/488-A-16442472.c
-codeflaws/488-A-bug-16435750-16442472/488-A-16435750.c
-7
-[("Replace b'\\t\\t\\tif(m%10==8&&m>0||m%10==-8&&m<0) {\\n' with b'\\t\\t\\tif(m%10==8) {\\n' at position 8", 7)]

@@ -1,4 +1,0 @@
-codeflaws/197-B-bug-13477022-13477396/197-B-13477396.c
-codeflaws/197-B-bug-13477022-13477396/197-B-13477022.c
-24,24
-[('Replace b\'    (t<0)?t=-t:"";\\n\' with b\'    (b<0&&a>0)?printf("%d/%d",-a/t,-b/t):printf("%d/%d",a/t,b/t);\\n\' at position 25', 24), ('Insert b\'    (b<0)?printf("%d/%d",-a/t,-b/t):printf("%d/%d",a/t,b/t);\\n\' at position 26 in file2', 25)]

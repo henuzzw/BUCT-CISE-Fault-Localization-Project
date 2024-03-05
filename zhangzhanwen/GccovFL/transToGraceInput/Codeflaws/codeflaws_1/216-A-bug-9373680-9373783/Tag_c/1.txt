@@ -1,4 +1,0 @@
-codeflaws/216-A-bug-9373680-9373783/216-A-9373783.c
-codeflaws/216-A-bug-9373680-9373783/216-A-9373680.c
-6,7
-[('Replace b\'\\tprintf("%d", (a - 1) * (b + c - 1) + b * c);\\n\' with b\'\\tint sum = a + b + c - 2;\\n\' at position 7', 6), ('Delete b\'\\tprintf("%d", (sum + sum - 2) + (sum + sum - 2) / 2);\\n\' at position 7 in file2', 6)]

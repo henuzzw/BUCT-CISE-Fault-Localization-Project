@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-17305274-17305311/478-A-17305311.c
-codeflaws/478-A-bug-17305274-17305311/478-A-17305274.c
-9
-[("Replace b'    if(c1==c2 && c2==c3 && c3==c4 && c4==c5 && c1==0)\\n' with b'    if(c1==c2 && c2==c3 && c3==c4 && c4==c5)\\n' at position 10", 9)]

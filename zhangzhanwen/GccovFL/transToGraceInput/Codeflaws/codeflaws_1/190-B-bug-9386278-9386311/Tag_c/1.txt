@@ -1,4 +1,0 @@
-codeflaws/190-B-bug-9386278-9386311/190-B-9386311.c
-codeflaws/190-B-bug-9386278-9386311/190-B-9386278.c
-11
-[("Insert b'if(distance+r[1]>r[0] && distance+r[0]>r[1] && r[1]+r[0]>=distance)answer=0;\\n' at position 13 in file2", 12)]

@@ -1,4 +1,0 @@
-codeflaws/112-C-bug-671298-671301/112-C-671301.c
-codeflaws/112-C-bug-671298-671301/112-C-671298.c
-7
-[('Replace b\'    scanf("%d", &n);\\n\' with b\'    scanf("%d%d", &n);\\n\' at position 8', 7)]

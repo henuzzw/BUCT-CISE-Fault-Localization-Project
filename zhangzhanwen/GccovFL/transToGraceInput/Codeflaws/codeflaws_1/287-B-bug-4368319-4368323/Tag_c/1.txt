@@ -1,4 +1,0 @@
-codeflaws/287-B-bug-4368319-4368323/287-B-4368323.c
-codeflaws/287-B-bug-4368319-4368323/287-B-4368319.c
-29
-[("Replace b'    int lo=-1, hi=k; //val = [0..k]\\n' with b'    int lo=0, hi=k; //val = [2..k]\\n' at position 30", 29)]

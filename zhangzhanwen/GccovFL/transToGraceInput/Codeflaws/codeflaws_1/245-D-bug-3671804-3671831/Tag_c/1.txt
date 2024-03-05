@@ -1,4 +1,0 @@
-codeflaws/245-D-bug-3671804-3671831/245-D-3671831.c
-codeflaws/245-D-bug-3671804-3671831/245-D-3671804.c
-9
-[('Replace b\'        for (j=0;j<n;j++)   { scanf("%d",&a); if (i!=j) ans|=a; }\\n\' with b\'        for (j=0;j<n;j++)   { scanf("%d",&a); if (i!=j); ans|=a; }\\n\' at position 10', 9)]

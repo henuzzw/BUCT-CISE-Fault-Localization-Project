@@ -1,4 +1,0 @@
-codeflaws/192-B-bug-6659880-6659886/192-B-6659886.c
-codeflaws/192-B-bug-6659880-6659886/192-B-6659880.c
-25
-[("Replace b'                if(j==0)\\n' with b'                if(j==0 && destruidas[j+1]==1)\\n' at position 26", 25)]

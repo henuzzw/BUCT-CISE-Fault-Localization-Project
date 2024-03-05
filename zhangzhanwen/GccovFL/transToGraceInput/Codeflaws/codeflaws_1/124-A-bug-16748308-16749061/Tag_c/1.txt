@@ -1,4 +1,0 @@
-codeflaws/124-A-bug-16748308-16749061/124-A-16749061.c
-codeflaws/124-A-bug-16748308-16749061/124-A-16748308.c
-6,6
-[('Replace b\'    else if(a+b<n){printf("%d",b+1);}\\n\' with b\'    if(a+b<n){printf("%d",n-a);}\\n\' at position 7', 6), ('Insert b\'    else{printf("%d",n-a);}\\n\' at position 8 in file2', 7)]

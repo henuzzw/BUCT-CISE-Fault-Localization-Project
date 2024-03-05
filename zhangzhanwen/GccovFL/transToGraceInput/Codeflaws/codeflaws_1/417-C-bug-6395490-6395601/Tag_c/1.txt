@@ -1,4 +1,0 @@
-codeflaws/417-C-bug-6395490-6395601/417-C-6395601.c
-codeflaws/417-C-bug-6395490-6395601/417-C-6395490.c
-10
-[("Replace b' if((k>=ratio) || (n==2))\\n' with b' if((k>ratio) || (n==2))\\n' at position 11", 10)]

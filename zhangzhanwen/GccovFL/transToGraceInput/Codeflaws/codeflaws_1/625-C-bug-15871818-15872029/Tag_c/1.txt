@@ -1,4 +1,0 @@
-codeflaws/625-C-bug-15871818-15872029/625-C-15872029.c
-codeflaws/625-C-bug-15871818-15872029/625-C-15871818.c
-1
-[("Replace b'int a[501][501];\\n' with b'int a[251][251];\\n' at position 2", 1)]

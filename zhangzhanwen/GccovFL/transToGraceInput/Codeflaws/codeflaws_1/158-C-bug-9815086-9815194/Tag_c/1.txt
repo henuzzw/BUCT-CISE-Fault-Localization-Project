@@ -1,4 +1,0 @@
-codeflaws/158-C-bug-9815086-9815194/158-C-9815194.c
-codeflaws/158-C-bug-9815086-9815194/158-C-9815086.c
-53
-[('Replace b"    for(i=0;param[i]!=\'\\\\0\';i++)\\n" with b"    for(i=1;param[i]!=\'\\\\0\';i++)\\n" at position 54', 53)]

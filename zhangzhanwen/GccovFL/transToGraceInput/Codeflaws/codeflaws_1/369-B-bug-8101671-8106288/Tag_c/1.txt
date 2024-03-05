@@ -1,4 +1,0 @@
-codeflaws/369-B-bug-8101671-8106288/369-B-8106288.c
-codeflaws/369-B-bug-8101671-8106288/369-B-8101671.c
-29,33
-[("Replace b'    completar(0,k-1,arreglo,sumaparcial);\\n' with b'    completar(1,k-1,arreglo,sumaparcial-max);\\n' at position 30", 29), ("Insert b'    \\n' at position 35 in file2", 34)]

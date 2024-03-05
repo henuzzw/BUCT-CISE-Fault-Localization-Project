@@ -1,4 +1,0 @@
-codeflaws/38-A-bug-13583050-13583168/38-A-13583168.c
-codeflaws/38-A-bug-13583050-13583168/38-A-13583050.c
-18
-[('Replace b\'    printf("%d", sum-ara[a]);\\n\' with b\'    printf("%d", sum);\\n\' at position 19', 18)]

@@ -1,4 +1,0 @@
-codeflaws/139-A-bug-14099102-14099148/139-A-14099148.c
-codeflaws/139-A-bug-14099102-14099148/139-A-14099102.c
-19
-[("Replace b'            i=0;\\n' with b'            i=1;\\n' at position 20", 19)]

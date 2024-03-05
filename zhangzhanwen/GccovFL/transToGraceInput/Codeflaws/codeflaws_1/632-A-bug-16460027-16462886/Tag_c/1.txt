@@ -1,4 +1,0 @@
-codeflaws/632-A-bug-16460027-16462886/632-A-16462886.c
-codeflaws/632-A-bug-16460027-16462886/632-A-16460027.c
-31
-[("Replace b'\\t\\tfor(i=  n-2; i >= 0; i--)\\n' with b'\\t\\tfor(i=  n-1; i > 0; i--)\\n' at position 32", 31)]

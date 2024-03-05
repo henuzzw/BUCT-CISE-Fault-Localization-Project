@@ -1,4 +1,0 @@
-codeflaws/325-A-bug-4069031-4069088/325-A-4069088.c
-codeflaws/325-A-bug-4069031-4069088/325-A-4069031.c
-22
-[('Replace b\'        if((sum!=(s_x2-s_x1)*(s_y2-s_y1))||(((s_y2-s_y1)!=(s_x2-s_x1))))puts("NO");\\n\' with b\'        if(sum!=(s_x2-s_x1)*(s_y2-s_y1))puts("NO");\\n\' at position 23', 22)]

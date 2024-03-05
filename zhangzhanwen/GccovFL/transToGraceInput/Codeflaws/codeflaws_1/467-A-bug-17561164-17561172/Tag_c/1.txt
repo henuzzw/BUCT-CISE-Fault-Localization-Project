@@ -1,4 +1,0 @@
-codeflaws/467-A-bug-17561164-17561172/467-A-17561172.c
-codeflaws/467-A-bug-17561164-17561172/467-A-17561164.c
-9
-[("Replace b'        if(diff>=2)\\n' with b'        if(diff>0)\\n' at position 10", 9)]

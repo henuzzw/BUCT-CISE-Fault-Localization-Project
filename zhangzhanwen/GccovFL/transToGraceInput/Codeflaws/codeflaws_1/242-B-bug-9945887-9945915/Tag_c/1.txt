@@ -1,4 +1,0 @@
-codeflaws/242-B-bug-9945887-9945915/242-B-9945915.c
-codeflaws/242-B-bug-9945887-9945915/242-B-9945887.c
-41
-[("Replace b'            k = min_i(a, i, k);\\n' with b'            k = min_i(a, i, j);\\n' at position 42", 41)]

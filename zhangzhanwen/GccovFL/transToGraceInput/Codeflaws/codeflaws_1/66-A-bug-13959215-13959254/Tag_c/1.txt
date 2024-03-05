@@ -1,4 +1,0 @@
-codeflaws/66-A-bug-13959215-13959254/66-A-13959254.c
-codeflaws/66-A-bug-13959215-13959254/66-A-13959215.c
-6
-[("Replace b'    char c, numero[100];\\n' with b'    char c, numero[21];\\n' at position 7", 6)]

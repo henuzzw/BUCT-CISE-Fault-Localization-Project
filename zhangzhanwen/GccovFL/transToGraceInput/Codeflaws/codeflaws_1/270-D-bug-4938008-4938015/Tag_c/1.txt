@@ -1,4 +1,0 @@
-codeflaws/270-D-bug-4938008-4938015/270-D-4938015.c
-codeflaws/270-D-bug-4938008-4938015/270-D-4938008.c
-37
-[("Replace b'   int gmax=1;\\n' with b'   int gmax=0;\\n' at position 38", 37)]

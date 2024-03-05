@@ -1,4 +1,0 @@
-codeflaws/527-B-bug-16656510-16656574/527-B-16656574.c
-codeflaws/527-B-bug-16656510-16656574/527-B-16656510.c
-22
-[('Replace b"for(b=\'a\';b<=\'z\';b++){\\n" with b"for(b=\'x\';b<=\'z\';b++){\\n" at position 23', 22)]

@@ -1,4 +1,0 @@
-codeflaws/284-B-bug-9536887-9536901/284-B-9536901.c
-codeflaws/284-B-bug-9536887-9536901/284-B-9536887.c
-20
-[("Replace b'\\tif(i1>1)\\n' with b'\\telse\\n' at position 21", 20)]

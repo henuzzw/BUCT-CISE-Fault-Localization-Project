@@ -1,4 +1,0 @@
-codeflaws/475-A-bug-9383880-9383917/475-A-9383917.c
-codeflaws/475-A-bug-9383880-9383917/475-A-9383880.c
-25,25
-[('Replace b"\\ts4[1]=\'#\';\\n" with b\'\\tfor(i=1;i<25;i=i+2)\\n\' at position 26', 25), ("Insert b'\\tfor(i=1;i<25,n!=0;i=i+2)\\n' at position 27 in file2", 26)]

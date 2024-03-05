@@ -1,4 +1,0 @@
-codeflaws/342-B-bug-4426866-4426893/342-B-4426893.c
-codeflaws/342-B-bug-4426866-4426893/342-B-4426866.c
-53
-[("Replace b'\\tfor(i=1;i<t;i++)\\n' with b'\\tfor(i=1;i<=t;i++)\\n' at position 54", 53)]

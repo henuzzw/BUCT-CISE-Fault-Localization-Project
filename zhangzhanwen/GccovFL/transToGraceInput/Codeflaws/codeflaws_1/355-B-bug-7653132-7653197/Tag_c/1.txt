@@ -1,4 +1,0 @@
-codeflaws/355-B-bug-7653132-7653197/355-B-7653197.c
-codeflaws/355-B-bug-7653132-7653197/355-B-7653132.c
-21,24,30
-[('Insert b\'//\\t\\tprintf("cost:%d\\\\n",cost);\\n\' at position 23 in file2', 22), ("Insert b'\\tcost=0;\\n' at position 27 in file2", 26), ('Insert b\'//\\t\\tprintf("cost:%d\\\\n",cost);\\n\' at position 34 in file2', 33)]

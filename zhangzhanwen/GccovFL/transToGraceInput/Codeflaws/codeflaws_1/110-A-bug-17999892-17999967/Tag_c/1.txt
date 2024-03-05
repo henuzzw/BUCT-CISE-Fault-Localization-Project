@@ -1,4 +1,0 @@
-codeflaws/110-A-bug-17999892-17999967/110-A-17999967.c
-codeflaws/110-A-bug-17999892-17999967/110-A-17999892.c
-13
-[("Replace b'if(k==4||k==7)\\n' with b'if(k==(a[0]-48))\\n' at position 14", 13)]

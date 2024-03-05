@@ -1,4 +1,0 @@
-codeflaws/68-A-bug-341295-341524/68-A-341524.c
-codeflaws/68-A-bug-341295-341524/68-A-341295.c
-8
-[("Replace b'\\tfor(i = a; i <= b; i++) {\\n' with b'\\tfor(i = a; i < b; i++) {\\n' at position 9", 8)]

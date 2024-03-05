@@ -1,4 +1,0 @@
-codeflaws/131-C-bug-7900700-7900757/131-C-7900757.c
-codeflaws/131-C-bug-7900700-7900757/131-C-7900700.c
-30
-[("Replace b'               if(j<=g) count+= (C(b,i)*C(g,j));\\n' with b'               count+= (C(b,i)*C(g,j));\\n' at position 31", 30)]

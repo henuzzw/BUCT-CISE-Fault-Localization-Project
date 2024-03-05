@@ -1,4 +1,0 @@
-codeflaws/630-L-bug-16169715-16169838/630-L-16169838.c
-codeflaws/630-L-bug-16169715-16169838/630-L-16169715.c
-45,45
-[('Insert b\'    printf("%lld\\\\n",rez);\\n\' at position 47 in file2', 46), ("Insert b'        return 0;\\n' at position 48 in file2", 47)]

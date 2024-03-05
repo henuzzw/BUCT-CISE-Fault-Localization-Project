@@ -1,4 +1,0 @@
-codeflaws/638-A-bug-17070328-17070373/638-A-17070373.c
-codeflaws/638-A-bug-17070328-17070373/638-A-17070328.c
-13
-[("Replace b'        x=a/2-x+1;\\n' with b'        x=a-x-1;\\n' at position 14", 13)]

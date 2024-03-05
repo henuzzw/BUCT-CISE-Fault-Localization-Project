@@ -1,4 +1,0 @@
-codeflaws/452-B-bug-7272994-7273012/452-B-7273012.c
-codeflaws/452-B-bug-7272994-7273012/452-B-7272994.c
-43
-[("Replace b'\\t\\t\\tdis1=sqrt((m-1)*(m-1)+n*n)*2+sqrt(n*n+m*m);\\n' with b'\\t\\t\\tdis1=sqrt((m-1)*(m-1)+m*m)*2+sqrt(n*n+m*m);\\n' at position 44", 43)]

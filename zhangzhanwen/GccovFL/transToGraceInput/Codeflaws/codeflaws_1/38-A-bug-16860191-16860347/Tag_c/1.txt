@@ -1,4 +1,0 @@
-codeflaws/38-A-bug-16860191-16860347/38-A-16860347.c
-codeflaws/38-A-bug-16860191-16860347/38-A-16860191.c
-12
-[("Replace b'    for(i=b-1;i<c-1;i++)\\n' with b'    for(i=0;i<k;i++)\\n' at position 13", 12)]

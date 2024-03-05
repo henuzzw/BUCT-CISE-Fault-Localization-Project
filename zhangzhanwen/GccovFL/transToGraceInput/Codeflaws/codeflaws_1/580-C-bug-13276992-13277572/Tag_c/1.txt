@@ -1,4 +1,0 @@
-codeflaws/580-C-bug-13276992-13277572/580-C-13277572.c
-codeflaws/580-C-bug-13276992-13277572/580-C-13276992.c
-8
-[("Replace b'    for (i=h[di]+1;i<=h[di+1];i++)\\n' with b'    if (h[di+1]-h[di]>1) for (i=h[di]+1;i<=h[di+1];i++)\\n' at position 9", 8)]

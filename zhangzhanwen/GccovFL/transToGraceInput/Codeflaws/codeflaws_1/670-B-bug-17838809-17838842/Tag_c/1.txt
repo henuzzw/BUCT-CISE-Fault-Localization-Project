@@ -1,4 +1,0 @@
-codeflaws/670-B-bug-17838809-17838842/670-B-17838842.c
-codeflaws/670-B-bug-17838809-17838842/670-B-17838809.c
-10
-[("Replace b'    for(r = 1; (r*(r+1))/2 < k; r++);\\n' with b'    for(r = 1; (r*(r+1))/2 <= k; r++);\\n' at position 11", 10)]

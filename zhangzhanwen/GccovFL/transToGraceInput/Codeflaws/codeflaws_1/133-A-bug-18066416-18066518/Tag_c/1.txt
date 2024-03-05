@@ -1,4 +1,0 @@
-codeflaws/133-A-bug-18066416-18066518/133-A-18066518.c
-codeflaws/133-A-bug-18066416-18066518/133-A-18066416.c
-7,9,21
-[('Replace b"        if(str[i]==\'H\'||str[i]==\'Q\'||str[i]==\'9\')\\n" with b"        if(str[i]==\'H\'||str[i]==\'Q\'||str[i]==\'9\'||str[i]==\'+\')\\n" at position 8', 7), ('Delete b\'            //printf("YES\\\\n");\\n\' at position 9 in file2', 8), ("Replace b'return 0;\\n' with b'\\n' at position 21", 20)]

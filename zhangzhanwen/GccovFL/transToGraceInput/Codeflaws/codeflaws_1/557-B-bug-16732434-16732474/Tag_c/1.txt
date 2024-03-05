@@ -1,4 +1,0 @@
-codeflaws/557-B-bug-16732434-16732474/557-B-16732474.c
-codeflaws/557-B-bug-16732434-16732474/557-B-16732434.c
-69
-[('Replace b\'    printf("%d",k);\\n\' with b\'    printf("%d",q);\\n\' at position 70', 69)]

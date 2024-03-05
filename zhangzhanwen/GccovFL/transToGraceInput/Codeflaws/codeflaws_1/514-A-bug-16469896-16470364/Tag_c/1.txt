@@ -1,4 +1,0 @@
-codeflaws/514-A-bug-16469896-16470364/514-A-16470364.c
-codeflaws/514-A-bug-16469896-16470364/514-A-16469896.c
-26
-[("Insert b'        if(digit==0&&i==0) digit=9;\\n' at position 28 in file2", 27)]

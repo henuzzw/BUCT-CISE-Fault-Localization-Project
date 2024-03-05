@@ -1,4 +1,0 @@
-codeflaws/234-C-bug-3793024-3793031/234-C-3793031.c
-codeflaws/234-C-bug-3793024-3793031/234-C-3793024.c
-6,6
-[('Insert b\'    freopen("input.txt","r",stdin);\\n\' at position 8 in file2', 7), ('Insert b\'    freopen("output.txt","w",stdout);\\n\' at position 9 in file2', 8)]

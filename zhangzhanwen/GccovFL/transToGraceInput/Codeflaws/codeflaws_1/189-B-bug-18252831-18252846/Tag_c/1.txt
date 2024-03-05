@@ -1,4 +1,0 @@
-codeflaws/189-B-bug-18252831-18252846/189-B-18252846.c
-codeflaws/189-B-bug-18252831-18252846/189-B-18252831.c
-5
-[('Replace b\'    printf("%lld", ((w*w)/4) * ((h*h)/4));\\n\' with b\'    printf("%lld", ((w*w)/4 * (h*h)/4));\\n\' at position 6', 5)]

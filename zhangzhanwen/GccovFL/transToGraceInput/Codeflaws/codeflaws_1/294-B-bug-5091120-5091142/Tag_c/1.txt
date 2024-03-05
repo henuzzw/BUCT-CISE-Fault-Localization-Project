@@ -1,4 +1,0 @@
-codeflaws/294-B-bug-5091120-5091142/294-B-5091142.c
-codeflaws/294-B-bug-5091120-5091142/294-B-5091120.c
-41
-[("Replace b'\\t\\telse if(pos1>=0 && p1[pos1]+swidth<=sum-1){\\n' with b'\\t\\telse if(pos1>=0 && p1[pos1]+swidth<=sum){\\n' at position 42", 41)]

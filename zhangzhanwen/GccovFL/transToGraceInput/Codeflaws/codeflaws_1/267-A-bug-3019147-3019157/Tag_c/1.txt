@@ -1,4 +1,0 @@
-codeflaws/267-A-bug-3019147-3019157/267-A-3019157.c
-codeflaws/267-A-bug-3019147-3019157/267-A-3019147.c
-20
-[('Replace b\'   printf("%d\\\\n",m);\\n\' with b\'   printf("%d",m);\\n\' at position 21', 20)]

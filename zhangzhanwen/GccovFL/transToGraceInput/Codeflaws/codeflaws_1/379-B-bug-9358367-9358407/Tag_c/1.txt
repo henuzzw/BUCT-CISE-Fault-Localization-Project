@@ -1,4 +1,0 @@
-codeflaws/379-B-bug-9358367-9358407/379-B-9358407.c
-codeflaws/379-B-bug-9358367-9358407/379-B-9358367.c
-47
-[("Replace b'\\t\\t\\tif(a[p]!=0 && p!=0)\\n' with b'\\t\\t\\tif(a[p]!=0)\\n' at position 48", 47)]

@@ -1,4 +1,0 @@
-codeflaws/320-A-bug-14193648-14193689/320-A-14193689.c
-codeflaws/320-A-bug-14193648-14193689/320-A-14193648.c
-23
-[("Replace b'            else if(n%10==1)  n=n/10;\\n' with b'            if(n%10==1)  n=n/10;\\n' at position 24", 23)]

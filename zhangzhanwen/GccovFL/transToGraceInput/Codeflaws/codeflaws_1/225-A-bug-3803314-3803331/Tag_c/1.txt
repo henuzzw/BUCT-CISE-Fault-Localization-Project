@@ -1,4 +1,0 @@
-codeflaws/225-A-bug-3803314-3803331/225-A-3803331.c
-codeflaws/225-A-bug-3803314-3803331/225-A-3803314.c
-10
-[("Replace b'if(a[i]==k||b[i]==k||7-a[i]==k||7-b[i]==k)\\n' with b'if(a[i]==k||b[i]==k)\\n' at position 11", 10)]

@@ -1,4 +1,0 @@
-codeflaws/680-A-bug-18343172-18343191/680-A-18343191.c
-codeflaws/680-A-bug-18343172-18343191/680-A-18343172.c
-22
-[("Delete b'\\tbreak;\\n' at position 22 in file2", 21)]

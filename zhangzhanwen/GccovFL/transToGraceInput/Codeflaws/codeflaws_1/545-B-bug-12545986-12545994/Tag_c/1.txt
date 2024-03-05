@@ -1,4 +1,0 @@
-codeflaws/545-B-bug-12545986-12545994/545-B-12545994.c
-codeflaws/545-B-bug-12545986-12545994/545-B-12545986.c
-50,52
-[('Insert b\'        printf("%s",s3);\\n\' at position 52 in file2', 51), ('Replace b\'\\n\' with b\'    printf("%s",s3);\\n\' at position 54', 53)]

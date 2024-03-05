@@ -1,4 +1,0 @@
-codeflaws/322-A-bug-10641504-10641539/322-A-10641539.c
-codeflaws/322-A-bug-10641504-10641539/322-A-10641504.c
-57
-[("Replace b'\\n' with b'++l;\\n' at position 58", 57)]

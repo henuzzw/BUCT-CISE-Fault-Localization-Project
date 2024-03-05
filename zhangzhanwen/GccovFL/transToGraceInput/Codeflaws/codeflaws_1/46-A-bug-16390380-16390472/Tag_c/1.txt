@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-16390380-16390472/46-A-16390472.c
-codeflaws/46-A-bug-16390380-16390472/46-A-16390380.c
-10,11,11
-[("Insert b'\\t\\tif((sum+1)%n!=0)\\n' at position 12 in file2", 11), ("Insert b'\\t\\tif((sum+1)%n==0)\\n' at position 14 in file2", 13), ('Insert b\'\\t\\tprintf("%d ",n);\\n\' at position 15 in file2', 14)]

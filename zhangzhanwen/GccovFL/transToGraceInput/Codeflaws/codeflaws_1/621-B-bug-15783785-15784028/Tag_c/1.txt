@@ -1,4 +1,0 @@
-codeflaws/621-B-bug-15783785-15784028/621-B-15784028.c
-codeflaws/621-B-bug-15783785-15784028/621-B-15783785.c
-22
-[("Replace b'    for(i=0;i<=400005;i++)\\n' with b'    for(i=0;i<=2*num;i++)\\n' at position 23", 22)]

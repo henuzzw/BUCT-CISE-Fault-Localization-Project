@@ -1,4 +1,0 @@
-codeflaws/51-A-bug-3898924-3898997/51-A-3898997.c
-codeflaws/51-A-bug-3898924-3898997/51-A-3898924.c
-11
-[('Replace b\'        scanf("%1d",&a[i][j]);\\n\' with b\'        scanf("%d",&a[i][j]);\\n\' at position 12', 11)]

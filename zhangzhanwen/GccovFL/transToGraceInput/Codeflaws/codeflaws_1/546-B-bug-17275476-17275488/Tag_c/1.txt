@@ -1,4 +1,0 @@
-codeflaws/546-B-bug-17275476-17275488/546-B-17275488.c
-codeflaws/546-B-bug-17275476-17275488/546-B-17275476.c
-16
-[("Replace b'#define MAX 6010\\n' with b'#define MAX 3010\\n' at position 17", 16)]

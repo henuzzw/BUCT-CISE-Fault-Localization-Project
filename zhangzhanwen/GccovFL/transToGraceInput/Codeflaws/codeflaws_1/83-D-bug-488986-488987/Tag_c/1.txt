@@ -1,4 +1,0 @@
-codeflaws/83-D-bug-488986-488987/83-D-488987.c
-codeflaws/83-D-bug-488986-488987/83-D-488986.c
-65,66,66
-[("Insert b'\\t{\\n' at position 67 in file2", 66), ("Insert b'\\t\\treturn 0;\\n' at position 69 in file2", 68), ("Insert b'\\t}\\n' at position 70 in file2", 69)]

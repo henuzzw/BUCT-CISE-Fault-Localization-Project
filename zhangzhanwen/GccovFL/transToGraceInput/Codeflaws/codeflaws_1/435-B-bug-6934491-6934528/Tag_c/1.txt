@@ -1,4 +1,0 @@
-codeflaws/435-B-bug-6934491-6934528/435-B-6934528.c
-codeflaws/435-B-bug-6934491-6934528/435-B-6934491.c
-8
-[('Replace b"    for(i=0; i<i+K && Str[i]!=\'\\\\0\'; ++i)\\n" with b"    for(i=0; i<K && Str[i]!=\'\\\\0\'; ++i)\\n" at position 9', 8)]

@@ -1,4 +1,0 @@
-codeflaws/432-B-bug-10632046-10632183/432-B-10632183.c
-codeflaws/432-B-bug-10632046-10632183/432-B-10632046.c
-10
-[('Replace b\'\\t\\tprintf("%d %d\\\\n",n-1+a[d[i]],n-1-a[d[i]]);\\n\' with b\'\\t\\tprintf("%d %d\\\\n",a[c[i]]+b[c[i]],b[d[i]] - a[d[i]]);\\n\' at position 11', 10)]

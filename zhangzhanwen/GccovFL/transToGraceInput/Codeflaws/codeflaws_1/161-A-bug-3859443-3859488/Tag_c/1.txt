@@ -1,4 +1,0 @@
-codeflaws/161-A-bug-3859443-3859488/161-A-3859488.c
-codeflaws/161-A-bug-3859443-3859488/161-A-3859443.c
-38,40
-[("Insert b'            k=M+1;\\n' at position 40 in file2", 39), ("Replace b'\\n' with b'        k=M+1;\\n' at position 42", 41)]

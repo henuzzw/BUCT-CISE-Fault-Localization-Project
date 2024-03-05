@@ -1,4 +1,0 @@
-codeflaws/115-A-bug-11971331-11971340/115-A-11971340.c
-codeflaws/115-A-bug-11971331-11971340/115-A-11971331.c
-86
-[('Replace b\'      printf("%d",max+1);\\n\' with b\'      printf("%d",max);\\n\' at position 87', 86)]

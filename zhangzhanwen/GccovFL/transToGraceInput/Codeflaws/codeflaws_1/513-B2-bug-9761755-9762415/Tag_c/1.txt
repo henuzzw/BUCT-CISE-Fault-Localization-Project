@@ -1,4 +1,0 @@
-codeflaws/513-B2-bug-9761755-9762415/513-B2-9762415.c
-codeflaws/513-B2-bug-9761755-9762415/513-B2-9761755.c
-15
-[("Insert b'\\tm=m*2-1;\\n' at position 17 in file2", 16)]

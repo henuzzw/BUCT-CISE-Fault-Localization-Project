@@ -1,4 +1,0 @@
-codeflaws/330-C-bug-4160083-4160093/330-C-4160093.c
-codeflaws/330-C-bug-4160083-4160093/330-C-4160083.c
-58,67,67
-[("Insert b'    {\\n' at position 60 in file2", 59), ("Insert b'           return 0;\\n' at position 70 in file2", 69), ("Insert b'    }\\n' at position 71 in file2", 70)]

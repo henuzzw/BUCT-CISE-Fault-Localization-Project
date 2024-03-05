@@ -1,4 +1,0 @@
-codeflaws/478-B-bug-17913677-17913680/478-B-17913680.c
-codeflaws/478-B-bug-17913677-17913680/478-B-17913677.c
-8
-[('Replace b\'\\tprintf("%lld %lld",( ( n / m - 1 ) * ( n / m ) / 2 ) * ( m - n % m ) + ( ( n / m ) * ( n / m + 1 ) / 2 ) * ( n % m ), ( n - m ) * ( n - m + 1 ) / 2 );\\n\' with b\'\\tprintf("%lld%lld",( ( n / m - 1 ) * ( n / m ) / 2 ) * ( m - n % m ) + ( ( n / m ) * ( n / m + 1 ) / 2 ) * ( n % m ), ( n - m ) * ( n - m + 1 ) / 2 );\\n\' at position 9', 8)]

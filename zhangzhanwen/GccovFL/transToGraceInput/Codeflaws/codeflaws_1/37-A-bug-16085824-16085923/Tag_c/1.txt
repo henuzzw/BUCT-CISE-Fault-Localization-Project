@@ -1,4 +1,0 @@
-codeflaws/37-A-bug-16085824-16085923/37-A-16085923.c
-codeflaws/37-A-bug-16085824-16085923/37-A-16085824.c
-5
-[("Replace b'\\tint arr[1001]={0},arr1[n];\\n' with b'\\tint arr[1000]={0},arr1[n];\\n' at position 6", 5)]

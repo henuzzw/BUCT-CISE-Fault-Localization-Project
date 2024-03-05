@@ -1,4 +1,0 @@
-codeflaws/669-C-bug-17493975-17494209/669-C-17494209.c
-codeflaws/669-C-bug-17493975-17494209/669-C-17493975.c
-61,63
-[("Delete b'        print();\\n' at position 61 in file2", 60), ("Insert b'    print();\\n' at position 64 in file2", 63)]

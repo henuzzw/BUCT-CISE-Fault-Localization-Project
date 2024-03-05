@@ -1,4 +1,0 @@
-codeflaws/94-B-bug-18256561-18256595/94-B-18256595.c
-codeflaws/94-B-bug-18256561-18256595/94-B-18256561.c
-17
-[("Replace b'        if(a[i]<=1)\\n' with b'        if(a[i]==1)\\n' at position 18", 17)]

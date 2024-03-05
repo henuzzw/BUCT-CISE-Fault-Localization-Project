@@ -1,4 +1,0 @@
-codeflaws/109-A-bug-13092782-13092815/109-A-13092815.c
-codeflaws/109-A-bug-13092782-13092815/109-A-13092782.c
-31
-[("Insert b'                break;\\n' at position 33 in file2", 32)]

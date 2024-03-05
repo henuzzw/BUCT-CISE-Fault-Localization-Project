@@ -1,4 +1,0 @@
-codeflaws/68-A-bug-527083-527088/68-A-527088.c
-codeflaws/68-A-bug-527083-527088/68-A-527083.c
-19
-[("Replace b'\\t\\tif (b < min_p) result = b - a + 1;\\n' with b'\\t\\tif (b < min_p) result = a - b + 1;\\n' at position 20", 19)]

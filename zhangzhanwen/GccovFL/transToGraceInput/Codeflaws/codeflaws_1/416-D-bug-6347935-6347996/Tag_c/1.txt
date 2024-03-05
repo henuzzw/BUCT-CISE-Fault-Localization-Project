@@ -1,4 +1,0 @@
-codeflaws/416-D-bug-6347935-6347996/416-D-6347996.c
-codeflaws/416-D-bug-6347935-6347996/416-D-6347935.c
-17
-[("Replace b' \\tif(i<n&&((a[k]-a[j])%(k-j)!=0||((long long)a[k]-a[j])*(l-k)+(long long)a[k]*(k-j)<=0)) {\\n' with b' \\tif(i<n&&((long long)a[k]-a[j])*(l-k)+(long long)a[k]*(k-j)<=0) {\\n' at position 18", 17)]

@@ -1,4 +1,0 @@
-codeflaws/358-A-bug-14050425-14050437/358-A-14050437.c
-codeflaws/358-A-bug-14050425-14050437/358-A-14050425.c
-24,41
-[("Replace b'        ptr->b = aux;\\n' with b'        ptr->b = ptr->a;\\n' at position 25", 24), ('Delete b\'        fprintf(stdout, "%d %d\\\\n", ptr_a->a, ptr_a->b);\\n\' at position 41 in file2', 40)]

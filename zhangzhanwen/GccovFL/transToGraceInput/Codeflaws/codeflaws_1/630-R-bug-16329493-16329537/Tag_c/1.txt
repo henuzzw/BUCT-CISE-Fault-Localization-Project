@@ -1,4 +1,0 @@
-codeflaws/630-R-bug-16329493-16329537/630-R-16329537.c
-codeflaws/630-R-bug-16329493-16329537/630-R-16329493.c
-5
-[("Replace b'    if(n%2!=0)\\n' with b'    if(n==1)\\n' at position 6", 5)]

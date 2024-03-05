@@ -1,4 +1,0 @@
-codeflaws/257-A-bug-4070019-4070055/257-A-4070055.c
-codeflaws/257-A-bug-4070019-4070055/257-A-4070019.c
-21
-[("Replace b'if(m<=k)\\n' with b'if(m<k)\\n' at position 22", 21)]

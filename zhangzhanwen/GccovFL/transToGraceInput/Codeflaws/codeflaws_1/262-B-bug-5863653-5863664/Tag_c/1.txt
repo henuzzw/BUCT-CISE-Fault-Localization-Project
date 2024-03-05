@@ -1,4 +1,0 @@
-codeflaws/262-B-bug-5863653-5863664/262-B-5863664.c
-codeflaws/262-B-bug-5863653-5863664/262-B-5863653.c
-12
-[('Delete b\'    printf("%d\\\\n",sum);\\n\' at position 12 in file2', 11)]

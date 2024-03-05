@@ -1,4 +1,0 @@
-codeflaws/239-A-bug-13208126-13208145/239-A-13208145.c
-codeflaws/239-A-bug-13208126-13208145/239-A-13208126.c
-6
-[("Replace b'    i=k-y%k;\\n' with b'    i=k-x%k;\\n' at position 7", 6)]

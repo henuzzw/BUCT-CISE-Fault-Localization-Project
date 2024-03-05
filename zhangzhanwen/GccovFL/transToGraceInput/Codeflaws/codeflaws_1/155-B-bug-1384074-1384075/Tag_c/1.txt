@@ -1,4 +1,0 @@
-codeflaws/155-B-bug-1384074-1384075/155-B-1384075.c
-codeflaws/155-B-bug-1384074-1384075/155-B-1384074.c
-12
-[("Replace b'    return rhs -> value - lhs -> value;\\n' with b'    return rhs -> value - rhs -> value;\\n' at position 13", 12)]

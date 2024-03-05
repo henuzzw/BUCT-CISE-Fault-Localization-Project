@@ -1,4 +1,0 @@
-codeflaws/431-C-bug-9275378-9275414/431-C-9275414.c
-codeflaws/431-C-bug-9275378-9275414/431-C-9275378.c
-38
-[('Replace b\'    printf("%d\\\\n", (Ans - R + MOD) % MOD);\\n\' with b\'    printf("%d\\\\n", Ans - R);\\n\' at position 39', 38)]

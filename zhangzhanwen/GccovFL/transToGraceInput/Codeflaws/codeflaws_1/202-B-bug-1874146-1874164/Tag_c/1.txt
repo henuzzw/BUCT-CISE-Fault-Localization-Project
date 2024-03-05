@@ -1,4 +1,0 @@
-codeflaws/202-B-bug-1874146-1874164/202-B-1874164.c
-codeflaws/202-B-bug-1874146-1874164/202-B-1874146.c
-31,39,39
-[("Insert b'\\n' at position 33 in file2", 32), ("Insert b'\\t\\t\\t\\tresultindex = proindex;\\n' at position 42 in file2", 41), ("Insert b'\\t\\t\\t}else if(tmp == inversion && proindex < resultindex){\\n' at position 43 in file2", 42)]

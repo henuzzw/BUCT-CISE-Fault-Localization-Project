@@ -1,4 +1,0 @@
-codeflaws/403-A-bug-6100742-6100800/403-A-6100800.c
-codeflaws/403-A-bug-6100742-6100800/403-A-6100742.c
-56,60
-[("Replace b'   while(nro_exemplos--) {\\n' with b'   while(nro_exemplos) {\\n' at position 57", 56), ("Insert b'       first_free_pos = 0;\\n' at position 62 in file2", 61)]

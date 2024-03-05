@@ -1,4 +1,0 @@
-codeflaws/400-C-bug-6251427-6251452/400-C-6251452.c
-codeflaws/400-C-bug-6251427-6251452/400-C-6251427.c
-19
-[("Replace b'            w=(x%4)*4+(4-z%4)%4;\\n' with b'            w=(x%4)*4+4-z%4;\\n' at position 20", 19)]

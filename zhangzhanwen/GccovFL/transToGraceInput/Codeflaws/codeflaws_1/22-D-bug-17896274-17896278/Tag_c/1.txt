@@ -1,4 +1,0 @@
-codeflaws/22-D-bug-17896274-17896278/22-D-17896278.c
-codeflaws/22-D-bug-17896274-17896278/22-D-17896274.c
-34,34
-[("Replace b'                minor++;\\n' with b'                NAILS[minor++]=right;\\n' at position 35", 34), ("Insert b'                NAILS[minor]=right;\\n' at position 36 in file2", 35)]

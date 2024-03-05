@@ -1,4 +1,0 @@
-codeflaws/20-A-bug-13625510-13625531/20-A-13625531.c
-codeflaws/20-A-bug-13625510-13625531/20-A-13625510.c
-13
-[('Replace b"\\twhile((a[i]==\'/\')&&i!=1)i--;\\n" with b"\\twhile(a[i]==\'/\')i--;\\n" at position 14', 13)]

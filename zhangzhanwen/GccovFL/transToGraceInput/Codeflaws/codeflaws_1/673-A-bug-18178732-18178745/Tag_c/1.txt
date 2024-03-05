@@ -1,4 +1,0 @@
-codeflaws/673-A-bug-18178732-18178745/673-A-18178745.c
-codeflaws/673-A-bug-18178732-18178745/673-A-18178732.c
-35
-[('Replace b\'//\\t\\tprintf("Hai\\\\n");\\n\' with b\'\\t\\tprintf("Hai\\\\n");\\n\' at position 36', 35)]

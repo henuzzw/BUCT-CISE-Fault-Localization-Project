@@ -1,4 +1,0 @@
-codeflaws/260-C-bug-10856620-10856633/260-C-10856633.c
-codeflaws/260-C-bug-10856620-10856633/260-C-10856620.c
-7
-[("Replace b'\\ta[0]=9999999;\\n' with b'\\tnn=n;\\n' at position 8", 7)]

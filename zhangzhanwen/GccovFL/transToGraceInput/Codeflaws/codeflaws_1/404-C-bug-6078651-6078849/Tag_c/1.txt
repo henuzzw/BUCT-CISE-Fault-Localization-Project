@@ -1,4 +1,0 @@
-codeflaws/404-C-bug-6078651-6078849/404-C-6078849.c
-codeflaws/404-C-bug-6078651-6078849/404-C-6078651.c
-66,72
-[("Insert b'\\t\\t\\t\\t\\t\\t\\t++kk[j];\\n' at position 68 in file2", 67), ("Replace b'\\t\\t\\t\\t\\t\\t\\t++kk[q];\\t\\t\\t\\t\\t\\t\\t\\n' with b'\\t\\t\\t\\t\\t\\t\\t++kk[q];\\n' at position 74", 73)]

@@ -1,4 +1,0 @@
-codeflaws/267-A-bug-5621995-5622001/267-A-5622001.c
-codeflaws/267-A-bug-5621995-5622001/267-A-5621995.c
-21
-[('Replace b\'\\t\\tprintf("%d\\\\n",s);\\n\' with b\'\\t\\tprintf("%d",s);\\n\' at position 22', 21)]

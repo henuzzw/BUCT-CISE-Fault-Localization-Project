@@ -1,4 +1,0 @@
-codeflaws/190-A-bug-13252806-13252830/190-A-13252830.c
-codeflaws/190-A-bug-13252806-13252830/190-A-13252806.c
-19
-[("Replace b'    else if(n>=1 && m==0)\\n' with b'    else if(n>1 && m==0)\\n' at position 20", 19)]

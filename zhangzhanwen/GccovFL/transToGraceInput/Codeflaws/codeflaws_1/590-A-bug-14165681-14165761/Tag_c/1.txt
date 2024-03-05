@@ -1,4 +1,0 @@
-codeflaws/590-A-bug-14165681-14165761/590-A-14165761.c
-codeflaws/590-A-bug-14165681-14165761/590-A-14165681.c
-18
-[("Replace b'\\t\\t\\telse for (k=i;k<j;k++) if (k<(i+j)/2) num[k]=num[i-1]; else num[k]=num[j];\\n' with b'\\t\\t\\telse for (k=i;k<j;k++) if (k<(i+j)) num[k]=num[i-1]; else num[k]=num[j];\\n' at position 19", 18)]

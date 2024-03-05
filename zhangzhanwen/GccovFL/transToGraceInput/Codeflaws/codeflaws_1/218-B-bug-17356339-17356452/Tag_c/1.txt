@@ -1,4 +1,0 @@
-codeflaws/218-B-bug-17356339-17356452/218-B-17356452.c
-codeflaws/218-B-bug-17356339-17356452/218-B-17356339.c
-89
-[("Replace b'\\t\\tif(seat[i]>=people){\\n' with b'\\t\\tif(seat[i]>=n){\\n' at position 90", 89)]

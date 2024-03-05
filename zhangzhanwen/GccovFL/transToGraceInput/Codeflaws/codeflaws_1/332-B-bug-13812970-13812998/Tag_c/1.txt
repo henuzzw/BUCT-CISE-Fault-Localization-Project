@@ -1,4 +1,0 @@
-codeflaws/332-B-bug-13812970-13812998/332-B-13812998.c
-codeflaws/332-B-bug-13812970-13812998/332-B-13812970.c
-15
-[("Replace b'            fr[i][0]=f,fr[i][1]=i-k+1;\\n' with b'            fr[i][0]=f,fr[i][1]=i-k;\\n' at position 16", 15)]

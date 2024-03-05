@@ -1,4 +1,0 @@
-codeflaws/171-A-bug-15452830-15452852/171-A-15452852.c
-codeflaws/171-A-bug-15452830-15452852/171-A-15452830.c
-5
-[("Replace b'\\tif (x/10==0 && x!=0)\\n' with b'\\tif (x/10==0)\\n' at position 6", 5)]

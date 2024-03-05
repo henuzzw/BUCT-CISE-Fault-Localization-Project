@@ -1,4 +1,0 @@
-codeflaws/81-B-bug-9507237-9507254/81-B-9507254.c
-codeflaws/81-B-bug-9507237-9507254/81-B-9507237.c
-15
-[('Replace b"        c=b;while (c==\' \') c=getc(stdin);\\n" with b\'        c=b;\\n\' at position 16', 15)]

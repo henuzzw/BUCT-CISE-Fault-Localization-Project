@@ -1,4 +1,0 @@
-codeflaws/102-C-bug-580911-581173/102-C-581173.c
-codeflaws/102-C-bug-580911-581173/102-C-580911.c
-71,71
-[("Replace b'\\tans=0;\\n' with b'\\tfor(i=0;i<n;i++)\\n' at position 72", 71), ("Insert b'\\tfor(i=0;i<26;i++)\\n' at position 73 in file2", 72)]

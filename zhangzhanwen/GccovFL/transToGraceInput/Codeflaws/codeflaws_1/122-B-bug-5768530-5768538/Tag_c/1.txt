@@ -1,4 +1,0 @@
-codeflaws/122-B-bug-5768530-5768538/122-B-5768538.c
-codeflaws/122-B-bug-5768530-5768538/122-B-5768530.c
-13
-[("Replace b'                if(k==0||k==2)\\n' with b'                if(k==0)\\n' at position 14", 13)]

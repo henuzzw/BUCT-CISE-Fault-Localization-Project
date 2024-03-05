@@ -1,4 +1,0 @@
-codeflaws/169-A-bug-16599196-16599272/169-A-16599272.c
-codeflaws/169-A-bug-16599196-16599272/169-A-16599196.c
-21
-[("Replace b'        res = ar[b] - ar[b - 1];\\n' with b'        res = ar[b] - ar[a];\\n' at position 22", 21)]

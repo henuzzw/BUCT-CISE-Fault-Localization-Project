@@ -1,4 +1,0 @@
-codeflaws/166-E-bug-7450334-7450344/166-E-7450344.c
-codeflaws/166-E-bug-7450334-7450344/166-E-7450334.c
-2
-[("Replace b'long long int ar[10000600];\\n' with b'long long int ar[1000600];\\n' at position 3", 2)]

@@ -1,4 +1,0 @@
-codeflaws/469-A-bug-18122777-18122796/469-A-18122796.c
-codeflaws/469-A-bug-18122777-18122796/469-A-18122777.c
-20
-[('Replace b\'scanf("%d",&b[i]);\\n\' with b\'scanf("%d",&b[q]);\\n\' at position 21', 20)]

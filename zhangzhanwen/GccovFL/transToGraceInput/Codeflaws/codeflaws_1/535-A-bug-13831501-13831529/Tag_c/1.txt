@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-13831501-13831529/535-A-13831529.c
-codeflaws/535-A-bug-13831501-13831529/535-A-13831501.c
-19,66
-[("Replace b'y=20;\\n' with b'y=21;\\n' at position 20", 19), ("Delete b'\\n' at position 66 in file2", 65)]

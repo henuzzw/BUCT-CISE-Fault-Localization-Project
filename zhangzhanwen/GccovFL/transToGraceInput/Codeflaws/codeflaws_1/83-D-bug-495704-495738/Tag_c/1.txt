@@ -1,4 +1,0 @@
-codeflaws/83-D-bug-495704-495738/83-D-495738.c
-codeflaws/83-D-bug-495704-495738/83-D-495704.c
-41
-[("Replace b'               ans+=(prime[j]>=k&&a<=prime[j]*i);\\n' with b'               ans+=(prime[j]>=k&&a<=i);\\n' at position 42", 41)]

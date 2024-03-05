@@ -1,4 +1,0 @@
-codeflaws/185-A-bug-1914016-1914022/185-A-1914022.c
-codeflaws/185-A-bug-1914016-1914022/185-A-1914016.c
-22
-[('Insert b\'        if(n==0) {printf("1\\\\n");continue;}\\n\' at position 24 in file2', 23)]

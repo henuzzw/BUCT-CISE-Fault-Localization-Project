@@ -1,4 +1,0 @@
-codeflaws/404-C-bug-11837655-11837677/404-C-11837677.c
-codeflaws/404-C-bug-11837655-11837677/404-C-11837655.c
-74
-[("Replace b'\\twhile(st<en && p<=n && sta==0)\\n' with b'\\twhile(st<=en && p<=n && sta==0)\\n' at position 75", 74)]

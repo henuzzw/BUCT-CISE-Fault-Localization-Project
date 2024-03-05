@@ -1,4 +1,0 @@
-codeflaws/515-B-bug-10613453-10613480/515-B-10613480.c
-codeflaws/515-B-bug-10613453-10613480/515-B-10613453.c
-13
-[("Replace b'        g[a]=1;\\n' with b'        b[a]=1;\\n' at position 14", 13)]

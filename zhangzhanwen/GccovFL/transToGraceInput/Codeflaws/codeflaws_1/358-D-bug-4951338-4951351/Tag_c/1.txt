@@ -1,4 +1,0 @@
-codeflaws/358-D-bug-4951338-4951351/358-D-4951351.c
-codeflaws/358-D-bug-4951338-4951351/358-D-4951338.c
-39,39
-[("Replace b'\\tif (N==1) result = V[0][0];\\n' with b'\\tresult = dinamica();\\n' at position 40", 39), ("Insert b'\\telse result = dinamica();\\n' at position 41 in file2", 40)]

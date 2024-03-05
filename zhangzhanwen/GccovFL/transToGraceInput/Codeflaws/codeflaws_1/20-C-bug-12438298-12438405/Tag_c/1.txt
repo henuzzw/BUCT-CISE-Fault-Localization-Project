@@ -1,4 +1,0 @@
-codeflaws/20-C-bug-12438298-12438405/20-C-12438405.c
-codeflaws/20-C-bug-12438298-12438405/20-C-12438298.c
-25,25
-[("Insert b'\\tSWAP(Heap[1][0],Heap[m][0]);\\n' at position 27 in file2", 26), ("Insert b'\\tSWAP(Heap[1][1],Heap[m][1]);\\n' at position 28 in file2", 27)]

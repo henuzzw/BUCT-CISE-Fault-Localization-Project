@@ -1,4 +1,0 @@
-codeflaws/500-C-bug-9336036-9336051/500-C-9336051.c
-codeflaws/500-C-bug-9336036-9336051/500-C-9336036.c
-15
-[("Replace b'    for ( j=0,acc=0; xs[j] != bs[i]; acc+=ws[xs[j++]] );\\n' with b'    for ( j=0,acc=0; xs[j] != bs[i]; ++j, acc+=xs[j] );\\n' at position 16", 15)]

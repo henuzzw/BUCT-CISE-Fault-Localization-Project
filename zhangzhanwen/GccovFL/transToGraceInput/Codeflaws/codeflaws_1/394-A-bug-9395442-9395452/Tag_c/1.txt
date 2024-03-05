@@ -1,4 +1,0 @@
-codeflaws/394-A-bug-9395442-9395452/394-A-9395452.c
-codeflaws/394-A-bug-9395442-9395452/394-A-9395442.c
-5
-[("Replace b'\\tchar a[305];\\n' with b'\\tchar a[100];\\n' at position 6", 5)]

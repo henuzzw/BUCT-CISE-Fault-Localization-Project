@@ -1,4 +1,0 @@
-codeflaws/366-C-bug-5232244-5232246/366-C-5232246.c
-codeflaws/366-C-bug-5232244-5232246/366-C-5232244.c
-6
-[('Delete b\'    freopen("g:\\\\\\\\input.txt","r",stdin);\\n\' at position 6 in file2', 5)]

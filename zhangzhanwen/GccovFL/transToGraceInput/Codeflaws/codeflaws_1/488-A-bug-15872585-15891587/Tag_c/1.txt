@@ -1,4 +1,0 @@
-codeflaws/488-A-bug-15872585-15891587/488-A-15891587.c
-codeflaws/488-A-bug-15872585-15891587/488-A-15872585.c
-11
-[("Replace b'while(k!=0)\\n' with b'while(k>0)\\n' at position 12", 11)]

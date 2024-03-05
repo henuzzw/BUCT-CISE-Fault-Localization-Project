@@ -1,4 +1,0 @@
-codeflaws/401-A-bug-16437058-16437078/401-A-16437078.c
-codeflaws/401-A-bug-16437058-16437078/401-A-16437058.c
-12
-[("Replace b'\\t\\tsum1 = 0;\\n' with b'\\t\\tsum1 = 1;\\n' at position 13", 12)]

@@ -1,4 +1,0 @@
-codeflaws/218-B-bug-6098109-6098129/218-B-6098129.c
-codeflaws/218-B-bug-6098109-6098129/218-B-6098109.c
-62
-[("Replace b'   temp=((b[i]*(b[i]+1))/2)-(((b[i]-n1)*(b[i]-n1+1))/2);\\n' with b'   temp=((b[i]*(b[i]+1))/2)-(((b[i]+n1)*(b[i]-n1+1))/2);\\n' at position 63", 62)]

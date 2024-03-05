@@ -1,4 +1,0 @@
-codeflaws/25-D-bug-110126-110132/25-D-110132.c
-codeflaws/25-D-bug-110126-110132/25-D-110126.c
-27
-[("Replace b'  rep(i,n) cnt[unionGet(ind,i)]=1;\\n' with b'  rep(i,m) cnt[unionGet(ind,i)]=1;\\n' at position 28", 27)]

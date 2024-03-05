@@ -1,4 +1,0 @@
-codeflaws/197-A-bug-11255488-11255570/197-A-11255570.c
-codeflaws/197-A-bug-11255488-11255570/197-A-11255488.c
-7
-[("Replace b'    if(b<a)a=b;\\n' with b'    if(b>a)a=b;\\n' at position 8", 7)]

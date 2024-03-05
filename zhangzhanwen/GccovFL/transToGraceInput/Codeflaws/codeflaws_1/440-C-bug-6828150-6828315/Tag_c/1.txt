@@ -1,4 +1,0 @@
-codeflaws/440-C-bug-6828150-6828315/440-C-6828315.c
-codeflaws/440-C-bug-6828150-6828315/440-C-6828150.c
-30
-[("Replace b'\\tlong long mul = 10;\\n' with b'\\tint mul = 10;\\n' at position 31", 30)]

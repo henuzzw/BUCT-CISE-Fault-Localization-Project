@@ -1,4 +1,0 @@
-codeflaws/519-B-bug-15906702-15907261/519-B-15907261.c
-codeflaws/519-B-bug-15906702-15907261/519-B-15906702.c
-2
-[('Insert b\'\\tscanf("%d",&n);\\n\' at position 4 in file2', 3)]

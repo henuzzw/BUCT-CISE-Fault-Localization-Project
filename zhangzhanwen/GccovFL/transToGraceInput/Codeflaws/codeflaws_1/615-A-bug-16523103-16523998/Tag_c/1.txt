@@ -1,4 +1,0 @@
-codeflaws/615-A-bug-16523103-16523998/615-A-16523998.c
-codeflaws/615-A-bug-16523103-16523998/615-A-16523103.c
-32
-[("Replace b'    for (i = 0; i < m; i++){\\n' with b'    for (i = 0; i < n; i++){\\n' at position 33", 32)]

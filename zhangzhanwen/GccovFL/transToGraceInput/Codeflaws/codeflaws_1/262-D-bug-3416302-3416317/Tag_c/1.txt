@@ -1,4 +1,0 @@
-codeflaws/262-D-bug-3416302-3416317/262-D-3416317.c
-codeflaws/262-D-bug-3416302-3416317/262-D-3416302.c
-29
-[('Replace b\'    printf("%.10lf\\\\n",N+0.0);\\n\' with b\'    printf("%.10lf\\\\n",N);\\n\' at position 30', 29)]

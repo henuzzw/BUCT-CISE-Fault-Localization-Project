@@ -1,4 +1,0 @@
-codeflaws/86-A-bug-2104166-2104188/86-A-2104188.c
-codeflaws/86-A-bug-2104166-2104188/86-A-2104166.c
-10
-[("Replace b'if(l<=x/2)\\n' with b'if(l<x/2)\\n' at position 11", 10)]

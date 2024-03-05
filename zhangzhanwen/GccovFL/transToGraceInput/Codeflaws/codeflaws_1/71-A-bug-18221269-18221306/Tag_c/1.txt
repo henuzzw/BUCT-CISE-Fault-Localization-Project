@@ -1,4 +1,0 @@
-codeflaws/71-A-bug-18221269-18221306/71-A-18221306.c
-codeflaws/71-A-bug-18221269-18221306/71-A-18221269.c
-39
-[('Replace b\'   printf(" %c%d%c\\\\n",s[0],l-2,s[l-1]);\\n\' with b\'   printf(" %c%d%c",s[0],l-2,s[l-1]);\\n\' at position 40', 39)]

@@ -1,4 +1,0 @@
-codeflaws/37-C-bug-167839-168311/37-C-168311.c
-codeflaws/37-C-bug-167839-168311/37-C-167839.c
-29
-[("Insert b' tree[x].full|=tree[tree[x].child[0]].full&tree[tree[x].child[1]].full;\\n' at position 31 in file2", 30)]

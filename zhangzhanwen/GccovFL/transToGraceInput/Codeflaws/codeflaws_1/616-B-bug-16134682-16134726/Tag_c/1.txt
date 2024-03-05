@@ -1,4 +1,0 @@
-codeflaws/616-B-bug-16134682-16134726/616-B-16134726.c
-codeflaws/616-B-bug-16134682-16134726/616-B-16134682.c
-6,13
-[("Replace b'    {min=9999999999;\\n' with b'    {min=999999999;\\n' at position 7", 6), ("Delete b'\\n' at position 13 in file2", 12)]

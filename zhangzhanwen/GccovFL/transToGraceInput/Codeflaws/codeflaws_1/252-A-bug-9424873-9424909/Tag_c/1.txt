@@ -1,4 +1,0 @@
-codeflaws/252-A-bug-9424873-9424909/252-A-9424909.c
-codeflaws/252-A-bug-9424873-9424909/252-A-9424873.c
-7,9
-[("Replace b'\\tmax=0;\\n' with b'\\tmax=0;x=1;\\n' at position 8", 7), ("Insert b'\\t\\tx=0;\\n' at position 11 in file2", 10)]

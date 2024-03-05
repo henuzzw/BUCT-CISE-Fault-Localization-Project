@@ -1,4 +1,0 @@
-codeflaws/476-A-bug-16608008-16608059/476-A-16608059.c
-codeflaws/476-A-bug-16608008-16608059/476-A-16608008.c
-14
-[("Replace b'            if(z%m==0&&z<=n) {\\n' with b'            if(z%m==0) {\\n' at position 15", 14)]

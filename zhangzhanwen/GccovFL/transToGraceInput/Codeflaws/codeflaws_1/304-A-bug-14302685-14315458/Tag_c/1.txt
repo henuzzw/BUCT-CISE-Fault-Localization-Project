@@ -1,4 +1,0 @@
-codeflaws/304-A-bug-14302685-14315458/304-A-14315458.c
-codeflaws/304-A-bug-14302685-14315458/304-A-14302685.c
-1,5
-[("Insert b'#include <math.h>\\n' at position 3 in file2", 2), ("Replace b'    double c;\\n' with b'    float c;\\n' at position 7", 6)]

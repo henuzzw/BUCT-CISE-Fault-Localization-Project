@@ -1,4 +1,0 @@
-codeflaws/45-A-bug-16937491-16940862/45-A-16940862.c
-codeflaws/45-A-bug-16937491-16940862/45-A-16937491.c
-2,130
-[("Delete b'#include <string.h>\\n' at position 2 in file2", 1), ("Replace b'        else if(resultat == 12 || resultat == 0)\\n' with b'        else if(resultat == 12)\\n' at position 130", 129)]

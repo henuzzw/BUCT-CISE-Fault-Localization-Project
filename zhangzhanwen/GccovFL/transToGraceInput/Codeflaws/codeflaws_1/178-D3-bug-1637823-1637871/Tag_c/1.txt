@@ -1,4 +1,0 @@
-codeflaws/178-D3-bug-1637823-1637871/178-D3-1637871.c
-codeflaws/178-D3-bug-1637823-1637871/178-D3-1637823.c
-77,77
-[("Insert b'    \\n' at position 79 in file2", 78), ("Insert b'    if (p == 16) return 1;\\n' at position 80 in file2", 79)]

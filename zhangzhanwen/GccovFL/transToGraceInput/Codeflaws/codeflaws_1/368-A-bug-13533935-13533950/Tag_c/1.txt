@@ -1,4 +1,0 @@
-codeflaws/368-A-bug-13533935-13533950/368-A-13533950.c
-codeflaws/368-A-bug-13533935-13533950/368-A-13533935.c
-17
-[("Replace b'    qsort(arr,n,sizeof(int),comp);\\n' with b'    qsort(sum,arr,sizeof(int),comp);\\n' at position 18", 17)]

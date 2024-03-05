@@ -1,4 +1,0 @@
-codeflaws/447-B-bug-10631825-10631852/447-B-10631852.c
-codeflaws/447-B-bug-10631825-10631852/447-B-10631825.c
-17
-[("Replace b'        sum += (i+1) * a[temp-1] ;\\n' with b'        sum += temp * a[temp-1] ;\\n' at position 18", 17)]

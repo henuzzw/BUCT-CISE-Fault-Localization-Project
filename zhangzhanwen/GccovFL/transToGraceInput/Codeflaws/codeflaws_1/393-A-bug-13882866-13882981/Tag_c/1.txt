@@ -1,4 +1,0 @@
-codeflaws/393-A-bug-13882866-13882981/393-A-13882981.c
-codeflaws/393-A-bug-13882866-13882981/393-A-13882866.c
-21
-[("Replace b'    a=(a>3)?((a-3)/2+1):a/3;\\n' with b'    a=a/3;\\n' at position 22", 21)]

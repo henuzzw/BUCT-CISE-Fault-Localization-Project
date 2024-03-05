@@ -1,4 +1,0 @@
-codeflaws/244-A-bug-13353470-13353488/244-A-13353488.c
-codeflaws/244-A-bug-13353470-13353488/244-A-13353470.c
-97
-[("Insert b'        m=0;\\n' at position 99 in file2", 98)]

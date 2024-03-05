@@ -1,4 +1,0 @@
-codeflaws/374-A-bug-5487076-5487079/374-A-5487079.c
-codeflaws/374-A-bug-5487076-5487079/374-A-5487076.c
-44
-[('Replace b\'    if(!v||(v+1&&s>a&&m>b))printf("%d",v);\\n\' with b\'    if(!v||(v+1&&s>2&&m>2))printf("%d",v);\\n\' at position 45', 44)]

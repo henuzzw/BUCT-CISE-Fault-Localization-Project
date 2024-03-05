@@ -1,4 +1,0 @@
-codeflaws/630-K-bug-16307978-16307984/630-K-16307984.c
-codeflaws/630-K-bug-16307978-16307984/630-K-16307978.c
-5
-[('Delete b\'\\tprintf("%lld\\\\n",n);\\n\' at position 5 in file2', 4)]

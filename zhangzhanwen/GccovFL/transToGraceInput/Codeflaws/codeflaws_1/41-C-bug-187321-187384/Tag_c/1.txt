@@ -1,4 +1,0 @@
-codeflaws/41-C-bug-187321-187384/41-C-187384.c
-codeflaws/41-C-bug-187321-187384/41-C-187321.c
-19
-[('Replace b"      if ((znak[i] == \'d\') && (znak[i + 1] == \'o\') && (znak[i + 2] == \'t\') && ((i + 4) != maxi)){\\n" with b"      if ((znak[i] == \'d\') && (znak[i + 1] == \'o\') && (znak[i + 2] == \'t\') && ((i + 3) != maxi)){\\n" at position 20', 19)]

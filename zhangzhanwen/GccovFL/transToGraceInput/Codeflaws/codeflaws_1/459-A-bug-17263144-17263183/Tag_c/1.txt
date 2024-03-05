@@ -1,4 +1,0 @@
-codeflaws/459-A-bug-17263144-17263183/459-A-17263183.c
-codeflaws/459-A-bug-17263144-17263183/459-A-17263144.c
-1,6
-[("Delete b'#include<math.h>\\n' at position 1 in file2", 0), ("Replace b'    if(a==c||b==d||(a+d)==(b+c)||(a+b)==(c+d))\\n' with b'    if(a==c||b==d||abs(a+d)==abs(b+c))\\n' at position 6", 5)]

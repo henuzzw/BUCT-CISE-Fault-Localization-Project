@@ -1,4 +1,0 @@
-codeflaws/16-A-bug-12687907-12687919/16-A-12687919.c
-codeflaws/16-A-bug-12687907-12687919/16-A-12687907.c
-31
-[("Replace b'            if( s[r-1][0] ==  s[r][0] )\\n' with b'            if( s[r-1][c] ==  s[r][c] )\\n' at position 32", 31)]

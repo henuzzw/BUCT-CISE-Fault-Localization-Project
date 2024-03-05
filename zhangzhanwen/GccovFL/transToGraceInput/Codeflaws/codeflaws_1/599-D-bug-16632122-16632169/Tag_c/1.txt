@@ -1,4 +1,0 @@
-codeflaws/599-D-bug-16632122-16632169/599-D-16632169.c
-codeflaws/599-D-bug-16632122-16632169/599-D-16632122.c
-7
-[("Replace b'\\tmax=floor(pow(3*X,0.3333333333333333333));\\n' with b'\\tmax=floor(pow(3*X,0.3333333));\\n' at position 8", 7)]

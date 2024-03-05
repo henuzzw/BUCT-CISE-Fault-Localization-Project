@@ -1,4 +1,0 @@
-codeflaws/68-A-bug-1763342-1763346/68-A-1763346.c
-codeflaws/68-A-bug-1763342-1763346/68-A-1763342.c
-26
-[("Replace b'        c=b+1;\\n' with b'        c=b;\\n' at position 27", 26)]

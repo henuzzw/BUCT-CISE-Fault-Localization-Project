@@ -1,4 +1,0 @@
-codeflaws/365-A-bug-12905209-12905248/365-A-12905248.c
-codeflaws/365-A-bug-12905209-12905248/365-A-12905209.c
-13
-[("Replace b'\\t\\t\\tflag[i]=0;\\n' with b'\\t\\t\\tflag[k]=0;\\n' at position 14", 13)]

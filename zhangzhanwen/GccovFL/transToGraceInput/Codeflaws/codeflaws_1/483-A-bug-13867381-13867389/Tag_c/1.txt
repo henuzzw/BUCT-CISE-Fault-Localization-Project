@@ -1,4 +1,0 @@
-codeflaws/483-A-bug-13867381-13867389/483-A-13867389.c
-codeflaws/483-A-bug-13867381-13867389/483-A-13867381.c
-10
-[("Replace b'        for(i=2; i<=sqrt(r); i++)\\n' with b'        for(i=2; i<=sqrt(l); i++)\\n' at position 11", 10)]

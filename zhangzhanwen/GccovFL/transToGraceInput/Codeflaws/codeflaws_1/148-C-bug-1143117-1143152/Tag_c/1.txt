@@ -1,4 +1,0 @@
-codeflaws/148-C-bug-1143117-1143152/148-C-1143152.c
-codeflaws/148-C-bug-1143117-1143152/148-C-1143117.c
-16
-[("Replace b'     if (b == 0 && n > 1) {\\n' with b'     if (b == 0) {\\n' at position 17", 16)]

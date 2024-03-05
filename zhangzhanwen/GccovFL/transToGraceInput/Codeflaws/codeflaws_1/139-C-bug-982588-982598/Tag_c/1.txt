@@ -1,4 +1,0 @@
-codeflaws/139-C-bug-982588-982598/139-C-982598.c
-codeflaws/139-C-bug-982588-982598/139-C-982588.c
-41
-[('Replace b\'            //printf("%s\\\\n",lines[j]);\\n\' with b\'            printf("%s\\\\n",lines[j]);\\n\' at position 42', 41)]

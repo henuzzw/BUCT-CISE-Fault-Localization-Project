@@ -1,4 +1,0 @@
-codeflaws/343-A-bug-12688116-12688124/343-A-12688124.c
-codeflaws/343-A-bug-12688116-12688124/343-A-12688116.c
-23
-[('Replace b\'   printf("%lld" , s) ;\\n\' with b\'   printf("%d" , s) ;\\n\' at position 24', 23)]

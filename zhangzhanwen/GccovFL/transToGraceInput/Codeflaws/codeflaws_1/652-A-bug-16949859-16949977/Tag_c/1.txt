@@ -1,4 +1,0 @@
-codeflaws/652-A-bug-16949859-16949977/652-A-16949977.c
-codeflaws/652-A-bug-16949859-16949977/652-A-16949859.c
-14
-[("Replace b'if(a>=b){\\n' with b'if(a>b){\\n' at position 15", 14)]

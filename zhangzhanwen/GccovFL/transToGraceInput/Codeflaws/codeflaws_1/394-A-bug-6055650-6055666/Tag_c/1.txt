@@ -1,4 +1,0 @@
-codeflaws/394-A-bug-6055650-6055666/394-A-6055666.c
-codeflaws/394-A-bug-6055650-6055666/394-A-6055650.c
-75
-[('Replace b\'            printf("Impossible");\\n\' with b\'            printf("impossible");\\n\' at position 76', 75)]

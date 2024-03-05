@@ -1,4 +1,0 @@
-codeflaws/617-B-bug-15745018-15745037/617-B-15745037.c
-codeflaws/617-B-bug-15745018-15745037/617-B-15745018.c
-27
-[('Replace b\'\\t\\tprintf("%llu\\\\n",posibilities);\\n\' with b\'\\t\\tprintf("%i\\\\n",posibilities);\\n\' at position 28', 27)]

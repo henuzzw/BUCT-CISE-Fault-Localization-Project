@@ -1,4 +1,0 @@
-codeflaws/58-A-bug-18231253-18231295/58-A-18231295.c
-codeflaws/58-A-bug-18231253-18231295/58-A-18231253.c
-23,27
-[('Replace b"        else if(hello[3]==1 && hello[4]==0 && str[i]==\'o\'){\\n" with b"        else if(hello[3]==1 && hello[4]==0 && str[i]==\'l\'){\\n" at position 24', 23), ("Delete b'\\n' at position 27 in file2", 26)]

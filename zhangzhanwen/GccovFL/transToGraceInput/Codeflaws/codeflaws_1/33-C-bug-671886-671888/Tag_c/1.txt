@@ -1,4 +1,0 @@
-codeflaws/33-C-bug-671886-671888/33-C-671888.c
-codeflaws/33-C-bug-671886-671888/33-C-671886.c
-20
-[("Replace b'\\t  if (sum1[i] - 2 * max - sum2[i + 1] > sum) {\\n' with b'\\t  if (sum1[i] - 2 * max + sum2[i + 1] > sum) {\\n' at position 21", 20)]

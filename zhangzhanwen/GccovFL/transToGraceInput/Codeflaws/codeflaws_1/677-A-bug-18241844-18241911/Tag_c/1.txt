@@ -1,4 +1,0 @@
-codeflaws/677-A-bug-18241844-18241911/677-A-18241911.c
-codeflaws/677-A-bug-18241844-18241911/677-A-18241844.c
-14
-[('Replace b\'        scanf("%d",&person[i]);\\n\' with b\'        scanf("%d",person[i]);\\n\' at position 15', 14)]

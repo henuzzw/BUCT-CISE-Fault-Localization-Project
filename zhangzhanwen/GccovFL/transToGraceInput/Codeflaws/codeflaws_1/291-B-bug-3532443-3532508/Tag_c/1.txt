@@ -1,4 +1,0 @@
-codeflaws/291-B-bug-3532443-3532508/291-B-3532508.c
-codeflaws/291-B-bug-3532443-3532508/291-B-3532443.c
-4,22
-[("Insert b'\\n' at position 6 in file2", 5), ('Insert b\'if (k==1)printf(">");\\n\' at position 25 in file2', 24)]

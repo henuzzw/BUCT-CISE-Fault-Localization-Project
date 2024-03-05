@@ -1,4 +1,0 @@
-codeflaws/494-A-bug-10139010-10139025/494-A-10139025.c
-codeflaws/494-A-bug-10139010-10139025/494-A-10139010.c
-19
-[("Replace b'\\tif((sum==0 && h>0) || sum-h+1<=0)\\n' with b'\\tif(sum==0 && h>0)\\n' at position 20", 19)]

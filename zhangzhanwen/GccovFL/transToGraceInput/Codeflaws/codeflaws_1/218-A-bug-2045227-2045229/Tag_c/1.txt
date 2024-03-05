@@ -1,4 +1,0 @@
-codeflaws/218-A-bug-2045227-2045229/218-A-2045229.c
-codeflaws/218-A-bug-2045227-2045229/218-A-2045227.c
-29
-[("Replace b'\\t\\tif( (y[i]>y[i-1]+1)&& (y[i]>y[i+1]+1))\\n' with b'\\t\\tif(y[i]>y[i-1]&&y[i]>y[i+1])\\n' at position 30", 29)]

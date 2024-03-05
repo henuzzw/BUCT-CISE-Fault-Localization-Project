@@ -1,4 +1,0 @@
-codeflaws/9-B-bug-17253521-17253572/9-B-17253572.c
-codeflaws/9-B-bug-17253521-17253572/9-B-17253521.c
-15
-[("Replace b'        if (a[i] / b + sqrt((a[i] - x) * (a[i] - x) + y * y) / s <= z) {\\n' with b'        if (a[i] / b + sqrt((a[i] - x) * (a[i] - x) + y * y) / s < z) {\\n' at position 16", 15)]

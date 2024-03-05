@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-17252167-17252186/144-A-17252186.c
-codeflaws/144-A-bug-17252167-17252186/144-A-17252167.c
-4,9
-[("Delete b'\\n' at position 4 in file2", 3), ("Replace b'\\t\\tif (a[c]>max){\\n' with b'\\t\\tif (a[c]>=max){\\n' at position 9", 8)]

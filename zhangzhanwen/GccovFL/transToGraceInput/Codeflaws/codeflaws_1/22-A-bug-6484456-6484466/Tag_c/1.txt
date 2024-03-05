@@ -1,4 +1,0 @@
-codeflaws/22-A-bug-6484456-6484466/22-A-6484466.c
-codeflaws/22-A-bug-6484456-6484466/22-A-6484456.c
-33
-[('Replace b\'\\tif (i > 1)\\tprintf("%d\\\\n", a[1]);\\n\' with b\'\\tif (i >= 1)\\tprintf("%d\\\\n", a[1]);\\n\' at position 34', 33)]

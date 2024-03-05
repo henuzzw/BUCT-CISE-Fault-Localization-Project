@@ -1,4 +1,0 @@
-codeflaws/583-A-bug-14352884-14352890/583-A-14352890.c
-codeflaws/583-A-bug-14352884-14352890/583-A-14352884.c
-12
-[("Replace b'            mal[y]=1;\\n' with b'            mal[x]=1;\\n' at position 13", 12)]

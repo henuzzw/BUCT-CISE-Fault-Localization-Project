@@ -1,4 +1,0 @@
-codeflaws/611-A-bug-16137911-16143245/611-A-16143245.c
-codeflaws/611-A-bug-16137911-16143245/611-A-16137911.c
-4,30
-[("Replace b'\\tchar in[100];\\n' with b'\\tchar * in;\\n' at position 5", 4), ('Insert b\'\\tprintf("\\\\n");\\n\' at position 32 in file2', 31)]

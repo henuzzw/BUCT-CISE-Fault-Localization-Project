@@ -1,4 +1,0 @@
-codeflaws/469-B-bug-15208335-15208369/469-B-15208369.c
-codeflaws/469-B-bug-15208335-15208369/469-B-15208335.c
-16
-[('Replace b\'int main(int argc, char *argv[]){ //freopen("in.txt", "r", stdin);\\n\' with b\'int main(int argc, char *argv[]){ freopen("in.txt", "r", stdin);\\n\' at position 17', 16)]

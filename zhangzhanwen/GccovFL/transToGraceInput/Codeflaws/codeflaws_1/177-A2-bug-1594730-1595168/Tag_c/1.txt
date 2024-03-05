@@ -1,4 +1,0 @@
-codeflaws/177-A2-bug-1594730-1595168/177-A2-1595168.c
-codeflaws/177-A2-bug-1594730-1595168/177-A2-1594730.c
-26
-[("Replace b'\\t\\t\\tif(i==(n+1)/2 && j==(n+1)/2)\\n' with b'\\t\\t\\tif(i==(n-1)/2 && j==(n-1)/2)\\n' at position 27", 26)]

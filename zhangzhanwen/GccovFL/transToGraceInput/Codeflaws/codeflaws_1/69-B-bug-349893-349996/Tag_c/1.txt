@@ -1,4 +1,0 @@
-codeflaws/69-B-bug-349893-349996/69-B-349996.c
-codeflaws/69-B-bug-349893-349996/69-B-349893.c
-30,31,32
-[("Delete b'          max=per[j];\\n' at position 30 in file2", 29), ("Delete b'          maximum=max.c;\\n' at position 30 in file2", 29), ("Delete b'        }else if(max.t==per[j].t && max.c<per[j].c){\\n' at position 30 in file2", 29)]

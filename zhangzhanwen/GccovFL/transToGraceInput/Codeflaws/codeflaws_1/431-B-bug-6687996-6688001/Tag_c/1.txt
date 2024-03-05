@@ -1,4 +1,0 @@
-codeflaws/431-B-bug-6687996-6688001/431-B-6688001.c
-codeflaws/431-B-bug-6687996-6688001/431-B-6687996.c
-38
-[('Replace b\'    //freopen("C:\\\\\\\\Users\\\\\\\\Shen\\\\\\\\Desktop\\\\\\\\ining.txt","r",stdin);\\n\' with b\'    freopen("C:\\\\\\\\Users\\\\\\\\Shen\\\\\\\\Desktop\\\\\\\\ining.txt","r",stdin);\\n\' at position 39', 38)]

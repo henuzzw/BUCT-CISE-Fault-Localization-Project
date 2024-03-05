@@ -1,4 +1,0 @@
-codeflaws/598-B-bug-14697979-14698007/598-B-14698007.c
-codeflaws/598-B-bug-14697979-14698007/598-B-14697979.c
-34
-[('Replace b\'\\t//printf("ch:%s s:%s\\\\n",ch,s);\\n\' with b\'\\tprintf("ch:%s s:%s\\\\n",ch,s);\\n\' at position 35', 34)]

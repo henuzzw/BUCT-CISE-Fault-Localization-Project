@@ -1,4 +1,0 @@
-codeflaws/460-B-bug-15678392-15678418/460-B-15678418.c
-codeflaws/460-B-bug-15678392-15678418/460-B-15678392.c
-16
-[("Replace b'if(x>1000000000)\\n' with b'if(x<1000000000)\\n' at position 17", 16)]

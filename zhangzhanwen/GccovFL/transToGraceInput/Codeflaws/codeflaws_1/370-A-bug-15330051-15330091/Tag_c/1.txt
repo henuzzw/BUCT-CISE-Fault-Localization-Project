@@ -1,4 +1,0 @@
-codeflaws/370-A-bug-15330051-15330091/370-A-15330091.c
-codeflaws/370-A-bug-15330051-15330091/370-A-15330051.c
-37
-[("Replace b'           if(abs(r1-r2)%2==0&&abs(c1-c2)%2==0||abs(r1-r2)%2&&abs(c1-c2)%2)\\n' with b'           if(abs(r1-r2)%2==0&&abs(c1-c2)%2==0)\\n' at position 38", 37)]

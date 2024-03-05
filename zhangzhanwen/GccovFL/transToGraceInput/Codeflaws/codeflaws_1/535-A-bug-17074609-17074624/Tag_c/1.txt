@@ -1,4 +1,0 @@
-codeflaws/535-A-bug-17074609-17074624/535-A-17074624.c
-codeflaws/535-A-bug-17074609-17074624/535-A-17074609.c
-79
-[("Replace b'        if(b == 1)\\n' with b'        else if(b == 1)\\n' at position 80", 79)]

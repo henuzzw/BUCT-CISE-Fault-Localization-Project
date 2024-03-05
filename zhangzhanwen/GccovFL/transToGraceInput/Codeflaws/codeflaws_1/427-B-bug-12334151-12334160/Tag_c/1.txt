@@ -1,4 +1,0 @@
-codeflaws/427-B-bug-12334151-12334160/427-B-12334160.c
-codeflaws/427-B-bug-12334151-12334160/427-B-12334151.c
-4
-[("Replace b'    int i, n, t, c, m, pm, flag = 0, f = 0, r = 0;\\n' with b'    long long int i, n, t, c, m, pm, flag = 0, f = 0, r = 0;\\n' at position 5", 4)]

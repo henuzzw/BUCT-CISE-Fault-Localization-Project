@@ -1,4 +1,0 @@
-codeflaws/437-B-bug-6777026-6778941/437-B-6778941.c
-codeflaws/437-B-bug-6777026-6778941/437-B-6777026.c
-4
-[("Replace b'    long long int sum,lim,i,a[100001],cnt,j,ans[100001];\\n' with b'    long long int sum,lim,i,a[10001],cnt,j,ans[10001];\\n' at position 5", 4)]

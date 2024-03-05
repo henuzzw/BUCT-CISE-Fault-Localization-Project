@@ -1,4 +1,0 @@
-codeflaws/261-A-bug-2923125-2923127/261-A-2923127.c
-codeflaws/261-A-bug-2923125-2923127/261-A-2923125.c
-29
-[("Replace b'    for(Sum=i=0; i<N; i+=2)\\n' with b'    for(i=0; i<N; ++i)\\n' at position 30", 29)]

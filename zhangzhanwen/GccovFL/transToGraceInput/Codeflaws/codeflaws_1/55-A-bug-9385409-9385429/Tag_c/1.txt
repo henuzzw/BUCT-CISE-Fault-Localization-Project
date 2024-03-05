@@ -1,4 +1,0 @@
-codeflaws/55-A-bug-9385409-9385429/55-A-9385429.c
-codeflaws/55-A-bug-9385409-9385429/55-A-9385409.c
-2,4,5,6,7,10,11
-[("Replace b'\\tint n;\\n' with b'\\tint n, temp;\\n' at position 3", 2), ('Replace b\'\\t//n&n-1 ? printf("NO"): printf("YES");\\n\' with b\'\\t//printf("%d",n & (n-1) ? printf("NO"): printf("YES"));\\n\' at position 5', 4), ("Replace b'\\tif (n & n-1) {\\n' with b'\\tif (n & (n-1)) {\\n' at position 6", 5), ('Replace b\'\\t\\tprintf("NO");\\n\' with b\'\\t\\ttemp = printf("NO");\\n\' at position 7', 6), ('Delete b\'\\t\\tprintf("%d", temp);\\n\' at position 7 in file2', 6), ('Replace b\'\\t\\tprintf("YES");\\n\' with b\'\\t\\ttemp = printf("YES");\\n\' at position 10', 9), ('Delete b\'\\t\\tprintf("%d", temp);\\n\' at position 10 in file2', 9)]

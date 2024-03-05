@@ -1,4 +1,0 @@
-codeflaws/125-B-bug-815447-815637/125-B-815637.c
-codeflaws/125-B-bug-815447-815637/125-B-815447.c
-20,22
-[("Insert b'\\t\\t\\t\\tfl = 0;\\n' at position 22 in file2", 21), ("Replace b'\\t\\t\\t\\tif(fl==1&&count!=0){\\n' with b'\\t\\t\\t\\tif(fl==1){\\n' at position 24", 23)]

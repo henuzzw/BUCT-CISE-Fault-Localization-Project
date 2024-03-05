@@ -1,4 +1,0 @@
-codeflaws/628-A-bug-16586442-16586499/628-A-16586499.c
-codeflaws/628-A-bug-16586442-16586499/628-A-16586442.c
-25
-[('Replace b\'        printf("%d %d\\\\n",s1*(b*2+1),s2);\\n\' with b\'        printf("%d %d\\\\n",s1*5,s2);\\n\' at position 26', 25)]

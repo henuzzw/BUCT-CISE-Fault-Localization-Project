@@ -1,4 +1,0 @@
-codeflaws/412-A-bug-6416517-6416531/412-A-6416531.c
-codeflaws/412-A-bug-6416517-6416531/412-A-6416517.c
-31
-[("Replace b'else if(k>l)\\n' with b'else if(k>=l)\\n' at position 32", 31)]

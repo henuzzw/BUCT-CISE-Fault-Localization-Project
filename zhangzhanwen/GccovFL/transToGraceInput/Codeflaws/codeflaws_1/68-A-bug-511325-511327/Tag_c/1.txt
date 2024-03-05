@@ -1,4 +1,0 @@
-codeflaws/68-A-bug-511325-511327/68-A-511327.c
-codeflaws/68-A-bug-511325-511327/68-A-511325.c
-10
-[('Replace b\' printf("%ld\\\\n",max(0,min(f-e+1,min(min(a,b),min(c,d))-e))); \\n\' with b\' printf("%ld\\\\n",max(0,min(f-e,min(min(a,b),min(c,d))-e))); \\n\' at position 11', 10)]

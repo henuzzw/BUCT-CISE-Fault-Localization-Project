@@ -1,4 +1,0 @@
-codeflaws/198-A-bug-9624645-9624725/198-A-9624725.c
-codeflaws/198-A-bug-9624645-9624725/198-A-9624645.c
-5,5
-[("Replace b'    int k ,b ,n ,t;\\n' with b'    int k ,b ,n ,t , x=1;\\n' at position 6", 5), ("Insert b'    long long x=1;\\n' at position 7 in file2", 6)]

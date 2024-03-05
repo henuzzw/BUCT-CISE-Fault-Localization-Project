@@ -1,4 +1,0 @@
-codeflaws/630-O-bug-16714370-16714394/630-O-16714394.c
-codeflaws/630-O-bug-16714370-16714394/630-O-16714370.c
-28
-[('Replace b\'//    printf ("\\\\t%d %d %d %d %d %d %d %d\\\\n" , px, py, vx, vy, a, b, c, d) ;\\n\' with b\'    printf ("\\\\t%d %d %d %d %d %d %d %d\\\\n" , px, py, vx, vy, a, b, c, d) ;\\n\' at position 29', 28)]

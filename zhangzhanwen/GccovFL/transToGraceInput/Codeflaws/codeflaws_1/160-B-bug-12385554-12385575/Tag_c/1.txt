@@ -1,4 +1,0 @@
-codeflaws/160-B-bug-12385554-12385575/160-B-12385575.c
-codeflaws/160-B-bug-12385554-12385575/160-B-12385554.c
-30
-[('Replace b\'    if(flag == 3) printf("NO\\\\n");\\n\' with b\'    if(flag == 4) printf("NO\\\\n");\\n\' at position 31', 30)]

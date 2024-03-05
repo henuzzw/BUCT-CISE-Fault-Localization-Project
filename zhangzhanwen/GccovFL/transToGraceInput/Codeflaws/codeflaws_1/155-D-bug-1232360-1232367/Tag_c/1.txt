@@ -1,4 +1,0 @@
-codeflaws/155-D-bug-1232360-1232367/155-D-1232367.c
-codeflaws/155-D-bug-1232360-1232367/155-D-1232360.c
-56
-[("Replace b'\\tint num[MAX+5][5],temp[6],count[MAX+5],conflict;\\n' with b'\\tint num[MAX][5],temp[6],*count,conflict;\\n' at position 57", 56)]

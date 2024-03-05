@@ -1,4 +1,0 @@
-codeflaws/518-A-bug-16064998-16065017/518-A-16065017.c
-codeflaws/518-A-bug-16064998-16065017/518-A-16064998.c
-12
-[("Replace b'        if(t[i] - s[i] == 0);\\n' with b'        if(t[i] - s[i] == 0 || t[i] - s[i] == 1);\\n' at position 13", 12)]

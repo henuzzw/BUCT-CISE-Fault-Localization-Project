@@ -1,4 +1,0 @@
-codeflaws/489-C-bug-16080835-16080969/489-C-16080969.c
-codeflaws/489-C-bug-16080835-16080969/489-C-16080835.c
-16,56
-[("Replace b'\\tif(nine>m || m==0 || (s==0 && m!=1) || (nine>=m && s%9!=0)){\\n' with b'\\tif(nine>m || m==0 || (s==0 && m!=1)){\\n' at position 17", 16), ("Insert b'\\treturn 0;\\n' at position 58 in file2", 57)]

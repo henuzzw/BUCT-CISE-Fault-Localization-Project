@@ -1,4 +1,0 @@
-codeflaws/620-B-bug-15588373-15588385/620-B-15588385.c
-codeflaws/620-B-bug-15588373-15588385/620-B-15588373.c
-14
-[("Replace b'for(x=n;x<=m;x++)\\n' with b'for(x=n;x<=n;x++)\\n' at position 15", 14)]

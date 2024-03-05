@@ -1,4 +1,0 @@
-codeflaws/609-A-bug-15559599-15559605/609-A-15559605.c
-codeflaws/609-A-bug-15559599-15559605/609-A-15559599.c
-20
-[("Replace b'    while(m>x[j]){\\n' with b'    while(m>x[i]){\\n' at position 21", 20)]

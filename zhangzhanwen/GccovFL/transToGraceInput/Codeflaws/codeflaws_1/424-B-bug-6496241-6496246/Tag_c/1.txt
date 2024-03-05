@@ -1,4 +1,0 @@
-codeflaws/424-B-bug-6496241-6496246/424-B-6496246.c
-codeflaws/424-B-bug-6496241-6496246/424-B-6496241.c
-33
-[("Replace b'            if(s>=1000000)\\n' with b'            if(s==1000000)\\n' at position 34", 33)]

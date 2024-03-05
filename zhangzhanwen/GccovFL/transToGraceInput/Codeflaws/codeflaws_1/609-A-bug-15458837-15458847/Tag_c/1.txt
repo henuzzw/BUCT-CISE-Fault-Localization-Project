@@ -1,4 +1,0 @@
-codeflaws/609-A-bug-15458837-15458847/609-A-15458847.c
-codeflaws/609-A-bug-15458837-15458847/609-A-15458837.c
-44
-[('Replace b\'    scanf("%d%d",&usbs,&data);\\n\' with b\'    scanf("%d%d",&data,&usbs);\\n\' at position 45', 44)]

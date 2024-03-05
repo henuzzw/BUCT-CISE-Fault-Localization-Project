@@ -1,4 +1,0 @@
-codeflaws/168-A-bug-13551581-13551590/168-A-13551590.c
-codeflaws/168-A-bug-13551581-13551590/168-A-13551581.c
-8
-[('Replace b\'    else printf("0");\\n\' with b\'    printf("0");\\n\' at position 9', 8)]

@@ -1,4 +1,0 @@
-codeflaws/469-B-bug-8248222-8248281/469-B-8248281.c
-codeflaws/469-B-bug-8248222-8248281/469-B-8248222.c
-25
-[("Replace b'\\t\\tif(temp1<=r&&temp2>=l)\\n' with b'\\t\\tif(temp1<r&&temp2>l)\\n' at position 26", 25)]

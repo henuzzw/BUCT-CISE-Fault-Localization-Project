@@ -1,4 +1,0 @@
-codeflaws/137-B-bug-5890618-5890625/137-B-5890625.c
-codeflaws/137-B-bug-5890618-5890625/137-B-5890618.c
-6
-[("Replace b'\\tfor (i = 0; i < n; i++) {\\n' with b'\\tfor (i = 0; i < j; i++) {\\n' at position 7", 6)]

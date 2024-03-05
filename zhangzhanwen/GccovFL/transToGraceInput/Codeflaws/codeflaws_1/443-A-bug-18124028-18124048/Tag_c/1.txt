@@ -1,4 +1,0 @@
-codeflaws/443-A-bug-18124028-18124048/443-A-18124048.c
-codeflaws/443-A-bug-18124028-18124048/443-A-18124028.c
-5,11
-[("Replace b'    char a[1005],b[1005];\\n' with b'    char a[300],b[300];\\n' at position 6", 5), ("Insert b'        return 0;\\n' at position 13 in file2", 12)]

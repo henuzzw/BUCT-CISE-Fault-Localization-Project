@@ -1,4 +1,0 @@
-codeflaws/608-A-bug-17139419-17139427/608-A-17139427.c
-codeflaws/608-A-bug-17139419-17139427/608-A-17139419.c
-31
-[('Replace b\'    printf("%d",ans);\\n\' with b\'    printf("ans = %d",ans);\\n\' at position 32', 31)]

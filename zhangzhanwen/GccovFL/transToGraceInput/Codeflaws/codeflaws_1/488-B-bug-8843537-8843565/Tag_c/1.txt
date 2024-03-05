@@ -1,4 +1,0 @@
-codeflaws/488-B-bug-8843537-8843565/488-B-8843565.c
-codeflaws/488-B-bug-8843537-8843565/488-B-8843537.c
-17
-[('Replace b\'\\telse if(n==1) printf("YES\\\\n%d\\\\n%d\\\\n%d\\\\n",x[1],3*x[1],3*x[1]);\\n\' with b\'\\telse if(n==1) printf("YES\\\\n%d\\\\n%d\\\\n%d\\\\n",x[1],x[1],3*x[1]);\\n\' at position 18', 17)]

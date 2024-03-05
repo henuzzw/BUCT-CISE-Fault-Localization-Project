@@ -1,4 +1,0 @@
-codeflaws/493-C-bug-11337158-11337166/493-C-11337166.c
-codeflaws/493-C-bug-11337158-11337166/493-C-11337158.c
-48
-[('Delete b\'\\tprintf("%d %d %d\\\\n", somaMaxima, quantidadeMinima, posicaoFinal);\\n\' at position 48 in file2', 47)]

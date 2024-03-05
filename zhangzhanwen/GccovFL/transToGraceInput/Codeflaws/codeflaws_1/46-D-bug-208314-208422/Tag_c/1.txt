@@ -1,4 +1,0 @@
-codeflaws/46-D-bug-208314-208422/46-D-208422.c
-codeflaws/46-D-bug-208314-208422/46-D-208314.c
-26
-[('Replace b\'        printf("%d\\\\n",i);\\n\' with b\'        printf("%d\\\\n",i-mae+1);\\n\' at position 27', 26)]

@@ -1,4 +1,0 @@
-codeflaws/44-A-bug-185717-185718/44-A-185718.c
-codeflaws/44-A-bug-185717-185718/44-A-185717.c
-4
-[("Replace b'char a[101][101], b[101];\\n' with b'char a[101][11], b[11];\\n' at position 5", 4)]

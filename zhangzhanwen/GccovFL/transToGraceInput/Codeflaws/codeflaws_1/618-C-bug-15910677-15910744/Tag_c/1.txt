@@ -1,4 +1,0 @@
-codeflaws/618-C-bug-15910677-15910744/618-C-15910744.c
-codeflaws/618-C-bug-15910677-15910744/618-C-15910677.c
-0,0,34,76
-[("Insert b'#include <stdint.h>\\n' at position 2 in file2", 1), ("Insert b'#include <stdio.h>\\n' at position 3 in file2", 2), ("Replace b'\\twhile (k<=n&&check(x1,y1,x2,y2,x3,y3)==0)\\n' with b'\\twhile (check(x1,y1,x2,y2,x3,y3)==0)\\n' at position 37", 36), ("Replace b'        return 0;\\n' with b'return 0;\\n' at position 79", 78)]

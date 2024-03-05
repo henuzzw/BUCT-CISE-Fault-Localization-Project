@@ -1,4 +1,0 @@
-codeflaws/190-C-bug-1704844-1704847/190-C-1704847.c
-codeflaws/190-C-bug-1704844-1704847/190-C-1704844.c
-69,74
-[("Insert b'  gets (out);\\n' at position 71 in file2", 70), ("Replace b'      if (num == 1 && strlen (out) < 2)\\n' with b'      if (num == 1)\\n' at position 76", 75)]

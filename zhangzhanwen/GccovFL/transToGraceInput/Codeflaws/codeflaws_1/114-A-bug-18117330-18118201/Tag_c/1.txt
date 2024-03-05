@@ -1,4 +1,0 @@
-codeflaws/114-A-bug-18117330-18118201/114-A-18118201.c
-codeflaws/114-A-bug-18117330-18118201/114-A-18117330.c
-13,23
-[("Replace b'\\t\\tres=res*k;\\n' with b'\\t\\tres=(float)(pow(k,i));\\n' at position 14", 13), ("Insert b'\\n' at position 25 in file2", 24)]

@@ -1,4 +1,0 @@
-codeflaws/407-A-bug-7015073-7015076/407-A-7015076.c
-codeflaws/407-A-bug-7015073-7015076/407-A-7015073.c
-24
-[("Replace b'        i=1;\\n' with b'        i=a;\\n' at position 25", 24)]

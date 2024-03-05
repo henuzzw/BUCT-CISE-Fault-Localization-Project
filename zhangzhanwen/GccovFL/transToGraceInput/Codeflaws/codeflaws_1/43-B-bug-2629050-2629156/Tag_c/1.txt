@@ -1,4 +1,0 @@
-codeflaws/43-B-bug-2629050-2629156/43-B-2629156.c
-codeflaws/43-B-bug-2629050-2629156/43-B-2629050.c
-14,26
-[("Insert b'            achou=0;\\n' at position 16 in file2", 15), ("Replace b'                exit(0);\\n' with b'                exit(1);\\n' at position 28", 27)]

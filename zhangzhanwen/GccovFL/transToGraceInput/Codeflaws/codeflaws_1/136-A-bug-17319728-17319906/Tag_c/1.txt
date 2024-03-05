@@ -1,4 +1,0 @@
-codeflaws/136-A-bug-17319728-17319906/136-A-17319906.c
-codeflaws/136-A-bug-17319728-17319906/136-A-17319728.c
-16,16
-[('Replace b\'printf("%d ",a[j]);\\n\' with b\'printf("%d",a[j]);\\n\' at position 17', 16), ("Insert b'\\n' at position 18 in file2", 17)]

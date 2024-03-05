@@ -1,4 +1,0 @@
-codeflaws/90-C-bug-494712-494727/90-C-494727.c
-codeflaws/90-C-bug-494712-494727/90-C-494712.c
-10
-[('Replace b\'    printf("%d\\\\n",(((long long)m)*k)<min?(((long long)m)*k):min);\\n\' with b\'    printf("%d\\\\n",(long long)(m*k)<min?(long long)(m*k):min);\\n\' at position 11', 10)]

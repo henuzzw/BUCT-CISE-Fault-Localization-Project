@@ -1,4 +1,0 @@
-codeflaws/171-D-bug-5093365-5093369/171-D-5093369.c
-codeflaws/171-D-bug-5093365-5093369/171-D-5093365.c
-13
-[('Replace b\'        case 5: printf("1");break;\\n\' with b\'        case 5: printf("3");break;\\n\' at position 14', 13)]

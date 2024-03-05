@@ -1,4 +1,0 @@
-codeflaws/352-A-bug-14300008-14300044/352-A-14300044.c
-codeflaws/352-A-bug-14300008-14300044/352-A-14300008.c
-17
-[("Replace b'    else if(five>= 9 && zero != 0){\\n' with b'    else if(five>= 9){\\n' at position 18", 17)]

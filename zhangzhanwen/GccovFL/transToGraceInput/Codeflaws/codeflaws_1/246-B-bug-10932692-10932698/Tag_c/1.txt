@@ -1,4 +1,0 @@
-codeflaws/246-B-bug-10932692-10932698/246-B-10932698.c
-codeflaws/246-B-bug-10932692-10932698/246-B-10932692.c
-17
-[("Replace b'\\t\\tp=n;\\n' with b'\\t\\tp=sum/n;\\n' at position 18", 17)]

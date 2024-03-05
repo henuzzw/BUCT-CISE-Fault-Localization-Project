@@ -1,4 +1,0 @@
-codeflaws/447-B-bug-10225828-10225902/447-B-10225902.c
-codeflaws/447-B-bug-10225828-10225902/447-B-10225828.c
-22
-[('Replace b"    sum+=(i+1)*(a[s[i]-\'a\']);\\n" with b\'    sum+=(i+1)*(a[i]);\\n\' at position 23', 22)]

@@ -1,4 +1,0 @@
-codeflaws/40-A-bug-11622082-11622593/40-A-11622593.c
-codeflaws/40-A-bug-11622082-11622593/40-A-11622082.c
-6
-[("Replace b'if((x*x+y*y)==(i-1)*(i-1))\\n' with b'if((x*x+y*y)==(i)*(i))\\n' at position 7", 6)]

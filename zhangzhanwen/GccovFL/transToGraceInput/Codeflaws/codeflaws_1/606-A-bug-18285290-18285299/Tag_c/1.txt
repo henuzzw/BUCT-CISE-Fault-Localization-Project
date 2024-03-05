@@ -1,4 +1,0 @@
-codeflaws/606-A-bug-18285290-18285299/606-A-18285299.c
-codeflaws/606-A-bug-18285290-18285299/606-A-18285290.c
-3
-[("Replace b'    int a,b,c,x,y,z,excess,need=0,move=0;\\n' with b'    int a,b,c,x,y,z,excess,need,move=0;\\n' at position 4", 3)]

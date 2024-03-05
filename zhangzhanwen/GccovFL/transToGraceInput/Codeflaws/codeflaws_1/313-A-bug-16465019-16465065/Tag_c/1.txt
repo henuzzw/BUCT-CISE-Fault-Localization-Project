@@ -1,4 +1,0 @@
-codeflaws/313-A-bug-16465019-16465065/313-A-16465065.c
-codeflaws/313-A-bug-16465019-16465065/313-A-16465019.c
-11
-[('Replace b\'\\t\\t\\tprintf("%d",a/100*10+k);\\n\' with b\'\\t\\t\\tprintf("%d",a/100*10*k);\\n\' at position 12', 11)]

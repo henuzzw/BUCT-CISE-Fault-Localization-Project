@@ -1,4 +1,0 @@
-codeflaws/414-B-bug-6706156-6706199/414-B-6706199.c
-codeflaws/414-B-bug-6706156-6706199/414-B-6706156.c
-17
-[("Replace b'        dp[cur][cnt]=(dp[cur][cnt]+find(cur*i,cnt+1))%1000000007;\\n' with b'        dp[cur][cnt]=(dp[cur][cnt]+find(cur*i,cnt+1))%1000000009;\\n' at position 18", 17)]

@@ -1,4 +1,0 @@
-codeflaws/146-B-bug-17886329-17886431/146-B-17886431.c
-codeflaws/146-B-bug-17886329-17886431/146-B-17886329.c
-91
-[('Replace b"                            s_c[n_a-n_b] = \'0\';\\n" with b"                            s_c[n_a-j-1] = \'0\';\\n" at position 92', 91)]

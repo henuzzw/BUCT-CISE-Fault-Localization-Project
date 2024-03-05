@@ -1,4 +1,0 @@
-codeflaws/401-A-bug-17126277-17126301/401-A-17126301.c
-codeflaws/401-A-bug-17126277-17126301/401-A-17126277.c
-18,18,18
-[("Insert b'\\tif(s==0){\\n' at position 20 in file2", 19), ('Insert b\'\\t\\tprintf("0");\\n\' at position 21 in file2', 20), ("Insert b'\\t\\treturn 0;}\\n' at position 22 in file2", 21)]

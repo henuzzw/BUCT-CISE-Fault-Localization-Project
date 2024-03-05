@@ -1,4 +1,0 @@
-codeflaws/4-B-bug-15572268-15572798/4-B-15572798.c
-codeflaws/4-B-bug-15572268-15572798/4-B-15572268.c
-49
-[("Replace b'               if(result[i]+1 <= arr[i][1])\\n' with b'               if(result[i]+1 >! arr[i][1])\\n' at position 50", 49)]

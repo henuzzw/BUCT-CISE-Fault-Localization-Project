@@ -1,4 +1,0 @@
-codeflaws/91-B-bug-17895992-17896007/91-B-17896007.c
-codeflaws/91-B-bug-17895992-17896007/91-B-17895992.c
-40
-[("Replace b'    for(i=0;i<cant;i++){\\n' with b'    while(cant--){\\n' at position 41", 40)]

@@ -1,4 +1,0 @@
-codeflaws/268-C-bug-3929677-3929695/268-C-3929695.c
-codeflaws/268-C-bug-3929677-3929695/268-C-3929677.c
-12,12
-[("Replace b'        n=(r<c)?r:c;\\n' with b'        n=(r>c)?r:c;\\n' at position 13", 12), ("Insert b'        n++;\\n' at position 14 in file2", 13)]

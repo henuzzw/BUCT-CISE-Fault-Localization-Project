@@ -1,4 +1,0 @@
-codeflaws/405-C-bug-6161383-6161394/405-C-6161394.c
-codeflaws/405-C-bug-6161383-6161394/405-C-6161383.c
-22,28
-[('Replace b\'         printf("%d",res);\\n\' with b\'         printf("%d\\\\n",res);\\n\' at position 23', 22), ('Insert b\'      printf("\\\\n");\\n\' at position 30 in file2', 29)]

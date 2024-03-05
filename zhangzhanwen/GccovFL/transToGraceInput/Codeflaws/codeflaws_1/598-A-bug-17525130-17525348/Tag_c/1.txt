@@ -1,4 +1,0 @@
-codeflaws/598-A-bug-17525130-17525348/598-A-17525348.c
-codeflaws/598-A-bug-17525130-17525348/598-A-17525130.c
-8
-[("Insert b'    return retval;\\n' at position 10 in file2", 9)]

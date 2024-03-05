@@ -1,4 +1,0 @@
-codeflaws/306-A-bug-4028432-4028451/306-A-4028451.c
-codeflaws/306-A-bug-4028432-4028451/306-A-4028432.c
-6
-[("Replace b'\\tfor(a=1; a<=k-j; a++)\\n' with b'\\tfor(a=1; a<=7-j; a++)\\n' at position 7", 6)]

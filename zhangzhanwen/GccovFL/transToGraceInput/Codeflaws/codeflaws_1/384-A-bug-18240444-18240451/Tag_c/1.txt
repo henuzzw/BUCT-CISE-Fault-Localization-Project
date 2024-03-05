@@ -1,4 +1,0 @@
-codeflaws/384-A-bug-18240444-18240451/384-A-18240451.c
-codeflaws/384-A-bug-18240444-18240451/384-A-18240444.c
-12
-[('Replace b\'                printf("C");\\n\' with b\'                printf("c");\\n\' at position 13', 12)]

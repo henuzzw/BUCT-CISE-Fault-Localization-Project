@@ -1,4 +1,0 @@
-codeflaws/526-B-bug-10597230-10597317/526-B-10597317.c
-codeflaws/526-B-bug-10597230-10597317/526-B-10597230.c
-1,10
-[("Delete b'#include <math.h>\\n' at position 1 in file2", 0), ("Replace b'\\tint x = ( 1 << (n + 1) ) - 1;\\n' with b'\\tint x = 1 << ( n + 1 ) - 1;\\n' at position 10", 9)]

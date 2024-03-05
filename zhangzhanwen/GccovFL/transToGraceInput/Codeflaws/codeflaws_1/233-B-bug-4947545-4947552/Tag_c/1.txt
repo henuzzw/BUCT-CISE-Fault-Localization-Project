@@ -1,4 +1,0 @@
-codeflaws/233-B-bug-4947545-4947552/233-B-4947552.c
-codeflaws/233-B-bug-4947545-4947552/233-B-4947545.c
-15
-[('Replace b\'    scanf("%lld",&i);\\n\' with b\'    scanf("%I64",&i);\\n\' at position 16', 15)]

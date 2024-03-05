@@ -1,4 +1,0 @@
-codeflaws/41-C-bug-188673-188682/41-C-188682.c
-codeflaws/41-C-bug-188673-188682/41-C-188673.c
-9
-[("Replace b'\\tfgets( mail, 110, stdin );\\n' with b'\\tfgets( mail, 100, stdin );\\n' at position 10", 9)]

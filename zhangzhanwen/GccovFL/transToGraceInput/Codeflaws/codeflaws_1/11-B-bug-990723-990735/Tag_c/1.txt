@@ -1,4 +1,0 @@
-codeflaws/11-B-bug-990723-990735/11-B-990735.c
-codeflaws/11-B-bug-990723-990735/11-B-990723.c
-13,13
-[('Replace b\'    if(a==0) printf("0");\\n\' with b\'    printf("%d",i);\\n\' at position 14', 13), ('Insert b\'       else printf("%d",i);\\n\' at position 15 in file2', 14)]

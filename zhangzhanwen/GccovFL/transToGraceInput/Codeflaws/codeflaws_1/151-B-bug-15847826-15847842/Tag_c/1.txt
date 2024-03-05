@@ -1,4 +1,0 @@
-codeflaws/151-B-bug-15847826-15847842/151-B-15847842.c
-codeflaws/151-B-bug-15847826-15847842/151-B-15847826.c
-51
-[('Replace b\'//printf("%d %d %d\\\\n", m1,m2,m3);\\n\' with b\'printf("%d %d %d\\\\n", m1,m2,m3);\\n\' at position 52', 51)]

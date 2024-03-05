@@ -1,4 +1,0 @@
-codeflaws/151-B-bug-9213333-9213345/151-B-9213345.c
-codeflaws/151-B-bug-9213333-9213345/151-B-9213333.c
-72
-[('Replace b\'    printf("If you want to call a taxi, you should call:");\\n\' with b\'    printf("If you want to call a taxi, you should call: ");\\n\' at position 73', 72)]

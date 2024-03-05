@@ -1,4 +1,0 @@
-codeflaws/330-B-bug-4161790-4161860/330-B-4161860.c
-codeflaws/330-B-bug-4161790-4161860/330-B-4161790.c
-18
-[("Replace b'    for(i=0;i<=n;i++)\\n' with b'    for(i=0;i<n;i++)\\n' at position 19", 18)]

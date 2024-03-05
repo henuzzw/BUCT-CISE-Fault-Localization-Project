@@ -1,4 +1,0 @@
-codeflaws/534-A-bug-16691150-16691192/534-A-16691192.c
-codeflaws/534-A-bug-16691150-16691192/534-A-16691150.c
-8,8
-[("Insert b'\\telse if(x==4)\\n' at position 10 in file2", 9), ('Insert b\'\\t\\tprintf("4\\\\n3 1 4 2");\\n\' at position 11 in file2', 10)]

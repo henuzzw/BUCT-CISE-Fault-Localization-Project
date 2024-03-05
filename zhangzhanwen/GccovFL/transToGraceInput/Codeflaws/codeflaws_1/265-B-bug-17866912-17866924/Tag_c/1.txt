@@ -1,4 +1,0 @@
-codeflaws/265-B-bug-17866912-17866924/265-B-17866924.c
-codeflaws/265-B-bug-17866912-17866924/265-B-17866912.c
-54
-[('Replace b\'    printf("%d",timer);\\n\' with b\'    printf("\\\\nTimer= %d",timer);\\n\' at position 55', 54)]

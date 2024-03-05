@@ -1,4 +1,0 @@
-codeflaws/553-A-bug-11882324-11882330/553-A-11882330.c
-codeflaws/553-A-bug-11882324-11882330/553-A-11882324.c
-22
-[("Replace b'            Ans = ((long long)Ans * C[Sum - 1][Num - 1]) % MOD;\\n' with b'            Ans = (Ans * C[Sum - 1][Num - 1]) % MOD;\\n' at position 23", 22)]

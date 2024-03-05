@@ -1,4 +1,0 @@
-codeflaws/45-A-bug-9385104-9385119/45-A-9385119.c
-codeflaws/45-A-bug-9385104-9385119/45-A-9385104.c
-39,39
-[("Insert b'\\tif(z==0)\\n' at position 41 in file2", 40), ("Insert b'\\t\\tz=12;\\n' at position 42 in file2", 41)]

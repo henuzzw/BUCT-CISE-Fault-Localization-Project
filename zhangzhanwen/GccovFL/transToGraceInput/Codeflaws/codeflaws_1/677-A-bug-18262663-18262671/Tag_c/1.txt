@@ -1,4 +1,0 @@
-codeflaws/677-A-bug-18262663-18262671/677-A-18262671.c
-codeflaws/677-A-bug-18262663-18262671/677-A-18262663.c
-11
-[("Replace b'        (buff>h)?cont=cont+2:cont++;\\n' with b'        (buff>=h)?cont=cont+2:cont++;\\n' at position 12", 11)]

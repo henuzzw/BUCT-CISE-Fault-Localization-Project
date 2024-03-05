@@ -1,4 +1,0 @@
-codeflaws/479-A-bug-17995073-17995092/479-A-17995092.c
-codeflaws/479-A-bug-17995073-17995092/479-A-17995073.c
-9,9
-[("Replace b'    d[4]=a+b+c;\\n' with b'      for(i=0;i<4;i++){\\n' at position 10", 9), ("Insert b'      for(i=0;i<5;i++){\\n' at position 11 in file2", 10)]

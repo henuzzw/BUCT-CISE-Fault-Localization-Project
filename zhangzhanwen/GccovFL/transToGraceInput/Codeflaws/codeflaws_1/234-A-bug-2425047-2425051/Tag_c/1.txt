@@ -1,4 +1,0 @@
-codeflaws/234-A-bug-2425047-2425051/234-A-2425051.c
-codeflaws/234-A-bug-2425047-2425051/234-A-2425047.c
-11
-[("Replace b'    getchar();\\n' with b'    fflush(stdin);\\n' at position 12", 11)]

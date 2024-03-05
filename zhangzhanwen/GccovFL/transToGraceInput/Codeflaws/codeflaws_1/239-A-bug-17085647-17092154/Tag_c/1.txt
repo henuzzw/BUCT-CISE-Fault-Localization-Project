@@ -1,4 +1,0 @@
-codeflaws/239-A-bug-17085647-17092154/239-A-17092154.c
-codeflaws/239-A-bug-17085647-17092154/239-A-17085647.c
-3,5
-[("Replace b'\\tint y,k,n,i,x,count=0;\\n' with b'\\tlong long int y,k,n,i,x,count=0;\\n' at position 4", 3), ("Delete b'\\tx=n-y;\\n' at position 5 in file2", 4)]

@@ -1,4 +1,0 @@
-codeflaws/495-A-bug-14303444-14303452/495-A-14303452.c
-codeflaws/495-A-bug-14303444-14303452/495-A-14303444.c
-8
-[("Replace b'   a[2]=2;\\n' with b'   a[2]=3;\\n' at position 9", 8)]

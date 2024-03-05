@@ -1,4 +1,0 @@
-codeflaws/222-E-bug-3016637-3016641/222-E-3016641.c
-codeflaws/222-E-bug-3016637-3016641/222-E-3016637.c
-23
-[("Replace b'mat matexp(unsigned long long int p){\\n' with b'mat matexp(int p){\\n' at position 24", 23)]

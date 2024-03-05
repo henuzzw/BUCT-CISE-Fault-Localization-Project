@@ -1,4 +1,0 @@
-codeflaws/471-A-bug-16907665-16907710/471-A-16907710.c
-codeflaws/471-A-bug-16907665-16907710/471-A-16907665.c
-35
-[("Replace b'            if(rep[i]>=4)\\n' with b'            if(rep[i]==4)\\n' at position 36", 35)]

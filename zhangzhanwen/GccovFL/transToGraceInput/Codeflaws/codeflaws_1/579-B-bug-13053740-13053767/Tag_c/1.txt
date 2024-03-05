@@ -1,4 +1,0 @@
-codeflaws/579-B-bug-13053740-13053767/579-B-13053767.c
-codeflaws/579-B-bug-13053740-13053767/579-B-13053740.c
-47
-[('Replace b\'\\t\\tprintf("%d ",ans[i]+1);\\n\' with b\'\\t\\tprintf("%d",ans[i]+1);\\n\' at position 48', 47)]

@@ -1,4 +1,0 @@
-codeflaws/337-A-bug-18033613-18034576/337-A-18034576.c
-codeflaws/337-A-bug-18033613-18034576/337-A-18033613.c
-20
-[("Replace b'    for(i=1,j=i+(n-1);i<m-(n-1);i++,j++)\\n' with b'    for(i=1,j=i+(n-1);i<m-n;i++)\\n' at position 21", 20)]

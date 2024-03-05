@@ -1,4 +1,0 @@
-codeflaws/53-C-bug-1171249-1171254/53-C-1171254.c
-codeflaws/53-C-bug-1171249-1171254/53-C-1171249.c
-8
-[("Replace b' else if(n%2)\\n' with b' else\\n' at position 9", 8)]

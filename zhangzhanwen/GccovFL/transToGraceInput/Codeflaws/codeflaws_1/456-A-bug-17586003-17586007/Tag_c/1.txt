@@ -1,4 +1,0 @@
-codeflaws/456-A-bug-17586003-17586007/456-A-17586007.c
-codeflaws/456-A-bug-17586003-17586007/456-A-17586003.c
-16
-[('Replace b\'        printf("Poor Alex");\\n\' with b\'        printf("Sad Alex");\\n\' at position 17', 16)]

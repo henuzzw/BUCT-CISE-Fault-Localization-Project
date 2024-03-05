@@ -1,4 +1,0 @@
-codeflaws/99-A-bug-2038413-2038417/99-A-2038417.c
-codeflaws/99-A-bug-2038413-2038417/99-A-2038413.c
-16
-[('Replace b\'\\t\\tprintf("GOTO Vasilisa.\\\\n");\\n\' with b\'\\t\\tprintf("GOTO Vasilia.\\\\n");\\n\' at position 17', 16)]

@@ -1,4 +1,0 @@
-codeflaws/337-B-bug-6149534-6149706/337-B-6149706.c
-codeflaws/337-B-bug-6149534-6149706/337-B-6149534.c
-25
-[('Replace b\'\\tprintf("0/1");\\n\' with b\'\\tprintf("0");\\n\' at position 26', 25)]

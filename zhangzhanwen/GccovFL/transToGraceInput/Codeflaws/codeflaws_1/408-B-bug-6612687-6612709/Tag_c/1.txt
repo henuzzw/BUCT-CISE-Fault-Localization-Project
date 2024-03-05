@@ -1,4 +1,0 @@
-codeflaws/408-B-bug-6612687-6612709/408-B-6612709.c
-codeflaws/408-B-bug-6612687-6612709/408-B-6612687.c
-4
-[("Replace b'\\tchar s1[1010],s2[1010];\\n' with b'\\tchar s1[100],s2[100];\\n' at position 5", 4)]

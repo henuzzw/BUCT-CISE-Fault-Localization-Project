@@ -1,4 +1,0 @@
-codeflaws/235-A-bug-13074317-13074342/235-A-13074342.c
-codeflaws/235-A-bug-13074317-13074342/235-A-13074317.c
-52
-[("Replace b'        ans=(ans>(n-1)*(n-2)*(n-3))?ans:((n-1)*(n-2)*(n-3));\\n' with b'        //ans=(ans>(n-1)*(n-2)*(n-3))?ans:((n-1)*(n-2)*(n-3));\\n' at position 53", 52)]

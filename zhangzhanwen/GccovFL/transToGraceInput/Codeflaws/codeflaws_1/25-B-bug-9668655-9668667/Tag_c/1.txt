@@ -1,4 +1,0 @@
-codeflaws/25-B-bug-9668655-9668667/25-B-9668667.c
-codeflaws/25-B-bug-9668655-9668667/25-B-9668655.c
-15
-[('Replace b\'        printf("%c%c",array[len-2],array[len-1]);\\n\' with b\'        printf("%c%c",array[i+2],array[i+3]);\\n\' at position 16', 15)]

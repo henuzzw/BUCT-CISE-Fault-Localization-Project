@@ -1,4 +1,0 @@
-codeflaws/190-A-bug-13250095-13250122/190-A-13250122.c
-codeflaws/190-A-bug-13250095-13250122/190-A-13250095.c
-5
-[('Replace b\'    if(n==0 && m!=0) printf("Impossible");\\n\' with b\'    if(n==0) printf("Impossible");\\n\' at position 6', 5)]

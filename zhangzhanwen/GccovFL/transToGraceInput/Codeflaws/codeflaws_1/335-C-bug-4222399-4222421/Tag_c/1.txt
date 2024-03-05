@@ -1,4 +1,0 @@
-codeflaws/335-C-bug-4222399-4222421/335-C-4222421.c
-codeflaws/335-C-bug-4222399-4222421/335-C-4222399.c
-61
-[("Replace b'    rep(i,n) rep(j,2) if(mp[i][j]==0){\\n' with b'    rep(i,n) rep(j,n) if(mp[i][j]==0){\\n' at position 62", 61)]

@@ -1,4 +1,0 @@
-codeflaws/393-C-bug-6164753-6164776/393-C-6164776.c
-codeflaws/393-C-bug-6164753-6164776/393-C-6164753.c
-7
-[("Replace b'  return xx + yy <= nn;\\n' with b'  return xx + yy < nn;\\n' at position 8", 7)]

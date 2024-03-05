@@ -1,4 +1,0 @@
-codeflaws/677-E-bug-18204655-18204717/677-E-18204717.c
-codeflaws/677-E-bug-18204655-18204717/677-E-18204655.c
-127,131,182
-[("Insert b'        int ones = 0;\\n' at position 129 in file2", 128), ("Insert b'                    if (str[i][j] == 49) ones++;\\n' at position 134 in file2", 133), ("Insert b'        else if (ones) huh = 1;\\n' at position 186 in file2", 185)]

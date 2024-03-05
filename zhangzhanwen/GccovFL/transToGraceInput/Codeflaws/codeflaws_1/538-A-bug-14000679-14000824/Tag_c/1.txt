@@ -1,4 +1,0 @@
-codeflaws/538-A-bug-14000679-14000824/538-A-14000824.c
-codeflaws/538-A-bug-14000679-14000824/538-A-14000679.c
-20
-[("Replace b'\\t\\tif (index == len && achieved != 0) // CODEFORCES already completed but still iterating; reset index with achieved data\\n' with b'\\t\\tif (index == len) // CODEFORCES completed but still iterating; reset index with achieved data\\n' at position 21", 20)]

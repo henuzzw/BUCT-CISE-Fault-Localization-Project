@@ -1,4 +1,0 @@
-codeflaws/347-A-bug-6892948-6892963/347-A-6892963.c
-codeflaws/347-A-bug-6892948-6892963/347-A-6892948.c
-28
-[("Replace b'        minIdx = maxIdx;\\n' with b'        minIdx == maxIdx;\\n' at position 29", 28)]

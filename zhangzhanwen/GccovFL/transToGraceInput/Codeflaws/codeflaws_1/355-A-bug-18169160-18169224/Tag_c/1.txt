@@ -1,4 +1,0 @@
-codeflaws/355-A-bug-18169160-18169224/355-A-18169224.c
-codeflaws/355-A-bug-18169160-18169224/355-A-18169160.c
-14
-[("Replace b'\\t\\tif(k==2&&d!=0)\\n' with b'\\t\\tif(k==2)\\n' at position 15", 14)]

@@ -1,4 +1,0 @@
-codeflaws/546-C-bug-11531374-11531501/546-C-11531501.c
-codeflaws/546-C-bug-11531374-11531501/546-C-11531374.c
-19
-[("Replace b'    for(;count<=180;){\\n' with b'    for(;count<=90;){\\n' at position 20", 19)]

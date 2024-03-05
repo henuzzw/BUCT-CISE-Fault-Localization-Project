@@ -1,4 +1,0 @@
-codeflaws/254-A-bug-3232299-3232307/254-A-3232307.c
-codeflaws/254-A-bug-3232299-3232307/254-A-3232299.c
-9
-[('Insert b\'    freopen("input.txt", "r", stdin);freopen("output.txt", "w", stdout);\\n\' at position 11 in file2', 10)]

@@ -1,4 +1,0 @@
-codeflaws/333-A-bug-4189205-4189213/333-A-4189213.c
-codeflaws/333-A-bug-4189205-4189213/333-A-4189205.c
-9
-[('Replace b\'    printf("%lld\\\\n",n/b+1);\\n\' with b\'    printf("%d\\\\n",n/b+1);\\n\' at position 10', 9)]

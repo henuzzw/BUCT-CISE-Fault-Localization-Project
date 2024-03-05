@@ -1,4 +1,0 @@
-codeflaws/244-B-bug-5291533-5291541/244-B-5291541.c
-codeflaws/244-B-bug-5291533-5291541/244-B-5291533.c
-31,31
-[("Insert b'        else if(a==784262)\\n' at position 33 in file2", 32), ('Insert b\'            printf("4079\\\\n");\\n\' at position 34 in file2', 33)]

@@ -1,4 +1,0 @@
-codeflaws/45-I-bug-7746583-7746672/45-I-7746672.c
-codeflaws/45-I-bug-7746583-7746672/45-I-7746583.c
-26
-[('Replace b\'        if( n==1 ) printf("%d\\\\n", b[0]);\\n\' with b\'        if( n==1 ) printf("%d\\\\n", a[0]);\\n\' at position 27', 26)]

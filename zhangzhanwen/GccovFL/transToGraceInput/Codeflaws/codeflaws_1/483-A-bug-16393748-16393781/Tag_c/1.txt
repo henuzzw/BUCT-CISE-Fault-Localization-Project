@@ -1,4 +1,0 @@
-codeflaws/483-A-bug-16393748-16393781/483-A-16393781.c
-codeflaws/483-A-bug-16393748-16393781/483-A-16393748.c
-8,20
-[('Insert b\'if(j==11 && k==13){printf("%d",-1);}else{\\n\' at position 10 in file2', 9), ('Replace b\'if(z==0){printf("%d",-1);}}}}}\\n\' with b\'if(z==0){printf("%d",-1);}}}}\\n\' at position 22', 21)]

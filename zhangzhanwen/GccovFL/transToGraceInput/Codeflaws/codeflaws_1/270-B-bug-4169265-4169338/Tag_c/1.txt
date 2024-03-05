@@ -1,4 +1,0 @@
-codeflaws/270-B-bug-4169265-4169338/270-B-4169338.c
-codeflaws/270-B-bug-4169265-4169338/270-B-4169265.c
-9
-[("Replace b'      res = i;\\n' with b'      ++res;\\n' at position 10", 9)]

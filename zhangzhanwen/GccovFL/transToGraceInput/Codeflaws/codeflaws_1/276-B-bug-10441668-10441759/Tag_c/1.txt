@@ -1,4 +1,0 @@
-codeflaws/276-B-bug-10441668-10441759/276-B-10441759.c
-codeflaws/276-B-bug-10441668-10441759/276-B-10441668.c
-18,18
-[('Replace b\'\\tif(!odd_count) puts("First");\\n\' with b\'\\tif(odd_count & 1) puts("First");\\n\' at position 19', 18), ('Insert b\'\\telse if(odd_count & 1) puts("First");\\n\' at position 20 in file2', 19)]

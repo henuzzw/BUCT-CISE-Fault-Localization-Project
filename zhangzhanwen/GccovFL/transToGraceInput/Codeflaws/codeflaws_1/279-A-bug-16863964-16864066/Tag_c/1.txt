@@ -1,4 +1,0 @@
-codeflaws/279-A-bug-16863964-16864066/279-A-16864066.c
-codeflaws/279-A-bug-16863964-16864066/279-A-16863964.c
-61
-[("Replace b'        if ((fabs(Y)<fabs(X))&&X>=0&&((X!=((-1*Y)+1))))\\n' with b'        if ((fabs(Y)<fabs(X))&&X>=0)\\n' at position 62", 61)]

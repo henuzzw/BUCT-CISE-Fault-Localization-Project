@@ -1,4 +1,0 @@
-codeflaws/451-A-bug-17925132-17925142/451-A-17925142.c
-codeflaws/451-A-bug-17925132-17925142/451-A-17925132.c
-11
-[('Replace b\'\\tif(min%2==0) printf("Malvika");\\n\' with b\'\\tif(m%2==0) printf("Malvika");\\n\' at position 12', 11)]

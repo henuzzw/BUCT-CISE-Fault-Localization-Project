@@ -1,4 +1,0 @@
-codeflaws/49-A-bug-11736842-11736846/49-A-11736846.c
-codeflaws/49-A-bug-11736842-11736846/49-A-11736842.c
-7
-[('Replace b\'    //freopen("input.txt","r",stdin);\\n\' with b\'    freopen("input.txt","r",stdin);\\n\' at position 8', 7)]

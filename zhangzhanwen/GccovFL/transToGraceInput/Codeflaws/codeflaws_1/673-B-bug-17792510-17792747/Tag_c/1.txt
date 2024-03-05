@@ -1,4 +1,0 @@
-codeflaws/673-B-bug-17792510-17792747/673-B-17792747.c
-codeflaws/673-B-bug-17792510-17792747/673-B-17792510.c
-14
-[('Replace b\'\\t\\t   \\tprintf("%d",n-1);\\n\' with b\'\\t\\t   \\tprintf("%d",n);\\n\' at position 15', 14)]

@@ -1,4 +1,0 @@
-codeflaws/242-B-bug-17971069-17971098/242-B-17971098.c
-codeflaws/242-B-bug-17971069-17971098/242-B-17971069.c
-22,22,22
-[("Insert b'        }\\n' at position 24 in file2", 23), ("Insert b'        else if( ml<=l && mr>=r ){\\n' at position 25 in file2", 24), ("Insert b'            // do nothibg\\n' at position 26 in file2", 25)]

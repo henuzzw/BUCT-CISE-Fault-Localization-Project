@@ -1,4 +1,0 @@
-codeflaws/45-A-bug-16793810-16794484/45-A-16794484.c
-codeflaws/45-A-bug-16793810-16794484/45-A-16793810.c
-48,50
-[('Insert b\'\\t\\t printf("%s",arr[(x+t-1)%12]);\\n\' at position 50 in file2', 49), ('Delete b\'\\tprintf("%s",arr[(x+t)%12-1]);\\n\' at position 51 in file2', 50)]

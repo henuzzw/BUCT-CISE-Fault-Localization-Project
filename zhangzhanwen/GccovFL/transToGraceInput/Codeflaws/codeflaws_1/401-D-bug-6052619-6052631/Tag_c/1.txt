@@ -1,4 +1,0 @@
-codeflaws/401-D-bug-6052619-6052631/401-D-6052631.c
-codeflaws/401-D-bug-6052619-6052631/401-D-6052619.c
-49
-[("Replace b'        for(i=0;i<=9;i++)\\n' with b'        for(i=0;i<9;i++)\\n' at position 50", 49)]

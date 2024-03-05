@@ -1,4 +1,0 @@
-codeflaws/485-A-bug-13178230-13186933/485-A-13186933.c
-codeflaws/485-A-bug-13178230-13186933/485-A-13178230.c
-11,16
-[("Replace b'\\t\\ta=(a+r)%m;\\n' with b'\\t\\ta=a+r;\\n' at position 12", 11), ('Insert b\'\\t//\\tprintf("a=%d r=%d\\\\n",a,r);\\n\' at position 18 in file2', 17)]

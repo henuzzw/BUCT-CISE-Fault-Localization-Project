@@ -1,4 +1,0 @@
-codeflaws/118-A-bug-18294639-18294683/118-A-18294683.c
-codeflaws/118-A-bug-18294639-18294683/118-A-18294639.c
-11
-[('Replace b"        if(st[i]!=\'a\'&&st[i]!=\'y\'&&st[i]!=\'e\'&&st[i]!=\'i\'&&st[i]!=\'o\'&&st[i]!=\'u\'){\\n" with b"        if(st[i]!=\'a\'&&st[i]!=\'e\'&&st[i]!=\'i\'&&st[i]!=\'o\'&&st[i]!=\'u\'){\\n" at position 12', 11)]

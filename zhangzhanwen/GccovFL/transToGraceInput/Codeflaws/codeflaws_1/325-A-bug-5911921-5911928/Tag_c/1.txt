@@ -1,4 +1,0 @@
-codeflaws/325-A-bug-5911921-5911928/325-A-5911928.c
-codeflaws/325-A-bug-5911921-5911928/325-A-5911921.c
-9
-[("Insert b'    min2=40000;\\n' at position 11 in file2", 10)]

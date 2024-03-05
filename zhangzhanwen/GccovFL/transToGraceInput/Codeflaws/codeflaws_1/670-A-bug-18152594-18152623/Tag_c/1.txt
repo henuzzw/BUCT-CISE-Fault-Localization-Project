@@ -1,4 +1,0 @@
-codeflaws/670-A-bug-18152594-18152623/670-A-18152623.c
-codeflaws/670-A-bug-18152594-18152623/670-A-18152594.c
-7,7
-[('Replace b\'    if (n % 7 == 6) printf("%ld ", n / 7 * 2 + 1);\\n\' with b\'    printf("%ld ", n / 7 * 2);\\n\' at position 8', 7), ('Insert b\'    else printf("%ld ", n / 7 * 2);\\n\' at position 9 in file2', 8)]

@@ -1,4 +1,0 @@
-codeflaws/45-D-bug-191189-191239/45-D-191239.c
-codeflaws/45-D-bug-191189-191239/45-D-191189.c
-32
-[("Replace b'   for (i=l[now];i<=r[now];i++)\\n' with b'   for (i=l[now];i<=r[i];i++)\\n' at position 33", 32)]

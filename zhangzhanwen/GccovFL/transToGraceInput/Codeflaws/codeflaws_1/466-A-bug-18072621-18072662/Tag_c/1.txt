@@ -1,4 +1,0 @@
-codeflaws/466-A-bug-18072621-18072662/466-A-18072662.c
-codeflaws/466-A-bug-18072621-18072662/466-A-18072621.c
-11
-[("Replace b'        if(i<a)\\n' with b'        if(i<=a)\\n' at position 12", 11)]

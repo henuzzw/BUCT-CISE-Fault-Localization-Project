@@ -1,4 +1,0 @@
-codeflaws/59-A-bug-17706574-17706595/59-A-17706595.c
-codeflaws/59-A-bug-17706574-17706595/59-A-17706574.c
-15
-[("Replace b'\\t\\telse if(a[i]>=65&&a[i]<=90)\\n' with b'\\t\\telse if(a[i]>65&&a[i]<=90)\\n' at position 16", 15)]

@@ -1,4 +1,0 @@
-codeflaws/535-B-bug-12134801-12153479/535-B-12153479.c
-codeflaws/535-B-bug-12134801-12153479/535-B-12134801.c
-11
-[("Replace b'            pos+=pow(2,i-1);\\n' with b'            pos+=pow(2,i)-1;\\n' at position 12", 11)]

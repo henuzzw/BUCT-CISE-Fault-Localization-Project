@@ -1,4 +1,0 @@
-codeflaws/31-B-bug-512114-512120/31-B-512120.c
-codeflaws/31-B-bug-512114-512120/31-B-512114.c
-53
-[("Replace b'    if(flag == 0 || first == 1)\\n' with b'    if(flag == 0)\\n' at position 54", 53)]

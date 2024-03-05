@@ -1,4 +1,0 @@
-codeflaws/291-A-bug-5807310-5807320/291-A-5807320.c
-codeflaws/291-A-bug-5807310-5807320/291-A-5807310.c
-16
-[("Replace b'            if(a[i]==a[j]&&a[i]!=0)\\n' with b'            if(a[i]==a[j])\\n' at position 17", 16)]

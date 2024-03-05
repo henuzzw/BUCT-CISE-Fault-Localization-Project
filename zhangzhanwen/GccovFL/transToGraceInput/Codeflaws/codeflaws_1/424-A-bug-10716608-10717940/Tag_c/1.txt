@@ -1,4 +1,0 @@
-codeflaws/424-A-bug-10716608-10717940/424-A-10717940.c
-codeflaws/424-A-bug-10716608-10717940/424-A-10716608.c
-16
-[("Replace b' else if(u>d){ diff=u-d; \\n' with b' else if(u>d){ diff=u-d; x=diff;\\n' at position 17", 16)]

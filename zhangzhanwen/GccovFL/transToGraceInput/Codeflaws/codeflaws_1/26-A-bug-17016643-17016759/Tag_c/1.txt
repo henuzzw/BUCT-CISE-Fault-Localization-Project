@@ -1,4 +1,0 @@
-codeflaws/26-A-bug-17016643-17016759/26-A-17016759.c
-codeflaws/26-A-bug-17016643-17016759/26-A-17016643.c
-10
-[("Replace b'\\tfor(i=2;i<=MAX_PRIME;i++)\\t\\n' with b'\\tfor(i=2;i*i<=MAX_PRIME;i++)\\t\\n' at position 11", 10)]

@@ -1,4 +1,0 @@
-codeflaws/480-C-bug-8372581-8372586/480-C-8372586.c
-codeflaws/480-C-bug-8372581-8372586/480-C-8372581.c
-30
-[("Replace b'        ans = (ans + dp[k][j]) % MOD;\\n' with b'        ans += dp[k][j];\\n' at position 31", 30)]

@@ -1,4 +1,0 @@
-codeflaws/598-D-bug-14335118-14335129/598-D-14335129.c
-codeflaws/598-D-bug-14335118-14335129/598-D-14335118.c
-21
-[("Replace b'    int ch = num - quotient*10;\\n' with b'    ch = num - quotient*10;\\n' at position 22", 21)]

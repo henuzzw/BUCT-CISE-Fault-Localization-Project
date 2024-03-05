@@ -1,4 +1,0 @@
-codeflaws/560-B-bug-12817688-12817730/560-B-12817730.c
-codeflaws/560-B-bug-12817688-12817730/560-B-12817688.c
-15
-[('Replace b\'    else if(b[1]+a[2]<=b[0] && b[2]<=a[0] && a[1]<=a[0]) printf("YES");\\n\' with b\'    else if(b[1]+a[2]<=b[0] && b[2]<=b[0] && a[1]<=b[0]) printf("YES");\\n\' at position 16', 15)]

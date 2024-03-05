@@ -1,4 +1,0 @@
-codeflaws/182-D-bug-1966513-1966534/182-D-1966534.c
-codeflaws/182-D-bug-1966513-1966534/182-D-1966513.c
-45,47
-[("Insert b'    getNext(strA, lenA);\\n' at position 47 in file2", 46), ("Replace b'    if((lenA % cl) != 0) {\\n' with b'    if(lenA % cl) {\\n' at position 49", 48)]

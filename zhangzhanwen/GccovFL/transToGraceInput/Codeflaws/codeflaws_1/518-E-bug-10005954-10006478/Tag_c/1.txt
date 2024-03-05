@@ -1,4 +1,0 @@
-codeflaws/518-E-bug-10005954-10006478/518-E-10006478.c
-codeflaws/518-E-bug-10005954-10006478/518-E-10005954.c
-13
-[('Replace b\'  //printf("%d %d %d %d\\\\n", mi, ma, st,c);\\n\' with b\'  printf("%d %d %d %d\\\\n", mi, ma, st,c);\\n\' at position 14', 13)]

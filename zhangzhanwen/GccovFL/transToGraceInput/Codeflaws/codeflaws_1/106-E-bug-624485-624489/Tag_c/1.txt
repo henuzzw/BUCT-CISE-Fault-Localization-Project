@@ -1,4 +1,0 @@
-codeflaws/106-E-bug-624485-624489/106-E-624489.c
-codeflaws/106-E-bug-624485-624489/106-E-624485.c
-49
-[("Replace b'            step = (r - l) / 3;\\n' with b'            step = (r - l) / PHI;\\n' at position 50", 49)]

@@ -1,4 +1,0 @@
-codeflaws/202-A-bug-1864388-1905671/202-A-1905671.c
-codeflaws/202-A-bug-1864388-1905671/202-A-1864388.c
-18
-[('Replace b\'        //  printf("yoyo");\\n\' with b\'            printf("yoyo");\\n\' at position 19', 18)]

@@ -1,4 +1,0 @@
-codeflaws/171-B-bug-1458594-1458980/171-B-1458980.c
-codeflaws/171-B-bug-1458594-1458980/171-B-1458594.c
-5
-[('Replace b\'   printf("%d\\\\n",1+6*n*(n-1));\\n\' with b\'   printf("%d\\\\n",2*n-1);\\n\' at position 6', 5)]

@@ -1,4 +1,0 @@
-codeflaws/218-A-bug-15899594-15899658/218-A-15899658.c
-codeflaws/218-A-bug-15899594-15899658/218-A-15899594.c
-11,15
-[("Insert b'\\t\\tif ((ara[i]-1)>ara[i-1] && (ara[i]-1)>ara[i+1]){\\n' at position 13 in file2", 12), ("Insert b'\\t\\t}\\n' at position 18 in file2", 17)]

@@ -1,4 +1,0 @@
-codeflaws/644-A-bug-17085967-17085974/644-A-17085974.c
-codeflaws/644-A-bug-17085967-17085974/644-A-17085967.c
-19,19,19
-[("Insert b'        }\\n' at position 21 in file2", 20), ("Insert b'        if(num > n) {\\n' at position 22 in file2", 21), ("Insert b'            break;\\n' at position 23 in file2", 22)]

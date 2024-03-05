@@ -1,4 +1,0 @@
-codeflaws/525-A-bug-11635236-11635306/525-A-11635306.c
-codeflaws/525-A-bug-11635236-11635306/525-A-11635236.c
-24,24
-[("Insert b'\\t\\t\\telse\\n' at position 26 in file2", 25), ("Insert b'\\t\\t\\t\\ta[s[i]-65]--;\\n' at position 27 in file2", 26)]

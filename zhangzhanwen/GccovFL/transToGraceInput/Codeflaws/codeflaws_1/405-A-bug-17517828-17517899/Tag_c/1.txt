@@ -1,4 +1,0 @@
-codeflaws/405-A-bug-17517828-17517899/405-A-17517899.c
-codeflaws/405-A-bug-17517828-17517899/405-A-17517828.c
-12
-[("Replace b'            if (arr[min] > arr[j]) min = j;\\n' with b'            if (arr[min] > arr[j]) min = i;\\n' at position 13", 12)]

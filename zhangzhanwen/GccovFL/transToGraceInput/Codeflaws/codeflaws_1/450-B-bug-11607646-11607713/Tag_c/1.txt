@@ -1,4 +1,0 @@
-codeflaws/450-B-bug-11607646-11607713/450-B-11607713.c
-codeflaws/450-B-bug-11607646-11607713/450-B-11607646.c
-31
-[('Replace b\'    printf("%lld",(ans + 2*(long long)m)%(long long)m);\\n\' with b\'    printf("%lld",(ans + (long long)m)%(long long)m);\\n\' at position 32', 31)]

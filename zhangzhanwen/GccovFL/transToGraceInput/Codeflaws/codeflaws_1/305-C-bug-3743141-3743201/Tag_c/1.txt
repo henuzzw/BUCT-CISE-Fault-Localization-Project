@@ -1,4 +1,0 @@
-codeflaws/305-C-bug-3743141-3743201/305-C-3743201.c
-codeflaws/305-C-bug-3743141-3743201/305-C-3743141.c
-5
-[('Delete b\'\\tprintf("%x\\\\n",100000);\\n\' at position 5 in file2', 4)]

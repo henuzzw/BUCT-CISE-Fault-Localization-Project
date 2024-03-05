@@ -1,4 +1,0 @@
-codeflaws/22-D-bug-17912738-17912936/22-D-17912936.c
-codeflaws/22-D-bug-17912738-17912936/22-D-17912738.c
-13
-[("Replace b'\\tint mayor=20000;\\n' with b'\\tint mayor=2000;\\n' at position 14", 13)]

@@ -1,4 +1,0 @@
-codeflaws/359-B-bug-5454813-5454814/359-B-5454814.c
-codeflaws/359-B-bug-5454813-5454814/359-B-5454813.c
-23
-[("Replace b'    while (j<=2*n) {\\n' with b'    while (j<2*n) {\\n' at position 24", 23)]

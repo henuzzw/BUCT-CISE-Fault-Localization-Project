@@ -1,4 +1,0 @@
-codeflaws/454-B-bug-14254146-14310411/454-B-14310411.c
-codeflaws/454-B-bug-14254146-14310411/454-B-14254146.c
-15,44
-[("Replace b'\\t\\tif(a[i] <= min && a[i] < a[i-1])\\n' with b'\\t\\tif(a[i] < min)\\n' at position 16", 15), ("Insert b'\\t\\t\\t\\t\\tbreak;\\n' at position 46 in file2", 45)]

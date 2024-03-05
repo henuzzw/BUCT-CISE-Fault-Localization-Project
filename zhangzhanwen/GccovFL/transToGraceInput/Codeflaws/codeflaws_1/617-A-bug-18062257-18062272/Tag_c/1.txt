@@ -1,4 +1,0 @@
-codeflaws/617-A-bug-18062257-18062272/617-A-18062272.c
-codeflaws/617-A-bug-18062257-18062272/617-A-18062257.c
-26
-[("Replace b'    steps = steps + n;\\n' with b'    steps = steps + n/4;\\n' at position 27", 26)]

@@ -1,4 +1,0 @@
-codeflaws/293-A-bug-3825824-3825830/293-A-3825830.c
-codeflaws/293-A-bug-3825824-3825830/293-A-3825824.c
-14
-[('Replace b\'else if(t%2==0){printf("Draw");return 0;}\\n\' with b\'else if(t%2==0&&t!=2*n&&t!=0){printf("Draw");return 0;}\\n\' at position 15', 14)]

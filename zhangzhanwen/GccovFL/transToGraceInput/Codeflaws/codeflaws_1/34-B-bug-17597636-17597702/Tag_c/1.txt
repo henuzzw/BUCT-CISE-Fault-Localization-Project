@@ -1,4 +1,0 @@
-codeflaws/34-B-bug-17597636-17597702/34-B-17597702.c
-codeflaws/34-B-bug-17597636-17597702/34-B-17597636.c
-42
-[("Insert b'                    if(n==m)break;\\n' at position 44 in file2", 43)]

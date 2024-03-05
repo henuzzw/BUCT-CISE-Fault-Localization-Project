@@ -1,4 +1,0 @@
-codeflaws/404-C-bug-6126347-6126371/404-C-6126371.c
-codeflaws/404-C-bug-6126347-6126371/404-C-6126347.c
-17,54
-[("Insert b'  ret |= k < 2 && n > 2;\\n' at position 19 in file2", 18), ("Replace b'      int off = (j - start[i + 1]) / (i == 0 ? k : k - 1);\\n' with b'      int off = (j - start[i + 1]) / k;\\n' at position 56", 55)]

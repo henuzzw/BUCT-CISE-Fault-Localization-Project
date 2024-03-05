@@ -1,4 +1,0 @@
-codeflaws/493-D-bug-8986704-8986720/493-D-8986720.c
-codeflaws/493-D-bug-8986704-8986720/493-D-8986704.c
-9,9
-[('Replace b\'        printf("1 ");\\n\' with b\'        printf("12");\\n\' at position 10', 9), ('Insert b\'        printf("2");\\n\' at position 11 in file2', 10)]

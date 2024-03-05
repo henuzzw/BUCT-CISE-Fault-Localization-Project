@@ -1,4 +1,0 @@
-codeflaws/584-A-bug-17817097-17817103/584-A-17817103.c
-codeflaws/584-A-bug-17817097-17817103/584-A-17817097.c
-18
-[("Replace b'\\t\\t\\tfor (i = 1; i < n; i++) {\\n' with b'\\t\\t\\tfor (i = 1; i < t; i++) {\\n' at position 19", 18)]

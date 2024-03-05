@@ -1,4 +1,0 @@
-codeflaws/631-C-bug-16491248-16491440/631-C-16491440.c
-codeflaws/631-C-bug-16491248-16491440/631-C-16491248.c
-27
-[('Replace b\'\\twhile(Si--)printf("%i%c",S[Si],Si?\\\' \\\':\\\'\\\\n\\\');\\n\' with b\'\\twhile(Si--)printf("%u%c",S[Si],Si?\\\' \\\':\\\'\\\\n\\\');\\n\' at position 28', 27)]

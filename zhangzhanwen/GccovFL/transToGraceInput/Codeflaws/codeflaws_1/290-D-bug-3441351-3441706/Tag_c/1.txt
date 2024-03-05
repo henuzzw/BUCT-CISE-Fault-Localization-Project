@@ -1,4 +1,0 @@
-codeflaws/290-D-bug-3441351-3441706/290-D-3441706.c
-codeflaws/290-D-bug-3441351-3441706/290-D-3441351.c
-12,12,15
-[("Insert b'    {\\n' at position 14 in file2", 13), ("Insert b'        st[i]=tolower(st[i]);\\n' at position 15 in file2", 14), ("Insert b'    }\\n' at position 19 in file2", 18)]

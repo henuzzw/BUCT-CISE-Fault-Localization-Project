@@ -1,4 +1,0 @@
-codeflaws/276-B-bug-5933556-5940552/276-B-5940552.c
-codeflaws/276-B-bug-5933556-5940552/276-B-5933556.c
-21,21
-[('Replace b\'\\tif(odd_count == 0) printf("First");\\n\' with b\'\\tprintf("%s", (odd_count-1)%2 == 0 ? "First" : "Second");\\n\' at position 22', 21), ('Insert b\'\\telse printf("%s", (odd_count-1)%2 == 0 ? "First" : "Second");\\n\' at position 23 in file2', 22)]

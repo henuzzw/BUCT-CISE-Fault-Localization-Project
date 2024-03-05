@@ -1,4 +1,0 @@
-codeflaws/146-B-bug-1117802-1117804/146-B-1117804.c
-codeflaws/146-B-bug-1117802-1117804/146-B-1117802.c
-7
-[("Replace b'    if(mask(a)==b)\\n' with b'    if(a==b)\\n' at position 8", 7)]

@@ -1,4 +1,0 @@
-codeflaws/108-A-bug-8712416-8712503/108-A-8712503.c
-codeflaws/108-A-bug-8712416-8712503/108-A-8712416.c
-73,74
-[('Replace b\'            sprintf(horaPalindromo.hh, "%.2d", horPalindromo);\\n\' with b\'            sprintf(horaPalindromo.hh, "%2d", horPalindromo);\\n\' at position 74', 73), ("Delete b'\\n' at position 74 in file2", 73)]

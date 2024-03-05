@@ -1,4 +1,0 @@
-codeflaws/123-A-bug-1869815-1869826/123-A-1869826.c
-codeflaws/123-A-bug-1869815-1869826/123-A-1869815.c
-18
-[("Replace b'        b[max]-=len-num-1;\\n' with b'        b[max]-=len-num+1;\\n' at position 19", 18)]

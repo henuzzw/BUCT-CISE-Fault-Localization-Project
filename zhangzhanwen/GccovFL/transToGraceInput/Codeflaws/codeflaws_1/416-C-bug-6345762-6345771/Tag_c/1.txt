@@ -1,4 +1,0 @@
-codeflaws/416-C-bug-6345762-6345771/416-C-6345771.c
-codeflaws/416-C-bug-6345762-6345771/416-C-6345762.c
-52
-[('Delete b\'        printf("%d\\\\n", R[i].r);\\n\' at position 52 in file2', 51)]

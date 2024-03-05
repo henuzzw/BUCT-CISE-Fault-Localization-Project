@@ -1,4 +1,0 @@
-codeflaws/166-C-bug-4531246-4531250/166-C-4531250.c
-codeflaws/166-C-bug-4531246-4531250/166-C-4531246.c
-24
-[('Delete b\'  for (i = 0; i < n; ++i) printf ("%d ", a[i]); printf ("\\\\n");\\n\' at position 24 in file2', 23)]

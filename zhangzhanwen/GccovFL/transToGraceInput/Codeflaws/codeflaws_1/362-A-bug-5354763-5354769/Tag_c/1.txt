@@ -1,4 +1,0 @@
-codeflaws/362-A-bug-5354763-5354769/362-A-5354769.c
-codeflaws/362-A-bug-5354763-5354769/362-A-5354763.c
-12
-[("Insert b'        sign=1;\\n' at position 14 in file2", 13)]

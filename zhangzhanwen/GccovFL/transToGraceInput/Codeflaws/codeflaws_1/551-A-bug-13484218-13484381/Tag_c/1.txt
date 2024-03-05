@@ -1,4 +1,0 @@
-codeflaws/551-A-bug-13484218-13484381/551-A-13484381.c
-codeflaws/551-A-bug-13484218-13484381/551-A-13484218.c
-5,9,22
-[('Delete b\'     printf("number of GukiZ\\\'\\\'s students\\\\n");\\n\' at position 5 in file2', 4), ('Delete b\'                             printf("number of student %d: ",i+1);\\n\' at position 8 in file2', 7), ('Delete b\'     system("pause");\\n\' at position 20 in file2', 19)]

@@ -1,4 +1,0 @@
-codeflaws/168-A-bug-11849242-11849321/168-A-11849321.c
-codeflaws/168-A-bug-11849242-11849321/168-A-11849242.c
-8,8
-[('Replace b\'    if((dem-x)>0)printf("%d", dem-x);\\n\' with b\'    printf("%d", dem-x);\\n\' at position 9', 8), ('Insert b\'    else printf("0");\\n\' at position 10 in file2', 9)]

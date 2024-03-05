@@ -1,4 +1,0 @@
-codeflaws/463-B-bug-11339381-11339383/463-B-11339383.c
-codeflaws/463-B-bug-11339381-11339383/463-B-11339381.c
-10
-[("Replace b'    for(i = 0, temp = 0; i < n ; i++){\\n' with b'    for(i = 0, temp = 0; i < n - 1; i++){\\n' at position 11", 10)]

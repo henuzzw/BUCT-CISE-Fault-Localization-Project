@@ -1,4 +1,0 @@
-codeflaws/439-A-bug-17988357-17988390/439-A-17988390.c
-codeflaws/439-A-bug-17988357-17988390/439-A-17988357.c
-13
-[("Replace b'    if(d>=(sumd+(n-1)*10))\\n' with b'    if(d>(sumd+(n-1)*10))\\n' at position 14", 13)]

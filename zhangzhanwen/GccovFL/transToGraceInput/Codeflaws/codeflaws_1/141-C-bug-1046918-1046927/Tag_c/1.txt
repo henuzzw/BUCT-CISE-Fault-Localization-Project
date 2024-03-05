@@ -1,4 +1,0 @@
-codeflaws/141-C-bug-1046918-1046927/141-C-1046927.c
-codeflaws/141-C-bug-1046918-1046927/141-C-1046918.c
-47
-[("Replace b'\\tfor (i = n-1; i >= 0; i--) {\\n' with b'\\tfor (i = 0; i < n; i++) {\\n' at position 48", 47)]

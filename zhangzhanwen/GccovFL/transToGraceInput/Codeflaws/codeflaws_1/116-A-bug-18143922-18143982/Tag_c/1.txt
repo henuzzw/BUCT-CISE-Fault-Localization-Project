@@ -1,4 +1,0 @@
-codeflaws/116-A-bug-18143922-18143982/116-A-18143982.c
-codeflaws/116-A-bug-18143922-18143982/116-A-18143922.c
-15
-[("Replace b'        if (z>m)\\n' with b'        if (z>n)\\n' at position 16", 15)]

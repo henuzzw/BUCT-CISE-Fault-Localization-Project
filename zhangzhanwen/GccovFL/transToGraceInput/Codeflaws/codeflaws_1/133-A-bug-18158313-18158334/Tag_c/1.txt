@@ -1,4 +1,0 @@
-codeflaws/133-A-bug-18158313-18158334/133-A-18158334.c
-codeflaws/133-A-bug-18158313-18158334/133-A-18158313.c
-11
-[("Replace b'        if (x==72|| x==81 || x==57 )\\n' with b'        if (x==72 || x==57 )\\n' at position 12", 11)]

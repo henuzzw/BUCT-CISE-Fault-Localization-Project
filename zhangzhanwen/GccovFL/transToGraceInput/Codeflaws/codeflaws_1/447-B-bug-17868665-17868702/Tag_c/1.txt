@@ -1,4 +1,0 @@
-codeflaws/447-B-bug-17868665-17868702/447-B-17868702.c
-codeflaws/447-B-bug-17868665-17868702/447-B-17868665.c
-10
-[("Replace b'    for (i = 0; i < 26; i++){\\n' with b'    for (i = 0; i < strlen(s); i++){\\n' at position 11", 10)]

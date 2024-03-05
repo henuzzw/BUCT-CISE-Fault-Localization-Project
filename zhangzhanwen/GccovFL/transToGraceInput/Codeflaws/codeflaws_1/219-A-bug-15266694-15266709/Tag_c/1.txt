@@ -1,4 +1,0 @@
-codeflaws/219-A-bug-15266694-15266709/219-A-15266709.c
-codeflaws/219-A-bug-15266694-15266709/219-A-15266694.c
-24,25
-[('Replace b\'\\t\\t\\tprintf("%s",sonuc);\\n\' with b\'\\t\\tfor(i = 0 ; i <= yer ; i++)\\n\' at position 25', 24), ('Delete b\'\\t\\t\\tprintf("%c",sonuc[i]);\\n\' at position 25 in file2', 24)]

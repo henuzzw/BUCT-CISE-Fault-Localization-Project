@@ -1,4 +1,0 @@
-codeflaws/25-A-bug-17517753-17517783/25-A-17517783.c
-codeflaws/25-A-bug-17517753-17517783/25-A-17517753.c
-31
-[("Replace b'            if (a % 2 != x) b = i;\\n' with b'            if (a % 2 == x) b = i;\\n' at position 32", 31)]

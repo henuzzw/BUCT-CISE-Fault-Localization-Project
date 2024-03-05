@@ -1,4 +1,0 @@
-codeflaws/62-A-bug-11353345-11353416/62-A-11353416.c
-codeflaws/62-A-bug-11353345-11353416/62-A-11353345.c
-8
-[("Replace b'    if(((girlr-1)<=boyl && boyl<=(girlr+1)*2) || ((girll-1)<=boyr && boyr<=(girll+1)*2))\\n' with b'    if(((girlr<=boyl+1) && (boyl+1/2<=girlr+1)) || ((girll<=boyr+1) && (boyr+1/2<=girll+1)))\\n' at position 9", 8)]

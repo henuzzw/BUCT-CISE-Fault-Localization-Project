@@ -1,4 +1,0 @@
-codeflaws/37-B-bug-166925-166984/37-B-166984.c
-codeflaws/37-B-bug-166925-166984/37-B-166925.c
-53
-[("Insert b'      s+=magic[x].dmg;\\n' at position 55 in file2", 54)]

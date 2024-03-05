@@ -1,4 +1,0 @@
-codeflaws/667-A-bug-17706092-17706104/667-A-17706104.c
-codeflaws/667-A-bug-17706092-17706104/667-A-17706092.c
-0,6
-[("Insert b'#define pi 3.14159265359\\n' at position 2 in file2", 1), ("Replace b'\\tx=(float)((v*4)/(pi*d*d))-e;\\n' with b'\\tx=(float)((v*4)/(3.14*d*d))-e;\\n' at position 8", 7)]

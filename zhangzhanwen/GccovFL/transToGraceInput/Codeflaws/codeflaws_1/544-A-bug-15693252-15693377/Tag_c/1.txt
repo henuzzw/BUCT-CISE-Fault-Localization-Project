@@ -1,4 +1,0 @@
-codeflaws/544-A-bug-15693252-15693377/544-A-15693377.c
-codeflaws/544-A-bug-15693252-15693377/544-A-15693252.c
-15
-[("Replace b'            ara[str[i]-97] = 1;\\n' with b'            ara[str[i]] = 1;\\n' at position 16", 15)]

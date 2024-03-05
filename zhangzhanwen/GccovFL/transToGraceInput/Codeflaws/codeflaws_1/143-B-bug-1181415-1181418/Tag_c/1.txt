@@ -1,4 +1,0 @@
-codeflaws/143-B-bug-1181415-1181418/143-B-1181418.c
-codeflaws/143-B-bug-1181415-1181418/143-B-1181415.c
-18,18
-[('Replace b"    if(s[0]==\'-\')\\n" with b\'    i++;\\n\' at position 19', 18), ("Insert b'      i++;\\n' at position 20 in file2", 19)]

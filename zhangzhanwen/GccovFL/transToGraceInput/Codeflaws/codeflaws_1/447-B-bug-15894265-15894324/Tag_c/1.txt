@@ -1,4 +1,0 @@
-codeflaws/447-B-bug-15894265-15894324/447-B-15894324.c
-codeflaws/447-B-bug-15894265-15894324/447-B-15894265.c
-19
-[("Replace b'        sum1+=ara[(str[i]-97)]*(i+1);\\n' with b'        sum1+=(i+1)*ara[i];\\n' at position 20", 19)]

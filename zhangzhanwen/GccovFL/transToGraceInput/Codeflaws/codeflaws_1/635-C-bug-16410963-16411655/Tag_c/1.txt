@@ -1,4 +1,0 @@
-codeflaws/635-C-bug-16410963-16411655/635-C-16411655.c
-codeflaws/635-C-bug-16410963-16411655/635-C-16410963.c
-15
-[("Replace b'\\tif(o)r-=2;\\n' with b'\\tif(o&&!(x&(x+1)))r-=2;\\n' at position 16", 15)]

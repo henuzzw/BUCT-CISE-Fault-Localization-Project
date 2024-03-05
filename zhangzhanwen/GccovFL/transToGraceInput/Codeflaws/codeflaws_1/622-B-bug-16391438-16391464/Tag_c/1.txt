@@ -1,4 +1,0 @@
-codeflaws/622-B-bug-16391438-16391464/622-B-16391464.c
-codeflaws/622-B-bug-16391438-16391464/622-B-16391438.c
-16,22
-[('Replace b\'        printf(":0%d",b);\\n\' with b\'        printf("0:%d",b);\\n\' at position 17', 16), ("Insert b'\\n' at position 24 in file2", 23)]

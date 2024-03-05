@@ -1,4 +1,0 @@
-codeflaws/370-C-bug-5373416-5373586/370-C-5373586.c
-codeflaws/370-C-bug-5373416-5373586/370-C-5373416.c
-21
-[("Insert b'\\tif(g<j)g=j;\\n' at position 23 in file2", 22)]

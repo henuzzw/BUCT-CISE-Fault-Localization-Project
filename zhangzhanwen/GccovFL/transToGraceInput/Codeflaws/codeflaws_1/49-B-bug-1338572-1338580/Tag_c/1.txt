@@ -1,4 +1,0 @@
-codeflaws/49-B-bug-1338572-1338580/49-B-1338580.c
-codeflaws/49-B-bug-1338572-1338580/49-B-1338572.c
-45
-[("Replace b'\\t\\tn /= 10;\\n' with b'\\t\\tn /= base;\\n' at position 46", 45)]

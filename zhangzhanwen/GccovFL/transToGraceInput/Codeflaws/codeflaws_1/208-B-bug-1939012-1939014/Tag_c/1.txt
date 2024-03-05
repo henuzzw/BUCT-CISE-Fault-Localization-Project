@@ -1,4 +1,0 @@
-codeflaws/208-B-bug-1939012-1939014/208-B-1939014.c
-codeflaws/208-B-bug-1939012-1939014/208-B-1939012.c
-20
-[("Replace b'#define MAXN 55\\n' with b'#define MAXN 52\\n' at position 21", 20)]

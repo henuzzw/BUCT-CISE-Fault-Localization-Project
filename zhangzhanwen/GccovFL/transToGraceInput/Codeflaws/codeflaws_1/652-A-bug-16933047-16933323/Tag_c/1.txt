@@ -1,4 +1,0 @@
-codeflaws/652-A-bug-16933047-16933323/652-A-16933323.c
-codeflaws/652-A-bug-16933047-16933323/652-A-16933047.c
-9,19
-[("Replace b'      else {     while(k<h2-h1)\\n' with b'      else      while(k<h2-h1)\\n' at position 10", 9), ("Insert b'      }\\n' at position 21 in file2", 20)]

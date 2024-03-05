@@ -1,4 +1,0 @@
-codeflaws/245-A-bug-14699193-14699206/245-A-14699206.c
-codeflaws/245-A-bug-14699193-14699206/245-A-14699193.c
-15
-[('Delete b\'    printf("%d %d\\\\n%d %d",m[0][0],m[0][1],m[1][0],m[1][1]);\\n\' at position 15 in file2', 14)]

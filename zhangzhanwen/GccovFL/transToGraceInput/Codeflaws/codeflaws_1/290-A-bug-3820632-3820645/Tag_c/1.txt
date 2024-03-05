@@ -1,4 +1,0 @@
-codeflaws/290-A-bug-3820632-3820645/290-A-3820645.c
-codeflaws/290-A-bug-3820632-3820645/290-A-3820632.c
-3
-[('Replace b\'    char a[40][99]={"Washington","Adams","Jefferson","Madison","Monroe","Adams","Jackson","Van Buren","Harrison","Tyler","Polk","Taylor","Fillmore","Pierce","Buchanan","Lincoln","Johnson","Grant","Hayes","Garfield","Arthur","Cleveland","Harrison","Cleveland","McKinley","Roosevelt","Taft","Wilson","Harding","Coolidge","Hoover","Roosevelt","Truman","Eisenhower","Kennedy","Johnson","Nixon","Ford","Carter","Reagan"};\\n\' with b\'    char a[40][12]={"qq","ww","ee","rr","tt","yy","uu","ii","oo","pp","aa","ss","dd","ff","gg","hh","jj","kk","ll","zz","xx","cc","vv","bb","nn","mm","qqq","www","eee","rrr","ttt","yyy","uuu","iii","ooo","ppp","aaa","sss","ddd","fff"};\\n\' at position 4', 3)]

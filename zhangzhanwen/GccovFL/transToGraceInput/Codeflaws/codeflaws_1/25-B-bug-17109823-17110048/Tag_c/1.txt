@@ -1,4 +1,0 @@
-codeflaws/25-B-bug-17109823-17110048/25-B-17110048.c
-codeflaws/25-B-bug-17109823-17110048/25-B-17109823.c
-3
-[("Replace b'    char a[2000];\\n' with b'    char a[20];\\n' at position 4", 3)]

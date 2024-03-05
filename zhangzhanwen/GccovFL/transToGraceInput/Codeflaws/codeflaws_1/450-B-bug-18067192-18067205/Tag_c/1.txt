@@ -1,4 +1,0 @@
-codeflaws/450-B-bug-18067192-18067205/450-B-18067205.c
-codeflaws/450-B-bug-18067192-18067205/450-B-18067192.c
-9
-[("Insert b'    ans=ans%mod;\\n' at position 11 in file2", 10)]

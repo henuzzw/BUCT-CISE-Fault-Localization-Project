@@ -1,4 +1,0 @@
-codeflaws/467-A-bug-17691358-17691499/467-A-17691499.c
-codeflaws/467-A-bug-17691358-17691499/467-A-17691358.c
-8
-[("Replace b'        if(Pi+2<=Qi)count++;\\n' with b'        if(Pi+2<Qi)count++;\\n' at position 9", 8)]

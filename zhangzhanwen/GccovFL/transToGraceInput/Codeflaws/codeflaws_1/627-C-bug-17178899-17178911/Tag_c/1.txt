@@ -1,4 +1,0 @@
-codeflaws/627-C-bug-17178899-17178911/627-C-17178911.c
-codeflaws/627-C-bug-17178899-17178911/627-C-17178899.c
-77
-[("Replace b'\\t\\t\\tbalance = N - (mat[minind].position - mat[posind].position);\\n' with b'\\t\\t\\tbalance = N - (mat[i].position - mat[posind].position);\\n' at position 78", 77)]

@@ -1,4 +1,0 @@
-codeflaws/281-A-bug-18132658-18132720/281-A-18132720.c
-codeflaws/281-A-bug-18132658-18132720/281-A-18132658.c
-13
-[("Replace b'        if (k>90)\\n' with b'        if (k>=90)\\n' at position 14", 13)]

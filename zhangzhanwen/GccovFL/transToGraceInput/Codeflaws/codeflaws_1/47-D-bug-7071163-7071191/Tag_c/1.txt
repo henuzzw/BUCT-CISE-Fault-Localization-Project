@@ -1,4 +1,0 @@
-codeflaws/47-D-bug-7071163-7071191/47-D-7071191.c
-codeflaws/47-D-bug-7071163-7071191/47-D-7071163.c
-110
-[("Replace b'        combination( i + 1 );\\n' with b'        combination( idx + 1 );\\n' at position 111", 110)]

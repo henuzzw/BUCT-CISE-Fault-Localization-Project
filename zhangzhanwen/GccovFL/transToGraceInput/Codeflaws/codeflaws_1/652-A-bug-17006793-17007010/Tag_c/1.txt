@@ -1,4 +1,0 @@
-codeflaws/652-A-bug-17006793-17007010/652-A-17007010.c
-codeflaws/652-A-bug-17006793-17007010/652-A-17006793.c
-14,16
-[("Replace b'\\telse{c/=12;\\n' with b'\\telse\\n' at position 15", 14), ("Insert b'    }\\n' at position 18 in file2", 17)]

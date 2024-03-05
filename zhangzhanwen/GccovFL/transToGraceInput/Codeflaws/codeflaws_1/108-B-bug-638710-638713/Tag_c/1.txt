@@ -1,4 +1,0 @@
-codeflaws/108-B-bug-638710-638713/108-B-638713.c
-codeflaws/108-B-bug-638710-638713/108-B-638710.c
-18
-[("Replace b'\\t\\tif(a[i] != a[i + 1] && 2 * a[i] > a[i + 1]) {\\n' with b'\\t\\tif(2 * a[i] > a[i + 1]) {\\n' at position 19", 18)]

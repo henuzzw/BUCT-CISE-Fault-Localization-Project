@@ -1,4 +1,0 @@
-codeflaws/246-B-bug-8871515-8871533/246-B-8871533.c
-codeflaws/246-B-bug-8871515-8871533/246-B-8871515.c
-14
-[('Replace b\'\\tprintf("%d\\\\n", count%i!=0?i-1:i);\\n\' with b\'\\tprintf("%d\\\\n", count%i!=0?count/i:i);\\n\' at position 15', 14)]

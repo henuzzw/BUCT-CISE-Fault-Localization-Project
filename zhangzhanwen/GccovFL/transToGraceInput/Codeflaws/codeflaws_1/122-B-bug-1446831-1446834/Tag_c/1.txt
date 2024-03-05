@@ -1,4 +1,0 @@
-codeflaws/122-B-bug-1446831-1446834/122-B-1446834.c
-codeflaws/122-B-bug-1446831-1446834/122-B-1446831.c
-10
-[('Replace b\'\\telse if(f>=s)printf("4");\\n\' with b\'\\tif(f>=s)printf("4");\\n\' at position 11', 10)]

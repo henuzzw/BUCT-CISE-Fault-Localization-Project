@@ -1,4 +1,0 @@
-codeflaws/34-B-bug-12819581-12819591/34-B-12819591.c
-codeflaws/34-B-bug-12819581-12819591/34-B-12819581.c
-22
-[('Replace b\'  //for(i=0;i<s;i++)printf("%d\\\\t",a[i]);\\n\' with b\'  for(i=0;i<s;i++)printf("%d\\\\t",a[i]);\\n\' at position 23', 22)]

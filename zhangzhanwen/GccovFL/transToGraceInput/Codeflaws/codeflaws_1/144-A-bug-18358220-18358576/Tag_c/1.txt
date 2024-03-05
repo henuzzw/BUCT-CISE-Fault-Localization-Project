@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-18358220-18358576/144-A-18358576.c
-codeflaws/144-A-bug-18358220-18358576/144-A-18358220.c
-24,55
-[("Insert b'            h++;\\n' at position 26 in file2", 25), ("Replace b'        ans=n-p[h]+(q[y]-2);\\n' with b'        ans=n-p[h]+(q[y]-3);\\n' at position 57", 56)]

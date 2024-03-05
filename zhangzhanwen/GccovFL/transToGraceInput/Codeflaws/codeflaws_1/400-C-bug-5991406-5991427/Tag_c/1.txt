@@ -1,4 +1,0 @@
-codeflaws/400-C-bug-5991406-5991427/400-C-5991427.c
-codeflaws/400-C-bug-5991406-5991427/400-C-5991406.c
-39
-[("Replace b'        u=c+1-t;\\n' with b'        u=r+1-t;\\n' at position 40", 39)]

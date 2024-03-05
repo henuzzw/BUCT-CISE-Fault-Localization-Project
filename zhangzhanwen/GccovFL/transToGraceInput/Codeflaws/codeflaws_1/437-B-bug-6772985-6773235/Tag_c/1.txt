@@ -1,4 +1,0 @@
-codeflaws/437-B-bug-6772985-6773235/437-B-6773235.c
-codeflaws/437-B-bug-6772985-6773235/437-B-6772985.c
-9
-[("Replace b'\\t\\treturn b[c];\\n' with b'\\t\\treturn c;\\n' at position 10", 9)]

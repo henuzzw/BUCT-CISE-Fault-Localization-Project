@@ -1,4 +1,0 @@
-codeflaws/165-B-bug-10695403-10695423/165-B-10695423.c
-codeflaws/165-B-bug-10695403-10695423/165-B-10695403.c
-8
-[("Replace b'    long long v = n * (k-1) / k ;\\n' with b'    long long v = n / k ;\\n' at position 9", 8)]

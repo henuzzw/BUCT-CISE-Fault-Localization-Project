@@ -1,4 +1,0 @@
-codeflaws/119-A-bug-16521182-16521266/119-A-16521266.c
-codeflaws/119-A-bug-16521182-16521266/119-A-16521182.c
-10
-[("Replace b'\\t\\tif((!(max%(min-i)))&&(!(min%(min-i)))) return min-i;\\n' with b'\\t\\tif(!(max%(min-i))) return min-i;\\n' at position 11", 10)]

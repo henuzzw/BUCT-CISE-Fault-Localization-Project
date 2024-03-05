@@ -1,4 +1,0 @@
-codeflaws/411-A-bug-11627971-11627980/411-A-11627980.c
-codeflaws/411-A-bug-11627971-11627980/411-A-11627971.c
-4,24
-[("Replace b'    char s[101];\\n' with b'    char *s;\\n' at position 5", 4), ("Delete b'\\n' at position 24 in file2", 23)]

@@ -1,4 +1,0 @@
-codeflaws/365-B-bug-17012227-17012235/365-B-17012235.c
-codeflaws/365-B-bug-17012227-17012235/365-B-17012227.c
-23
-[("Insert b'\\tif(n==1)max=1;\\n' at position 25 in file2", 24)]

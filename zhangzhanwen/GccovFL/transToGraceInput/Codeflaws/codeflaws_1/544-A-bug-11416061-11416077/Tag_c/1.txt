@@ -1,4 +1,0 @@
-codeflaws/544-A-bug-11416061-11416077/544-A-11416077.c
-codeflaws/544-A-bug-11416061-11416077/544-A-11416061.c
-33
-[("Replace b'\\tfor(i=0\\t;i<indexCount;i++){\\n' with b'\\tfor(i=0\\t;i<indexCount-1;i++){\\n' at position 34", 33)]

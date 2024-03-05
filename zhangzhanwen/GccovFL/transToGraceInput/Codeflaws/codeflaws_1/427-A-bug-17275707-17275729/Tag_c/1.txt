@@ -1,4 +1,0 @@
-codeflaws/427-A-bug-17275707-17275729/427-A-17275729.c
-codeflaws/427-A-bug-17275707-17275729/427-A-17275707.c
-27
-[("Replace b'            treat+=a[Loop];\\n' with b'            treat=a[Loop];\\n' at position 28", 27)]

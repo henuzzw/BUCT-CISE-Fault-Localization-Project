@@ -1,4 +1,0 @@
-codeflaws/6-A-bug-15237294-15237317/6-A-15237317.c
-codeflaws/6-A-bug-15237294-15237317/6-A-15237294.c
-17
-[("Replace b'\\t\\t\\t if(a[i]+a[j]==a[k]||a[i]+a[k]==a[j]||a[j]+a[k]==a[i])\\n' with b'\\t\\t\\t if(a[i]+a[j]==a[k])\\n' at position 18", 17)]

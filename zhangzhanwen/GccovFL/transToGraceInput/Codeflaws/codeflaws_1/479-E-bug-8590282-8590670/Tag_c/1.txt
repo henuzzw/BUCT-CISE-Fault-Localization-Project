@@ -1,4 +1,0 @@
-codeflaws/479-E-bug-8590282-8590670/479-E-8590670.c
-codeflaws/479-E-bug-8590282-8590670/479-E-8590282.c
-25,30
-[("Replace b'\\t\\t\\t\\ttable[j][i+1]=(S[n]-S[j]+S[j-1]-S[(b+j)/2+((b+j)%2==0&&b+1>j+2?1:0)])%1000000007;\\n' with b'\\t\\t\\t\\ttable[j][i+1]=(S[n]-S[j]+S[j-1]-S[(b+j)/2+((b+j)%2==0?1:0)])%1000000007;\\n' at position 26", 25), ("Delete b'\\t\\tmemset(S,0,sizeof(S));\\n' at position 30 in file2", 29)]

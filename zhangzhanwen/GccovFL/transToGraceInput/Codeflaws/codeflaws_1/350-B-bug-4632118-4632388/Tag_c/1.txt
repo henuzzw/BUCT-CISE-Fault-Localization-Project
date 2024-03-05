@@ -1,4 +1,0 @@
-codeflaws/350-B-bug-4632118-4632388/350-B-4632388.c
-codeflaws/350-B-bug-4632118-4632388/350-B-4632118.c
-19,32
-[("Insert b'\\t\\tto[i] = 0;\\n' at position 21 in file2", 20), ("Replace b'\\tfor(i = 1; i <= n; i++)\\n' with b'\\tfor(i = 1; i < n; i++)\\n' at position 34", 33)]

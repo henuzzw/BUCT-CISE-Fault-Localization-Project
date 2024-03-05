@@ -1,4 +1,0 @@
-codeflaws/612-A-bug-17136026-17136126/612-A-17136126.c
-codeflaws/612-A-bug-17136026-17136126/612-A-17136026.c
-21,31,34
-[("Insert b'\\t\\t\\t\\tt = 0;\\n' at position 23 in file2", 22), ("Insert b'\\t\\tt = n;\\n' at position 34 in file2", 33), ("Delete b'\\t\\t\\t\\tt = n;\\n' at position 36 in file2", 35)]

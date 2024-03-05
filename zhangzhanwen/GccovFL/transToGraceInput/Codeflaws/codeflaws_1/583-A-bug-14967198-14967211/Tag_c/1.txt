@@ -1,4 +1,0 @@
-codeflaws/583-A-bug-14967198-14967211/583-A-14967211.c
-codeflaws/583-A-bug-14967198-14967211/583-A-14967198.c
-11
-[("Replace b'int i,h,v,arr[2500]={0},j=0;\\n' with b'int i,h,v,arr[m],j=0;\\n' at position 12", 11)]

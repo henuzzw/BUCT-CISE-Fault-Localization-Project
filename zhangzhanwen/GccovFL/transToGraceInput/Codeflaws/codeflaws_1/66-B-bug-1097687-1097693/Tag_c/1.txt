@@ -1,4 +1,0 @@
-codeflaws/66-B-bug-1097687-1097693/66-B-1097693.c
-codeflaws/66-B-bug-1097687-1097693/66-B-1097687.c
-27
-[("Insert b'\\t\\tprev=squares[i];\\n' at position 29 in file2", 28)]

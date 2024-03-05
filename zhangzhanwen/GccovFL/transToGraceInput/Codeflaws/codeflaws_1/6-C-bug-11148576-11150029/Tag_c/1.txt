@@ -1,4 +1,0 @@
-codeflaws/6-C-bug-11148576-11150029/6-C-11150029.c
-codeflaws/6-C-bug-11148576-11150029/6-C-11148576.c
-17
-[("Replace b'\\t\\t\\tresult -= chocolate[--end];\\n' with b'\\t\\t\\tresult -= chocolate[end--];\\n' at position 18", 17)]

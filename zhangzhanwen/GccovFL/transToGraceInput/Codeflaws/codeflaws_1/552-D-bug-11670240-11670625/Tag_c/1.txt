@@ -1,4 +1,0 @@
-codeflaws/552-D-bug-11670240-11670625/552-D-11670625.c
-codeflaws/552-D-bug-11670240-11670625/552-D-11670240.c
-14
-[("Replace b'                if((x[j]-x[i])*(y[k]-y[j])!=((y[j]-y[i])*(x[k]-x[j])))\\n' with b'                if((x[j]-x[k])*(y[k]-y[i])!=(y[j]-y[k]*(x[k]-x[i])))\\n' at position 15", 14)]

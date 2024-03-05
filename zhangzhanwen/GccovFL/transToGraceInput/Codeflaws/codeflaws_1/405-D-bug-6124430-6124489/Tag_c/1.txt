@@ -1,4 +1,0 @@
-codeflaws/405-D-bug-6124430-6124489/405-D-6124489.c
-codeflaws/405-D-bug-6124430-6124489/405-D-6124430.c
-25,46
-[("Insert b'           k++;\\n' at position 27 in file2", 26), ("Replace b'            a[b[j].l]=2;a[b[j].r]=2;\\n' with b'            a[b[j].l]=0;a[b[j].r]=0;\\n' at position 48", 47)]

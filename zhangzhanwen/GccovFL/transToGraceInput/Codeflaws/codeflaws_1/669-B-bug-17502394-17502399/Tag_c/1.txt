@@ -1,4 +1,0 @@
-codeflaws/669-B-bug-17502394-17502399/669-B-17502399.c
-codeflaws/669-B-bug-17502394-17502399/669-B-17502394.c
-28
-[('Delete b\'\\tprintf("here\\\\n");\\n\' at position 28 in file2', 27)]

@@ -1,4 +1,0 @@
-codeflaws/260-A-bug-15451201-15451214/260-A-15451214.c
-codeflaws/260-A-bug-15451201-15451214/260-A-15451201.c
-9
-[('Replace b\'        printf("%d%d",a,9-(a*10+9)%b);\\n\' with b\'        printf("%d%d",a,(a*10+9)%b);\\n\' at position 10', 9)]

@@ -1,4 +1,0 @@
-codeflaws/149-A-bug-16896380-16896493/149-A-16896493.c
-codeflaws/149-A-bug-16896380-16896493/149-A-16896380.c
-24,24
-[('Replace b\'    if(n==0)printf("0");\\n\' with b\'    if(sum>n||sum==n){\\n\' at position 25', 24), ("Insert b'    else if(sum>n||sum==n){\\n' at position 26 in file2", 25)]

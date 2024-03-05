@@ -1,4 +1,0 @@
-codeflaws/501-A-bug-17887043-17887046/501-A-17887046.c
-codeflaws/501-A-bug-17887043-17887046/501-A-17887043.c
-16
-[('Replace b\'    //printf("m=%f v=%f\\\\n", m, v);\\n\' with b\'    printf("m=%f v=%f\\\\n", m, v);\\n\' at position 17', 16)]

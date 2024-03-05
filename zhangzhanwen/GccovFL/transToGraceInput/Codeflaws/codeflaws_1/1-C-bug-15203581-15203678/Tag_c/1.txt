@@ -1,4 +1,0 @@
-codeflaws/1-C-bug-15203581-15203678/1-C-15203678.c
-codeflaws/1-C-bug-15203581-15203678/1-C-15203581.c
-27
-[("Replace b'    ang1=2*acos((d[0]*d[0]+d[2]*d[2]-d[1]*d[1])/(2*d[2]*d[0]));\\n' with b'    ang1=2*acos((d[0]*d[0]+d[2]*d[2]-d[1]*d[1])/(2*d[2]*d[1]));\\n' at position 28", 27)]

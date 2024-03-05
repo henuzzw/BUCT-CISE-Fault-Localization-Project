@@ -1,4 +1,0 @@
-codeflaws/414-A-bug-9157427-9157436/414-A-9157436.c
-codeflaws/414-A-bug-9157427-9157436/414-A-9157427.c
-13
-[('Replace b\'            printf("%d %d ", (d + 1), (d + 1) * 2);\\n\' with b\'            printf("%d %d ", d, d * 2);\\n\' at position 14', 13)]

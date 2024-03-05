@@ -1,4 +1,0 @@
-codeflaws/62-A-bug-10305222-10305239/62-A-10305239.c
-codeflaws/62-A-bug-10305222-10305239/62-A-10305222.c
-6,6,6
-[("Insert b'\\n' at position 8 in file2", 7), ("Insert b'    k=b_r;\\n' at position 9 in file2", 8), ("Insert b'    l=b_l;\\n' at position 10 in file2", 9)]

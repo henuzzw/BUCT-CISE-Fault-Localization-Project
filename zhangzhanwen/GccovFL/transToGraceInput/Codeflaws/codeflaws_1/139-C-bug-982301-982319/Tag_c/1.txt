@@ -1,4 +1,0 @@
-codeflaws/139-C-bug-982301-982319/139-C-982319.c
-codeflaws/139-C-bug-982301-982319/139-C-982301.c
-141
-[("Insert b'            if(tmp!=3)\\n' at position 143 in file2", 142)]

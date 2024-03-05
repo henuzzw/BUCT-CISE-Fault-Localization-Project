@@ -1,4 +1,0 @@
-codeflaws/5-A-bug-10036467-10036518/5-A-10036518.c
-codeflaws/5-A-bug-10036467-10036518/5-A-10036467.c
-19,19
-[("Replace b'\\t\\t\\t\\t\\n' with b'\\t\\t\\t\\tdata_length = strlen(raw_input) - name_length;\\n' at position 20", 19), ("Insert b'\\t\\t\\t\\tdata_length = strlen(raw_input) - (name_length + 1);\\n' at position 21 in file2", 20)]

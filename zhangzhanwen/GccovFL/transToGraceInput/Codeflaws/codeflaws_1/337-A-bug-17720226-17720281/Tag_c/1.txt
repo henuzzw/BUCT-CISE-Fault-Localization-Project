@@ -1,4 +1,0 @@
-codeflaws/337-A-bug-17720226-17720281/337-A-17720281.c
-codeflaws/337-A-bug-17720226-17720281/337-A-17720226.c
-24
-[("Replace b'    for(i = 0;i <= m - n;i++)\\n' with b'    for(i = 0;i < m - n;i++)\\n' at position 25", 24)]

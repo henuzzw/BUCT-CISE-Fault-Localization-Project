@@ -1,4 +1,0 @@
-codeflaws/89-A-bug-489395-489477/89-A-489477.c
-codeflaws/89-A-bug-489395-489477/89-A-489395.c
-21
-[("Replace b'    per = m / ((n+1) / 2);\\n' with b'    per = (n+1) / 2 / m;\\n' at position 22", 21)]

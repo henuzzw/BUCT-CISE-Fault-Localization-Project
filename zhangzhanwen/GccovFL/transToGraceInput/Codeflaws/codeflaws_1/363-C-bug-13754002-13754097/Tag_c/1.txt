@@ -1,4 +1,0 @@
-codeflaws/363-C-bug-13754002-13754097/363-C-13754097.c
-codeflaws/363-C-bug-13754002-13754097/363-C-13754002.c
-29
-[("Replace b'            if(b>1)\\n' with b'            if(b>0)\\n' at position 30", 29)]

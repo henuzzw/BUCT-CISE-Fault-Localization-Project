@@ -1,4 +1,0 @@
-codeflaws/218-A-bug-6152323-6152330/218-A-6152330.c
-codeflaws/218-A-bug-6152323-6152330/218-A-6152323.c
-13
-[("Replace b'        if(arr[i]-arr[i+1]>1&&arr[i]-arr[i-1]>1)\\n' with b'        if(arr[i]-arr[i+1]>1&&arr[i]-arr[i-1])\\n' at position 14", 13)]

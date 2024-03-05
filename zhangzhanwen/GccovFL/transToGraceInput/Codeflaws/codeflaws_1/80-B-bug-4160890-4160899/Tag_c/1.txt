@@ -1,4 +1,0 @@
-codeflaws/80-B-bug-4160890-4160899/80-B-4160899.c
-codeflaws/80-B-bug-4160890-4160899/80-B-4160890.c
-8
-[("Replace b'    ang1=(h%12+1.0*m/60)*30;\\n' with b'    ang1=(h+1.0*m/60)*30;\\n' at position 9", 8)]

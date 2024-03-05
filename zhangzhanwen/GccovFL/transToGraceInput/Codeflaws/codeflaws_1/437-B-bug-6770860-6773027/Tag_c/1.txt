@@ -1,4 +1,0 @@
-codeflaws/437-B-bug-6770860-6773027/437-B-6773027.c
-codeflaws/437-B-bug-6770860-6773027/437-B-6770860.c
-13,14
-[("Replace b'\\tnext = next<<1;\\n' with b'\\tnext = next<<p;\\n' at position 14", 13), ("Insert b'\\tnext = next<<(p-1);\\n' at position 16 in file2", 15)]

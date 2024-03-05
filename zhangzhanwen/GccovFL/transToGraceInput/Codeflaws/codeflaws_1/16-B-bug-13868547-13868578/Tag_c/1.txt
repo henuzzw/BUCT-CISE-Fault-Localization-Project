@@ -1,4 +1,0 @@
-codeflaws/16-B-bug-13868547-13868578/16-B-13868578.c
-codeflaws/16-B-bug-13868547-13868578/16-B-13868547.c
-29
-[("Replace b'    for(i=0;i<m;i++)\\n' with b'    for(i=0;i<n;i++)\\n' at position 30", 29)]

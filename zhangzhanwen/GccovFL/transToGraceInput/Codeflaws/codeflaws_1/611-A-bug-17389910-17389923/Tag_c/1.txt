@@ -1,4 +1,0 @@
-codeflaws/611-A-bug-17389910-17389923/611-A-17389923.c
-codeflaws/611-A-bug-17389910-17389923/611-A-17389910.c
-19
-[('Replace b\'      printf("53\\\\n");\\n\' with b\'      printf("52\\\\n");\\n\' at position 20', 19)]

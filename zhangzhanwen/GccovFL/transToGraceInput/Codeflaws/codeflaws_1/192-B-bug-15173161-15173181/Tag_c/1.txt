@@ -1,4 +1,0 @@
-codeflaws/192-B-bug-15173161-15173181/192-B-15173181.c
-codeflaws/192-B-bug-15173161-15173181/192-B-15173161.c
-20
-[("Replace b'    min=num[1],i=1;\\n' with b'    min=2000,i=1;\\n' at position 21", 20)]

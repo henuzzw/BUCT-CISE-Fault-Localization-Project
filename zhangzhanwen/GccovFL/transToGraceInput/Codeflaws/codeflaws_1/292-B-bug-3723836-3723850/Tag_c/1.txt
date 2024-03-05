@@ -1,4 +1,0 @@
-codeflaws/292-B-bug-3723836-3723850/292-B-3723850.c
-codeflaws/292-B-bug-3723836-3723850/292-B-3723836.c
-27
-[('Replace b\'        if(a[i]!=2 && a[i]!=1){printf("unknown topology");return 0;}\\n\' with b\'        if(a[i]!=2 && a[i]!=1){printf("unknown topology");printf("%d",i);return 0;}\\n\' at position 28', 27)]

@@ -1,4 +1,0 @@
-codeflaws/675-A-bug-18229069-18229099/675-A-18229099.c
-codeflaws/675-A-bug-18229069-18229099/675-A-18229069.c
-7
-[("Replace b'        if(a==b)f=1;\\n' with b'        if(a==c)f=1;\\n' at position 8", 7)]

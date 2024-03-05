@@ -1,4 +1,0 @@
-codeflaws/670-A-bug-18109062-18109075/670-A-18109075.c
-codeflaws/670-A-bug-18109062-18109075/670-A-18109062.c
-15
-[('Replace b\'    printf("%d %d",mn, mx);\\n\' with b\'    printf("%d %d",mx, mn);\\n\' at position 16', 15)]

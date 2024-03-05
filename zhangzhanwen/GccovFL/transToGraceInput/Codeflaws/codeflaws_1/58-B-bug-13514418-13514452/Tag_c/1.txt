@@ -1,4 +1,0 @@
-codeflaws/58-B-bug-13514418-13514452/58-B-13514452.c
-codeflaws/58-B-bug-13514418-13514452/58-B-13514418.c
-5,5,5
-[("Insert b'    if(n==1) {\\n' at position 7 in file2", 6), ("Insert b'        return 0;\\n' at position 8 in file2", 7), ("Insert b'    }\\n' at position 9 in file2", 8)]

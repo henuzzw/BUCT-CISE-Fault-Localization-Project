@@ -1,4 +1,0 @@
-codeflaws/432-B-bug-11672903-11672906/432-B-11672906.c
-codeflaws/432-B-bug-11672903-11672906/432-B-11672903.c
-14
-[('Replace b\'        printf("%d %d\\\\n",n-1+k,n-1-k);\\n\' with b\'        printf("%d %d",n-1+k,n-1-k);\\n\' at position 15', 14)]

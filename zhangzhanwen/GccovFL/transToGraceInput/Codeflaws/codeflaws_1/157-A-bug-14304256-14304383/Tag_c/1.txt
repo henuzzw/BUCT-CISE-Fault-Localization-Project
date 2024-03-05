@@ -1,4 +1,0 @@
-codeflaws/157-A-bug-14304256-14304383/157-A-14304383.c
-codeflaws/157-A-bug-14304256-14304383/157-A-14304256.c
-21
-[("Replace b'            if(row_sum<col_sum) count++;\\n' with b'            if(row_sum>col_sum) count++;\\n' at position 22", 21)]

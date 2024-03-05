@@ -1,4 +1,0 @@
-codeflaws/7-B-bug-30617-31098/7-B-31098.c
-codeflaws/7-B-bug-30617-31098/7-B-30617.c
-18,18,38
-[('Insert b\'//for(i=0;i<=m;++i) printf( "%d ", a[i] );\\n\' at position 20 in file2', 19), ('Insert b\'//printf( "\\\\n" );\\n\' at position 21 in file2', 20), ("Insert b'      if (p == 0) p = num + 10;\\n' at position 42 in file2", 41)]

@@ -1,4 +1,0 @@
-codeflaws/296-A-bug-13957251-13957329/296-A-13957329.c
-codeflaws/296-A-bug-13957251-13957329/296-A-13957251.c
-57,58
-[("Replace b'\\tmaxc--;\\n' with b'\\t\\n' at position 58", 57), ("Delete b'\\tcount--;\\n' at position 58 in file2", 57)]

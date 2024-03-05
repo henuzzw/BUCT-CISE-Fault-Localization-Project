@@ -1,4 +1,0 @@
-codeflaws/651-A-bug-18275221-18275241/651-A-18275241.c
-codeflaws/651-A-bug-18275221-18275241/651-A-18275221.c
-9,16
-[("Insert b'    if (a1 == 1 && a2 == 1) goto end;\\n' at position 11 in file2", 10), ("Insert b'end:\\n' at position 19 in file2", 18)]

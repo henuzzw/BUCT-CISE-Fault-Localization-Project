@@ -1,4 +1,0 @@
-codeflaws/296-A-bug-15223363-15223408/296-A-15223408.c
-codeflaws/296-A-bug-15223363-15223408/296-A-15223363.c
-12,13
-[("Replace b'\\tfor(i=0;i<n;i++)\\n' with b'\\tfor(j=0;j<n;j++)\\n' at position 13", 12), ("Insert b'\\t\\tcount=0;\\n' at position 15 in file2", 14)]

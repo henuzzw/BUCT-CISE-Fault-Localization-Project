@@ -1,4 +1,0 @@
-codeflaws/14-B-bug-13104829-13104860/14-B-13104860.c
-codeflaws/14-B-bug-13104829-13104860/14-B-13104829.c
-26
-[("Replace b'    if(m1>b[i])\\n' with b'    if(m1<b[i])\\n' at position 27", 26)]

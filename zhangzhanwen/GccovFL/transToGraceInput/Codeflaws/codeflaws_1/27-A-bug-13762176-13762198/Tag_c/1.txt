@@ -1,4 +1,0 @@
-codeflaws/27-A-bug-13762176-13762198/27-A-13762198.c
-codeflaws/27-A-bug-13762176-13762198/27-A-13762176.c
-25,27
-[("Replace b'            return 0;\\n' with b'            break;\\n' at position 26", 25), ('Insert b\'    printf("%d",i+1);\\n\' at position 29 in file2', 28)]

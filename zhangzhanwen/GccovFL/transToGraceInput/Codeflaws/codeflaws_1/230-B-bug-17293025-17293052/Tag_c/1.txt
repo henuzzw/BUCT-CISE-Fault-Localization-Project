@@ -1,4 +1,0 @@
-codeflaws/230-B-bug-17293025-17293052/230-B-17293052.c
-codeflaws/230-B-bug-17293025-17293052/230-B-17293025.c
-22,22,22
-[("Insert b'\\tif(x==1){\\n' at position 24 in file2", 23), ('Insert b\'\\t\\tprintf("NO\\\\n");\\n\' at position 25 in file2', 24), ("Insert b'\\t\\tcontinue;}\\n' at position 26 in file2", 25)]

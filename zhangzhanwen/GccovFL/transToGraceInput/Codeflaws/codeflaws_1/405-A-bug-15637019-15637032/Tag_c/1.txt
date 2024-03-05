@@ -1,4 +1,0 @@
-codeflaws/405-A-bug-15637019-15637032/405-A-15637032.c
-codeflaws/405-A-bug-15637019-15637032/405-A-15637019.c
-10
-[("Replace b'            if(ara[j]>ara[j+1]){\\n' with b'            if(ara[i]>ara[j+1]){\\n' at position 11", 10)]

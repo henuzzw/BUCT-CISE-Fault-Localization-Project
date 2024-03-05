@@ -1,4 +1,0 @@
-codeflaws/448-B-bug-17161698-17161735/448-B-17161735.c
-codeflaws/448-B-bug-17161698-17161735/448-B-17161698.c
-31,71
-[('Delete b\'\\t\\tprintf("%s %s",t,s);\\n\' at position 31 in file2', 30), ("Insert b'\\t   \\t   \\t  \\tbreak;\\n' at position 72 in file2", 71)]

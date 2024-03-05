@@ -1,4 +1,0 @@
-codeflaws/88-B-bug-481476-481559/88-B-481559.c
-codeflaws/88-B-bug-481476-481559/88-B-481476.c
-51
-[('Replace b"\\t\\tif (a[tolower(p) - \'a\'] == 1) c++;\\n" with b"\\t\\tif (a[islower(p) - \'a\'] == 1) c++;\\n" at position 52', 51)]

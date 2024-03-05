@@ -1,4 +1,0 @@
-codeflaws/71-A-bug-18274938-18275011/71-A-18275011.c
-codeflaws/71-A-bug-18274938-18275011/71-A-18274938.c
-12
-[('Replace b\'\\t\\tprintf("%c%d%c\\\\n",a[0],j-2,a[j-1]);\\n\' with b\'\\t\\tprintf("%c%d%c",a[0],j-2,a[j-1]);\\n\' at position 13', 12)]

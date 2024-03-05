@@ -1,4 +1,0 @@
-codeflaws/99-A-bug-1907585-1907588/99-A-1907588.c
-codeflaws/99-A-bug-1907585-1907588/99-A-1907585.c
-17
-[('Replace b\'printf("GOTO Vasilisa.");\\n\' with b\'printf("GOTO vasilisa");\\n\' at position 18', 17)]

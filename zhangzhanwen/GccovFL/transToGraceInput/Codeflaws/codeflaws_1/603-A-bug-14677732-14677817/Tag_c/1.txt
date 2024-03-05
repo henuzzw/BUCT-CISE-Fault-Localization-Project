@@ -1,4 +1,0 @@
-codeflaws/603-A-bug-14677732-14677817/603-A-14677817.c
-codeflaws/603-A-bug-14677732-14677817/603-A-14677732.c
-12
-[("Replace b'\\t\\tcon[0]+=con[1];\\n' with b'\\t\\tif(con[1]>con[0])con[0]=con[1];\\n' at position 13", 12)]

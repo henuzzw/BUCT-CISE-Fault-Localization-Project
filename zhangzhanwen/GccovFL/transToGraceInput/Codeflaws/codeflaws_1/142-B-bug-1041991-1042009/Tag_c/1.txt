@@ -1,4 +1,0 @@
-codeflaws/142-B-bug-1041991-1042009/142-B-1042009.c
-codeflaws/142-B-bug-1041991-1042009/142-B-1041991.c
-18
-[("Replace b'\\t\\t\\treturn 2*(2*(m / 4) + ((m % 4 > 2)? 2 : (m % 4)));\\n' with b'\\t\\t\\treturn 2*(2*(m / 4) + m % 4);\\n' at position 19", 18)]

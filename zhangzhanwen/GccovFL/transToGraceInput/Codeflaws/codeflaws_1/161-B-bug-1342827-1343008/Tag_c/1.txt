@@ -1,4 +1,0 @@
-codeflaws/161-B-bug-1342827-1343008/161-B-1343008.c
-codeflaws/161-B-bug-1342827-1343008/161-B-1342827.c
-54
-[("Replace b'\\t  if (i < k && c[k - i - 1] == 0) {\\n' with b'\\t  if (c[k - i - 1] == 0) {\\n' at position 55", 54)]

@@ -1,4 +1,0 @@
-codeflaws/46-A-bug-5782659-5782666/46-A-5782666.c
-codeflaws/46-A-bug-5782659-5782666/46-A-5782659.c
-16
-[("Replace b'            sum=n;\\n' with b'            sum=1;\\n' at position 17", 16)]

@@ -1,4 +1,0 @@
-codeflaws/29-A-bug-6645771-6664368/29-A-6664368.c
-codeflaws/29-A-bug-6645771-6664368/29-A-6645771.c
-36
-[('Replace b\'      printf("YES");\\n\' with b\'      printf("SI");\\n\' at position 37', 36)]

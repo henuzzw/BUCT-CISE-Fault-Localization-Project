@@ -1,4 +1,0 @@
-codeflaws/177-A2-bug-3817845-3817851/177-A2-3817851.c
-codeflaws/177-A2-bug-3817845-3817851/177-A2-3817845.c
-2
-[("Replace b'    long long int n,a[105][105]={0},i,j,s=0;\\n' with b'    long long int n,a[5][5]={0},i,j,s=0;\\n' at position 3", 2)]

@@ -1,4 +1,0 @@
-codeflaws/572-A-bug-15632585-15632589/572-A-15632589.c
-codeflaws/572-A-bug-15632585-15632589/572-A-15632585.c
-8
-[("Replace b'        if(i == k - 1) {\\n' with b'        if(i == k - 5) {\\n' at position 9", 8)]

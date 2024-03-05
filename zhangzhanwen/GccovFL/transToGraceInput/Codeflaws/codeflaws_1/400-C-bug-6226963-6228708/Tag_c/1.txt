@@ -1,4 +1,0 @@
-codeflaws/400-C-bug-6226963-6228708/400-C-6228708.c
-codeflaws/400-C-bug-6226963-6228708/400-C-6226963.c
-39
-[('Replace b\'          printf("%d %d\\\\n",a,m-b+1);\\n\' with b\'          printf("%d %d\\\\n",a,mm-b+1);\\n\' at position 40', 39)]

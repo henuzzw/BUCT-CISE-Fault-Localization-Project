@@ -1,4 +1,0 @@
-codeflaws/189-A-bug-16864116-16864194/189-A-16864194.c
-codeflaws/189-A-bug-16864116-16864194/189-A-16864116.c
-53
-[('Replace b\'    printf("%d",pieces);\\n\' with b\'    printf("%d%d%d%d",x,y,z,pieces);\\n\' at position 54', 53)]

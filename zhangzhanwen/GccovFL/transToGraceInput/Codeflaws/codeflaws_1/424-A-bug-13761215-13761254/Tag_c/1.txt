@@ -1,4 +1,0 @@
-codeflaws/424-A-bug-13761215-13761254/424-A-13761254.c
-codeflaws/424-A-bug-13761215-13761254/424-A-13761215.c
-41
-[("Replace b'                    d++;\\n' with b'                    d--;\\n' at position 42", 41)]

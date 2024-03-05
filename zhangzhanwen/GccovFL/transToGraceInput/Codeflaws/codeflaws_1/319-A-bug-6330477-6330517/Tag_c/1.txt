@@ -1,4 +1,0 @@
-codeflaws/319-A-bug-6330477-6330517/319-A-6330517.c
-codeflaws/319-A-bug-6330477-6330517/319-A-6330477.c
-26,32
-[("Replace b'        no2=(no2*2)%no;\\n' with b'        no2=no2*2;\\n' at position 27", 26), ("Insert b'\\n' at position 34 in file2", 33)]

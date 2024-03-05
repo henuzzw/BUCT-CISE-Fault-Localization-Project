@@ -1,4 +1,0 @@
-codeflaws/495-A-bug-12974475-12974513/495-A-12974513.c
-codeflaws/495-A-bug-12974475-12974513/495-A-12974475.c
-8
-[("Replace b'    if ( p ==1 ) return 6 ;\\n' with b'    if ( p ==1 ) return 5 ;\\n' at position 9", 8)]

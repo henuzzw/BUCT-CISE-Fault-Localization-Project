@@ -1,4 +1,0 @@
-codeflaws/471-D-bug-7969202-7969472/471-D-7969472.c
-codeflaws/471-D-bug-7969202-7969472/471-D-7969202.c
-88
-[('Insert b\'      if(n2==1){printf("%d\\\\n",n1);return 0;}\\n\' at position 90 in file2', 89)]

@@ -1,4 +1,0 @@
-codeflaws/388-A-bug-7207102-7207148/388-A-7207148.c
-codeflaws/388-A-bug-7207102-7207148/388-A-7207102.c
-57
-[("Insert b'\\t\\t\\t\\tbreak;\\n' at position 59 in file2", 58)]

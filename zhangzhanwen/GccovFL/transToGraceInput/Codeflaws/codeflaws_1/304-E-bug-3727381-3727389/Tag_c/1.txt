@@ -1,4 +1,0 @@
-codeflaws/304-E-bug-3727381-3727389/304-E-3727389.c
-codeflaws/304-E-bug-3727381-3727389/304-E-3727381.c
-56
-[("Replace b'    if(times>(k+1)*k/2) return 0;\\n' with b'    if(times<(k+1)*k/2) return 0;\\n' at position 57", 56)]

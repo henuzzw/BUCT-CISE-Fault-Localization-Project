@@ -1,4 +1,0 @@
-codeflaws/144-A-bug-18035986-18035991/144-A-18035991.c
-codeflaws/144-A-bug-18035986-18035991/144-A-18035986.c
-10
-[('Delete b\'printf("mi = %d ma = %d\\\\n",mi,ma);\\n\' at position 10 in file2', 9)]

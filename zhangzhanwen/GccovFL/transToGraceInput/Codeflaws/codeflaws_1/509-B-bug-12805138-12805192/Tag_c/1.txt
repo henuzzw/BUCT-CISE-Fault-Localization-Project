@@ -1,4 +1,0 @@
-codeflaws/509-B-bug-12805138-12805192/509-B-12805192.c
-codeflaws/509-B-bug-12805138-12805192/509-B-12805138.c
-5,9
-[("Insert b'    max = -1; min = 100; \\n' at position 7 in file2", 6), ("Delete b'        max = min = a[0];\\n' at position 10 in file2", 9)]

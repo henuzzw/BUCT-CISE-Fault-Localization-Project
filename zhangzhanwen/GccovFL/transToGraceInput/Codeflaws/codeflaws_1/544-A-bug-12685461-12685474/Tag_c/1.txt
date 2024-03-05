@@ -1,4 +1,0 @@
-codeflaws/544-A-bug-12685461-12685474/544-A-12685474.c
-codeflaws/544-A-bug-12685461-12685474/544-A-12685461.c
-33
-[('Insert b\'        printf("YES\\\\n");\\n\' at position 35 in file2', 34)]

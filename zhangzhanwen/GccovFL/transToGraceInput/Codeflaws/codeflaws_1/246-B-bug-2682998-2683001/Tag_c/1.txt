@@ -1,4 +1,0 @@
-codeflaws/246-B-bug-2682998-2683001/246-B-2683001.c
-codeflaws/246-B-bug-2682998-2683001/246-B-2682998.c
-2
-[("Replace b'    int n,a[100000],i,j;\\n' with b'    int n,a[10000],i,j;\\n' at position 3", 2)]

@@ -1,4 +1,0 @@
-codeflaws/203-C-bug-10401517-10401536/203-C-10401536.c
-codeflaws/203-C-bug-10401517-10401536/203-C-10401517.c
-40
-[("Replace b'\\twhile(s<=n && temp<=sum){\\n' with b'\\twhile(temp<=sum){\\n' at position 41", 40)]

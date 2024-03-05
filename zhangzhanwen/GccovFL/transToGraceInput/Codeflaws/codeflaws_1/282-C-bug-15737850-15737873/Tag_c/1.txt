@@ -1,4 +1,0 @@
-codeflaws/282-C-bug-15737850-15737873/282-C-15737873.c
-codeflaws/282-C-bug-15737850-15737873/282-C-15737850.c
-19
-[("Replace b'\\tif(e!=0&&d!=0||lens-e==lenc-d){\\n' with b'\\tif(e>=d-1&&d!=0&&e!=0||lens-e==lenc-d){\\n' at position 20", 19)]

@@ -1,4 +1,0 @@
-codeflaws/352-A-bug-12464382-12464395/352-A-12464395.c
-codeflaws/352-A-bug-12464382-12464395/352-A-12464382.c
-27,27
-[('Replace b\'                for(i=0;i<count0;i++)\\n\' with b\'                printf("0");\\n\' at position 28', 27), ('Insert b\'                    printf("0");\\n\' at position 29 in file2', 28)]

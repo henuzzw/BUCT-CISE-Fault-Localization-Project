@@ -1,4 +1,0 @@
-codeflaws/46-D-bug-209190-209757/46-D-209757.c
-codeflaws/46-D-bug-209190-209757/46-D-209190.c
-12,29
-[("Delete b'            tot++;\\n' at position 12 in file2", 11), ("Replace b'                        ll[i]=o+w; rr[i]=o+w+op-1;\\n' with b'                        ll[tot]=o+w; rr[tot]=o+w+op-1;\\n' at position 29", 28)]

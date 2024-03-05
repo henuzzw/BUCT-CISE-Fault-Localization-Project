@@ -1,4 +1,0 @@
-codeflaws/246-A-bug-11091304-11091325/246-A-11091325.c
-codeflaws/246-A-bug-11091304-11091325/246-A-11091304.c
-8
-[("Replace b'    if(n==1 || n==2)\\n' with b'    if(n==1)\\n' at position 9", 8)]

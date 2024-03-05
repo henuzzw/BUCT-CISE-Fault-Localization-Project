@@ -1,4 +1,0 @@
-codeflaws/259-B-bug-9707196-9707203/259-B-9707203.c
-codeflaws/259-B-bug-9707196-9707203/259-B-9707196.c
-0,21
-[("Insert b'#include <stdio.h>\\n' at position 2 in file2", 1), ('Delete b\'        printf("%d", mat[0][0]);\\n\' at position 22 in file2', 21)]

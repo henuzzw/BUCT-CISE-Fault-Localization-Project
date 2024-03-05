@@ -1,4 +1,0 @@
-codeflaws/151-A-bug-17894679-17894708/151-A-17894708.c
-codeflaws/151-A-bug-17894679-17894708/151-A-17894679.c
-11
-[("Replace b'\\twhile(l>=rodada)\\n' with b'\\twhile(l>rodada)\\n' at position 12", 11)]

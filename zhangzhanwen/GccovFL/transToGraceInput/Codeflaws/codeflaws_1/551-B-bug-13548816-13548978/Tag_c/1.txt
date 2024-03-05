@@ -1,4 +1,0 @@
-codeflaws/551-B-bug-13548816-13548978/551-B-13548978.c
-codeflaws/551-B-bug-13548816-13548978/551-B-13548816.c
-39
-[("Replace b'\\tfor (i = 0; i <= b_curr; i++) {\\n' with b'\\tfor (i = 0; i < b_curr; i++) {\\n' at position 40", 39)]

@@ -1,4 +1,0 @@
-codeflaws/140-A-bug-13617983-13618000/140-A-13618000.c
-codeflaws/140-A-bug-13617983-13618000/140-A-13617983.c
-28,28
-[('Replace b\'    //printf("%lf\\\\n", b);\\n\' with b\'    if(b<=360){\\n\' at position 29', 28), ("Insert b'    if(b<=360 || (b-360)<=0.0000001){\\n' at position 30 in file2", 29)]

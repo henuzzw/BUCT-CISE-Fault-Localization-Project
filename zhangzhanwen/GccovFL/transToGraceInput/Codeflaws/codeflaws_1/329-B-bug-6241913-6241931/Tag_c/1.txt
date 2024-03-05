@@ -1,4 +1,0 @@
-codeflaws/329-B-bug-6241913-6241931/329-B-6241931.c
-codeflaws/329-B-bug-6241913-6241931/329-B-6241913.c
-82
-[("Replace b'            if((!can[i][j])&&(di[i][j]>0)&&(dist[i][j]<=dist[s1][s2]))\\n' with b'            if((di[i][j]>0)&&(dist[i][j]<=dist[s1][s2]))\\n' at position 83", 82)]

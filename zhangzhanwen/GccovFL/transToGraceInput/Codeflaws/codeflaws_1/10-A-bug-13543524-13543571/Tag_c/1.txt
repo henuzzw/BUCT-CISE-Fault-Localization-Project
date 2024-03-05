@@ -1,4 +1,0 @@
-codeflaws/10-A-bug-13543524-13543571/10-A-13543571.c
-codeflaws/10-A-bug-13543524-13543571/10-A-13543524.c
-28,32
-[("Replace b'\\t\\t\\t\\tf=f+a*d+(ara[i+1][0]-ara[i][1]-d)*b;\\n' with b'\\t\\t\\t\\tf=f+a*d+(ara[i+1][0]-ara[i][1]-a)*b;\\n' at position 29", 28), ("Insert b'\\t\\t\\n' at position 34 in file2", 33)]

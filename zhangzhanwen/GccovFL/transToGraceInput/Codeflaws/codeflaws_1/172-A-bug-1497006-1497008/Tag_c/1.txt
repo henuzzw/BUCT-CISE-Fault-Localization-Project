@@ -1,4 +1,0 @@
-codeflaws/172-A-bug-1497006-1497008/172-A-1497008.c
-codeflaws/172-A-bug-1497006-1497008/172-A-1497006.c
-13
-[("Replace b'            if(str[j][i]!=str[0][i])\\n' with b'            if(str[j][i]!=str[j][0])\\n' at position 14", 13)]

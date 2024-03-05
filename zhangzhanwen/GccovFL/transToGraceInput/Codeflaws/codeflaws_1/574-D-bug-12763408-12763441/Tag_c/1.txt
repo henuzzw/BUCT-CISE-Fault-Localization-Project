@@ -1,4 +1,0 @@
-codeflaws/574-D-bug-12763408-12763441/574-D-12763441.c
-codeflaws/574-D-bug-12763408-12763441/574-D-12763408.c
-33
-[('Delete b\'        printf("%d ", op[i]);\\n\' at position 33 in file2', 32)]

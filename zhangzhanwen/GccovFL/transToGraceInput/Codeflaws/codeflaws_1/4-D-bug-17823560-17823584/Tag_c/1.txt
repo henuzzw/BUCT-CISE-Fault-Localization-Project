@@ -1,4 +1,0 @@
-codeflaws/4-D-bug-17823560-17823584/4-D-17823584.c
-codeflaws/4-D-bug-17823560-17823584/4-D-17823560.c
-39,39
-[("Insert b'\\tjmax = -1;\\n' at position 41 in file2", 40), ("Insert b'\\tkmax = 0;\\n' at position 42 in file2", 41)]

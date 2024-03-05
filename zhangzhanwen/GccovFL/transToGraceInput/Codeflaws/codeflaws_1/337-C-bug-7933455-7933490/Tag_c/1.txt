@@ -1,4 +1,0 @@
-codeflaws/337-C-bug-7933455-7933490/337-C-7933490.c
-codeflaws/337-C-bug-7933455-7933490/337-C-7933455.c
-30,34,34
-[('Delete b\'\\t\\tprintf("%d %d %d\\\\n", x, y, z);\\n\' at position 30 in file2', 29), ("Insert b'\\t\\tif(ans<0)\\n' at position 35 in file2", 34), ("Insert b'\\t\\t\\tans += MOD;\\n' at position 36 in file2", 35)]

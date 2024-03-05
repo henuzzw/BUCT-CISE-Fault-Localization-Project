@@ -1,4 +1,0 @@
-codeflaws/404-B-bug-12273432-12273443/404-B-12273443.c
-codeflaws/404-B-bug-12273432-12273443/404-B-12273432.c
-11
-[('Replace b\'//\\tprintf("d = %lf, D = %lld\\\\n", d, D);\\n\' with b\'\\tprintf("d = %lf, D = %lld\\\\n", d, D);\\n\' at position 12', 11)]

@@ -1,4 +1,0 @@
-codeflaws/399-A-bug-8015613-8015921/399-A-8015921.c
-codeflaws/399-A-bug-8015613-8015921/399-A-8015613.c
-50
-[('Replace b\'            printf("%d ",i);\\n\' with b\'            printf("%d ",m);\\n\' at position 51', 50)]

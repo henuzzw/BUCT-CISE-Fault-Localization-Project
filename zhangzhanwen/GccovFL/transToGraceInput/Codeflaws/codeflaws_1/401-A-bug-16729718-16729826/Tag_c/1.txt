@@ -1,4 +1,0 @@
-codeflaws/401-A-bug-16729718-16729826/401-A-16729826.c
-codeflaws/401-A-bug-16729718-16729826/401-A-16729718.c
-6,12
-[('Replace b\'    scanf("%lld %lld", &n, &k);\\n\' with b\'    scanf("%lld", &n);\\n\' at position 7', 6), ("Delete b'\\n' at position 12 in file2", 11)]

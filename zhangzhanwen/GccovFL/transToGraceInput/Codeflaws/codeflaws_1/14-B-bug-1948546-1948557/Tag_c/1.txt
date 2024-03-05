@@ -1,4 +1,0 @@
-codeflaws/14-B-bug-1948546-1948557/14-B-1948557.c
-codeflaws/14-B-bug-1948546-1948557/14-B-1948546.c
-26,32
-[("Insert b'   \\n' at position 28 in file2", 27), ('Replace b\'   else if(x>=max)printf("%d",x-max);\\n\' with b\'   else if(x>=max)printf("%d",max-x);\\n\' at position 34', 33)]

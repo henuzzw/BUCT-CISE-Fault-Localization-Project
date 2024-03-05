@@ -1,4 +1,0 @@
-codeflaws/344-D-bug-17956184-17956259/344-D-17956259.c
-codeflaws/344-D-bug-17956184-17956259/344-D-17956184.c
-45,57
-[('Insert b"\\t\\t\\telse push(\'+\');\\n" at position 47 in file2', 46), ('Insert b"\\t\\t\\t\\telse push(\'-\');\\n" at position 60 in file2', 59)]

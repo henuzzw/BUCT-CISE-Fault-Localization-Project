@@ -1,4 +1,0 @@
-codeflaws/244-A-bug-3701577-3701989/244-A-3701989.c
-codeflaws/244-A-bug-3701577-3701989/244-A-3701577.c
-3
-[("Replace b'  int n,k,a[33],i,j,m=1,b[100000],h=1;\\n' with b'  int n,k,a[33],i,j,m=1,b[33],h=1;\\n' at position 4", 3)]

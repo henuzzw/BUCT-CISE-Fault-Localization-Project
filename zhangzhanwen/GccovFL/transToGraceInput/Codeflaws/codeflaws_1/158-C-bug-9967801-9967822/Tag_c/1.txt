@@ -1,4 +1,0 @@
-codeflaws/158-C-bug-9967801-9967822/158-C-9967822.c
-codeflaws/158-C-bug-9967801-9967822/158-C-9967801.c
-29
-[("Replace b'\\t\\t\\tif(d==47) { temp=0; pointer=1; d=getchar(); }\\n' with b'\\t\\t\\tif(d==47) d=getchar();\\n' at position 30", 29)]

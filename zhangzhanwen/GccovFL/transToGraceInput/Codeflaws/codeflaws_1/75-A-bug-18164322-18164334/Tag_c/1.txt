@@ -1,4 +1,0 @@
-codeflaws/75-A-bug-18164322-18164334/75-A-18164334.c
-codeflaws/75-A-bug-18164322-18164334/75-A-18164322.c
-45
-[('Replace b\'\\t\\n\' with b\'\\tprintf("%lld %lld %lld",a2,b2,c2);\\n\' at position 46', 45)]

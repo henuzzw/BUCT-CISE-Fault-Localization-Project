@@ -1,4 +1,0 @@
-codeflaws/48-A-bug-216629-216689/48-A-216689.c
-codeflaws/48-A-bug-216629-216689/48-A-216629.c
-27
-[('Replace b\'        printf("S\\\\n");\\n\' with b\'        printf("F\\\\n");\\n\' at position 28', 27)]

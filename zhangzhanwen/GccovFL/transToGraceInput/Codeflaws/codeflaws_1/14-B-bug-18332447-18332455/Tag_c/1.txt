@@ -1,4 +1,0 @@
-codeflaws/14-B-bug-18332447-18332455/14-B-18332455.c
-codeflaws/14-B-bug-18332447-18332455/14-B-18332447.c
-51,52,52
-[("Insert b'\\tif(dist!=INT_MAX)\\n' at position 53 in file2", 52), ("Insert b'\\telse\\n' at position 55 in file2", 54), ('Insert b\'\\tprintf("-1\\\\n");\\n\' at position 56 in file2', 55)]

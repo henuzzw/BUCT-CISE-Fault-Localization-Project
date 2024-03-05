@@ -1,4 +1,0 @@
-codeflaws/292-B-bug-5741414-5741424/292-B-5741424.c
-codeflaws/292-B-bug-5741414-5741424/292-B-5741414.c
-18
-[('Replace b\'        printf("unknown topology");\\n\' with b\'        printf("unknow topology");\\n\' at position 19', 18)]

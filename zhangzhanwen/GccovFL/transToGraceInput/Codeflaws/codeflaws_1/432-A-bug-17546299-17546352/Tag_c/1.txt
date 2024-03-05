@@ -1,4 +1,0 @@
-codeflaws/432-A-bug-17546299-17546352/432-A-17546352.c
-codeflaws/432-A-bug-17546299-17546352/432-A-17546299.c
-16
-[("Replace b'\\t\\t if ((5-m)>=k)\\n' with b'\\t\\t if ((k>m)&&(5-m)>=k)\\n' at position 17", 16)]

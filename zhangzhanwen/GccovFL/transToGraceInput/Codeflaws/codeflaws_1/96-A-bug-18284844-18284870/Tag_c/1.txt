@@ -1,4 +1,0 @@
-codeflaws/96-A-bug-18284844-18284870/96-A-18284870.c
-codeflaws/96-A-bug-18284844-18284870/96-A-18284844.c
-41
-[("Replace b'                count=1;\\n' with b'                count=0;\\n' at position 42", 41)]

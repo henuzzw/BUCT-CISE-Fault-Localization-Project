@@ -1,4 +1,0 @@
-codeflaws/522-B-bug-10206111-10206127/522-B-10206127.c
-codeflaws/522-B-bug-10206111-10206127/522-B-10206111.c
-50
-[('Replace b\'    //printf("max = %d, secondary = %d\\\\n",ind_h_max_main,ind_h_max_secondary);\\n\' with b\'    printf("max = %d, secondary = %d\\\\n",ind_h_max_main,ind_h_max_secondary);\\n\' at position 51', 50)]

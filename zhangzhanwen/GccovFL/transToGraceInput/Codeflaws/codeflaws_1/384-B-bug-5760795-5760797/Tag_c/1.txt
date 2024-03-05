@@ -1,4 +1,0 @@
-codeflaws/384-B-bug-5760795-5760797/384-B-5760797.c
-codeflaws/384-B-bug-5760795-5760797/384-B-5760795.c
-11
-[('Replace b\'            printf( "%d %d\\\\n", k ? j : i, k ? i : j );\\n\' with b\'            printf( "%d %d\\\\n", i, j );\\n\' at position 12', 11)]

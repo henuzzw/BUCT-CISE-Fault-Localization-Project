@@ -1,4 +1,0 @@
-codeflaws/505-A-bug-10513326-10513335/505-A-10513335.c
-codeflaws/505-A-bug-10513326-10513335/505-A-10513326.c
-31,31
-[("Insert b'\\telse\\n' at position 33 in file2", 32), ('Insert b\'\\tprintf("NA");\\n\' at position 34 in file2', 33)]

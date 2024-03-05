@@ -1,4 +1,0 @@
-codeflaws/25-B-bug-16613796-16613819/25-B-16613819.c
-codeflaws/25-B-bug-16613796-16613819/25-B-16613796.c
-24
-[("Replace b'\\t\\tfor(i=0;i<(x/2-1)*2;i++){\\n' with b'\\t\\tfor(i=0;i<=x/2;i++){\\n' at position 25", 24)]

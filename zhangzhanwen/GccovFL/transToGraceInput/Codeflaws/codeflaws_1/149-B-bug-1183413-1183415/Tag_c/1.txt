@@ -1,4 +1,0 @@
-codeflaws/149-B-bug-1183413-1183415/149-B-1183415.c
-codeflaws/149-B-bug-1183413-1183415/149-B-1183413.c
-7
-[('Replace b\'        //printf("Error radix\\\\n");\\n\' with b\'        printf("Error radix\\\\n");\\n\' at position 8', 7)]

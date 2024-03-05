@@ -1,4 +1,0 @@
-codeflaws/368-A-bug-10056259-10056302/368-A-10056302.c
-codeflaws/368-A-bug-10056259-10056302/368-A-10056259.c
-47
-[("Replace b'        quick_sort(ara,0,n-1);\\n' with b'        quick_sort(ara,i,n-1);\\n' at position 48", 47)]

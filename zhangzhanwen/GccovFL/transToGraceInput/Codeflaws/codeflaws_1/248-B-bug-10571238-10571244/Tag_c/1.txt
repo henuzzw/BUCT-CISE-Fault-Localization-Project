@@ -1,4 +1,0 @@
-codeflaws/248-B-bug-10571238-10571244/248-B-10571244.c
-codeflaws/248-B-bug-10571238-10571244/248-B-10571238.c
-8
-[('Replace b\'\\tif(n==3) { puts("210"); return 0; }\\n\' with b\'\\n\' at position 9', 8)]

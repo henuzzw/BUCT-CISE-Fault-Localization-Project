@@ -1,4 +1,0 @@
-codeflaws/448-D-bug-11893520-11893572/448-D-11893572.c
-codeflaws/448-D-bug-11893520-11893572/448-D-11893520.c
-17
-[("Replace b'\\tan=bin(0,n*m+1);\\n' with b'\\tan=bin(0,n*m);\\n' at position 18", 17)]

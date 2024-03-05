@@ -1,4 +1,0 @@
-codeflaws/583-A-bug-16805140-16805144/583-A-16805144.c
-codeflaws/583-A-bug-16805140-16805144/583-A-16805140.c
-7
-[('Replace b\'\\t\\t\\tprintf("%d ",i+1);\\n\' with b\'\\t\\t\\tprintf("%d",i+1);\\n\' at position 8', 7)]

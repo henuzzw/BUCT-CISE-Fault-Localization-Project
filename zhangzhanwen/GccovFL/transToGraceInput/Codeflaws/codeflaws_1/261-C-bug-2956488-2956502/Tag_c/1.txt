@@ -1,4 +1,0 @@
-codeflaws/261-C-bug-2956488-2956502/261-C-2956502.c
-codeflaws/261-C-bug-2956488-2956502/261-C-2956488.c
-55
-[("Replace b'    for(i=62;i>=0;i--)\\n' with b'    for(i=62;i>0;i--)\\n' at position 56", 55)]

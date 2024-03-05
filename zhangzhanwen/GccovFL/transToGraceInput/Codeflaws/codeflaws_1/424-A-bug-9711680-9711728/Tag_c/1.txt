@@ -1,4 +1,0 @@
-codeflaws/424-A-bug-9711680-9711728/424-A-9711728.c
-codeflaws/424-A-bug-9711680-9711728/424-A-9711680.c
-46
-[('Insert b\'            printf("%s\\\\n",hams);      \\n\' at position 48 in file2', 47)]

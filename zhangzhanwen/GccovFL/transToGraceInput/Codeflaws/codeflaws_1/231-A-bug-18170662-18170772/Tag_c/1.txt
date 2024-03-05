@@ -1,4 +1,0 @@
-codeflaws/231-A-bug-18170662-18170772/231-A-18170772.c
-codeflaws/231-A-bug-18170662-18170772/231-A-18170662.c
-3,3
-[('Insert b\'scanf("%d", &n);\\n\' at position 5 in file2', 4), ("Insert b'count=0;\\n' at position 6 in file2", 5)]

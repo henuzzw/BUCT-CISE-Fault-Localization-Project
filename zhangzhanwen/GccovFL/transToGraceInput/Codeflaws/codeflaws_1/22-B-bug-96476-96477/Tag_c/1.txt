@@ -1,4 +1,0 @@
-codeflaws/22-B-bug-96476-96477/22-B-96477.c
-codeflaws/22-B-bug-96476-96477/22-B-96476.c
-33
-[('Replace b"                    if (A[k][l]==\'1\') continue;\\n" with b\'                    if (A[k][l]) continue;\\n\' at position 34', 33)]

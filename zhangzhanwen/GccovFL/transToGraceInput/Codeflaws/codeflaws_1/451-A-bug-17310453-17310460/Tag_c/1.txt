@@ -1,4 +1,0 @@
-codeflaws/451-A-bug-17310453-17310460/451-A-17310460.c
-codeflaws/451-A-bug-17310453-17310460/451-A-17310453.c
-39
-[('Replace b\'\\t\\tprintf("Malvika");\\n\' with b\'\\t\\tprintf("Malkiva");\\n\' at position 40', 39)]

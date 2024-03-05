@@ -1,4 +1,0 @@
-codeflaws/71-A-bug-18249031-18249078/71-A-18249078.c
-codeflaws/71-A-bug-18249031-18249078/71-A-18249031.c
-1,12
-[("Delete b'#include <stdlib.h>\\n' at position 1 in file2", 0), ("Replace b'\\t\\tif (strlen(string) <= 10) { \\n' with b'\\t\\tif (strlen(string) < 10) { \\n' at position 12", 11)]

@@ -1,4 +1,0 @@
-codeflaws/507-A-bug-16886367-16886377/507-A-16886377.c
-codeflaws/507-A-bug-16886367-16886377/507-A-16886367.c
-38
-[("Replace b'\\t\\tFOR(j,0,i)\\n' with b'\\t\\tFOR(j,0,n)\\n' at position 39", 38)]

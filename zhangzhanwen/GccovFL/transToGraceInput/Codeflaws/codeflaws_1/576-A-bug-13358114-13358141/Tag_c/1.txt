@@ -1,4 +1,0 @@
-codeflaws/576-A-bug-13358114-13358141/576-A-13358141.c
-codeflaws/576-A-bug-13358114-13358141/576-A-13358114.c
-38
-[('Replace b\'        printf("%d ",b[i]);\\n\' with b\'        printf("%3d",b[i]);\\n\' at position 39', 38)]

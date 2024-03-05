@@ -1,4 +1,0 @@
-codeflaws/59-C-bug-547951-547955/59-C-547955.c
-codeflaws/59-C-bug-547951-547955/59-C-547951.c
-13
-[("Replace b'\\tfor(i=0, j=n-1;i<=x;i++, j--){\\n' with b'\\tfor(i=0, j=n-1;i<x;i++, j--){\\n' at position 14", 13)]

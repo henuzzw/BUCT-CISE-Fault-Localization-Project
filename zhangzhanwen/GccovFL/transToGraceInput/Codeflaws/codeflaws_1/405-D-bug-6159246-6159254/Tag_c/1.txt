@@ -1,4 +1,0 @@
-codeflaws/405-D-bug-6159246-6159254/405-D-6159254.c
-codeflaws/405-D-bug-6159246-6159254/405-D-6159246.c
-41
-[('Insert b\'    printf("%d\\\\n", ny);\\n\' at position 43 in file2', 42)]

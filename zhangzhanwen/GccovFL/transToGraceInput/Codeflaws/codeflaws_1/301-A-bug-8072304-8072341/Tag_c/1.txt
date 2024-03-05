@@ -1,4 +1,0 @@
-codeflaws/301-A-bug-8072304-8072341/301-A-8072341.c
-codeflaws/301-A-bug-8072304-8072341/301-A-8072304.c
-34
-[("Replace b'    if(n%2==0 && c%2!=0)\\n' with b'    if(c>n)\\n' at position 35", 34)]

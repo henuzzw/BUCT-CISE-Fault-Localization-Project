@@ -1,4 +1,0 @@
-codeflaws/39-D-bug-13658192-13658305/39-D-13658305.c
-codeflaws/39-D-bug-13658192-13658305/39-D-13658192.c
-4
-[('Replace b\'\\tscanf("%c%c%c%c%c%c%c%c%c%c%c",&a,&ch,&b,&ch,&c,&ch,&d,&ch,&e,&ch,&f,&ch);\\n\' with b\'\\tscanf("%c%c%c%c%c%c%c%c%c%c",&a,&ch,&b,&ch,&c,&ch,&d,&ch,&e,&ch,&f);\\n\' at position 5', 4)]

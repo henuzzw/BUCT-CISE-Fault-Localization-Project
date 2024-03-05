@@ -1,4 +1,0 @@
-codeflaws/29-A-bug-6660726-6660757/29-A-6660757.c
-codeflaws/29-A-bug-6660726-6660757/29-A-6660726.c
-2
-[("Replace b'#define dim 30001\\n' with b'#define dim 20001\\n' at position 3", 2)]

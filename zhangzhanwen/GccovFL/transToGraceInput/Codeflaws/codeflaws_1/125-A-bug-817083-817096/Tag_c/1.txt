@@ -1,4 +1,0 @@
-codeflaws/125-A-bug-817083-817096/125-A-817096.c
-codeflaws/125-A-bug-817083-817096/125-A-817083.c
-6
-[("Replace b'    if (n % 3 == 2)\\n' with b'    if (k % 3 == 2)\\n' at position 7", 6)]

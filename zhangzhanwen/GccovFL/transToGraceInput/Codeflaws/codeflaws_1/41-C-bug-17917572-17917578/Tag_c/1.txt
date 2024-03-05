@@ -1,4 +1,0 @@
-codeflaws/41-C-bug-17917572-17917578/41-C-17917578.c
-codeflaws/41-C-bug-17917572-17917578/41-C-17917572.c
-30
-[('Replace b"\\t\\telse if(s[i] == \'a\' && s[i + 1] == \'t\' && i != 0 &&i + 1 != u - 1 && !k){\\n" with b"\\t\\telse if(s[i] == \'a\' && s[i + 1] == \'t\' && i + 1 != u - 1 && !k){\\n" at position 31', 30)]

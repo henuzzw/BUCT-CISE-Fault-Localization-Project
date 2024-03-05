@@ -1,4 +1,0 @@
-codeflaws/472-B-bug-14487984-14488038/472-B-14488038.c
-codeflaws/472-B-bug-14487984-14488038/472-B-14487984.c
-23
-[("Replace b'    for(z=n-1;z>0;z=z-k){\\n' with b'    for(z=1;z<n;z=z+k){\\n' at position 24", 23)]

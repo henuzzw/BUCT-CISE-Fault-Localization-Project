@@ -1,4 +1,0 @@
-codeflaws/55-A-bug-9385434-9385438/55-A-9385438.c
-codeflaws/55-A-bug-9385434-9385438/55-A-9385434.c
-4
-[('Replace b\'\\tscanf("%d",&a);\\n\' with b\'\\tscanf("%d",a);\\n\' at position 5', 4)]

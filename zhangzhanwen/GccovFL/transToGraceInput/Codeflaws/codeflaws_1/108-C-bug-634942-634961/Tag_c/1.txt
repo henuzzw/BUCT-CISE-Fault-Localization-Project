@@ -1,4 +1,0 @@
-codeflaws/108-C-bug-634942-634961/108-C-634961.c
-codeflaws/108-C-bug-634942-634961/108-C-634942.c
-32,42,42
-[("Delete b'\\t\\tif(tank[i]==0) count ++;\\n' at position 32 in file2", 31), ("Insert b'\\tfor(i=1;i<=n;i++)\\n' at position 43 in file2", 42), ("Insert b'\\t\\tif(tank[i]==0 && tap[i]!=0) count ++;\\n' at position 44 in file2", 43)]

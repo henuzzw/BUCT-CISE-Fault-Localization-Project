@@ -1,4 +1,0 @@
-codeflaws/31-A-bug-13602848-13602872/31-A-13602872.c
-codeflaws/31-A-bug-13602848-13602872/31-A-13602848.c
-24
-[("Replace b'\\t\\t\\tfor(k=j+1;k<i;k++){\\n' with b'\\t\\t\\tfor(k=1;k<i;k++){\\n' at position 25", 24)]

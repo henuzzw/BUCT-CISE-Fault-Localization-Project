@@ -1,4 +1,0 @@
-codeflaws/611-A-bug-16019969-16020019/611-A-16020019.c
-codeflaws/611-A-bug-16019969-16020019/611-A-16019969.c
-7
-[('Replace b\'        if(a==5 || a==6)printf("%d",53);\\n\' with b\'        if(a==1 || a==2)printf("%d",53);\\n\' at position 8', 7)]

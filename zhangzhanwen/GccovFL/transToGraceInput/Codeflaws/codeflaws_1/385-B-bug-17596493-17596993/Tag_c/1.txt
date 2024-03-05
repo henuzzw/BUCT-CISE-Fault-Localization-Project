@@ -1,4 +1,0 @@
-codeflaws/385-B-bug-17596493-17596993/385-B-17596993.c
-codeflaws/385-B-bug-17596493-17596993/385-B-17596493.c
-4
-[("Replace b'    int b=-1, i, l, a=0, sum=0;\\n' with b'    int b=0, i, l, a=0, sum=0;\\n' at position 5", 4)]

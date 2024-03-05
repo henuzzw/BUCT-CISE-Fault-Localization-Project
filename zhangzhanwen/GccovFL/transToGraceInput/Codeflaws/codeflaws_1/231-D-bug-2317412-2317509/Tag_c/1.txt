@@ -1,4 +1,0 @@
-codeflaws/231-D-bug-2317412-2317509/231-D-2317509.c
-codeflaws/231-D-bug-2317412-2317509/231-D-2317412.c
-17
-[("Replace b'if((z<0))\\n' with b'if((z<z1))\\n' at position 18", 17)]

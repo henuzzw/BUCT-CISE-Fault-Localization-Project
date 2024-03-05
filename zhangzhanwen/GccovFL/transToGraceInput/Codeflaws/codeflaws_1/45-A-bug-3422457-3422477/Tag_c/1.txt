@@ -1,4 +1,0 @@
-codeflaws/45-A-bug-3422457-3422477/45-A-3422477.c
-codeflaws/45-A-bug-3422457-3422477/45-A-3422457.c
-11
-[("Replace b' if(strcmp(s1,s2[i])==0)\\n' with b' if(strcmp(s1,s2)==0)\\n' at position 12", 11)]

@@ -1,4 +1,0 @@
-codeflaws/7-B-bug-11565651-11565672/7-B-11565672.c
-codeflaws/7-B-bug-11565651-11565672/7-B-11565651.c
-49
-[("Replace b'\\t\\t\\tif(st==0 || x==0)\\n' with b'\\t\\t\\tif(st==0 && x==0)\\n' at position 50", 49)]

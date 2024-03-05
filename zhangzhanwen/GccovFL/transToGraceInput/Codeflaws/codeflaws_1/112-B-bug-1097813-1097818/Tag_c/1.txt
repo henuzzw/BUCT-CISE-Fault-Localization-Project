@@ -1,4 +1,0 @@
-codeflaws/112-B-bug-1097813-1097818/112-B-1097818.c
-codeflaws/112-B-bug-1097813-1097818/112-B-1097813.c
-5
-[("Replace b'\\tif ((x==n/2|x==(n/2+1))&(y==n/2|y==(n/2+1))) {\\n' with b'\\tif ((x==n|x==(n+1))&(y==n|y==(n+1))) {\\n' at position 6", 5)]

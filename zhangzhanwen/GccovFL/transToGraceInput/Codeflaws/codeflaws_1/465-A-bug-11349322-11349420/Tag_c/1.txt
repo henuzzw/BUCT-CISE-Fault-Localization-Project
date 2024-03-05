@@ -1,4 +1,0 @@
-codeflaws/465-A-bug-11349322-11349420/465-A-11349420.c
-codeflaws/465-A-bug-11349322-11349420/465-A-11349322.c
-10,17
-[('Insert b"        if(s[x]==\'0\')break;\\n" at position 12 in file2', 11), ('Replace b\'        else if(1){printf("%d",++y);\\n\' with b\'        else if(s[z-1]==\\\'0\\\'){printf("%d",++y);\\n\' at position 19', 18)]

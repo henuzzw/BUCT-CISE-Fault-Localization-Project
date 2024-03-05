@@ -1,4 +1,0 @@
-codeflaws/230-B-bug-16820314-16820335/230-B-16820335.c
-codeflaws/230-B-bug-16820314-16820335/230-B-16820314.c
-24,28
-[("Insert b'\\thash[1] = 1;\\n' at position 26 in file2", 25), ('Replace b\'\\t\\tprintf( ( (long long int)sqrt(x) == sqrt(x) && !hash[(int)sqrt(x)] ) ? "YES\\\\n" : "NO\\\\n");\\n\' with b\'\\t\\tprintf( ( (long long int)sqrt(x) == sqrt(x)&& !hash[(int)sqrt(x)] ) ? "YES\\\\n" : "NO\\\\n");\\n\' at position 30', 29)]

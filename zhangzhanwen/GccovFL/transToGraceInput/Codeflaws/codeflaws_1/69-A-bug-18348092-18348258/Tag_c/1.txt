@@ -1,4 +1,0 @@
-codeflaws/69-A-bug-18348092-18348258/69-A-18348258.c
-codeflaws/69-A-bug-18348092-18348258/69-A-18348092.c
-8,22
-[("Insert b'        x=x+a[i];\\n' at position 10 in file2", 9), ("Replace b'    if(x==0 && y==0 && z==0)\\n' with b'    if(x+y+z==0)\\n' at position 24", 23)]

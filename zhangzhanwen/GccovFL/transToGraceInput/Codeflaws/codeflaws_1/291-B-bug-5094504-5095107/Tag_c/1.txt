@@ -1,4 +1,0 @@
-codeflaws/291-B-bug-5094504-5095107/291-B-5095107.c
-codeflaws/291-B-bug-5094504-5095107/291-B-5094504.c
-12,16
-[('Replace b"            while((c=getchar())!=\' \'&&c!=\'\\\\n\')\\n" with b"            while((c=getchar())!=\' \')\\n" at position 13', 12), ('Insert b"        if(c==\'\\\\n\') break;\\n" at position 18 in file2', 17)]

@@ -1,4 +1,0 @@
-codeflaws/59-A-bug-17307162-17307176/59-A-17307176.c
-codeflaws/59-A-bug-17307162-17307176/59-A-17307162.c
-20
-[('Replace b\'    \\n\' with b\'    printf("%d,%d\\\\n",upp,low);\\n\' at position 21', 20)]

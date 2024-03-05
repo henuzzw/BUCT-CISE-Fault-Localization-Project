@@ -1,4 +1,0 @@
-codeflaws/624-A-bug-16562504-16562519/624-A-16562519.c
-codeflaws/624-A-bug-16562504-16562519/624-A-16562504.c
-9
-[("Replace b'\\ttime = (double)(L-d)/(v1+v2);\\n' with b'\\ttime = (L-d)/(v1+v2);\\n' at position 10", 9)]

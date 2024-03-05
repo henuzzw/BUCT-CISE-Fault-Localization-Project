@@ -1,4 +1,0 @@
-codeflaws/673-D-bug-17790443-17791100/673-D-17791100.c
-codeflaws/673-D-bug-17790443-17791100/673-D-17790443.c
-22,22
-[("Insert b'\\tvet[c] = 1;\\n' at position 24 in file2", 23), ("Insert b'\\tvet[d] = 1;\\n' at position 25 in file2", 24)]

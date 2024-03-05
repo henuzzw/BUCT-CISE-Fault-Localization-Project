@@ -1,4 +1,0 @@
-codeflaws/448-A-bug-16090142-16090184/448-A-16090184.c
-codeflaws/448-A-bug-16090142-16090184/448-A-16090142.c
-28
-[("Replace b'if(a<=0 && s>0)\\n' with b'if(a<=0 && s1>0)\\n' at position 29", 28)]

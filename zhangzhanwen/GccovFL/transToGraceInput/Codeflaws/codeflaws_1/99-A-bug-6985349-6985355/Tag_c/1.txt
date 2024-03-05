@@ -1,4 +1,0 @@
-codeflaws/99-A-bug-6985349-6985355/99-A-6985355.c
-codeflaws/99-A-bug-6985349-6985355/99-A-6985349.c
-19
-[("Replace b'                 for(j=0;j<count-1;j++)\\n' with b'                 for(j=0;j<count;j++)\\n' at position 20", 19)]

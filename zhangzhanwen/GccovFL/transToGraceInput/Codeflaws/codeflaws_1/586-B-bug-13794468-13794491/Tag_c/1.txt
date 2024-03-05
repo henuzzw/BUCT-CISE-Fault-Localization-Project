@@ -1,4 +1,0 @@
-codeflaws/586-B-bug-13794468-13794491/586-B-13794491.c
-codeflaws/586-B-bug-13794468-13794491/586-B-13794468.c
-39
-[('Delete b\'\\tprintf("%d\\\\n",d[i]);\\n\' at position 39 in file2', 38)]

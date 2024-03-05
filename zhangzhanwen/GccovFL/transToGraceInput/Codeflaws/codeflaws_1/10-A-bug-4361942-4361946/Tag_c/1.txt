@@ -1,4 +1,0 @@
-codeflaws/10-A-bug-4361942-4361946/10-A-4361946.c
-codeflaws/10-A-bug-4361942-4361946/10-A-4361942.c
-37
-[('Replace b\'//printf("%d,%d,%d,,,",temp1,temp2,temp3);\\n\' with b\'printf("%d,%d,%d,,,",temp1,temp2,temp3);\\n\' at position 38', 37)]

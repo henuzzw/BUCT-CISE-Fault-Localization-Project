@@ -1,4 +1,0 @@
-codeflaws/112-B-bug-668250-668255/112-B-668255.c
-codeflaws/112-B-bug-668250-668255/112-B-668250.c
-7
-[("Replace b'    if(((x==z)||(x==(z+1)))&&((y==z)||(y==(z+1))))\\n' with b'    if(((x==z)||(x==(z+1)))&&(y==z)||(y==(z+1)))\\n' at position 8", 7)]

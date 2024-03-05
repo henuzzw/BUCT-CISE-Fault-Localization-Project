@@ -1,4 +1,0 @@
-codeflaws/500-A-bug-17067750-17067776/500-A-17067776.c
-codeflaws/500-A-bug-17067750-17067776/500-A-17067750.c
-9,18
-[("Insert b'        i = i+a[i];\\n' at position 11 in file2", 10), ("Replace b'        //i = i+a[i];\\n' with b'        i = i+a[i];\\n' at position 20", 19)]

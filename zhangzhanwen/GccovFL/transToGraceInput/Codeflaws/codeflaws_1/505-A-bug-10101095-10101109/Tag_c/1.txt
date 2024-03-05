@@ -1,4 +1,0 @@
-codeflaws/505-A-bug-10101095-10101109/505-A-10101109.c
-codeflaws/505-A-bug-10101095-10101109/505-A-10101095.c
-95
-[('Replace b\'    printf("%c",s[i]);\\n\' with b\'    printf("%c",s[i-1]);\\n\' at position 96', 95)]

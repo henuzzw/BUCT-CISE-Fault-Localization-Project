@@ -1,4 +1,0 @@
-codeflaws/342-C-bug-4807098-4807139/342-C-4807139.c
-codeflaws/342-C-bug-4807098-4807139/342-C-4807098.c
-12
-[("Replace b'    if(r>1&&h>1)\\n' with b'    if(r>100&&h>100)\\n' at position 13", 12)]

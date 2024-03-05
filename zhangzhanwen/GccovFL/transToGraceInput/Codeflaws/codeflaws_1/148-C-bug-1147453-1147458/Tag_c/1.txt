@@ -1,4 +1,0 @@
-codeflaws/148-C-bug-1147453-1147458/148-C-1147458.c
-codeflaws/148-C-bug-1147453-1147458/148-C-1147453.c
-25
-[('Replace b\'\\t\\tprintf("%d\\\\n%d\\\\n",t,t-1);\\n\' with b\'\\t\\tprintf("%d\\\\n",t-1);\\n\' at position 26', 25)]

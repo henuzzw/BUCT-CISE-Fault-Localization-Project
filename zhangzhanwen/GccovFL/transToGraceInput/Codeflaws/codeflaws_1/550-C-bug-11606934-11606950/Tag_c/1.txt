@@ -1,4 +1,0 @@
-codeflaws/550-C-bug-11606934-11606950/550-C-11606950.c
-codeflaws/550-C-bug-11606934-11606950/550-C-11606934.c
-21
-[("Replace b'            for (j = i + 1; j < length; ++j)\\n' with b'            for (j = i + 1; j < length-1; ++j)\\n' at position 22", 21)]

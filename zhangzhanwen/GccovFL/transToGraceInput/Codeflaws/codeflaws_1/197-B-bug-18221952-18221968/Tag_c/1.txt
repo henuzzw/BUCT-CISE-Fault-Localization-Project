@@ -1,4 +1,0 @@
-codeflaws/197-B-bug-18221952-18221968/197-B-18221968.c
-codeflaws/197-B-bug-18221952-18221968/197-B-18221952.c
-27,33
-[('Replace b\'        //printf("min=%d\\\\n", min);\\n\' with b\'        //printf("a[0]=%d b[0]=%d\\\\n", a[0], b[0]);\\n\' at position 28', 27), ("Insert b'                i--;\\n' at position 35 in file2", 34)]

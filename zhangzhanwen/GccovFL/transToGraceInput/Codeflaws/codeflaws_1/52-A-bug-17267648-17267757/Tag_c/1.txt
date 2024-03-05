@@ -1,4 +1,0 @@
-codeflaws/52-A-bug-17267648-17267757/52-A-17267757.c
-codeflaws/52-A-bug-17267648-17267757/52-A-17267648.c
-3,4
-[("Replace b'\\tlong long int n,i,c1=0,c2=0,c3=0,s1,s2,s3,max,a;\\n' with b'\\tlong long int n,i,c1=0,c2=0,c3=0,s1,s2,s3,max;\\n' at position 4", 3), ("Delete b'\\tint a;\\n' at position 4 in file2", 3)]

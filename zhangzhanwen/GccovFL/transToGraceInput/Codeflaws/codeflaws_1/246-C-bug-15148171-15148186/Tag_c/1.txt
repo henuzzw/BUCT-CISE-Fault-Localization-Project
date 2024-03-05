@@ -1,4 +1,0 @@
-codeflaws/246-C-bug-15148171-15148186/246-C-15148186.c
-codeflaws/246-C-bug-15148171-15148186/246-C-15148171.c
-14
-[("Replace b'        if(a[i]>a[j])\\n' with b'        if(a[i]<a[j])\\n' at position 15", 14)]

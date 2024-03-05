@@ -1,4 +1,0 @@
-codeflaws/407-B-bug-14668576-14668597/407-B-14668597.c
-codeflaws/407-B-bug-14668576-14668597/407-B-14668576.c
-11,11
-[("Insert b'        if(a[i]<0)\\n' at position 13 in file2", 12), ("Insert b'            a[i]+=MOD;\\n' at position 14 in file2", 13)]

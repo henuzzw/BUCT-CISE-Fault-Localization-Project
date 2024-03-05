@@ -1,4 +1,0 @@
-codeflaws/295-A-bug-14739525-14748349/295-A-14748349.c
-codeflaws/295-A-bug-14739525-14748349/295-A-14739525.c
-1
-[("Replace b'#define MAX 100001\\n' with b'#define MAX 1001\\n' at position 2", 1)]

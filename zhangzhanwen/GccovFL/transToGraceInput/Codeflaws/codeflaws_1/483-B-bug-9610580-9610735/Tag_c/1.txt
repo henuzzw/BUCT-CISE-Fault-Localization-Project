@@ -1,4 +1,0 @@
-codeflaws/483-B-bug-9610580-9610735/483-B-9610735.c
-codeflaws/483-B-bug-9610580-9610735/483-B-9610580.c
-13
-[("Replace b'        if (count1 >= cnt1 && count2 >= cnt2 && mid- mid / (x*y) >= cnt1 + cnt2)\\n' with b'        if (count1 >= cnt1 && count2 >= cnt2 && count1 + count2 - mid / (x*y) >= cnt1 + cnt2)\\n' at position 14", 13)]

@@ -1,4 +1,0 @@
-codeflaws/300-C-bug-7402867-7402950/300-C-7402950.c
-codeflaws/300-C-bug-7402867-7402950/300-C-7402867.c
-19,53
-[("Insert b'    x %= mod;\\n' at position 21 in file2", 20), ("Replace b'\\t\\t \\t\\t   \\t  \\t\\t\\t\\t \\t \\t   \\t \\t\\t' with b'\\t \\t   \\t\\t  \\t\\t\\t \\t\\t\\t  \\t\\t  \\t  \\t' at position 55", 54)]

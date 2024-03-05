@@ -1,4 +1,0 @@
-codeflaws/514-A-bug-16254510-16254521/514-A-16254521.c
-codeflaws/514-A-bug-16254510-16254521/514-A-16254510.c
-12
-[("Replace b'            continue;\\n' with b'            break;\\n' at position 13", 12)]

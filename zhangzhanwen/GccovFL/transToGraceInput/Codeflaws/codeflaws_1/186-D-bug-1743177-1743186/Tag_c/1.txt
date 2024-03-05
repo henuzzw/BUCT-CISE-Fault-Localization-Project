@@ -1,4 +1,0 @@
-codeflaws/186-D-bug-1743177-1743186/186-D-1743186.c
-codeflaws/186-D-bug-1743177-1743186/186-D-1743177.c
-12
-[('Replace b\'        printf("%.10lf %.10lf %.10lf", x, y, z);\\n\' with b\'        printf("%lf %lf %lf", x, y, z);\\n\' at position 13', 12)]

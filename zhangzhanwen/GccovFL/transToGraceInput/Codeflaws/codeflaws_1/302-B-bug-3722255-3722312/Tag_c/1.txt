@@ -1,4 +1,0 @@
-codeflaws/302-B-bug-3722255-3722312/302-B-3722312.c
-codeflaws/302-B-bug-3722255-3722312/302-B-3722255.c
-15
-[('Replace b\'        while(m[j]<=T && j<M){printf("%lld\\\\n",i+1);j++;}\\n\' with b\'        while(m[j]<T){printf("%lld\\\\n",i+1);j++;}\\n\' at position 16', 15)]

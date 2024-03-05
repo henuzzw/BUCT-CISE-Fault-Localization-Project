@@ -1,4 +1,0 @@
-codeflaws/231-B-bug-2327519-2327523/231-B-2327523.c
-codeflaws/231-B-bug-2327519-2327523/231-B-2327519.c
-43
-[("Insert b'             a[i]=j;\\n' at position 45 in file2", 44)]

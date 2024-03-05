@@ -1,4 +1,0 @@
-codeflaws/540-C-bug-14932535-14932548/540-C-14932548.c
-codeflaws/540-C-bug-14932535-14932548/540-C-14932535.c
-53
-[('Replace b"                if(Map[newX][newY] == \'.\' || (newX == r1 && newY == c1)) {\\n" with b"                if(Map[newX][newY] == \'.\') {\\n" at position 54', 53)]

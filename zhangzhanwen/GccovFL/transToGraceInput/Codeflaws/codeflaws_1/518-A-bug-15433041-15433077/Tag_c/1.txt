@@ -1,4 +1,0 @@
-codeflaws/518-A-bug-15433041-15433077/518-A-15433077.c
-codeflaws/518-A-bug-15433041-15433077/518-A-15433041.c
-23
-[("Insert b'        i--;\\n' at position 25 in file2", 24)]

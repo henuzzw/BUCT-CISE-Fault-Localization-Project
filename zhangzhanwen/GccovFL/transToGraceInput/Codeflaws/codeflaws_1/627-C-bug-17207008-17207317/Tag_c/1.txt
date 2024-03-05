@@ -1,4 +1,0 @@
-codeflaws/627-C-bug-17207008-17207317/627-C-17207317.c
-codeflaws/627-C-bug-17207008-17207317/627-C-17207008.c
-126
-[('Replace b\'\\t\\t\\tprintf("-1");\\n\' with b\'\\t\\t\\tprintf("Nemoguce");\\n\' at position 127', 126)]

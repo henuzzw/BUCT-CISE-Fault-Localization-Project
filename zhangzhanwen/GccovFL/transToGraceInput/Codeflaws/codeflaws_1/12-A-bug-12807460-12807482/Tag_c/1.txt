@@ -1,4 +1,0 @@
-codeflaws/12-A-bug-12807460-12807482/12-A-12807482.c
-codeflaws/12-A-bug-12807460-12807482/12-A-12807460.c
-7
-[("Replace b'\\t\\tfor (j=0;j<=2;j++)\\n' with b'\\t\\tfor (i=0;i<2;i++)\\n' at position 8", 7)]

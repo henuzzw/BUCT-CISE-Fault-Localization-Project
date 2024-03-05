@@ -1,4 +1,0 @@
-codeflaws/78-A-bug-17026157-17026164/78-A-17026164.c
-codeflaws/78-A-bug-17026157-17026164/78-A-17026157.c
-38
-[('Replace b\'                else{ printf("NO");\\n\' with b\'                else{ printf("NOo");\\n\' at position 39', 38)]

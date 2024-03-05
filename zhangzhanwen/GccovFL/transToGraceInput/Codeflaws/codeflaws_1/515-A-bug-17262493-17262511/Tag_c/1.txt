@@ -1,4 +1,0 @@
-codeflaws/515-A-bug-17262493-17262511/515-A-17262511.c
-codeflaws/515-A-bug-17262493-17262511/515-A-17262493.c
-0,4,4
-[("Insert b'#include<math.h>\\n' at position 2 in file2", 1), ("Insert b'    a=abs(a);\\n' at position 7 in file2", 6), ("Insert b'    b=abs(b);\\n' at position 8 in file2", 7)]

@@ -1,4 +1,0 @@
-codeflaws/527-A-bug-18269258-18269289/527-A-18269289.c
-codeflaws/527-A-bug-18269258-18269289/527-A-18269258.c
-17
-[('Replace b\'        printf("%lld",sum);\\n\' with b\'        printf("%d",sum);\\n\' at position 18', 17)]

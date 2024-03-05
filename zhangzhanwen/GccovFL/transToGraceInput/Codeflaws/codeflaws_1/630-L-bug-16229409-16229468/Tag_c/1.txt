@@ -1,4 +1,0 @@
-codeflaws/630-L-bug-16229409-16229468/630-L-16229468.c
-codeflaws/630-L-bug-16229409-16229468/630-L-16229409.c
-23,23
-[('Replace b\'    if (ans == 0) printf("00000");\\n\' with b\'    printf("%lld", ans);\\n\' at position 24', 23), ('Insert b\'    else printf("%lld", ans);\\n\' at position 25 in file2', 24)]

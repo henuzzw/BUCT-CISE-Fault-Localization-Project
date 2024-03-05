@@ -1,4 +1,0 @@
-codeflaws/38-A-bug-13889657-13889713/38-A-13889713.c
-codeflaws/38-A-bug-13889657-13889713/38-A-13889657.c
-14
-[("Replace b'        sm=sm+b[x-a+d-1];\\n' with b'        sm=sm+b[x-a];\\n' at position 15", 14)]

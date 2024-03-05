@@ -1,4 +1,0 @@
-codeflaws/259-A-bug-15985457-15985487/259-A-15985487.c
-codeflaws/259-A-bug-15985457-15985487/259-A-15985457.c
-7
-[('Replace b\'\\t\\tscanf(" %c",&arr[i][j]);\\n\' with b\'\\t\\tscanf("%c",&arr[i][j]);\\n\' at position 8', 7)]

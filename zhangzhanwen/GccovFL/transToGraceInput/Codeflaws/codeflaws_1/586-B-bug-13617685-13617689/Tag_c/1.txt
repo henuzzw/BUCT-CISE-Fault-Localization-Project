@@ -1,4 +1,0 @@
-codeflaws/586-B-bug-13617685-13617689/586-B-13617689.c
-codeflaws/586-B-bug-13617685-13617689/586-B-13617685.c
-139
-[('Replace b\'    printf("%d",t);\\n\' with b\'    printf("%d",max,m,t);\\n\' at position 140', 139)]

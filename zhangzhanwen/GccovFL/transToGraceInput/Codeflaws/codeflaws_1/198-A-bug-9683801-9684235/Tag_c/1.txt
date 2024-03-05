@@ -1,4 +1,0 @@
-codeflaws/198-A-bug-9683801-9684235/198-A-9684235.c
-codeflaws/198-A-bug-9683801-9684235/198-A-9683801.c
-10
-[("Replace b'        if (x > t)\\n' with b'        if (x >= t)\\n' at position 11", 10)]

@@ -1,4 +1,0 @@
-codeflaws/192-B-bug-15217694-15217714/192-B-15217714.c
-codeflaws/192-B-bug-15217694-15217714/192-B-15217694.c
-20
-[("Replace b'    if(n==1) res =y;\\n' with b'\\n' at position 21", 20)]

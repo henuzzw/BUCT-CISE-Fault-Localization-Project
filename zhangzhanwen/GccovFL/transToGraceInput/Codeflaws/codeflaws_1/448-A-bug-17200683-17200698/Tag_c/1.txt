@@ -1,4 +1,0 @@
-codeflaws/448-A-bug-17200683-17200698/448-A-17200698.c
-codeflaws/448-A-bug-17200683-17200698/448-A-17200683.c
-9,16
-[("Delete b'        count++;\\n' at position 9 in file2", 8), ("Delete b'        count++;\\n' at position 15 in file2", 14)]

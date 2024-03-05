@@ -1,4 +1,0 @@
-codeflaws/485-B-bug-11319856-11319878/485-B-11319878.c
-codeflaws/485-B-bug-11319856-11319878/485-B-11319856.c
-2,3
-[("Replace b'long long ans,a,b,mina=99999999999999999,minb=9999999999999999,maxa=-9999999999999,maxb=-999999999999999,i,n;\\n' with b'\\n' at position 3", 2), ("Delete b'long long ans,a,b,mina=1231231,minb=1231231,maxa=-12312123,maxb=-1312123,i,n;\\n' at position 3 in file2", 2)]

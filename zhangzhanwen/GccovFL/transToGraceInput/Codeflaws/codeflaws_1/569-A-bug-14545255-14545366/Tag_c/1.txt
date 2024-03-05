@@ -1,4 +1,0 @@
-codeflaws/569-A-bug-14545255-14545366/569-A-14545366.c
-codeflaws/569-A-bug-14545255-14545366/569-A-14545255.c
-11,14
-[("Replace b'    while(s*q < t)\\n' with b'    while((t-s*q) > 0)\\n' at position 12", 11), ("Delete b'        t -= s*q;\\n' at position 14 in file2", 13)]

@@ -1,4 +1,0 @@
-codeflaws/63-C-bug-671981-671984/63-C-671984.c
-codeflaws/63-C-bug-671981-671984/63-C-671981.c
-66
-[('Replace b\'\\t  printf("%04d\\\\n", num);\\n\' with b\'\\t  printf("%d\\\\n", num);\\n\' at position 67', 66)]

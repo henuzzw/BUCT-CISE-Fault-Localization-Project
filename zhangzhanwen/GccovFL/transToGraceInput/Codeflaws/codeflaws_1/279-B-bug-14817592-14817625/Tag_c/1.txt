@@ -1,4 +1,0 @@
-codeflaws/279-B-bug-14817592-14817625/279-B-14817625.c
-codeflaws/279-B-bug-14817592-14817625/279-B-14817592.c
-4
-[("Replace b'\\tlong long int t,n,i,j,f=0,ans=0;\\n' with b'\\tlong long int t,n,i,j,f=0,ans;\\n' at position 5", 4)]

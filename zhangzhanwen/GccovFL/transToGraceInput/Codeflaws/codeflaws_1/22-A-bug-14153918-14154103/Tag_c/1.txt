@@ -1,4 +1,0 @@
-codeflaws/22-A-bug-14153918-14154103/22-A-14154103.c
-codeflaws/22-A-bug-14153918-14154103/22-A-14153918.c
-14,16
-[("Replace b'             return 0;\\n' with b'            break;\\n' at position 15", 14), ('Insert b\'    printf("NO");\\n\' at position 18 in file2', 17)]

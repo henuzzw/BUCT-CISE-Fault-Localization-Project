@@ -1,4 +1,0 @@
-codeflaws/172-A-bug-2045366-2045368/172-A-2045368.c
-codeflaws/172-A-bug-2045366-2045368/172-A-2045366.c
-14,15
-[("Delete b'    \\n' at position 14 in file2", 13), ('Delete b\'    printf("%d ", n);\\n\' at position 14 in file2', 13)]

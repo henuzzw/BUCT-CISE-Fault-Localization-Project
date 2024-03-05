@@ -1,4 +1,0 @@
-codeflaws/201-A-bug-1881498-1881520/201-A-1881520.c
-codeflaws/201-A-bug-1881498-1881520/201-A-1881498.c
-9
-[('Replace b\'        printf ( "%d\\\\n", 3 == x ? 5 : i );\\n\' with b\'        printf ( "%d\\\\n", i );\\n\' at position 10', 9)]

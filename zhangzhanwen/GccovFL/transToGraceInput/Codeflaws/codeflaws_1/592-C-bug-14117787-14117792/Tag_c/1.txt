@@ -1,4 +1,0 @@
-codeflaws/592-C-bug-14117787-14117792/592-C-14117792.c
-codeflaws/592-C-bug-14117787-14117792/592-C-14117787.c
-39
-[('Replace b\'    //printf("%lld   ",ans);\\n\' with b\'    printf("%lld   ",ans);\\n\' at position 40', 39)]

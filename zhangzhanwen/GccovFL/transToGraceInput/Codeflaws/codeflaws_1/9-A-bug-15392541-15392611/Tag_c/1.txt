@@ -1,4 +1,0 @@
-codeflaws/9-A-bug-15392541-15392611/9-A-15392611.c
-codeflaws/9-A-bug-15392541-15392611/9-A-15392541.c
-18
-[("Replace b'    if((ans%2)==0&&ans!=6)\\n' with b'    if((ans%2)==0)\\n' at position 19", 18)]

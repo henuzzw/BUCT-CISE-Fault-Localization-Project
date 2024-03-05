@@ -1,4 +1,0 @@
-codeflaws/507-B-bug-15775687-15775828/507-B-15775828.c
-codeflaws/507-B-bug-15775687-15775828/507-B-15775687.c
-8
-[("Replace b'    int steps = ceil(distance/(2*r));                 // ceil t2rb above  2.4 : 3     2.7:3      2.1:3\\n' with b'    int steps = ceil(distance)/(2*r);                 // ceil t2rb above  2.4 : 3     2.7:3      2.1:3\\n' at position 9", 8)]

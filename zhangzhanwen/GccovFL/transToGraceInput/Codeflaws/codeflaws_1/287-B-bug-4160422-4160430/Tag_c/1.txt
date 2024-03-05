@@ -1,4 +1,0 @@
-codeflaws/287-B-bug-4160422-4160430/287-B-4160430.c
-codeflaws/287-B-bug-4160422-4160430/287-B-4160422.c
-11,11
-[("Insert b'    else if(n-k==1)\\n' at position 13 in file2", 12), ('Insert b\'        printf("2\\\\n");\\n\' at position 14 in file2', 13)]

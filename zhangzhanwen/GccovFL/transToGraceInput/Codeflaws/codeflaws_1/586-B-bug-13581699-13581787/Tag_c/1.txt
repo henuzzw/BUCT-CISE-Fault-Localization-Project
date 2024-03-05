@@ -1,4 +1,0 @@
-codeflaws/586-B-bug-13581699-13581787/586-B-13581787.c
-codeflaws/586-B-bug-13581699-13581787/586-B-13581699.c
-41
-[("Insert b'\\t\\t\\tpmin = min;\\n' at position 43 in file2", 42)]

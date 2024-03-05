@@ -1,9 +1,0 @@
-i=2
-temp=1 
-count=1
-arr[i]=5
-i=3
-temp=2 
-count=3
-arr[i]=6
-3

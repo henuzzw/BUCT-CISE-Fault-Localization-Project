@@ -1,4 +1,0 @@
-codeflaws/509-B-bug-13581279-13584194/509-B-13584194.c
-codeflaws/509-B-bug-13581279-13584194/509-B-13581279.c
-14
-[("Replace b'\\tif(max-min>k)\\n' with b'\\tif(min<(max/k))\\n' at position 15", 14)]

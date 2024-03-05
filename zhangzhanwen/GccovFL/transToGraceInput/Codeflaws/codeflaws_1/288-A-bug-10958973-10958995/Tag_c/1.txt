@@ -1,4 +1,0 @@
-codeflaws/288-A-bug-10958973-10958995/288-A-10958995.c
-codeflaws/288-A-bug-10958973-10958995/288-A-10958973.c
-5
-[('Insert b\'    else if(k==1&&n>1) printf("-1");\\n\' at position 7 in file2', 6)]

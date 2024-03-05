@@ -1,4 +1,0 @@
-codeflaws/369-C-bug-5354958-5359647/369-C-5359647.c
-codeflaws/369-C-bug-5354958-5359647/369-C-5354958.c
-9
-[("Replace b'for(;z!=p;z+=c)if(c*list[0][p]<=list[0][z]*c){\\n' with b'for(;z!=p;z+=c)if(c*list[0][p]<list[0][z]*c){\\n' at position 10", 9)]

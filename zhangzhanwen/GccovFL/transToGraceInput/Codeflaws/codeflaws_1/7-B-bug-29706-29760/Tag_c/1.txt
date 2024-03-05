@@ -1,4 +1,0 @@
-codeflaws/7-B-bug-29706-29760/7-B-29760.c
-codeflaws/7-B-bug-29706-29760/7-B-29706.c
-30
-[("Replace b'      k=0; if(arg<=0) arg=t+124;\\n' with b'      k=0;\\n' at position 31", 30)]

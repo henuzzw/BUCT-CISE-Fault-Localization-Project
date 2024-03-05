@@ -1,4 +1,0 @@
-codeflaws/133-A-bug-18292018-18292024/133-A-18292024.c
-codeflaws/133-A-bug-18292018-18292024/133-A-18292018.c
-12
-[('Replace b"\\t\\tif(temp==\'H\' || temp==\'Q\'  || temp==\'9\'){\\n" with b"\\t\\tif(temp==\'H\' || temp==\'Q\' || temp==\'+\' || temp==\'9\'){\\n" at position 13', 12)]

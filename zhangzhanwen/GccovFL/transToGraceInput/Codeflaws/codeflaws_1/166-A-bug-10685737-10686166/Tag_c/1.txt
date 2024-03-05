@@ -1,4 +1,0 @@
-codeflaws/166-A-bug-10685737-10686166/166-A-10686166.c
-codeflaws/166-A-bug-10685737-10686166/166-A-10685737.c
-11
-[("Replace b'    else if(t1.probs == t2.probs && t1.penalty < t2.penalty){\\n' with b'    else if(t1.probs == t2.probs && t1.penalty > t2.penalty){\\n' at position 12", 11)]

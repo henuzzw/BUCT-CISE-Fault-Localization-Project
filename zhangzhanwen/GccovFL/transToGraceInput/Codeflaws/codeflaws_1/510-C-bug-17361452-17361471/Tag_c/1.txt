@@ -1,4 +1,0 @@
-codeflaws/510-C-bug-17361452-17361471/510-C-17361471.c
-codeflaws/510-C-bug-17361452-17361471/510-C-17361452.c
-44
-[('Replace b"\\t\\t\\t\\tif(name[i][k]!=\'\\\\0\'){\\n" with b"\\t\\t\\t\\tif(name[i][k]!=\'\\\\0\' || name[j][k]!=\'\\\\0\'){\\n" at position 45', 44)]

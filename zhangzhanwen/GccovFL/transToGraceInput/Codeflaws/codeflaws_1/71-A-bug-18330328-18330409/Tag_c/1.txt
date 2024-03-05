@@ -1,4 +1,0 @@
-codeflaws/71-A-bug-18330328-18330409/71-A-18330409.c
-codeflaws/71-A-bug-18330328-18330409/71-A-18330328.c
-6,19
-[("Replace b'    char words[110][110];\\n' with b'    char words[100][100];\\n' at position 7", 6), ('Delete b\'            printf("%d\\\\n", l);\\n\' at position 19 in file2', 18)]

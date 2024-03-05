@@ -1,4 +1,0 @@
-codeflaws/374-B-bug-5639063-5639087/374-B-5639087.c
-codeflaws/374-B-bug-5639063-5639087/374-B-5639063.c
-20,24
-[("Replace b'                p=p*((j/2) +1);\\n' with b'                p=p*2;\\n' at position 21", 20), ("Replace b'    return 0;\\n' with b'    \\n' at position 25", 24)]

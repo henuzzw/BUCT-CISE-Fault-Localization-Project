@@ -1,4 +1,0 @@
-codeflaws/108-A-bug-18018681-18018697/108-A-18018697.c
-codeflaws/108-A-bug-18018681-18018697/108-A-18018681.c
-24
-[("Replace b'if(s<n and n<60){\\n' with b'if(s<n){\\n' at position 25", 24)]

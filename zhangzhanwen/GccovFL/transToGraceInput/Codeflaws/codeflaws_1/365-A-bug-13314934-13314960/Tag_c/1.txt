@@ -1,4 +1,0 @@
-codeflaws/365-A-bug-13314934-13314960/365-A-13314960.c
-codeflaws/365-A-bug-13314934-13314960/365-A-13314934.c
-7
-[("Replace b'        for (m = 0; n--; m += (x&l[k]) == l[k]){\\n' with b'        for (m = 0; n--;m+=x==l[k]){\\n' at position 8", 7)]

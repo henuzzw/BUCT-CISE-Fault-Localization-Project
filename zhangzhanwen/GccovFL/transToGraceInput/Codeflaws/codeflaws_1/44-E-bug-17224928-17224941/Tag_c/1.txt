@@ -1,4 +1,0 @@
-codeflaws/44-E-bug-17224928-17224941/44-E-17224941.c
-codeflaws/44-E-bug-17224928-17224941/44-E-17224928.c
-16
-[("Replace b'\\telse if ((n*a)>w || (n*b)<w){\\n' with b'\\tif ((n*a)>w || (n*b)<w){\\n' at position 17", 16)]

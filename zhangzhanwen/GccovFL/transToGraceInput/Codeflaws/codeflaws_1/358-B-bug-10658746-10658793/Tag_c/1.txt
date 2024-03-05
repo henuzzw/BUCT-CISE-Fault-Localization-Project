@@ -1,4 +1,0 @@
-codeflaws/358-B-bug-10658746-10658793/358-B-10658793.c
-codeflaws/358-B-bug-10658746-10658793/358-B-10658746.c
-17
-[("Replace b'j=0;\\n' with b'\\n' at position 18", 17)]

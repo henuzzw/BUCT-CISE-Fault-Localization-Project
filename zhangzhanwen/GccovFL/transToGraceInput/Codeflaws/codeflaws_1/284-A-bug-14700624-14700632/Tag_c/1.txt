@@ -1,4 +1,0 @@
-codeflaws/284-A-bug-14700624-14700632/284-A-14700632.c
-codeflaws/284-A-bug-14700624-14700632/284-A-14700624.c
-27
-[('Replace b\'    printf("%ld",count);\\n\' with b\'    printf("%l64d",count);\\n\' at position 28', 27)]

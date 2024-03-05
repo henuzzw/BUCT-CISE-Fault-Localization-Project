@@ -1,4 +1,0 @@
-codeflaws/467-A-bug-17983507-17983547/467-A-17983547.c
-codeflaws/467-A-bug-17983507-17983547/467-A-17983507.c
-9
-[("Replace b'            if(p<q-1) count++;\\n' with b'            if(p<q) count++;\\n' at position 10", 9)]

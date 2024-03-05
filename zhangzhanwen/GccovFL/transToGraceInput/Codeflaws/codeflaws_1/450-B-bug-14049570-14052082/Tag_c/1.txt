@@ -1,4 +1,0 @@
-codeflaws/450-B-bug-14049570-14052082/450-B-14052082.c
-codeflaws/450-B-bug-14049570-14052082/450-B-14049570.c
-22
-[("Replace b'    else if(n==0)\\n' with b'    else if(n==6)\\n' at position 23", 22)]

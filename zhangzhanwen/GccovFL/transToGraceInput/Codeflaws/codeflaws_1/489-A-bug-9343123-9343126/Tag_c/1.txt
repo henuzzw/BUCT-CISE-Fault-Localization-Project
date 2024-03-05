@@ -1,4 +1,0 @@
-codeflaws/489-A-bug-9343123-9343126/489-A-9343126.c
-codeflaws/489-A-bug-9343123-9343126/489-A-9343123.c
-13
-[("Replace b'\\t\\t\\tif (ZA[d] > ZA[c])\\n' with b'\\t\\t\\tif (ZA[d] < ZA[c])\\n' at position 14", 13)]

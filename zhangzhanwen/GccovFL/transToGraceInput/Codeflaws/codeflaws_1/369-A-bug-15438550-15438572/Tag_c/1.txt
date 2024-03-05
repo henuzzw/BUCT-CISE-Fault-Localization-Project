@@ -1,4 +1,0 @@
-codeflaws/369-A-bug-15438550-15438572/369-A-15438572.c
-codeflaws/369-A-bug-15438550-15438572/369-A-15438550.c
-13
-[("Replace b'    if(count1>=m)\\n' with b'    if(count1>m)\\n' at position 14", 13)]

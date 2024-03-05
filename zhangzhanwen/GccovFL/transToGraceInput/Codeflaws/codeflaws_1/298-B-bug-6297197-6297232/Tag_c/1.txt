@@ -1,4 +1,0 @@
-codeflaws/298-B-bug-6297197-6297232/298-B-6297232.c
-codeflaws/298-B-bug-6297197-6297232/298-B-6297197.c
-37,40
-[("Replace b'        if(arr[i]==my && Y+1 <=couny)\\n' with b'        if(arr[i]==my && X+1 <=couny)\\n' at position 38", 37), ("Insert b'           \\n' at position 42 in file2", 41)]

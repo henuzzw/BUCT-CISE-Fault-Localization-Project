@@ -1,4 +1,0 @@
-codeflaws/216-A-bug-6609343-6609404/216-A-6609404.c
-codeflaws/216-A-bug-6609343-6609404/216-A-6609343.c
-9
-[("Replace b'    s=c*(a+b-1)+(a-1)*(b-1);\\n' with b'    s=c*(a+b-1)+(a+b-3);\\n' at position 10", 9)]

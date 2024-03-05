@@ -1,4 +1,0 @@
-codeflaws/230-A-bug-18053783-18053821/230-A-18053821.c
-codeflaws/230-A-bug-18053783-18053821/230-A-18053783.c
-41
-[("Replace b'        if((a-D[i].dragonstrength)<=0)\\n' with b'        if(!(a-D[i].dragonstrength)>0)\\n' at position 42", 41)]

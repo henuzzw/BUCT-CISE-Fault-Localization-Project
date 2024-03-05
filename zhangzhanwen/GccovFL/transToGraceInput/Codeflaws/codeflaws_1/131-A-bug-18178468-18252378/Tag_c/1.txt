@@ -1,4 +1,0 @@
-codeflaws/131-A-bug-18178468-18252378/131-A-18252378.c
-codeflaws/131-A-bug-18178468-18252378/131-A-18178468.c
-23
-[("Replace b'            out[0]=in[0]+32;\\n' with b'            out[0]=in[0];\\n' at position 24", 23)]

@@ -1,4 +1,0 @@
-codeflaws/349-B-bug-17911114-17911141/349-B-17911141.c
-codeflaws/349-B-bug-17911114-17911141/349-B-17911114.c
-28
-[('Insert b"\\t\\tx[len]=\'\\\\0\';\\n" at position 30 in file2', 29)]

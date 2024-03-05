@@ -1,4 +1,0 @@
-codeflaws/478-A-bug-18260254-18260269/478-A-18260269.c
-codeflaws/478-A-bug-18260254-18260269/478-A-18260254.c
-11
-[('Replace b\'\\tif ((sum%5==0) && (sum != 0)) printf("%d",sum/5);\\n\' with b\'\\tif (sum%5==0) printf("%d",sum/5);\\n\' at position 12', 11)]

@@ -1,4 +1,0 @@
-codeflaws/124-A-bug-17030725-17030795/124-A-17030795.c
-codeflaws/124-A-bug-17030725-17030795/124-A-17030725.c
-17
-[("Replace b'\\tif(a<i and b>=n-i)\\n' with b'\\tif(a<i and b<=i)\\n' at position 18", 17)]

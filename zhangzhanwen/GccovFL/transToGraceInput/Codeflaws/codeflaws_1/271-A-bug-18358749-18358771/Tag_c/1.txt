@@ -1,4 +1,0 @@
-codeflaws/271-A-bug-18358749-18358771/271-A-18358771.c
-codeflaws/271-A-bug-18358749-18358771/271-A-18358749.c
-8
-[("Replace b'while(i<=9012){\\n' with b'while(i<=9000){\\n' at position 9", 8)]

@@ -1,4 +1,0 @@
-codeflaws/137-B-bug-6899168-6899192/137-B-6899192.c
-codeflaws/137-B-bug-6899168-6899192/137-B-6899168.c
-1,1,7
-[("Insert b'\\n' at position 3 in file2", 2), ("Insert b'int b[5000],a[5000];\\n' at position 4 in file2", 3), ("Delete b'    int a[n],b[n];\\n' at position 9 in file2", 8)]

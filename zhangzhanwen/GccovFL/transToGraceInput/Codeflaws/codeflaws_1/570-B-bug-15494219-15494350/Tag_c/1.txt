@@ -1,4 +1,0 @@
-codeflaws/570-B-bug-15494219-15494350/570-B-15494350.c
-codeflaws/570-B-bug-15494219-15494350/570-B-15494219.c
-5
-[("Replace b'\\tif(m>abs(n-m)) if(n==1) a=1;else a=m-1;\\n' with b'\\tif(m>abs(n-m)) a=m-1;\\n' at position 6", 5)]

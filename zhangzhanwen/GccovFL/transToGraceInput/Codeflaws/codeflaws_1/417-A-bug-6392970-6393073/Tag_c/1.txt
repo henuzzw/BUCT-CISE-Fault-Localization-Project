@@ -1,4 +1,0 @@
-codeflaws/417-A-bug-6392970-6393073/417-A-6393073.c
-codeflaws/417-A-bug-6392970-6393073/417-A-6392970.c
-53
-[("Replace b'\\t\\t\\t\\tAns2 = iCnt1*c;\\n' with b'\\t\\t\\t\\tAns2 = iCnt1;\\n' at position 54", 53)]

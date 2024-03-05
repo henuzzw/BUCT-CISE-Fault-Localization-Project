@@ -1,4 +1,0 @@
-codeflaws/628-A-bug-17182440-17182470/628-A-17182470.c
-codeflaws/628-A-bug-17182440-17182470/628-A-17182440.c
-27
-[('Replace b\'printf("%d %d",bottle,towel);\\n\' with b\'printf("%d%d",bottle,towel);\\n\' at position 28', 27)]

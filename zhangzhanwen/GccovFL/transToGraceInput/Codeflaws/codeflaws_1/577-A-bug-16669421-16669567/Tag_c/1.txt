@@ -1,4 +1,0 @@
-codeflaws/577-A-bug-16669421-16669567/577-A-16669567.c
-codeflaws/577-A-bug-16669421-16669567/577-A-16669421.c
-7
-[("Replace b'      if(b%i==0 && ( (b/i) * (b/i) ) == b && (b/i)<=a){\\n' with b'      if((b/i)==(b/(b/i)) && (b/i)<=a){\\n' at position 8", 7)]

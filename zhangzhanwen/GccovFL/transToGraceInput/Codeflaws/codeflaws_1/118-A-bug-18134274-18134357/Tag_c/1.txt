@@ -1,4 +1,0 @@
-codeflaws/118-A-bug-18134274-18134357/118-A-18134357.c
-codeflaws/118-A-bug-18134274-18134357/118-A-18134274.c
-0,11
-[("Insert b'#include<string.h>\\n' at position 2 in file2", 1), ('Replace b"\\t\\tif(ch[i]!=\'a\'&&ch[i]!=\'e\'&&ch[i]!=\'i\'&&ch[i]!=\'o\'&&ch[i]!=\'u\'&&ch[i]!=\'y\')\\n" with b"\\t\\tif(ch[i]!=\'a\'&&ch[i]!=\'e\'&&ch[i]!=\'i\'&&ch[i]!=\'o\'&&ch[i]!=\'u\')\\n" at position 13', 12)]

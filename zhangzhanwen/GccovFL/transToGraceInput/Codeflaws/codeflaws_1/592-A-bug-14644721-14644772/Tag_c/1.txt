@@ -1,4 +1,0 @@
-codeflaws/592-A-bug-14644721-14644772/592-A-14644772.c
-codeflaws/592-A-bug-14644721-14644772/592-A-14644721.c
-45
-[("Replace b'    if(wd<=bd)\\n' with b'    if(wd<bd)\\n' at position 46", 45)]

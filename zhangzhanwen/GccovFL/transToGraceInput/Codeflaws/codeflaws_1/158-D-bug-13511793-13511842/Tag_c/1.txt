@@ -1,4 +1,0 @@
-codeflaws/158-D-bug-13511793-13511842/158-D-13511842.c
-codeflaws/158-D-bug-13511793-13511842/158-D-13511793.c
-2,13
-[("Insert b'#define INF 200000000\\n' at position 4 in file2", 3), ("Replace b'    int res=-INF;\\n' with b'    int res=0;\\n' at position 15", 14)]

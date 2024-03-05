@@ -1,4 +1,0 @@
-codeflaws/45-I-bug-2355913-2356012/45-I-2356012.c
-codeflaws/45-I-bug-2355913-2356012/45-I-2355913.c
-46
-[("Replace b'        if(zero + negative == 2) {\\n' with b'        if(negative % 2 == 0) {\\n' at position 47", 46)]

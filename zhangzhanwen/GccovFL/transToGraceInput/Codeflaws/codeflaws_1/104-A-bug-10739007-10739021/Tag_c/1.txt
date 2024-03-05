@@ -1,4 +1,0 @@
-codeflaws/104-A-bug-10739007-10739021/104-A-10739021.c
-codeflaws/104-A-bug-10739007-10739021/104-A-10739007.c
-10
-[('Replace b\'    else printf("0");\\n\' with b\'    else printf("");\\n\' at position 11', 10)]

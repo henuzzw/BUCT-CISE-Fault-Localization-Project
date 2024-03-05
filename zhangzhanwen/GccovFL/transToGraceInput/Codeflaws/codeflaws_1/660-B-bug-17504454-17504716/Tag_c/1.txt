@@ -1,4 +1,0 @@
-codeflaws/660-B-bug-17504454-17504716/660-B-17504716.c
-codeflaws/660-B-bug-17504454-17504716/660-B-17504454.c
-74,77
-[('Replace b\'                printf("%d ",man[i][k]);\\n\' with b\'                printf("%d ",man[i][j]);\\n\' at position 75', 74), ('Delete b\'        //printf(" ");\\n\' at position 77 in file2', 76)]

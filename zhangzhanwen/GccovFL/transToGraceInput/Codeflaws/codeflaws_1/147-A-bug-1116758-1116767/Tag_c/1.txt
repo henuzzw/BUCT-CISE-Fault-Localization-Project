@@ -1,4 +1,0 @@
-codeflaws/147-A-bug-1116758-1116767/147-A-1116767.c
-codeflaws/147-A-bug-1116758-1116767/147-A-1116758.c
-12,12
-[('Replace b\'            do { scanf("%c",&c); } while(c==\\\' \\\');\\n\' with b\'            do { scanf("%c",&c); } while(c==\\\' \\\'); \\n\' at position 13', 12), ('Insert b\'            printf("%c",c); \\n\' at position 14 in file2', 13)]

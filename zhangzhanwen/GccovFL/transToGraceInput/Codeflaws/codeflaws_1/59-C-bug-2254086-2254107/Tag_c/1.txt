@@ -1,4 +1,0 @@
-codeflaws/59-C-bug-2254086-2254107/59-C-2254107.c
-codeflaws/59-C-bug-2254086-2254107/59-C-2254086.c
-16
-[("Replace b'l=0;j=(j+1)/2;\\n' with b'l=0;j=j/2;\\n' at position 17", 16)]

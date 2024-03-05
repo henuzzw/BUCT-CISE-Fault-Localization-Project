@@ -1,4 +1,0 @@
-codeflaws/292-A-bug-3793362-3793375/292-A-3793375.c
-codeflaws/292-A-bug-3793362-3793375/292-A-3793362.c
-24
-[("Replace b'    p=p+t[i]-t[i+1]+c[i+1];\\n' with b'    p=p+t[i]-t[i+1]+c[i];\\n' at position 25", 24)]

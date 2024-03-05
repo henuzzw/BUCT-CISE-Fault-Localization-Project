@@ -1,4 +1,0 @@
-codeflaws/237-B-bug-2436036-2436037/237-B-2436037.c
-codeflaws/237-B-bug-2436036-2436037/237-B-2436036.c
-64
-[('Delete b\'                printf("%d\\\\t%d  %d\\\\n",min,A[i][j],A[Min.i][Min.j]);\\n\' at position 64 in file2', 63)]

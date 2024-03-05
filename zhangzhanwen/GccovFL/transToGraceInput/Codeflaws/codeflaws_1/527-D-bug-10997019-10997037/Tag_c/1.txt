@@ -1,4 +1,0 @@
-codeflaws/527-D-bug-10997019-10997037/527-D-10997037.c
-codeflaws/527-D-bug-10997019-10997037/527-D-10997019.c
-57
-[("Delete b'\\t\\t\\tvertexes -= 1;\\n' at position 57 in file2", 56)]

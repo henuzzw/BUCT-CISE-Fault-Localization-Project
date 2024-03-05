@@ -1,4 +1,0 @@
-codeflaws/284-B-bug-8946526-8946533/284-B-8946533.c
-codeflaws/284-B-bug-8946526-8946533/284-B-8946526.c
-19
-[("Replace b'     if(e>1)\\n' with b'     if(e>0)\\n' at position 20", 19)]

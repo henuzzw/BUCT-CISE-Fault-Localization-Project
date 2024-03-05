@@ -1,4 +1,0 @@
-codeflaws/93-B-bug-993300-993301/93-B-993301.c
-codeflaws/93-B-bug-993300-993301/93-B-993300.c
-29
-[("Replace b'        if(w < space || eq(w, space)){\\n' with b'        if(w < space){\\n' at position 30", 29)]

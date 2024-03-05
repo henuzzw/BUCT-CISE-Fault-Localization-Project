@@ -1,4 +1,0 @@
-codeflaws/49-A-bug-11598208-11598303/49-A-11598303.c
-codeflaws/49-A-bug-11598208-11598303/49-A-11598208.c
-8
-[("Replace b'    for(j=2;j<=i;j++)\\n' with b'    for(j=2;j<i;j++)\\n' at position 9", 8)]

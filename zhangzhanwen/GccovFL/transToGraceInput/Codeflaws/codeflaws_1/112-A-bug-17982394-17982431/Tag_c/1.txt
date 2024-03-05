@@ -1,4 +1,0 @@
-codeflaws/112-A-bug-17982394-17982431/112-A-17982431.c
-codeflaws/112-A-bug-17982394-17982431/112-A-17982394.c
-10
-[("Replace b'    if(str1[i]-str2[i]==0 || abs(str1[i]-str2[i])==32)\\n' with b'    if((str1[i]-str2[i]==0 || abs(str1[i]-str2[i]==32)))\\n' at position 11", 10)]

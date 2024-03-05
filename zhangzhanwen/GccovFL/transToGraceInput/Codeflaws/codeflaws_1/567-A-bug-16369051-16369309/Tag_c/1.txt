@@ -1,4 +1,0 @@
-codeflaws/567-A-bug-16369051-16369309/567-A-16369309.c
-codeflaws/567-A-bug-16369051-16369309/567-A-16369051.c
-23
-[("Replace b'        if(i >= 1&&i < n-1){\\n' with b'        if(i > 1&&i < n-1){\\n' at position 24", 23)]

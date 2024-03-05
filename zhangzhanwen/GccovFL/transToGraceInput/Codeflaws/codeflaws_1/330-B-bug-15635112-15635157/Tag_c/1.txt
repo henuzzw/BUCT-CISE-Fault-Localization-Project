@@ -1,4 +1,0 @@
-codeflaws/330-B-bug-15635112-15635157/330-B-15635157.c
-codeflaws/330-B-bug-15635112-15635157/330-B-15635112.c
-10
-[("Replace b'      if(!h[i])\\n' with b'      if(h[i-1])\\n' at position 11", 10)]

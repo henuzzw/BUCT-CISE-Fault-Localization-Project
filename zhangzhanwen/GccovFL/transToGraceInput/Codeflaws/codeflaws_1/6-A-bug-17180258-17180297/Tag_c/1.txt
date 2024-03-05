@@ -1,4 +1,0 @@
-codeflaws/6-A-bug-17180258-17180297/6-A-17180297.c
-codeflaws/6-A-bug-17180258-17180297/6-A-17180258.c
-21
-[("Replace b'    if((ara[0]<(ara[2]+ara[1]))|| (ara[1]<(ara[2]+ara[3]))) {\\n' with b'    if(ara[0]<(ara[2]+ara[1])) {\\n' at position 22", 21)]

@@ -1,4 +1,0 @@
-codeflaws/660-A-bug-17245008-17245018/660-A-17245018.c
-codeflaws/660-A-bug-17245008-17245018/660-A-17245008.c
-37
-[('Replace b\'\\t\\t\\tif(ans[i]) printf("%d ",1);\\n\' with b\'\\t\\t\\tif(ans[i]) printf("%d ",i);\\n\' at position 38', 37)]

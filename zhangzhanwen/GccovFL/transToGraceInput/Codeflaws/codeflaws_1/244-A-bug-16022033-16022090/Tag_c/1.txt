@@ -1,4 +1,0 @@
-codeflaws/244-A-bug-16022033-16022090/244-A-16022090.c
-codeflaws/244-A-bug-16022033-16022090/244-A-16022033.c
-6
-[("Replace b'    int children[1000]={0};\\n' with b'    int children[200]={0};\\n' at position 7", 6)]

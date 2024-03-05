@@ -1,4 +1,0 @@
-codeflaws/61-B-bug-653606-653608/61-B-653608.c
-codeflaws/61-B-bug-653606-653608/61-B-653606.c
-18,19
-[("Delete b'\\n' at position 18 in file2", 17), ('Delete b\'     for (i = 0; i < 6; i++) printf("%s\\\\n", a[i]);\\n\' at position 18 in file2', 17)]

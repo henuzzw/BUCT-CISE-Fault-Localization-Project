@@ -1,4 +1,0 @@
-codeflaws/364-B-bug-5321202-5321208/364-B-5321208.c
-codeflaws/364-B-bug-5321202-5321208/364-B-5321202.c
-1
-[("Replace b'int dp[51*10010];\\n' with b'int dp[500100];\\n' at position 2", 1)]

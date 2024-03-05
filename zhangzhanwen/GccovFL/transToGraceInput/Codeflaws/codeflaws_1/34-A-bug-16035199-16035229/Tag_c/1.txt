@@ -1,4 +1,0 @@
-codeflaws/34-A-bug-16035199-16035229/34-A-16035229.c
-codeflaws/34-A-bug-16035199-16035229/34-A-16035199.c
-21
-[('Replace b\'    printf("%d %d",(minimal%count)+1,((minimal+1)%count)+1 ) ;\\n\' with b\'    printf("%d %d",minimal%count,(minimal+1)%count) ;\\n\' at position 22', 21)]

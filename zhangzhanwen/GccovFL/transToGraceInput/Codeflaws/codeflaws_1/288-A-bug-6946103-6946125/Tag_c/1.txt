@@ -1,4 +1,0 @@
-codeflaws/288-A-bug-6946103-6946125/288-A-6946125.c
-codeflaws/288-A-bug-6946103-6946125/288-A-6946103.c
-41
-[('Replace b\'            printf("ab");\\n\' with b\'            printf("ba");\\n\' at position 42', 41)]

@@ -1,4 +1,0 @@
-codeflaws/4-B-bug-17186387-17186438/4-B-17186438.c
-codeflaws/4-B-bug-17186387-17186438/4-B-17186387.c
-10,22
-[('Insert b\'        //printf("%d %d\\\\n", a, b);\\n\' at position 12 in file2', 11), ('Replace b\'                printf("%d ", n[i] - c);\\n\' with b\'                printf("%d ", m[i] + c);\\n\' at position 24', 23)]

@@ -1,4 +1,0 @@
-codeflaws/121-B-bug-1990392-1990419/121-B-1990419.c
-codeflaws/121-B-bug-1990392-1990419/121-B-1990392.c
-8
-[("Replace b'    for(i = 0; i <= n && k; i++){\\n' with b'    for(i = 0; i <= n; i++){\\n' at position 9", 8)]

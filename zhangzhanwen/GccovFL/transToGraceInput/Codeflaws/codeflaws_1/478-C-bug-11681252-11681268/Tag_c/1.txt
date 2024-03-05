@@ -1,4 +1,0 @@
-codeflaws/478-C-bug-11681252-11681268/478-C-11681268.c
-codeflaws/478-C-bug-11681252-11681268/478-C-11681252.c
-18,20
-[("Insert b'\\t\\t\\ta[2] -= 2*a[0];\\n' at position 20 in file2", 19), ("Delete b'\\t\\t\\ta[2] -= 2*a[0];\\n' at position 21 in file2", 20)]

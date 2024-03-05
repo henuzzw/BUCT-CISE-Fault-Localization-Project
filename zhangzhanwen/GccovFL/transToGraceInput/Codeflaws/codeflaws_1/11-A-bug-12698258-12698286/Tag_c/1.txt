@@ -1,4 +1,0 @@
-codeflaws/11-A-bug-12698258-12698286/11-A-12698286.c
-codeflaws/11-A-bug-12698258-12698286/11-A-12698258.c
-13
-[("Replace b'\\t\\tk=(b[!p]-b[p])/d+1;\\n' with b'\\t\\tk=(b[!p]-1-b[p])/d+1;\\n' at position 14", 13)]

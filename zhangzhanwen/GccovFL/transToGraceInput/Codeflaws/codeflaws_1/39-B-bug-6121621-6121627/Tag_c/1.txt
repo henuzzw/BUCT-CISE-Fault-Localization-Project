@@ -1,4 +1,0 @@
-codeflaws/39-B-bug-6121621-6121627/39-B-6121627.c
-codeflaws/39-B-bug-6121621-6121627/39-B-6121621.c
-11,14
-[('Insert b\'printf("%d\\\\n",c);\\n\' at position 13 in file2', 12), ('Delete b\'if(c==0) printf("%d",c);\\n\' at position 15 in file2', 14)]

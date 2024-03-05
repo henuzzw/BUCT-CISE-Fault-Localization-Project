@@ -1,4 +1,0 @@
-codeflaws/255-A-bug-15849278-15849289/255-A-15849289.c
-codeflaws/255-A-bug-15849278-15849289/255-A-15849278.c
-32
-[('Replace b\'            \\n\' with b\'            printf ("%d %d %d\\\\n",z[0],z[1],z[2]);\\n\' at position 33', 32)]

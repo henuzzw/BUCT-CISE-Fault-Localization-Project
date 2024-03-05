@@ -1,4 +1,0 @@
-codeflaws/71-B-bug-366822-366829/71-B-366829.c
-codeflaws/71-B-bug-366822-366829/71-B-366822.c
-13,14
-[("Insert b'if(temp<n)\\n' at position 15 in file2", 14), ("Insert b'\\n' at position 17 in file2", 16)]

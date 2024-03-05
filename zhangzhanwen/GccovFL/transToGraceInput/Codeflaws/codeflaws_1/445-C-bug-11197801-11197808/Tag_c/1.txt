@@ -1,4 +1,0 @@
-codeflaws/445-C-bug-11197801-11197808/445-C-11197808.c
-codeflaws/445-C-bug-11197801-11197808/445-C-11197801.c
-19
-[("Replace b'    if(m!=0)\\n' with b'    if(pos!=0)\\n' at position 20", 19)]

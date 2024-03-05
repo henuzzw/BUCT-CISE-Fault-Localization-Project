@@ -1,4 +1,0 @@
-codeflaws/195-B-bug-9094006-9094163/195-B-9094163.c
-codeflaws/195-B-bug-9094006-9094163/195-B-9094006.c
-45
-[("Replace b'\\t\\twhile(k<=n)\\n' with b'\\t\\twhile(k!=n)\\n' at position 46", 45)]

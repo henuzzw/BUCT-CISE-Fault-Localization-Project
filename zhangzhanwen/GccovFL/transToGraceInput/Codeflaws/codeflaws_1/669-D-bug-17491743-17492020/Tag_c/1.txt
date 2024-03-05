@@ -1,4 +1,0 @@
-codeflaws/669-D-bug-17491743-17492020/669-D-17492020.c
-codeflaws/669-D-bug-17491743-17492020/669-D-17491743.c
-25
-[("Replace b'            if((sum+point)%2==0) sum++, sum%=n;\\n' with b'            if(point%2==0) sum++, sum%=n;\\n' at position 26", 25)]

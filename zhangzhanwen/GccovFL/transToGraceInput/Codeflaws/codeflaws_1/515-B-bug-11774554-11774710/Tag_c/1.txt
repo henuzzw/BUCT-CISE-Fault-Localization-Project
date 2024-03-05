@@ -1,4 +1,0 @@
-codeflaws/515-B-bug-11774554-11774710/515-B-11774710.c
-codeflaws/515-B-bug-11774554-11774710/515-B-11774554.c
-18
-[("Replace b'\\tfor(i=0;i<=20000;i++){\\n' with b'\\tfor(i=0;i<=150;i++){\\n' at position 19", 18)]

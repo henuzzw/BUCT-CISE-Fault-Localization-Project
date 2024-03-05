@@ -1,4 +1,0 @@
-codeflaws/276-A-bug-16479825-16479858/276-A-16479858.c
-codeflaws/276-A-bug-16479825-16479858/276-A-16479825.c
-17
-[("Replace b'        x=f[0];\\n' with b'        x=0;\\n' at position 18", 17)]

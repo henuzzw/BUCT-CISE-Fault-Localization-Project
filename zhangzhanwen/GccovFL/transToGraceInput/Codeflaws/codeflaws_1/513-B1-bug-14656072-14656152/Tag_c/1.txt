@@ -1,4 +1,0 @@
-codeflaws/513-B1-bug-14656072-14656152/513-B1-14656152.c
-codeflaws/513-B1-bug-14656072-14656152/513-B1-14656072.c
-2
-[("Replace b'int n , m ,sum = 0 , times = 0, a[8] = {0},b[8] = {0},c[9] = {0};\\n' with b'int n , m ,sum = 0 , times = 0, a[8] = {0},b[8] = {0},c[8] = {0};\\n' at position 3", 2)]

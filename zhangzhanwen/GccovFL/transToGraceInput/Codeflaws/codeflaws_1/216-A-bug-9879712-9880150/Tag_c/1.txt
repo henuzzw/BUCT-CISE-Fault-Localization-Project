@@ -1,4 +1,0 @@
-codeflaws/216-A-bug-9879712-9880150/216-A-9880150.c
-codeflaws/216-A-bug-9879712-9880150/216-A-9879712.c
-4
-[('Replace b\' printf("%d",b*c+(c+b-1)*(a-1));\\n\' with b\' printf("%d",2*b+2*(a-1)+2*(c-2)+(c-1)*(b-1));\\n\' at position 5', 4)]

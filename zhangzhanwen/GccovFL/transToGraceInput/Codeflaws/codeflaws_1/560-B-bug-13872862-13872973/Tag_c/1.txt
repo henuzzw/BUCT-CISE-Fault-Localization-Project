@@ -1,4 +1,0 @@
-codeflaws/560-B-bug-13872862-13872973/560-B-13872973.c
-codeflaws/560-B-bug-13872862-13872973/560-B-13872862.c
-42,42
-[('Insert b\'            printf("YES");\\n\' at position 44 in file2', 43), ("Insert b'        else if(a2+a3<=b1&&b3<=a1)\\n' at position 45 in file2", 44)]

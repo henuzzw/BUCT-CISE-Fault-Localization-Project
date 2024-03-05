@@ -1,4 +1,0 @@
-codeflaws/408-D-bug-6194441-6194474/408-D-6194474.c
-codeflaws/408-D-bug-6194441-6194474/408-D-6194441.c
-24,24
-[("Insert b'            num [roomnum] %= MODE;\\n' at position 26 in file2", 25), ("Insert b'            num [roomnum] += MODE;\\n' at position 27 in file2", 26)]

@@ -1,4 +1,0 @@
-codeflaws/518-A-bug-15433071-15433077/518-A-15433077.c
-codeflaws/518-A-bug-15433071-15433077/518-A-15433071.c
-24
-[("Replace b'        i--;\\n' with b'        i++;\\n' at position 25", 24)]

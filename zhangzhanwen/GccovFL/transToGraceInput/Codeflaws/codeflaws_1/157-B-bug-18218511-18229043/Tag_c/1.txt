@@ -1,4 +1,0 @@
-codeflaws/157-B-bug-18218511-18229043/157-B-18229043.c
-codeflaws/157-B-bug-18218511-18229043/157-B-18218511.c
-1,28
-[("Insert b'#include<math.h>\\n' at position 3 in file2", 2), ("Replace b' tmp = fabs(tmp);\\n' with b'\\n' at position 30", 29)]

@@ -1,4 +1,0 @@
-codeflaws/337-A-bug-18230387-18230418/337-A-18230418.c
-codeflaws/337-A-bug-18230387-18230418/337-A-18230387.c
-15
-[("Replace b'\\tqsort(f,m,sizeof(int),sai);\\n' with b'\\tqsort(f,n,sizeof(int),sai);\\n' at position 16", 15)]

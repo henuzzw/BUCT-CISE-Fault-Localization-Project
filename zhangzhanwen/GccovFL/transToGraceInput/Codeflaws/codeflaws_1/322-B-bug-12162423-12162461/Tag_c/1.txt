@@ -1,4 +1,0 @@
-codeflaws/322-B-bug-12162423-12162461/322-B-12162461.c
-codeflaws/322-B-bug-12162423-12162461/322-B-12162423.c
-27
-[("Replace b'if ( r%3 + g%3 + b%3 == 4 && min != 0 )\\n' with b'if ( r%3 + g%3 + b%3 == 4)\\n' at position 28", 27)]

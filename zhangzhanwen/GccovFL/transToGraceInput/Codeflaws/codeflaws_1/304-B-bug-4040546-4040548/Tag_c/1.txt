@@ -1,4 +1,0 @@
-codeflaws/304-B-bug-4040546-4040548/304-B-4040548.c
-codeflaws/304-B-bug-4040546-4040548/304-B-4040546.c
-38,52,55
-[('Delete b\'            printf("%d:%d:%d\\\\n%d:%d:%d\\\\n",year1,month1,day1,year2,month2,day2);\\n\' at position 38 in file2', 37), ('Delete b\'        //printf("%d\\\\n",sum);\\n\' at position 51 in file2', 50), ('Delete b\'        //printf("%d\\\\n",sum);\\n\' at position 53 in file2', 52)]

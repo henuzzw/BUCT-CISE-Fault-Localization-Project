@@ -1,4 +1,0 @@
-codeflaws/291-B-bug-3524194-3524237/291-B-3524237.c
-codeflaws/291-B-bug-3524194-3524237/291-B-3524194.c
-9
-[('Replace b"    while((ch = getchar()) != EOF && ch != \'\\\\n\')\\n" with b\'    while((ch = getchar()) != EOF)\\n\' at position 10', 9)]

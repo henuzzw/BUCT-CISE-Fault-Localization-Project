@@ -1,4 +1,0 @@
-codeflaws/572-A-bug-17031051-17031127/572-A-17031127.c
-codeflaws/572-A-bug-17031051-17031127/572-A-17031051.c
-20
-[("Replace b'\\tif(arr[t-1]>=str[y-z])\\n' with b'\\tif(arr[x-1]>=str[0])\\n' at position 21", 20)]

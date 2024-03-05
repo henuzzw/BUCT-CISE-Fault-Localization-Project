@@ -1,4 +1,0 @@
-codeflaws/363-C-bug-5405641-5405684/363-C-5405684.c
-codeflaws/363-C-bug-5405641-5405684/363-C-5405641.c
-19,19
-[("Insert b'        if(lcount>=2 && count>=2)\\n' at position 21 in file2", 20), ("Insert b'            count=1;\\n' at position 22 in file2", 21)]

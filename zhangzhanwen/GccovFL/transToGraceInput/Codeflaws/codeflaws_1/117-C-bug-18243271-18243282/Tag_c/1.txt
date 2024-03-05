@@ -1,4 +1,0 @@
-codeflaws/117-C-bug-18243271-18243282/117-C-18243282.c
-codeflaws/117-C-bug-18243271-18243282/117-C-18243271.c
-11
-[("Replace b'             exit(0);\\n' with b'             exit(1);\\n' at position 12", 11)]

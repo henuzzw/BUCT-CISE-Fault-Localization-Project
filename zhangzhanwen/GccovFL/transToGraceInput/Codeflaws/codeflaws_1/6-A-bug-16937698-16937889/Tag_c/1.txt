@@ -1,4 +1,0 @@
-codeflaws/6-A-bug-16937698-16937889/6-A-16937889.c
-codeflaws/6-A-bug-16937698-16937889/6-A-16937698.c
-8
-[("Replace b'    else if ((a1+a2==a3||a2+a3==a1||a3+a1==a2) || (a1+a2==a4||a2+a4==a1||a1+a4==a2) || (a2+a3==a4||a3+a4==a2||a2+a4==a3)\\n' with b'    else if ((a1+a2==a3||a2+a3==a1||a3+a1==a2) || (a1+a2==a4||a2+a4==a1&&a1+a4==a2) || (a2+a3==a4||a3+a4==a2||a2+a4==a3)\\n' at position 9", 8)]

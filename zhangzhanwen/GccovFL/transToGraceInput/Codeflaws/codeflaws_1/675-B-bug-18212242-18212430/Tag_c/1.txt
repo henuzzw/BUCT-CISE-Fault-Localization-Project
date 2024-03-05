@@ -1,4 +1,0 @@
-codeflaws/675-B-bug-18212242-18212430/675-B-18212430.c
-codeflaws/675-B-bug-18212242-18212430/675-B-18212242.c
-14
-[('Replace b\'\\tprintf("%I64u\\\\n",(n>w?n-w:0)*(U)n);\\n\' with b\'\\tprintf("%I64u\\\\n",(n-w)*(U)n);\\n\' at position 15', 14)]

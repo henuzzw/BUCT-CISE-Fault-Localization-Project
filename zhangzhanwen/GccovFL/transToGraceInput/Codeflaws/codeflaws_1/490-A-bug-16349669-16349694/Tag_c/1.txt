@@ -1,4 +1,0 @@
-codeflaws/490-A-bug-16349669-16349694/490-A-16349694.c
-codeflaws/490-A-bug-16349669-16349694/490-A-16349669.c
-45,53,61
-[("Insert b'                    break;\\n' at position 47 in file2", 46), ("Insert b'                    break;\\n' at position 56 in file2", 55), ("Insert b'                    break;\\n' at position 65 in file2", 64)]

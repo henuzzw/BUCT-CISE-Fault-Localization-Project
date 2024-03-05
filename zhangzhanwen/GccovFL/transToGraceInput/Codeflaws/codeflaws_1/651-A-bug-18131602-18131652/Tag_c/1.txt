@@ -1,4 +1,0 @@
-codeflaws/651-A-bug-18131602-18131652/651-A-18131652.c
-codeflaws/651-A-bug-18131602-18131652/651-A-18131602.c
-5
-[("Replace b'    if(a1==1 && a2==1)\\n' with b'    if(a1==1 || a2==1)\\n' at position 6", 5)]

@@ -1,4 +1,0 @@
-codeflaws/625-B-bug-17924767-17924788/625-B-17924788.c
-codeflaws/625-B-bug-17924767-17924788/625-B-17924767.c
-55,56,56
-[("Insert b'\\t\\t{\\n' at position 57 in file2", 56), ("Insert b'\\t\\t\\ti = j - 1;\\n' at position 59 in file2", 58), ("Insert b'\\t\\t}\\n' at position 60 in file2", 59)]

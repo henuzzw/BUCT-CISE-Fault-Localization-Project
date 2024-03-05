@@ -1,4 +1,0 @@
-codeflaws/496-B-bug-12393461-12393485/496-B-12393485.c
-codeflaws/496-B-bug-12393461-12393485/496-B-12393461.c
-48
-[('Replace b\'\\tprintf("%s\\\\n", min_number);\\n\' with b\'\\t//printf("%s\\\\n", min_number);\\n\' at position 49', 48)]

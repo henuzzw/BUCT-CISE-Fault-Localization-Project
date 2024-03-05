@@ -1,4 +1,0 @@
-codeflaws/519-C-bug-17314092-17314111/519-C-17314111.c
-codeflaws/519-C-bug-17314092-17314111/519-C-17314092.c
-5
-[("Replace b'    while(m > 0 && n > 0 && m+n > 2){\\n' with b'    while(m > 0 && n > 0){\\n' at position 6", 5)]

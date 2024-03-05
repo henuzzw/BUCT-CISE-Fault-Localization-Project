@@ -1,4 +1,0 @@
-codeflaws/625-B-bug-15982902-15983002/625-B-15983002.c
-codeflaws/625-B-bug-15982902-15983002/625-B-15982902.c
-29,45,45
-[("Delete b'            i++;\\n' at position 29 in file2", 28), ("Insert b'    if (j==pl)\\n' at position 46 in file2", 45), ("Insert b'        ans++;\\n' at position 47 in file2", 46)]

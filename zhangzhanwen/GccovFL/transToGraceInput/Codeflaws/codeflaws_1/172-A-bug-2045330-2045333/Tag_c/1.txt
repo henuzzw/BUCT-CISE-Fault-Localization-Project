@@ -1,4 +1,0 @@
-codeflaws/172-A-bug-2045330-2045333/172-A-2045333.c
-codeflaws/172-A-bug-2045330-2045333/172-A-2045330.c
-36
-[("Replace b'    return 0;\\n' with b'    return resultado;\\n' at position 37", 36)]

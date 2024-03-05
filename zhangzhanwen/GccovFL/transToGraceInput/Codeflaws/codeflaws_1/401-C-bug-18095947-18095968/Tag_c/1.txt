@@ -1,4 +1,0 @@
-codeflaws/401-C-bug-18095947-18095968/401-C-18095968.c
-codeflaws/401-C-bug-18095947-18095968/401-C-18095947.c
-11
-[("Replace b'   if(m>=(n-1) && m<=(n+1)*2)\\n' with b'   if(m>=(n-1) && m<=(n+2)*2)\\n' at position 12", 11)]

@@ -1,4 +1,0 @@
-codeflaws/148-E-bug-1143556-1143614/148-E-1143614.c
-codeflaws/148-E-bug-1143556-1143614/148-E-1143556.c
-20
-[("Replace b'\\t\\tfor (j = 0; j <= k[i]; j++) {\\n' with b'\\t\\tfor (j = 0; j < k[i]; j++) {\\n' at position 21", 20)]

@@ -1,4 +1,0 @@
-codeflaws/143-A-bug-17964626-17964657/143-A-17964657.c
-codeflaws/143-A-bug-17964626-17964657/143-A-17964626.c
-5
-[("Replace b'    for(a=1; a<r1; a++)\\n' with b'    for(a=1; a<(r1%10); a++)\\n' at position 6", 5)]

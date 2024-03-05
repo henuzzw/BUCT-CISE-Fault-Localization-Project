@@ -1,4 +1,0 @@
-codeflaws/350-A-bug-11593495-11593533/350-A-11593533.c
-codeflaws/350-A-bug-11593495-11593533/350-A-11593495.c
-20
-[("Replace b'\\tfor(i=max1;i<min2;i++) \\n' with b'\\tfor(i=max1;i<max2;i++) \\n' at position 21", 20)]

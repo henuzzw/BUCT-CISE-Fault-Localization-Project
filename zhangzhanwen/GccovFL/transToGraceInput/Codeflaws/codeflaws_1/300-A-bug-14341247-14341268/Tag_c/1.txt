@@ -1,4 +1,0 @@
-codeflaws/300-A-bug-14341247-14341268/300-A-14341268.c
-codeflaws/300-A-bug-14341247-14341268/300-A-14341247.c
-50
-[('Replace b\'        printf("%d %d ",z+1,ara[x-1]);\\n\' with b\'        printf("%d %d",z+1,ara[x-1]);\\n\' at position 51', 50)]

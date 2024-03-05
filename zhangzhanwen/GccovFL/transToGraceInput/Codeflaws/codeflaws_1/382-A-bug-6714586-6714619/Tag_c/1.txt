@@ -1,4 +1,0 @@
-codeflaws/382-A-bug-6714586-6714619/382-A-6714619.c
-codeflaws/382-A-bug-6714586-6714619/382-A-6714586.c
-54
-[('Insert b\'            else printf("Impossible");\\n\' at position 56 in file2', 55)]

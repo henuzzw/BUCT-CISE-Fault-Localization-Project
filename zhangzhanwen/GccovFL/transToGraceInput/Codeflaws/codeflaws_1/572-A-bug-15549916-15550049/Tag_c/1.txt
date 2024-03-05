@@ -1,4 +1,0 @@
-codeflaws/572-A-bug-15549916-15550049/572-A-15550049.c
-codeflaws/572-A-bug-15549916-15550049/572-A-15549916.c
-4
-[('Replace b\'\\tif(a[k - 1] < b[nb - m])\\tprintf("YES\\\\n");\\n\' with b\'\\tif(a[k - 1] < b[0])\\tprintf("YES\\\\n");\\n\' at position 5', 4)]

@@ -1,4 +1,0 @@
-codeflaws/605-A-bug-14896242-14896292/605-A-14896292.c
-codeflaws/605-A-bug-14896242-14896292/605-A-14896242.c
-23,23,23
-[("Insert b'        if(n==1)\\n' at position 25 in file2", 24), ('Insert b\'        printf("0\\\\n");\\n\' at position 26 in file2', 25), ("Insert b'        else\\n' at position 27 in file2", 26)]

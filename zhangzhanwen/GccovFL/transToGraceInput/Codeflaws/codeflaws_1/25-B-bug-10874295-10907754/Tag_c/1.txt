@@ -1,4 +1,0 @@
-codeflaws/25-B-bug-10874295-10907754/25-B-10907754.c
-codeflaws/25-B-bug-10874295-10907754/25-B-10874295.c
-16
-[('Replace b\'\\t\\tprintf("%c%c%c\\\\n",c[i],c[i+1],c[i+2]);\\n\' with b\'\\t\\t\\tprintf("%c%c%c-",c[i],c[i+1],c[i+2]);\\n\' at position 17', 16)]

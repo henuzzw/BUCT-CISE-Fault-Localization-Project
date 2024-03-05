@@ -1,4 +1,0 @@
-codeflaws/622-B-bug-16220893-16220932/622-B-16220932.c
-codeflaws/622-B-bug-16220893-16220932/622-B-16220893.c
-10
-[("Replace b'    hr = (hr + mnt/60)%24;\\n' with b'    hr = hr + mnt/60;\\n' at position 11", 10)]

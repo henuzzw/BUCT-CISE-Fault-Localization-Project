@@ -1,4 +1,0 @@
-codeflaws/148-C-bug-1155410-1155411/148-C-1155411.c
-codeflaws/148-C-bug-1155410-1155411/148-C-1155410.c
-15
-[("Replace b'                now=total;\\n' with b'                now=total+1;\\n' at position 16", 15)]

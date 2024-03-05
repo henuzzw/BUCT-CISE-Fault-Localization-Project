@@ -1,4 +1,0 @@
-codeflaws/399-B-bug-6058281-6058287/399-B-6058287.c
-codeflaws/399-B-bug-6058281-6058287/399-B-6058281.c
-10
-[('Replace b"    res |= (long long)(getchar() == \'B\') << i;\\n" with b"    res |= (getchar() == \'B\') << i;\\n" at position 11', 10)]

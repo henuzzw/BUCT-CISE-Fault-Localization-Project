@@ -1,4 +1,0 @@
-codeflaws/667-A-bug-17689544-17689659/667-A-17689659.c
-codeflaws/667-A-bug-17689544-17689659/667-A-17689544.c
-6
-[("Replace b'  x=h/((v/(0.7853981634*d*d))-e);\\n' with b'  x=h/((v/(0.785*d*d))-e);\\n' at position 7", 6)]

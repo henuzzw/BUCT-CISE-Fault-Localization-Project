@@ -1,4 +1,0 @@
-codeflaws/412-A-bug-6409335-6409705/412-A-6409705.c
-codeflaws/412-A-bug-6409335-6409705/412-A-6409335.c
-16
-[('Replace b\'        printf("PRINT %c\\\\n",a[i]);\\n\' with b\'        printf("Print %c\\\\n",a[i]);\\n\' at position 17', 16)]

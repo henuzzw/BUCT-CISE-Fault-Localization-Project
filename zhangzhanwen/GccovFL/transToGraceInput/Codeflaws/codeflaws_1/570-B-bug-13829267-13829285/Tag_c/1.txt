@@ -1,4 +1,0 @@
-codeflaws/570-B-bug-13829267-13829285/570-B-13829285.c
-codeflaws/570-B-bug-13829267-13829285/570-B-13829267.c
-7
-[("Replace b'    else if(a>n/2)\\n' with b'    if(a>n/2)\\n' at position 8", 7)]

@@ -1,4 +1,0 @@
-codeflaws/236-A-bug-18003726-18007529/236-A-18007529.c
-codeflaws/236-A-bug-18003726-18007529/236-A-18003726.c
-9,10,10
-[("Insert b'\\t{\\n' at position 11 in file2", 10), ("Insert b'\\tbreak;\\n' at position 13 in file2", 12), ("Insert b'\\t}\\n' at position 14 in file2", 13)]

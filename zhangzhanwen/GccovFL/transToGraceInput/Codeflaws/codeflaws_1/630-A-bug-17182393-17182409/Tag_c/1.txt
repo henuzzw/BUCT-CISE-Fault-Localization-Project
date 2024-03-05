@@ -1,4 +1,0 @@
-codeflaws/630-A-bug-17182393-17182409/630-A-17182409.c
-codeflaws/630-A-bug-17182393-17182409/630-A-17182393.c
-4,6
-[('Delete b\'printf("Enter The Value Of n\\\\n");\\n\' at position 4 in file2', 3), ('Replace b\'printf("25");\\n\' with b\'printf("Last Two Digits Is 25");\\n\' at position 6', 5)]

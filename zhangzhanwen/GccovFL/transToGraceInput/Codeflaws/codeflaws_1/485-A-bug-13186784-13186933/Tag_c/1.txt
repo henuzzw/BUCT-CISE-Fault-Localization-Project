@@ -1,4 +1,0 @@
-codeflaws/485-A-bug-13186784-13186933/485-A-13186933.c
-codeflaws/485-A-bug-13186784-13186933/485-A-13186784.c
-17
-[('Replace b\'\\t//\\tprintf("a=%d r=%d\\\\n",a,r);\\n\' with b\'\\t\\tprintf("a=%d r=%d\\\\n",a,r);\\n\' at position 18', 17)]

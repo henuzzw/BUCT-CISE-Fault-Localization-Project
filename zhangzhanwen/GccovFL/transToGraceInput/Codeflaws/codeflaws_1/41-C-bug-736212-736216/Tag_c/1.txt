@@ -1,4 +1,0 @@
-codeflaws/41-C-bug-736212-736216/41-C-736216.c
-codeflaws/41-C-bug-736212-736216/41-C-736212.c
-10
-[('Replace b"          if(s[i] == \'a\' && ( i != strlen(s) - 1 && s[i + 1] == \'t\') && foundat == 0 && i != 0)\\n" with b"          if(s[i] == \'a\' && ( i != strlen(s) - 1 && s[i + 1] == \'t\') && foundat == 0)\\n" at position 11', 10)]

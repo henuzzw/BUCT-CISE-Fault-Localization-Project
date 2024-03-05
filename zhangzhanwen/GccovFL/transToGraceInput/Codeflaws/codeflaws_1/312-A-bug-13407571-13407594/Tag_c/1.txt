@@ -1,4 +1,0 @@
-codeflaws/312-A-bug-13407571-13407594/312-A-13407594.c
-codeflaws/312-A-bug-13407571-13407594/312-A-13407571.c
-27,27
-[('Replace b\'\\tgets(str) ;\\n\' with b\'\\tscanf("%d\\\\n", &n) ;\\n\' at position 28', 27), ('Insert b\'\\tsscanf(str, "%d", &n) ;\\n\' at position 29 in file2', 28)]

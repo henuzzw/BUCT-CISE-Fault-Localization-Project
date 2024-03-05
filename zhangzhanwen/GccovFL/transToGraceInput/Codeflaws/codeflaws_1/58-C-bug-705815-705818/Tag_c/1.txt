@@ -1,4 +1,0 @@
-codeflaws/58-C-bug-705815-705818/58-C-705818.c
-codeflaws/58-C-bug-705815-705818/58-C-705815.c
-30
-[("Replace b'     for (i = 0; i < 250000 + a[0]; i++) m = max(m, d[i]);\\n' with b'     for (i = 0; i < 500000; i++) m = max(m, d[i]);\\n' at position 31", 30)]

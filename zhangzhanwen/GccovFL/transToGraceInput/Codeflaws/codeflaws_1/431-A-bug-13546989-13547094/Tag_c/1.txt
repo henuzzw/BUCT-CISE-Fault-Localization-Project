@@ -1,4 +1,0 @@
-codeflaws/431-A-bug-13546989-13547094/431-A-13547094.c
-codeflaws/431-A-bug-13546989-13547094/431-A-13546989.c
-13
-[("Replace b'       cnt=cnt+arr1[(int)(arr[i]-48)];\\n' with b'       cnt=cnt+arr1[(int)(arr[(i)%4]-48)];\\n' at position 14", 13)]

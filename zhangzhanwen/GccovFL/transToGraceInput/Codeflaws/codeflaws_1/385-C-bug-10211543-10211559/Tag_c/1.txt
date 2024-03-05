@@ -1,4 +1,0 @@
-codeflaws/385-C-bug-10211543-10211559/385-C-10211559.c
-codeflaws/385-C-bug-10211543-10211559/385-C-10211543.c
-45
-[("Replace b'    for(i=2;i<=10000000;i++)\\n' with b'    for(i=2;i<=max;i++)\\n' at position 46", 45)]

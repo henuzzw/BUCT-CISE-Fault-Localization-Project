@@ -1,4 +1,0 @@
-codeflaws/246-A-bug-6925027-6925047/246-A-6925047.c
-codeflaws/246-A-bug-6925027-6925047/246-A-6925027.c
-5
-[("Replace b'       if(n>2)\\n' with b'       if(n>1)\\n' at position 6", 5)]

@@ -1,4 +1,0 @@
-codeflaws/560-A-bug-15922792-15922810/560-A-15922810.c
-codeflaws/560-A-bug-15922792-15922810/560-A-15922792.c
-19
-[("Replace b'\\tif(i==n)\\n' with b'\\tif(i==n+1)\\n' at position 20", 19)]

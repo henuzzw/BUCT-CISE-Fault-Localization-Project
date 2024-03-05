@@ -1,4 +1,0 @@
-codeflaws/264-C-bug-16384531-16384572/264-C-16384572.c
-codeflaws/264-C-bug-16384531-16384572/264-C-16384531.c
-44
-[('Replace b\'\\t\\tprintf("%lld\\\\n",work());\\n\' with b\'\\t\\tprintf("%lld",work());\\n\' at position 45', 44)]

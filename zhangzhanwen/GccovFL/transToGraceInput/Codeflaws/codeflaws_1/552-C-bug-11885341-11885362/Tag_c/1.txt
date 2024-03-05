@@ -1,4 +1,0 @@
-codeflaws/552-C-bug-11885341-11885362/552-C-11885362.c
-codeflaws/552-C-bug-11885341-11885362/552-C-11885341.c
-23
-[('Replace b\'\\t\\t  // printf("gyan  %d  %lld",j,arr[j]);\\n\' with b\'\\t\\t   printf("gyan  %d  %lld",j,arr[j]);\\n\' at position 24', 23)]

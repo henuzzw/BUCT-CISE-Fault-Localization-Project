@@ -1,4 +1,0 @@
-codeflaws/156-D-bug-1249021-1249151/156-D-1249151.c
-codeflaws/156-D-bug-1249021-1249151/156-D-1249021.c
-47
-[("Replace b'    res = 1 % MOD;\\n' with b'    res = 1;\\n' at position 48", 47)]

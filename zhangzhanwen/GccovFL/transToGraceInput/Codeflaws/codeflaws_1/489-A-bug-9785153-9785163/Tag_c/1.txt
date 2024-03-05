@@ -1,4 +1,0 @@
-codeflaws/489-A-bug-9785153-9785163/489-A-9785163.c
-codeflaws/489-A-bug-9785153-9785163/489-A-9785153.c
-25
-[("Replace b'\\t\\tmin=2147483647;\\n' with b'\\t\\tmin=~1;\\n' at position 26", 25)]

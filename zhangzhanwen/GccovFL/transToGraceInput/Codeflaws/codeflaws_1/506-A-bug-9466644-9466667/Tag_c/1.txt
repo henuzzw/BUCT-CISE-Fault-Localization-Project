@@ -1,4 +1,0 @@
-codeflaws/506-A-bug-9466644-9466667/506-A-9466667.c
-codeflaws/506-A-bug-9466644-9466667/506-A-9466644.c
-22
-[("Replace b'    for (i = d + 1; i <= 30000; i++)\\n' with b'    for (i = d * 2 - 1; i <= 30000; i++)\\n' at position 23", 22)]

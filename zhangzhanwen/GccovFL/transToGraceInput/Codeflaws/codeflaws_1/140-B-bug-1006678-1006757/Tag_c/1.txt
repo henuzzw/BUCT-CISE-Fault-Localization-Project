@@ -1,4 +1,0 @@
-codeflaws/140-B-bug-1006678-1006757/140-B-1006757.c
-codeflaws/140-B-bug-1006678-1006757/140-B-1006678.c
-33
-[('Replace b\'                        printf("%d ",a[i][j]);\\n\' with b\'                        printf("%d",a[i][j]);\\n\' at position 34', 33)]

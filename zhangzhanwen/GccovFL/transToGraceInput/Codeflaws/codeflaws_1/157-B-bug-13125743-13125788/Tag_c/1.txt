@@ -1,4 +1,0 @@
-codeflaws/157-B-bug-13125743-13125788/157-B-13125788.c
-codeflaws/157-B-bug-13125743-13125788/157-B-13125743.c
-85
-[('Replace b\'    printf("%.10f",abs(c)*pi);\\n\' with b\'    printf("%.10f",c*pi);\\n\' at position 86', 85)]

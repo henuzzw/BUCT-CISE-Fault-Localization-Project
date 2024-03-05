@@ -1,4 +1,0 @@
-codeflaws/294-A-bug-14149134-14149282/294-A-14149282.c
-codeflaws/294-A-bug-14149134-14149282/294-A-14149134.c
-11,12,13
-[("Delete b'    }\\n' at position 11 in file2", 10), ("Delete b'    for(i = 0; i <n; i++){\\n' at position 11 in file2", 10), ('Delete b\'        printf("%d   ", ara[i]);\\n\' at position 11 in file2', 10)]

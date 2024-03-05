@@ -1,4 +1,0 @@
-codeflaws/83-A-bug-2290311-2290364/83-A-2290364.c
-codeflaws/83-A-bug-2290311-2290364/83-A-2290311.c
-26,31
-[("Insert b'\\t\\tif(sum!=1) tsum+=a[sum];\\n' at position 28 in file2", 27), ("Replace b'\\t\\t \\t\\t\\t\\t \\t\\t\\t\\t  \\t\\t \\t   \\t\\t\\t' with b' \\t\\t\\t  \\t\\t   \\t \\t\\t\\t \\t   \\t \\t  \\t' at position 33", 32)]

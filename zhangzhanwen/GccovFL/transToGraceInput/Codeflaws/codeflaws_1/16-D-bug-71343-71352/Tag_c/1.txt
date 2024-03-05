@@ -1,4 +1,0 @@
-codeflaws/16-D-bug-71343-71352/16-D-71352.c
-codeflaws/16-D-bug-71343-71352/16-D-71343.c
-40
-[('Replace b\'//printf( " time %d %d\\\\n", a[i], k );\\n\' with b\'printf( " time %d %d\\\\n", a[i], k );\\n\' at position 41', 40)]

@@ -1,4 +1,0 @@
-codeflaws/500-C-bug-9323818-9324379/500-C-9324379.c
-codeflaws/500-C-bug-9323818-9324379/500-C-9323818.c
-49
-[("Replace b'\\t\\t\\t\\tans+=weight[ttt];\\n' with b'\\t\\t\\t\\tans+=ttt;\\n' at position 50", 49)]
