@@ -1,4 +1,0 @@
-551200_buggy.c
-551200_correct.c
-12
-times初始化异常

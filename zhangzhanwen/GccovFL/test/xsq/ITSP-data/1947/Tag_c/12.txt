@@ -1,4 +1,0 @@
-1085812_buggy.c
-1085812_correct.c
-20
-sign符号错误
