@@ -1,4 +1,0 @@
-439498_buggy.c
-439498_correct.c
-8
-for循环异常
