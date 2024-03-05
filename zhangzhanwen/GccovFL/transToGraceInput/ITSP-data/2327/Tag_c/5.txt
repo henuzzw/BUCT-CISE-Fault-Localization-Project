@@ -1,4 +1,0 @@
-1742620_buggy.c
-1742620_correct.c
-15
-number应该是除以10

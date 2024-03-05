@@ -1,4 +1,0 @@
-277849_buggy.c
-277849_correct.c
-9,21,46
-while条件错误，缺少输出，错误的if语句块，缺少break

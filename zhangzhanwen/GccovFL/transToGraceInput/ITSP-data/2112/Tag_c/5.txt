@@ -1,4 +1,0 @@
-1418534_buggy.c
-1418534_correct.c
-27
-应该是result++
